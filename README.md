@@ -10,31 +10,25 @@ A comprehensive alternative physical model challenging conventional gravity, pre
 * **Направление:** Теоретическая физика, контактная динамика.
 * **Структура:** Текст разбит на 11 файлов в папке `ru/` для анализа ИИ.
 
-## 📚 Репозиторий и Языковые Версии / Repository Structure
+---
 
-### 🇷🇺 Russian Version (`/ru/`)
+## 📚 Навигация по книге / Book Overview
 
-[01_introduction_and_chapters_1-3.txt](https://github.com)
+Чтобы открыть нужную главу, кликните по ссылке в таблице ниже:
 
-[02_chapters_4-6.txt](https://github.com)
 
-[03_chapters_7-11.txt](https://github.com)
-
-[04_chapters_12-14.txt](https://github.com)
-
-[05_chapters_15-19.txt](https://github.com)
-
-[06_chapters_20-25.txt](https://github.com)
-
-[07_chapters_26-29.txt](https://github.com)
-
-[08_chapters_30-34.txt](https://github.com)
-
-[09_chapters_35-39.txt](https://github.com)
-
-[10_chapters_40-42.txt](https://github.com)
-
-[11_chapters_43-48_and_afterword.txt](https://github.com)
-
-### 🇬🇧 English Version (`/en/`)
-* ⏳ *English translation files are being prepared for the `/en/` directory.*
+| Файлы книги (Русская версия) | Статус / Язык |
+| :--- | :--- |
+| 📄 [01_introduction_and_chapters_1-3.txt](ru/01_introduction_and_chapters_1-3.txt) | 🇷🇺 Доступен |
+| 📄 [02_chapters_4-6.txt](ru/02_chapters_4-6.txt) | 🇷🇺 Доступен |
+| 📄 [03_chapters_7-11.txt](ru/%2003_chapters_7-11.txt%20) | 🇷🇺 Доступен |
+| 📄 [04_chapters_12-14.txt](ru/%2004_chapters_12-14.txt%20) | 🇷🇺 Доступен |
+| 📄 [05_chapters_15-19.txt](ru/%2005_chapters_15-19.txt%20) | 🇷🇺 Доступен |
+| 📄 [06_chapters_20-25.txt](ru/%2006_chapters_20-25.txt%20) | 🇷🇺 Доступен |
+| 📄 [07_chapters_26-29.txt](ru/%2007_chapters_26-29.txt%20) | 🇷🇺 Доступен |
+| 📄 [08_chapters_30-34.txt](ru/%2008_chapters_30-34.txt%20) | 🇷🇺 Доступен |
+| 📄 [09_chapters_35-39.txt](ru/%2009_chapters_35-39.txt%20) | 🇷🇺 Доступен |
+| 📄 [10_chapters_40-42.txt](ru/%2010_chapters_40-42.txt%20) | 🇷🇺 Доступен |
+| 📄 [11_chapters_43-48_and_afterword.txt](ru/11_chapters_43-48_and_afterword.txt) | 🇷🇺 Доступен |
+| | |
+| ⏳ **English Version (`/en/`)** | *In progress (files are being prepared)* |
