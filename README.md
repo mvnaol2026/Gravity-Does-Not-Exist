@@ -31,7 +31,7 @@ A conceptual mechanical model of physical processes based on:
 
 ---
 
-## 🇷🇺 О проекте (На русском)
+## О проекте (На русском)
 
 Концептуальная механистическая модель физических процессов, основанная на четырех фундаментальных принципах:
 * **Материя**
@@ -68,7 +68,7 @@ A conceptual mechanical model of physical processes based on:
 * [10_chapters_38-42.txt](EN/10_chapters_38-42.txt) — Chapters 38–42.
 * [11_chapters_43-48_and_afterword.txt](EN/11_chapters_43-48_and_afterword.txt) — Chapters 43–48 and Afterword.
 
-### 🇷🇺 Russian Version (`/RU/`)
+### Russian Version (`/RU/`)
 * [01_introduction_and_chapters_1-3.txt](RU/01_introduction_and_chapters_1-3.txt) — Оглавление, введение и главы 1–3 / TOC, introduction & chapters 1-3.
 * [02_chapters_4-6.txt](RU/02_chapters_4-6.txt) — Главы 4–6 / Chapters 4-6.
 * [03_chapters_7-9.txt](RU/03_chapters_7-9.txt) — Главы 7–9 / Chapters 7-9.
