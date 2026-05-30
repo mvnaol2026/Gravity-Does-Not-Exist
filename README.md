@@ -85,3 +85,8 @@ A conceptual mechanical model of physical processes based on:
 
 ## 📈 Status / Статус
 This is a completed conceptual model intended for further development, discussion, mathematical formalization, and deep analysis by both human physicists and mature AI models.
+---
+
+### 📥 Альтернативные источники для скачивания (PDF):
+* **Telegram-канал:** https://t.me/aol_physics
+* **Google Диск:** https://drive.google.com/drive/folders/1OVC0xUzREFqSUQBBDp2l7sJpnIj839-7?usp=drive_link
