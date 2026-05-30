@@ -29,6 +29,32 @@ A conceptual mechanical model of physical processes based on:
 * **Magnetism:** Organized rotational motion of the medium.
 * **Photoelectric Effect:** Ejection of organized aol motion.
 
+### 🏛️ The Fundamental Law of Motion
+
+> **Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.**
+> *Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
+
+### 📜 18 Key Axioms of Aol Physics
+
+1. **No Attraction**: There are no forces of attraction in nature. Any apparent attraction is the result of external pushing or pressing (impulsion).
+2. **No Energy**: The concept of "energy" is a purely mathematical abstraction. All physical processes are driven exclusively by mechanical motion and pressure of the medium.
+3. **Passivity of Matter**: Matter is completely passive. It does not possess intrinsic "charges" or inherent forces of interaction.
+4. **No Vacuum**: Absolute emptiness does not exist. The entire space of the Universe is densely filled with a material medium.
+5. **The Aol Medium**: Space is filled with a chaotic, dense packing of spherical primary particles called **aols**. Aols possess immense (but finite) hardness and have zero friction. The number of contacts for each aol in a dense assembly ranges from 4 to 12. The hardness of aols determines the speed of wave propagation (the speed of light).
+6. **The Universal Mover**: The Greater Universe is divided into cells of Small Universes shaped as rhombic dodecahedrons. The aol medium exerts pressure with a gradient: maximum at the centers of the cells, minimum at the peripheries. Due to the chaotic packing of aols, continuous micro-vibrations of the medium occur at a frequency of 10 to the 13th power Hz ($10^{13}$ Hz). This vibration is the single Mover of all processes, replacing the concept of energy.
+7. **Lunols**: At the centers of the Small Universes, under the influence of colossal pressure, aols deform, forming two indentations (dimples) along their diameter. These particles are called **lunols**. On the periphery of the cells, these structures disintegrate, and the lunols are ironed (re-shaped) back into spherical aols.
+8. **The Atomic Constructor (The LEGO Principle)**: Aols and lunols assemble into various atoms like LEGO bricks (the spherical part of an aol fits into the dimple of a lunol and is compressed by the external pressure of the medium). Lunols provide structural branching. Atoms are held together and restructured by the vibrational pressure (driving chemical reactions and radioactive decay).
+9. **The Mechanism of Gravity (Gravity via Screening)**: Gravity is an illusion caused by screening (shadowing). Physical bodies (consisting of aols and lunols) partially shadow and weaken the micro-vibrations of the medium ($10^{13}$ Hz) passing through them. Due to this pressure gradient, the external aol space presses bodies toward each other. Complete screening is impossible.
+10. **The Nature of Light**: Light is not composed of flying particles (photons), but consists of high-frequency elastic vibrations of the source (atom) transmitted through the medium from aol to aol via a traveling wave principle. Different colors represent different vibration frequencies. X-rays and gamma rays are ultra-high frequencies; radio waves are low frequencies.
+11. **Electricity**: A helical, directed movement of an aol "snake" (a continuous chain of particles) through the natural pathways inside the crystal lattice of a conductor.
+12. **Magnetic Field**: Mechanical aol vortices around a conductor, caused by the movement of the aol "snake" and the rotation of atomic elements.
+13. **Electric Field**: The rotation of the medium's aols to the left or to the right, induced by the rotation of the atoms of a specific body. The transmission of rotation occurs due to the tangential displacement of particles in a compressed dense medium (friction is absent, the geometry of tightness works).
+14. **Equivalence of Mass**: Mass is the volumetric aol windage (displacement) of a body. A body displaces exactly as many free aols from the medium as there are bound particles contained within its LEGO-like structure. With inertial mass, the body is pressed into the resisting medium. With gravitational mass, the medium presses on the body. The volume of displacement is identical, which is why inertial mass always equals gravitational mass ($M_{inertial} = M_{gravitational}$).
+15. **Inertia and Wedges**: Inertia is the resistance of a dense medium when a body is pressed into it. During motion, the displaced aols are driven by the medium behind the body in the form of "aol wedges", pushing it forward. There is no kinetic energy — there is only the continuous action of the wedges tightening from behind.
+16. **The Illusion of Time**: Time does not exist as a fundamental physical dimension. The slowing down of "time" in relativistic experiments is simply the deceleration of the rate of physical processes due to changes in the local properties and pressure of the aol medium.
+17. **Black Holes**: Supermassive objects acting as wave summator-accumulators. They vibrate at frequencies higher than light (X-ray and gamma-ray ranges), actively interacting with the surrounding aol medium.
+18. **Quantum**: A discrete, portioned energy of a single collision of an atom against the aols of space, followed by the mechanical transmission of this micro-impact from aol to aol along the chain. There is no physical flight of quanta through emptiness.
+
 ---
 
 ## О проекте (На русском)
