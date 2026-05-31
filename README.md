@@ -56,11 +56,11 @@ A conceptual mechanical model of physical processes based on:
 > **Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.**
 > *Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
 
-### 📜 18 Key Axioms of Aol Physics
+### 📜 20 Key Axioms of Aol Physics
 
 1. **No Attraction**: There are no forces of attraction in nature. Any apparent attraction is the result of external pushing or pressing (impulsion).
 2. **No Energy**: The concept of "energy" is a purely mathematical abstraction. All physical processes are driven exclusively by mechanical motion and pressure of the medium.
-3. **Passivity of Matter**: Matter is completely passive. It does not possess intrinsic "charges" or inherent forces of interaction.
+3. **Passivity of Matter**: Matter is absolutely passive. It possesses no internal "charges," inherent forces of interaction, or resistance to displacement. Matter can only move (vibrate) when acted upon by direct physical contact, and it can transmit motion only through contact. Matter cannot spontaneously generate. Matter cannot create new matter from nothing. It is incapable of producing particles or emitting them.
 4. **No Vacuum**: Absolute emptiness does not exist. The entire space of the Universe is densely filled with a material medium.
 5. **The Aol Medium**: Space is filled with a chaotic, dense packing of spherical primary particles called **aols**. Aols possess immense (but finite) hardness and have zero friction. The number of contacts for each aol in a dense assembly ranges from 4 to 12. The hardness of aols determines the speed of wave propagation (the speed of light). Aols are indivisible, inabrasible, and eternal.
 6. **The Universal Mover**: The primary and sole Mover of the Universe is the aol space. It is precisely this space that creates atoms and macro-objects, holds them together as entities, ensures their existence, imparts motion, triggers and sustains all processes, and provides everything that physics terms "energy." Since matter is passive, the aol space governs everything. The Greater Universe is divided into cells of Small Universes shaped as rhombic dodecahedrons. The aol medium exerts pressure with a gradient: maximum at the centers of the cells, minimum at the peripheries. Due to the chaotic packing of aols, continuous micro-vibrations of the medium occur at a frequency of $10^{13}$ Hz. This vibration causes atoms to vibrate.
@@ -76,6 +76,7 @@ A conceptual mechanical model of physical processes based on:
 17. **Black Holes**: Supermassive objects acting as wave summator-accumulators. They vibrate at frequencies higher than light (X-ray and gamma-ray ranges), actively interacting with the surrounding aol medium.
 18. **Quantum**: A discrete, portioned energy of a single collision of an atom against the aols of space, followed by the mechanical transmission of this micro-impact from aol to aol along the chain. The physics of the microworld is quantum, but with quanta that are inherently different. There is no physical flight of quanta through emptiness.
 19. **The world is unified**: The division into the microworld and the macroworld is arbitrary. It is caused by the limitations of human perception. The laws of the macroworld and the microworld are the same.
+20. **The Triad of Aol Physics**: Entities – Contact – Pressure. Any real process can only be understood when all three of these elements are identified within it.
 
 ---
 
@@ -126,11 +127,11 @@ A conceptual mechanical model of physical processes based on:
 > **Движение возможно только при НЕУРАВНОВЕШЕННОМ, КОНТАКТНОМ, НЕПРЕРЫВНОМ давлении.**
 > *Следствие: Полёт изолированных частиц (фотонов, нейтрино, глюонов, свободных электронов) в абсолютной пустоте физически невозможен.*
 
-### 📜 18 Ключевых Тезисов аольной физики
+### 📜 20 Ключевых Тезисов аольной физики
 
 1. **Нет притяжения**: В природе не существует сил притяжения. Любое кажущееся притяжение — это результат внешнего подталкивания или придавливания.
 2. **Нет энергии**: Понятие "энергия" — математическая абстракция. Все процессы обусловлены исключительно механическим движением и давлением среды.
-3. **Пассивность материи**: Материя абсолютно пассивна. Она не обладает внутренними "зарядами" или врожденными силами взаимодействия.
+3. **Пассивность материи**: Материя абсолютно пассивна. Она не обладает внутренними "зарядами", врожденными силами взаимодействия или сопротивлением перемещению. Материя может только двигаться (вибрировать) если на неё контактно воздействуют и может контактно передавать движение. Материя не может самопроизвольно зарождаться. Материя не может из ничего создать новую материю. Она не умеет создавать частицы и испускать их.
 4. **Нет пустоты**: Абсолютной пустоты не существует. Всё пространство Вселенной плотно заполнено материальной средой.
 5. **Аольная среда**: Пространство заполнено хаотичной, плотной упаковкой сферических первочастиц — **аолов**. Аолы обладают колоссальной (но конечной) твёрдостью и не имеют трения. Число контактов каждого аола в плотной сборке составляет от 4 до 12. Твёрдость аолов определяет скорость распространения волн (скорость света). Аолы неделимы, неистираемы, вечны.
 6. **Движитель Вселенной**: Главный и единственный Движитель Вселенной – аольное пространство. Именно оно: создаёт атомы и макрообъекты, удерживает их как объекты, обеспечивает их существование, даёт движение, вызывает и поддерживает все процессы, даёт всё то, что физика называет «энергией». Поскольку материя пассивна, всем управляет аольное пространство. Большая Вселенная разделена на ячейки Малых вселенных в виде ромбододекаэдров. Аольная среда давит с градиентом: максимум в центрах ячеек, минимум на периферии. Из-за хаотичности упаковки аолов возникают непрерывные микровибрации среды с частотой $10^{13}$ Гц. От этой вибрации вибрируют атомы.
@@ -147,6 +148,7 @@ A conceptual mechanical model of physical processes based on:
 17. **Чёрные дыры**: Сверхмассивные объекты, являющиеся сумматорами колебаний. Они вибрируют на частотах выше световых (рентгеновский и гамма-диапазоны), активно взаимодействуя с окружающей аольной средой.
 18. **Квант**: Дискретная, порционная энергия единичного соударения атома по аолам пространства и дальнейшая механическая передача этого ударчика от аола к аолу по цепочке. Физика микромира квантовая, но с иными по своей сути квантами. Физического полета квантов сквозь пустоту нет.
 19. **Мир един**: Деление на микромир и макромир условное. Оно вызвано ограничением восприятия человека. Законы макромира и микромира одинаковые.
+20. **Триада аольной физики**: Носители – контакт – давление. Любой реальный процесс можно понять только тогда, когда в нём обнаруживаются все три элемента.
 
 ---
 
