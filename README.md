@@ -31,25 +31,25 @@ A conceptual mechanical model of physical processes based on:
 
 ### Fatal Fallacies of Science
 
-1. Recognition of the existence of attraction.
-2. The Big Bang of a point that gave birth to the Universe.
-3. Empty, solid atoms with flying particles.
-4. The presence of mysterious energy within atoms.
-5. Emission and absorption of particles by other particles.
-6. Fictitious (non-existent) forces capable of moving bodies.
-7. Innate internal resistance of bodies to movement.
-8. Contactless inertial motion.
-9. Conversion of mass into energy and vice versa.
-10. Wave-particle duality of particles.
-11. The difference between the laws of the macrocosm and the microcosm.
-12. Expansion of the Universe by dark energy.
-13. Flying quanta, produced by unknown means.
-14. All-pervading neutrinos that know no obstacles.
-15. Massless matter in the form of photons, gluons, and neutrinos.
-16. Higgs bosons and the Higgs sea, mysteriously granting mass.
-17. Emptiness in the Universe.
-18. Curvature of empty space-time.
-19. Time dilation.
+1. Recognition of the existence of attraction
+2. The Big Bang of a point that gave birth to the Universe
+3. Empty, solid atoms with flying particles
+4. The presence of mysterious energy within atoms
+5. Emission and absorption of particles by other particles
+6. Fictitious (non-existent) forces capable of moving bodies
+7. Innate internal resistance of bodies to motion
+8. Contactless inertial motion
+9. Conversion of mass into energy and vice versa
+10. Wave-particle duality of particles
+11. The difference between the laws of the macrocosm and the microcosm
+12. Expansion of the Universe by dark energy
+13. Flying quanta, produced by unknown means
+14. All-pervading neutrinos that encounter no obstacles
+15. Massless matter in the form of photons, gluons, and neutrinos
+16. Higgs bosons and the Higgs sea mysteriously granting mass
+17. Emptiness in the Universe
+18. Curvature of empty space-time
+19. Time dilation
 
 ### 🏛️ The Fundamental Law of Motion
 
@@ -101,25 +101,25 @@ A conceptual mechanical model of physical processes based on:
 
 ### Фатальные заблуждения науки
 
-1. Признание существования притяжения.
-2. Большой взрыв точки, породивший Вселенную.
-3. Пустые, твёрдые атомы с летающими частицами.
-4. Наличие загадочной энергии в атомах.
-5. Испускание и поглощение частиц частицами.
-6. Фиктивные (отсутствующие) силы, способные двигать тела.
-7. Врождённое внутреннее сопротивление тел перемещению.
-8. Бесконтактное движение по инерции.
-9. Превращение массы в энергию и наоборот.
-10. Корпускулярно-волновой дуализм частиц.
-11. Различие законов макромира и микромира.
-12. Расширение Вселенной тёмной энергией.
-13. Летающие кванты, неизвестно как производимые.
-14. Всепроникающие нейтрино, не знающие препятствий.
-15. Безмассовая материя в виде фотонов, глюонов, нейтрино.
-16. Бозоны Хиггса и море Хиггса, загадочно дающие массу.
-17. Пустота во Вселенной.
-18. Искривление пустого пространства-времени.
-19. Замедление времени.
+1. Признание существования притяжения
+2. Большой взрыв точки, породивший Вселенную
+3. Пустые, твёрдые атомы с летающими частицами
+4. Наличие загадочной энергии в атомах
+5. Испускание и поглощение частиц частицами
+6. Фиктивные (отсутствующие) силы, способные двигать тела
+7. Врождённое внутреннее сопротивление тел перемещению
+8. Бесконтактное движение по инерции
+9. Превращение массы в энергию и наоборот
+10. Корпускулярно-волновой дуализм частиц
+11. Различие законов макромира и микромира
+12. Расширение Вселенной тёмной энергией
+13. Летающие кванты, неизвестно как производимые
+14. Всепроникающие нейтрино, не знающие препятствий
+15. Безмассовая материя в виде фотонов, глюонов, нейтрино
+16. Бозоны Хиггса и море Хиггса, загадочно дающие массу
+17. Пустота во Вселенной
+18. Искривление пустого пространства-времени
+19. Замедление времени
 
 ### 🏛️ Главный закон движения
 
