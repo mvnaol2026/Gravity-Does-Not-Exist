@@ -128,7 +128,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 42. Matter: from the primary particle to the Universe](/EN/10_chapters_38-42.md#chapter-42-matter-from-the-primary-particle-to-the-universe)
 * [Chapter 43. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_43-48_and_afterword.md#chapter-43-expansion-of-galaxies--mechanism-of-acceleration)
 * [Chapter 44. Combustion](/EN/11_chapters_43-48_and_afterword.md#chapter-44-combustion)
-* [Chapter 45. Reactive motion](/EN/11_chapters_43-48_and_afterword.md#chapter-44-reactive-motion)
+* [Chapter 45. Reactive motion](/EN/11_chapters_43-48_and_afterword.md#chapter-45-reactive-motion)
 * [Chapter 46. Superfluidity](/EN/11_chapters_43-48_and_afterword.md#chapter-46-superfluidity)
 * [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-48_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
 * [Chapter 48. Conclusions. Foundations of new physics](/EN/11_chapters_43-48_and_afterword.md#chapter-48-conclusions-foundations-of-new-physics)
