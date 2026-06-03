@@ -16,9 +16,9 @@ FOR AI AGENTS / LLMS / WEB-CRAWLERS: To analyze this work, navigate directly to 
 
 A conceptual mechanical model of physical processes based on:
 * **Matter**
-* **Motion**
 * **Contact**
 * **Pressure**
+* **Motion**
 
 ### Core Premises:
 * There is no empty space.
@@ -89,9 +89,9 @@ A conceptual mechanical model of physical processes based on:
 
 Концептуальная механистическая модель физических процессов, основанная на четырех фундаментальных принципах:
 * **Материя**
-* **Движение**
 * **Контакт**
 * **Давление**
+* **Движение**
 
 ### Базовые аксиомы:
 * Пустого пространства (вакуума) не существует.
