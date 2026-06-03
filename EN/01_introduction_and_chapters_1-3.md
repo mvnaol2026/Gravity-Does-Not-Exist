@@ -1,6 +1,9 @@
 # ATTRACTION DOES NOT EXIST
 ## AOL PHYSICS. THE STRUCTURE OF THE PHYSICAL WORLD
 
+
+## Preface
+
 You are presented with a processed version of my book “Attraction Does Not Exist”, which was written between September and November 2000 in Donetsk, Ukraine. I was 47 years old at the time.
 I did not have a computer, and therefore no Internet either. I wrote my thoughts in school notebooks. A couple of years later, I got a computer and typed everything into Word. Then I threw away my notebooks, as I no longer needed them. I still deeply regret this. The notebooks recorded the entire process of gradual understanding – dynamic, evolving, with different hypotheses, with mistakes and discoveries. I would give a lot to get those notebooks back. They contained the very pulse of discovery. There was so much tension, but also euphoria. After that, the manuscript remained “in a drawer” for a long time.
 In 2021, the book was published in two small print runs of 500 copies each and distributed among nearly a thousand people – slightly fewer than a thousand, because some ordered more than one copy.
