@@ -1,5 +1,4 @@
-Chapter 7. AOLIC SPACE 
-AND THE STRUCTURE OF SMALL UNIVERSES
+## Chapter 7. AOLIC SPACE AND THE STRUCTURE OF SMALL UNIVERSES
 
 After introducing aols as the primary elements of the world, the next step is to look not at a single aol, but at the medium as a whole.
 Because aols by themselves do not yet explain the structure of the universe.
@@ -183,8 +182,7 @@ And it is precisely within such a medium that the emergence of matter, the motio
 
 
 
-Chapter 8. WHY CELLS OF SMALL UNIVERSES 
-ARISE FROM A CHAOTIC DENSE MEDIUM
+## Chapter 8. WHY CELLS OF SMALL UNIVERSES ARISE FROM A CHAOTIC DENSE MEDIUM
 
 It would be unnatural to assume that the primary medium of nature exists in a perfectly ordered packing, where every aol has the maximum number of contacts and the entire structure is infinitely symmetrical.
 Such states are convenient for geometry, but they are rarely found in real nature.
@@ -293,7 +291,7 @@ That is why, from a chaotic dense medium, one should reasonably expect a transit
 
 
 
-Chapter 9. WHY THE CELLS BECOME COLOSSAL
+## Chapter 9. WHY THE CELLS BECOME COLOSSAL
 
 We have already arrived at the idea that in a dense vibrating medium, it is natural to expect the formation of stable regions—cells—in which pressure is distributed better than in a chaotic state.
 But one more question remains.
