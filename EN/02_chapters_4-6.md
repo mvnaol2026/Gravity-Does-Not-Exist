@@ -1,4 +1,4 @@
-Chapter 4. THE FOUR KINDS OF MECHANICS
+## Chapter 4. THE FOUR KINDS OF MECHANICS
 
 Let us take a very simple step.
 For now, we will not descend into the microworld.
@@ -133,8 +133,7 @@ And it is there that the real physics of this model begins.
 
 
 
-Chapter 5. SPACE IS NOT EMPTY. 
-THE DRIVING MEDIUM
+## Chapter 5. SPACE IS NOT EMPTY. THE DRIVING MEDIUM
 
 We have already taken several steps.
 We have seen that motion does not arise by itself. That it requires pressure. That this principle operates in solids, in liquids, and in gases. And that it is reasonable to expect it to continue at a deeper level.
@@ -270,8 +269,7 @@ And if that is so, it is time to become acquainted with them.
 
 
 
-Chapter 6. AOLS — 
-THE PRIMARY ELEMENTS OF THE WORLD
+## Chapter 6. AOLS — THE PRIMARY ELEMENTS OF THE WORLD
 
 If we have already taken the step of recognizing that space is not empty, but is instead a real material medium, then a natural question follows:
 what is this medium made of?
