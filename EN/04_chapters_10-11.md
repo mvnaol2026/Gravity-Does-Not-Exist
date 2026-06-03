@@ -1,5 +1,4 @@
-Chapter 10. LUNOLS — 
-HOW THE BASIS OF MATTER IS BORN FROM A SMOOTH SPHERE
+## Chapter 10. LUNOLS — HOW THE BASIS OF MATTER IS BORN FROM A SMOOTH SPHERE
 
 We have reached a very important point.
 We have seen that aolian space does not merely exist, but exists under pressure. Moreover, pressure inside the Small Universes is distributed unevenly: it increases from the periphery toward the center.
@@ -220,8 +219,7 @@ what fits into what, what holds what in place, and how simple and complex constr
 
 
 
-Chapter 11. ATOM: 
-AN EMPTY FANTASY OR A REAL STRUCTURE?
+## Chapter 11. ATOM: AN EMPTY FANTASY OR A REAL STRUCTURE?
 
 When a person hears the word “atom,” they usually feel that it is something long understood and firmly established. School, textbooks, popular science programs — all of this creates the illusion that the atom is well studied and its structure is clear. But this feeling is deceptive. The atom is one of those areas where modern physics appears especially confident in words and especially helpless when one demands not formulas and terms, but a real mechanical explanation.
 Therefore, I ask you to read this chapter slowly. After each uncomfortable question, it is worth pausing. Because if you rush through the text, the meaning will slip away — and with it, the full disruptive force of what is being said here.
