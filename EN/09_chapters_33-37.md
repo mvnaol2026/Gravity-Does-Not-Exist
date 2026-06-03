@@ -1,4 +1,4 @@
-Chapter 33. TRANSFER OF ELECTRIC CHARGE
+## Chapter 33. TRANSFER OF ELECTRIC CHARGE
 
 When people speak about the transfer of charge, they usually imagine that some “thing” — charge — moves from one body to another. But in the aol model, there is nothing to transfer. There is no separate substance. There is only motion of matter.
 Therefore, the question must be posed differently: what exactly is transferred when charge is transferred?
@@ -65,7 +65,7 @@ No “charge” as a separate entity is required.
 
 
 
-Chapter 34. COULOMB’S LAW
+## Chapter 34. COULOMB’S LAW
 
 In classical physics, the interaction of charges is described by Coulomb’s law.
 Coulomb’s law states that the force of interaction between two stationary point charges is directly proportional to the product of the magnitudes of these charges and inversely proportional to the square of the distance between them.
@@ -132,8 +132,7 @@ Coulomb’s law is a convenient mathematical description of the result that aris
 
 
 
-Chapter 35. PHOTOELECTRIC EFFECT —
-MECHANISM OF AOL EJECTION
+## Chapter 35. PHOTOELECTRIC EFFECT — MECHANISM OF AOL EJECTION
 
 The photoelectric effect is usually described as follows: light falls on a metal and knocks electrons out of it. Photons, energy quanta, and work function are introduced. The formulas work. But the physical mechanism — what exactly happens step by step — is not given.
 How does light physically act on matter?
@@ -173,8 +172,7 @@ No photons. No instantaneous transfer of energy. No mysterious absorption of one
 
 
 
-Chapter 36. ELECTROMAGNETIC WAVES — 
-THE TRANSMISSION OF VIBRATIONS
+## Chapter 36. ELECTROMAGNETIC WAVES — THE TRANSMISSION OF VIBRATIONS
 
 When it comes to electromagnetic waves, modern physics confidently uses formulas and terminology. But if we ask: what exactly is moving? — no clear mechanical answer is given.
 We are told that an electromagnetic wave propagates.
@@ -335,7 +333,7 @@ There are only vibrations of aol space — from slow to extremely fast.
 
 
 
-Chapter 37. FIELDS
+## Chapter 37. FIELDS
 
 You have probably heard about physical fields — gravitational, magnetic, electric. The word is familiar. привычное. But try to answer a simple question: what is a field?
 Not a formula. Not an equation. But what is it physically?
