@@ -119,7 +119,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 33. Transfer of Electric Charge — Mechanism](/EN/09_chapters_33-37.md#chapter-33-transfer-of-electric-charge--mechanism)
 * [Chapter 34. Coulomb’s Law](/EN/09_chapters_33-37.md#chapter-34-coulombs-law)
 * [Chapter 35. Photoelectric Effect — Mechanism of Aol Ejection](/EN/09_chapters_33-37.md#chapter-35-photoelectric-effect--mechanism-of-aol-ejection)
-* [Chapter 36. Electromagnetic waves — transmission of oscillations](/EN/09_chapters_33-37.md#chapter-36-electromagnetic-waves--transmission-of-oscillations)
+* [Chapter 36. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_33-37.md#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
 * [Chapter 37. Fields](/EN/09_chapters_33-37.md#chapter-37-fields)
 * [Chapter 38. Magnetic field](/EN/10_chapters_38-42.md#chapter-38-magnetic-field)
 * [Chapter 39. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-38-interaction-of-magnets)
