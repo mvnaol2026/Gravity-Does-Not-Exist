@@ -114,7 +114,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 28. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_27-32.md#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
 * [Chapter 29. A brief summary of light, medium, and relativity](/EN/08_chapters_27-32.md#chapter-29-a-brief-summary-of-light-medium-and-relativity)
 * [Chapter 30. Electric current](/EN/08_chapters_27-32.md#chapter-30-electric-current)
-* [Chapter 31. Induction — transmission of motion](/EN/08_chapters_27-32.md#chapter-31-induction--transmission-of-motion)
+* [Chapter 31. Induction — the transmission of motion](/EN/08_chapters_27-32.md#chapter-31-induction--the-transmission-of-motion)
 * [Chapter 32. Electric Charge and Magnetism as Forms of Aol Motion](/EN/08_chapters_27-32.md#chapter-32-electric-charge-and-magnetism-as-forms-of-aol-motion)
 * [Chapter 33. Transfer of Electric Charge — Mechanism](/EN/09_chapters_33-37.md#chapter-33-transfer-of-electric-charge--mechanism)
 * [Chapter 34. Coulomb’s Law](/EN/09_chapters_33-37.md#chapter-34-coulombs-law)
