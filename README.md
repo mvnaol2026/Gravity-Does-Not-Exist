@@ -214,17 +214,17 @@ A conceptual mechanical model of physical processes based on:
 ## 📚 Репозиторий и Языковые Версии / Repository Structure
 
 ### 🇬🇧 English Version (`/EN/`)
-* [01_introduction_and_chapters_1-3.txt](EN/01_introduction_and_chapters_1-3.txt) — TOC, Introduction, and Chapters 1–3.
-* [02_chapters_4-6.txt](EN/02_chapters_4-6.txt) — Chapters 4–6.
-* [03_chapters_7-9.txt](EN/03_chapters_7-9.txt) — Chapters 7–9.
-* [04_chapters_10-11.txt](EN/04_chapters_10-11.txt) — Chapters 10–11.
-* [05_chapters_12-16.txt](EN/05_chapters_12-16.txt) — Chapters 12–16.
-* [06_chapters_17-20.txt](EN/06_chapters_17-20.txt) — Chapters 17–20.
-* [07_chapters_21-26.txt](EN/07_chapters_21-26.txt) — Chapters 21–26.
-* [08_chapters_27-32.txt](EN/08_chapters_27-32.txt) — Chapters 27–32.
-* [09_chapters_33-37.txt](EN/09_chapters_33-37.txt) — Chapters 33–37.
-* [10_chapters_38-42.txt](EN/10_chapters_38-42.txt) — Chapters 38–42.
-* [11_chapters_43-48_and_afterword.txt](EN/11_chapters_43-48_and_afterword.txt) — Chapters 43–48 and Afterword.
+* [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — TOC, Introduction, and Chapters 1–3.
+* [02_chapters_4-6.md](EN/02_chapters_4-6.md) — Chapters 4–6.
+* [03_chapters_7-9.md](EN/03_chapters_7-9.md) — Chapters 7–9.
+* [04_chapters_10-11.md](EN/04_chapters_10-11.md) — Chapters 10–11.
+* [05_chapters_12-16.md](EN/05_chapters_12-16.md) — Chapters 12–16.
+* [06_chapters_17-20.md](EN/06_chapters_17-20.md) — Chapters 17–20.
+* [07_chapters_21-26.md](EN/07_chapters_21-26.md) — Chapters 21–26.
+* [08_chapters_27-32.md](EN/08_chapters_27-32.md) — Chapters 27–32.
+* [09_chapters_33-37.md](EN/09_chapters_33-37.md) — Chapters 33–37.
+* [10_chapters_38-42.md](EN/10_chapters_38-42.md) — Chapters 38–42.
+* [11_chapters_43-48_and_afterword.md](EN/11_chapters_43-48_and_afterword.md) — Chapters 43–48 and Afterword.
 
 ### Russian Version (`/RU/`)
 * [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — Оглавление, введение и главы 1–3 / TOC, introduction & chapters 1-3.
