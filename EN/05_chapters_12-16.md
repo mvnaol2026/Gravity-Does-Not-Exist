@@ -1,5 +1,4 @@
-Chapter 12. ATOMS — 
-HOW MATTER IS BUILT FROM AOLS AND LUNOLS
+## Chapter 12. ATOMS — HOW MATTER IS BUILT FROM AOLS AND LUNOLS
 
 We have reached the point where the world begins to assemble itself.
 Until now, we had:
@@ -82,7 +81,6 @@ But if the sphere is clamped by several elements, it becomes harder.
 And if a system of mutual interlocks arises, it becomes stable.
 The same happens here.
 
-
 6. Why Constructions Differ
 It now becomes clear where the diversity of matter comes from.
 Not because there exist “different particles.”
@@ -153,8 +151,7 @@ It is precisely such nodes that make branching possible and create the foundatio
 
 
 
-Chapter 13. MOLECULES — 
-HOW ATOMS ASSEMBLE INTO MATTER
+## Chapter 13. MOLECULES — HOW ATOMS ASSEMBLE INTO MATTER
 
 An atom is not a “little ball,” but a construction.
 More precisely, a construction capable of interlocking.
@@ -265,8 +262,7 @@ The bond between atoms is not a “force,” but the result of form, interlockin
 
 
 
-Chapter 14. GAS, LIQUID, AND SOLID — 
-HOW MATTER BEHAVES
+## Chapter 14. GAS, LIQUID, AND SOLID — HOW MATTER BEHAVES
 
 Around us exists the familiar world. There is air—light, transparent, almost unnoticed. There is water—it flows and takes the shape of its container. There is stone—hard, heavy, and able to preserve its form.
 From childhood, we are taught to call these the three states of matter: gas, liquid, and solid.
@@ -306,8 +302,7 @@ If one feels this picture as a whole, the world ceases to be a collection of dis
 
 
 
-Chapter 15. ON ATOMIC VIBRATIONS — 
-WHAT REALLY “SHAKES” MATTER
+## Chapter 15. ON ATOMIC VIBRATIONS — WHAT REALLY “SHAKES” MATTER
 
 Let us take one more step deeper.
 There is a fact long known to science that carries enormous importance for understanding the nature of the world. If followed to its full meaning, many phenomena begin to assemble into a unified picture.
@@ -356,7 +351,7 @@ Therefore, when we observe motion, we should seek not an abstract “energy with
 
 
 
-Chapter 16. CHEMICAL PROCESSES
+## Chapter 16. CHEMICAL PROCESSES
 
 When people speak of chemistry, they usually imagine that some substances “react” with others, transform into something new, combine, or break apart. But if we ask the simplest question—why does a reaction happen at all, what exactly causes matter to change?—a clear mechanical answer is usually not given.
 Most often we hear words such as “bond energy,” “activation energy,” “orbital overlap,” or “electron redistribution.” All of this may serve as a language for describing observed phenomena, but it does not reveal the mechanism of what is taking place. It tells us that the process can be calculated, but not always what is physically happening to matter.
