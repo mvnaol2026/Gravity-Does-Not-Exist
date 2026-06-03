@@ -98,7 +98,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 12. Atoms — how matter is built from aols and lunols](/EN/05_chapters_12-16.md#chapter-12-atoms--how-matter-is-built-from-aols-and-lunols)
 * [Chapter 13. Molecules — how atoms assemble into matter](/EN/05_chapters_12-16.md#chapter-13-molecules--how-atoms-assemble-into-matter)
 * [Chapter 14. Gas, liquid, and solid — how matter behaves](/EN/05_chapters_12-16.md#chapter-14-gas-liquid-and-solid--how-matter-behaves)
-* [Chapter 15. On atomic vibrations — what actually “shakes” matter](/EN/05_chapters_12-16.md#chapter-15-on-atomic-vibrations--what-actually-shakes-matter)
+* [Chapter 15. On atomic vibrations — what really “shakes” matter](/EN/05_chapters_12-16.md#chapter-15-on-atomic-vibrations--what-really-shakes-matter)
 * [Chapter 16. Chemical processes](/EN/05_chapters_12-16.md#chapter-16-chemical-processes)
 * [Chapter 17. Inertia](/EN/06_chapters_17-20.md#chapter-17-inertia)
 * [Chapter 18. Mass](/EN/06_chapters_17-20.md#chapter-18-mass)
