@@ -227,8 +227,8 @@ A conceptual mechanical model of physical processes based on:
 * [11_chapters_43-48_and_afterword.txt](EN/11_chapters_43-48_and_afterword.txt) — Chapters 43–48 and Afterword.
 
 ### Russian Version (`/RU/`)
-* [01_introduction_and_chapters_1-3.txt](RU/01_introduction_and_chapters_1-3.txt) — Оглавление, введение и главы 1–3 / TOC, introduction & chapters 1-3.
-* [02_chapters_4-6.txt](RU/02_chapters_4-6.txt) — Главы 4–6 / Chapters 4-6.
+* [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — Оглавление, введение и главы 1–3 / TOC, introduction & chapters 1-3.
+* [02_chapters_4-6.md](RU/02_chapters_4-6.md) — Главы 4–6 / Chapters 4-6.
 * [03_chapters_7-9.txt](RU/03_chapters_7-9.txt) — Главы 7–9 / Chapters 7-9.
 * [04_chapters_10-11.txt](RU/04_chapters_10-11.txt) — Главы 10–11 / Chapters 10-11.
 * [05_chapters_12-16.txt](RU/05_chapters_12-16.txt) — Главы 12–16 / Chapters 12-16.
