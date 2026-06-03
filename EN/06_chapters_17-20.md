@@ -222,7 +222,12 @@ And it is one and the same quantity manifested in different processes.
 Not two different masses, but one and the same mass, simply observed in different ways.
 Mass may be called the “volumetric aolian sail-area” of a body.
 This “volumetric aolian sail-area” depends on the number of bound aols and lunols.
-Chapter 19. NEWTON’S LAWS
+
+
+
+
+
+## Chapter 19. NEWTON’S LAWS
 
 When mechanics is discussed, people almost always recall the three laws of Isaac Newton.
 And this is unsurprising. These laws became the foundation of all classical physics. They work. They allow us to calculate the motion of bodies, build machines, and launch rockets.
