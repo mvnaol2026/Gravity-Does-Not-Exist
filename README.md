@@ -165,7 +165,7 @@ A conceptual mechanical model of physical processes based on:
 * [Глава 4. Четыре вида механики](/RU/02_chapters_4-6.md#глава-4-четыре-вида-механики)
 * [Глава 5. Пространство – это не пустота. Движитель](/RU/02_chapters_4-6.md#глава-5-пространство-это-не-пустота-движитель)
 * [Глава 6. Аолы – первичные элементы мира](/RU/02_chapters_4-6.md#глава-6-аолы--первичные-элементы-мира)
-* [Глава 7. Аольное пространство и устройство малых вселенных](/RU/02_chapters_4-7.md#глава-7-аольное-пространство-и-устройство-малых-вселенных)
+* [Глава 7. Аольное пространство и устройство малых вселенных](/RU/03_chapters_7-9.md#глава-7-аольное-пространство-и-устройство-малых-вселенных)
 * [Глава 8. Почему из хаотичной плотной среды возникают ячейки малых вселенных](/RU/03_chapters_8-11.md#глава-8-почему-из-хаотичной-плотной-среды-возникают-ячейки-малых-вселенных)
 * [Глава 9. Почему ячейки становятся колоссальными](/RU/03_chapters_8-11.md#глава-9-почему-ячейки-становятся-колоссальными)
 * [Глава 10. Лунолы – как из гладкой сферы рождается основа материи](/RU/03_chapters_8-11.md#глава-10-лунолы--как-из-гладкой-сферы-рождается-основа-материи)
@@ -229,15 +229,15 @@ A conceptual mechanical model of physical processes based on:
 ### Russian Version (`/RU/`)
 * [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — Оглавление, введение и главы 1–3 / TOC, introduction & chapters 1-3.
 * [02_chapters_4-6.md](RU/02_chapters_4-6.md) — Главы 4–6 / Chapters 4-6.
-* [03_chapters_7-9.txt](RU/03_chapters_7-9.txt) — Главы 7–9 / Chapters 7-9.
-* [04_chapters_10-11.txt](RU/04_chapters_10-11.txt) — Главы 10–11 / Chapters 10-11.
-* [05_chapters_12-16.txt](RU/05_chapters_12-16.txt) — Главы 12–16 / Chapters 12-16.
-* [06_chapters_17-20.txt](RU/06_chapters_17-20.txt) — Главы 17–20 / Chapters 17-20.
-* [07_chapters_21-26.txt](RU/07_chapters_21-26.txt) — Главы 21–26 / Chapters 21-26.
-* [08_chapters_27-32.txt](RU/08_chapters_27-32.txt) — Главы 27–32 / Chapters 27-32.
-* [09_chapters_33-37.txt](RU/09_chapters_33-37.txt) — Главы 33–37 / Chapters 33-37.
-* [10_chapters_38-42.txt](RU/10_chapters_38-42.txt) — Главы 38–42 / Chapters 38-42.
-* [11_chapters_43-48_and_afterword.txt](RU/11_chapters_43-48_and_afterword.txt) — Главы 43–48 и послесловие / Chapters 43-48 & afterword.
+* [03_chapters_7-9.txt](RU/03_chapters_7-9.md) — Главы 7–9 / Chapters 7-9.
+* [04_chapters_10-11.txt](RU/04_chapters_10-11.md) — Главы 10–11 / Chapters 10-11.
+* [05_chapters_12-16.txt](RU/05_chapters_12-16.md) — Главы 12–16 / Chapters 12-16.
+* [06_chapters_17-20.txt](RU/06_chapters_17-20.md) — Главы 17–20 / Chapters 17-20.
+* [07_chapters_21-26.txt](RU/07_chapters_21-26.md) — Главы 21–26 / Chapters 21-26.
+* [08_chapters_27-32.txt](RU/08_chapters_27-32.md) — Главы 27–32 / Chapters 27-32.
+* [09_chapters_33-37.txt](RU/09_chapters_33-37.md) — Главы 33–37 / Chapters 33-37.
+* [10_chapters_38-42.txt](RU/10_chapters_38-42.md) — Главы 38–42 / Chapters 38-42.
+* [11_chapters_43-48_and_afterword.txt](RU/11_chapters_43-48_and_afterword.md) — Главы 43–48 и послесловие / Chapters 43-48 & afterword.
 
 ---
 
