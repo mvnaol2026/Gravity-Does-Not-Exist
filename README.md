@@ -91,7 +91,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 5. Space is not empty. The driving medium](/EN/02_chapters_4-6.md#chapter-5-space-is-not-empty-the-driving-medium)
 * [Chapter 6. Aols — the primary elements of the world](/EN/02_chapters_4-6.md#chapter-6-aols--the-primary-elements-of-the-world)
 * [Chapter 7. Aol space and the structure of small universes](/EN/03_chapters_7-9.md#chapter-7-aol-space-and-the-structure-of-small-universes)
-* [Chapter 8. Why cells of small universes emerge from a chaotic dense medium](/EN/03_chapters_7-9.md#chapter-8-why-cells-of-small-universes-emerge-from-a-chaotic-dense-medium)
+* [Chapter 8. Why cells of small universes arise from a chaotic dense medium](/EN/03_chapters_7-9.md#chapter-8-why-cells-of-small-universes-arise-from-a-chaotic-dense-medium)
 * [Chapter 9. Why these cells become colossal](/EN/03_chapters_7-9.md#chapter-9-why-these-cells-become-colossal)
 * [Chapter 10. Lunols — how the basis of matter emerges from a smooth sphere](/EN/04_chapters_10-11.md#chapter-10-lunols--how-the-basis-of-matter-emerges-from-a-smooth-sphere)
 * [Chapter 11. Atom: an empty fantasy or a real structure?](/EN/04_chapters_10-11.md#chapter-11-atom-an-empty-fantasy-or-a-real-structure)
