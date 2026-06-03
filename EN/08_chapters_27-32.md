@@ -1,5 +1,4 @@
-Chapter 27. THE MICHELSON EXPERIMENT 
-AND WHY THE WRONG ETHER WAS SEARCHED FOR
+## Chapter 27. THE MICHELSON EXPERIMENT AND WHY THE WRONG ETHER WAS SEARCHED FOR
 
 At the end of the 19th century, physicists were convinced that light is a wave. And if it is a wave, there must be a medium in which it propagates. Sound propagates in air, waves propagate in water. Therefore, light must propagate in some universal medium called ether. The Earth moves around the Sun at about 30 km/s. Therefore, it moves through this ether. And if it moves, an “ether wind” should arise — just as a person running on a windless day feels an oncoming flow of air.
 The logic was simple. If light propagates in ether, then its speed relative to the Earth should depend on direction. Against the “wind” — slightly slower. With the “wind” — slightly faster. The difference would be small, but measurable.
@@ -25,8 +24,7 @@ The Michelson experiment revealed not the absence of a medium, but the limits of
 
 
 
-Chapter 28. HOW RELATIVITY THEORY EMERGED — 
-AND WHAT WOULD HAPPEN IF A MEDIUM EXISTED
+## Chapter 28. HOW RELATIVITY THEORY EMERGED — AND WHAT WOULD HAPPEN IF A MEDIUM EXISTED
 
 At the end of the 19th century, physics faced a serious contradiction. On one side was the principle of relativity formulated by Galileo Galilei, known for two centuries: the laws of nature are the same for all observers moving uniformly and in straight lines. In a train moving at constant speed, a cup of tea behaves exactly as it does on the platform. No experiment inside the carriage can determine whether the train is moving or standing still.
 On the other side were the equations of James Clerk Maxwell describing electromagnetism. They implied that the speed of light is about 300,000 km/s. But relative to what? If relative to the observer, then an observer moving toward the light beam should measure a higher speed, and one moving in the same direction should measure a lower one. This seemed obvious — this is how all velocities behave in classical mechanics.
@@ -80,8 +78,7 @@ And with it, the picture of the world becomes simpler, not more complex.
 
 
 
-Chapter 29. A BRIEF SUMMARY 
-OF LIGHT, MEDIUM, AND RELATIVITY
+## Chapter 29. A BRIEF SUMMARY OF LIGHT, MEDIUM, AND RELATIVITY
 
 Modern physics encountered a fact — the speed of light is constant.
 But by abandoning the medium, it lost the mechanism.
@@ -118,7 +115,7 @@ the picture of the world becomes coherent.
 
 
 
-Chapter 30. ELECTRIC CURRENT
+## Chapter 30. ELECTRIC CURRENT
 
 When a person turns on a light or starts a motor, they rarely think about what is actually happening inside the wires. Science gives a simple answer: electrons are moving. This has become the standard explanation — simple, convenient, and at first glance complete. Few people question it. Electrons — so be it.
 But if we examine this picture closely — mechanically, from the inside — it falls apart.
@@ -189,8 +186,7 @@ The power of electrical processes is explained not by mysterious properties of r
 
 
 
-Chapter 31. INDUCTION — 
-THE TRANSMISSION OF MOTION
+## Chapter 31. INDUCTION — THE TRANSMISSION OF MOTION
 
 Electromagnetic induction is considered one of the key phenomena in physics. The operation of generators, transformers, and many other devices is based on it. But if we ask what exactly happens during induction, the answer usually comes down to the phrase: “a changing magnetic field creates current.” This is a description. But not an explanation.
 In the aol model, induction is the transmission of motion through a changing state of the medium. Let us examine this step by step.
@@ -218,8 +214,7 @@ And this is induction.
 
 
 
-Chapter 32. ELECTRIC CHARGE AND MAGNETISM
-AS FORMS OF AOL MOTION
+## Chapter 32. ELECTRIC CHARGE AND MAGNETISM AS FORMS OF AOL MOTION
 
 In classical physics, electric charge is a fundamental property of a particle that simply “exists.”
 An electron has a negative charge, a proton a positive one.
