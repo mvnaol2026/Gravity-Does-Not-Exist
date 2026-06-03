@@ -88,7 +88,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 2. What exists in the world](/EN/01_introduction_and_chapters_1-3.md#chapter-2-what-exists-in-the-world)
 * [Chapter 3. The fundamental law of physics](/EN/01_introduction_and_chapters_1-3.md#chapter-3-the-fundamental-law-of-physics)
 * [Chapter 4. Four types of mechanics](/EN/02_chapters_4-6.md#chapter-4-four-types-of-mechanics)
-* [Chapter 5. Space is not emptiness. The prime mover](/EN/02_chapters_4-6.md#chapter-5-space-is-not-emptiness-the-prime-mover)
+* [Chapter 5. Space is not empty. The driving medium](/EN/02_chapters_4-6.md#chapter-5-space-is-not-empty-the-driving-medium)
 * [Chapter 6. Aols — the primary elements of the world](/EN/02_chapters_4-6.md#chapter-6-aols--the-primary-elements-of-the-world)
 * [Chapter 7. Aol space and the structure of small universes](/EN/03_chapters_7-9.md#chapter-7-aol-space-and-the-structure-of-small-universes)
 * [Chapter 8. Why cells of small universes emerge from a chaotic dense medium](/EN/03_chapters_7-9.md#chapter-8-why-cells-of-small-universes-emerge-from-a-chaotic-dense-medium)
