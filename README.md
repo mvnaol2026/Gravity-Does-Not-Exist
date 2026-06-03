@@ -106,7 +106,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 20. Gravitation](/EN/06_chapters_17-20.md#chapter-20-gravitation)
 * [Chapter 21. Tides](/EN/07_chapters_21-26.md#chapter-21-tides)
 * [Chapter 22. What matter is capable of](/EN/07_chapters_21-26.md#chapter-22-what-matter-is-capable-of)
-* [Chapter 23. What “energy” is](/EN/07_chapters_21-26.md#chapter-23-what-energy-is)
+* [Chapter 23. What is “energy”](/EN/07_chapters_21-26.md#chapter-23-what-is-energy)
 * [Chapter 24. Heat](/EN/07_chapters_21-26.md#chapter-24-heat)
 * [Chapter 25. Temperature](/EN/07_chapters_21-26.md#chapter-25-temperature)
 * [Chapter 26. Light](/EN/07_chapters_21-26.md#chapter-26-light)
