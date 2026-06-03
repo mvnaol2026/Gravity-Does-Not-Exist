@@ -131,7 +131,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 45. Reactive motion](/EN/11_chapters_43-48_and_afterword.md#chapter-45-reactive-motion)
 * [Chapter 46. Superfluidity](/EN/11_chapters_43-48_and_afterword.md#chapter-46-superfluidity)
 * [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-48_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
-* [Chapter 48. Conclusions. Foundations of new physics](/EN/11_chapters_43-48_and_afterword.md#chapter-48-conclusions-foundations-of-new-physics)
+* [Chapter 48. Conclusions. Foundations of a new physics](/EN/11_chapters_43-48_and_afterword.md#chapter-48-conclusions-foundations-of-a-new-physics)
 * [Afterword](/EN/11_chapters_43-48_and_afterword.md#afterword)
 
 ---
