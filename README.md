@@ -103,7 +103,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 17. Inertia](/EN/06_chapters_17-20.md#chapter-17-inertia)
 * [Chapter 18. Mass](/EN/06_chapters_17-20.md#chapter-18-mass)
 * [Chapter 19. Newton’s laws](/EN/06_chapters_17-20.md#chapter-19-newtons-laws)
-* [Chapter 20. Gravity](/EN/06_chapters_17-20.md#chapter-20-gravity)
+* [Chapter 20. Gravitation](/EN/06_chapters_17-20.md#chapter-20-gravitation)
 * [Chapter 21. Tides](/EN/07_chapters_21-26.md#chapter-21-tides)
 * [Chapter 22. What matter is capable of](/EN/07_chapters_21-26.md#chapter-22-what-matter-is-capable-of)
 * [Chapter 23. What “energy” is](/EN/07_chapters_21-26.md#chapter-23-what-energy-is)
