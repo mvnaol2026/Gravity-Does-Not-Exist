@@ -1,4 +1,4 @@
-Chapter 38. MAGNETIC FIELD
+## Chapter 38. MAGNETIC FIELD
 
 We already know that current is the motion of aols, that this motion is created by a pressure difference, and that the flow can be directed. Now a new phenomenon appears.
 If current flows through a conductor, what is called a “magnetic field” arises around it. It acts on other conductors, deflects needles, and produces forces. But what is it, physically?
@@ -27,8 +27,7 @@ The main conclusion: the magnetic field is a vortex motion of aol space arising 
 
 
 
-Chapter 39. MAGNET.
-INTERACTION OF MAGNETS
+## Chapter 39. MAGNET. INTERACTION OF MAGNETS
 
 A magnet is one of the most familiar and at the same time one of the least explained objects in standard physics. Everyone has held it in their hands. Everyone has felt how it attracts iron and how two magnets repel each other.
 But what exactly happens inside a magnet, and how does it act through space?
@@ -99,9 +98,7 @@ Only the motion of aols — contact and pressure.
 
 
 
-Chapter 40. ELECTRICITY, MAGNETISM, 
-AND INDUCTION — 
-A UNIFIED MECHANISM
+## Chapter 40. ELECTRICITY, MAGNETISM, AND INDUCTION — A UNIFIED MECHANISM
 
 Modern physics considers electricity, magnetism, and induction as related, but still distinct phenomena. First, electric current is introduced, then the magnetic field, then their interaction, and only after that — induction.
 In the aol model, such a separation does not exist. All these phenomena are different manifestations of a single process — the motion of aol space.
@@ -185,7 +182,7 @@ And this is sufficient to describe all the main phenomena of electrical engineer
 
 
 
-Chapter 41. ETHER
+## Chapter 41. ETHER
 
 Aol space could be called ether. I deliberately do not do this.
 The word “ether” carries a long trail of incorrect ideas. In the minds of most people, including physicists, it is something ethereal, vague, almost mythical. A subtle, weightless substance barely present between bodies — no more than a poetic image, convenient for talking about the nature of light.
@@ -233,8 +230,7 @@ That is why I use the term “aol space” — and I do not intend to abandon it
 
 
 
-Chapter 42. MATTER: 
-FROM THE PRIMARY PARTICLE TO THE UNIVERSE
+## Chapter 42. MATTER: FROM THE PRIMARY PARTICLE TO THE UNIVERSE
 
 There is a feature of human psychology that is rarely discussed in the context of science, yet it explains a great deal.
 When we face something unknown, we almost inevitably complicate it. Darkness frightens us — and in a dark room we begin to imagine portals to another world. When the light is turned on, it turns out that the source of the eerie rustling is just a lazy cat on the couch. But the one who ran out of the room in panic will never learn about the cat. He will carry away a story about a portal.
