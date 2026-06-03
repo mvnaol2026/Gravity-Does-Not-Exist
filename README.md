@@ -111,7 +111,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 25. Temperature](/EN/07_chapters_21-26.md#chapter-25-temperature)
 * [Chapter 26. Light](/EN/07_chapters_21-26.md#chapter-26-light)
 * [Chapter 27. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_27-32.md#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
-* [Chapter 28. How the theory of relativity arose — and what would happen if a medium existed](/EN/08_chapters_27-32.md#chapter-28-how-the-theory-of-relativity-arose--and-what-would-happen-if-a-medium-existed)
+* [Chapter 28. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_27-32.md#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
 * [Chapter 29. A brief summary of light, medium, and relativity](/EN/08_chapters_27-32.md#chapter-29-a-brief-summary-of-light-medium-and-relativity)
 * [Chapter 30. Electric current](/EN/08_chapters_27-32.md#chapter-30-electric-current)
 * [Chapter 31. Induction — transmission of motion](/EN/08_chapters_27-32.md#chapter-31-induction--transmission-of-motion)
