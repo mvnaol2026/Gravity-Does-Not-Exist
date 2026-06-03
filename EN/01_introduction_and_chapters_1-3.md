@@ -111,6 +111,7 @@ Fatal misconceptions of science
 17. Emptiness in the Universe.
 18. Curvature of empty space and time.
 19. Slowing of time.
+
 Each of these points will be analyzed in this book — not for the sake of criticism itself, but to find a simpler and more mechanically logical explanation. 
 And now let us begin to search for correct answers and correct the misconceptions of science.
 Without mathematics.
