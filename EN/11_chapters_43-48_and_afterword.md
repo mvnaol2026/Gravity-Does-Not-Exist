@@ -35,7 +35,7 @@ The expansion of galaxies is not a mystery requiring new entities. It is a natur
 
 
 
-## Chapter 40. COMBUSTION
+## Chapter 44. COMBUSTION
 
 What is combustion from the point of view of the aol model? It is a chain process of chemical reactions in which each act of atoms combining into a new molecule shakes the aol medium — and this shaking of the medium triggers the next reaction.
 Let’s examine this step by step.
