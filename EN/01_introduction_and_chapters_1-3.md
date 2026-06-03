@@ -6,14 +6,18 @@
 
 You are presented with a processed version of my book “Attraction Does Not Exist”, which was written between September and November 2000 in Donetsk, Ukraine. I was 47 years old at the time.
 I did not have a computer, and therefore no Internet either. I wrote my thoughts in school notebooks. A couple of years later, I got a computer and typed everything into Word. Then I threw away my notebooks, as I no longer needed them. I still deeply regret this. The notebooks recorded the entire process of gradual understanding – dynamic, evolving, with different hypotheses, with mistakes and discoveries. I would give a lot to get those notebooks back. They contained the very pulse of discovery. There was so much tension, but also euphoria. After that, the manuscript remained “in a drawer” for a long time.
+
 In 2021, the book was published in two small print runs of 500 copies each and distributed among nearly a thousand people – slightly fewer than a thousand, because some ordered more than one copy.
 In 2026, I processed the book using AI. The new version became less voluminous, much more concise, and the emotional tone of the original book was almost completely removed. This book is a “compressed” version of the original “Attraction Does Not Exist.”
+
 The book offers an alternative perspective on the structure of the physical world.
 It examines fundamental questions of physics – the structure of matter, the nature of motion, the mechanism of interaction, and the organization of the Universe.
 Within this model, key physical phenomena are reimagined, including light, gravity, electricity, inertia, heat, cosmological processes, and more.
 It is intended for readers interested in fundamental questions of physics and seeking a coherent understanding of nature. 
+
 A few words about myself.
 Born in 1953, Donetsk. Until August 2023, I lived in Donetsk, and since 2023 I have been living in Kyiv, as it became impossible to remain a citizen of Ukraine while living in Donetsk occupied by Russia. I am a mechanical engineer by education. Full name – M.V.N. I will remain incognito, considering the easily predictable attacks. I'll provide the name – Viacheslav.
+
 This work is presented in the author’s edition (publication index No. ДИУ-917.671.014).
 The original text was completed in Kyiv on May 10, 2026.
 
