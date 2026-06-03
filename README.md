@@ -86,7 +86,7 @@ A conceptual mechanical model of physical processes based on:
 * [Introduction](/EN/01_introduction_and_chapters_1-3.md#introduction)
 * [Chapter 1. What this book is about](/EN/01_introduction_and_chapters_1-3.md#chapter-1-what-this-book-is-about)
 * [Chapter 2. What exists in the world](/EN/01_introduction_and_chapters_1-3.md#chapter-2-what-exists-in-the-world)
-* [Chapter 3. The main law of physics](/EN/01_introduction_and_chapters_1-3.md#chapter-3-the-main-law-of-physics)
+* [Chapter 3. The fundamental law of physics](/EN/01_introduction_and_chapters_1-3.md#chapter-3-the-fundamental-law-of-physics)
 * [Chapter 4. Four types of mechanics](/EN/02_chapters_4-6.md#chapter-4-four-types-of-mechanics)
 * [Chapter 5. Space is not emptiness. The prime mover](/EN/02_chapters_4-6.md#chapter-5-space-is-not-emptiness-the-prime-mover)
 * [Chapter 6. Aols — the primary elements of the world](/EN/02_chapters_4-6.md#chapter-6-aols--the-primary-elements-of-the-world)
