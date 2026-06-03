@@ -122,7 +122,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 36. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_33-37.md#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
 * [Chapter 37. Fields](/EN/09_chapters_33-37.md#chapter-37-fields)
 * [Chapter 38. Magnetic field](/EN/10_chapters_38-42.md#chapter-38-magnetic-field)
-* [Chapter 39. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-38-interaction-of-magnets)
+* [Chapter 39. Magnet. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-39-magnet-interaction-of-magnets)
 * [Chapter 40. Electricity, magnetism, and induction — a unified mechanism](/EN/10_chapters_38-42.md#chapter-40-electricity-magnetism-and-induction--a-unified-mechanism)
 * [Chapter 41. Ether](/EN/10_chapters_38-42.md#chapter-41-ether)
 * [Chapter 42. Matter: from primary particle to the Universe](/EN/10_chapters_38-42.md#chapter-42-matter-from-primary-particle-to-the-universe)
