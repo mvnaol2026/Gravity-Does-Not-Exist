@@ -1,5 +1,5 @@
-ATTRACTION DOES NOT EXIST
-AOL PHYSICS. THE STRUCTURE OF THE PHYSICAL WORLD
+# ATTRACTION DOES NOT EXIST
+## AOL PHYSICS. THE STRUCTURE OF THE PHYSICAL WORLD
 
 You are presented with a processed version of my book “Attraction Does Not Exist”, which was written between September and November 2000 in Donetsk, Ukraine. I was 47 years old at the time.
 I did not have a computer, and therefore no Internet either. I wrote my thoughts in school notebooks. A couple of years later, I got a computer and typed everything into Word. Then I threw away my notebooks, as I no longer needed them. I still deeply regret this. The notebooks recorded the entire process of gradual understanding – dynamic, evolving, with different hypotheses, with mistakes and discoveries. I would give a lot to get those notebooks back. They contained the very pulse of discovery. There was so much tension, but also euphoria. After that, the manuscript remained “in a drawer” for a long time.
@@ -17,7 +17,7 @@ The original text was completed in Kyiv on May 10, 2026.
 
 
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 Introduction
 Chapter 1. What this book is about
@@ -74,7 +74,7 @@ Afterword
 
 
 
-INTRODUCTION
+## INTRODUCTION
 
 What questions must science be able to answer clearly and coherently in order to have the right to proudly say: “We have understood how this world works”?
 In my view, there are four such fundamental questions.
@@ -140,7 +140,7 @@ The aol model applies precisely this criterion — explanation of the mechanism 
 
 
 
-Chapter 1. WHAT THIS BOOK IS ABOUT
+## Chapter 1. WHAT THIS BOOK IS ABOUT
 
 From childhood, a person lives in a world that seems understandable. A stone falls downward. Fire gives heat. A light bulb shines. A magnet pulls iron. A battery produces electric current. All of this is so familiar that it rarely raises any questions. We use the phenomena of nature as if they were self-evident and seldom stop to consider what is actually happening behind them.
 But the moment we begin to ask even the simplest questions, this clarity disappears.
@@ -199,7 +199,7 @@ Because the true task of physics is not only to calculate the world, but also to
 
 
 
-Chapter 2. WHAT EXISTS IN THE WORLD
+## Chapter 2. WHAT EXISTS IN THE WORLD
 
 If you ask someone a simple question—“What is the world made of?”—
 the most likely answer will be: “Matter and energy.”
@@ -295,7 +295,7 @@ what exactly sets this matter in motion?
 
 
 
-Chapter 3. THE FUNDAMENTAL LAW OF PHYSICS
+## Chapter 3. THE FUNDAMENTAL LAW OF PHYSICS
 
 Let us begin not with formulas, and not with terminology.
 Instead, let us start with the simplest possible experience—one that every person encounters every day without even thinking about it.
