@@ -125,7 +125,7 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 39. Magnet. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-39-magnet-interaction-of-magnets)
 * [Chapter 40. Electricity, magnetism, and induction — a unified mechanism](/EN/10_chapters_38-42.md#chapter-40-electricity-magnetism-and-induction--a-unified-mechanism)
 * [Chapter 41. Ether](/EN/10_chapters_38-42.md#chapter-41-ether)
-* [Chapter 42. Matter: from primary particle to the Universe](/EN/10_chapters_38-42.md#chapter-42-matter-from-primary-particle-to-the-universe)
+* [Chapter 42. Matter: from the primary particle to the Universe](/EN/10_chapters_38-42.md#chapter-42-matter-from-the-primary-particle-to-the-universe)
 * [Chapter 43. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_43-48_and_afterword.md#chapter-43-expansion-of-galaxies--mechanism-of-acceleration)
 * [Chapter 44. Combustion](/EN/11_chapters_43-48_and_afterword.md#chapter-44-combustion)
 * [Chapter 45. Reactive motion](/EN/11_chapters_43-48_and_afterword.md#chapter-44-reactive-motion)
