@@ -1,5 +1,4 @@
-Chapter 43. THE RECESSION OF GALAXIES — 
-THE MECHANISM OF ACCELERATION
+## Chapter 43. THE RECESSION OF GALAXIES — THE MECHANISM OF ACCELERATION
 
 One of the most discussed phenomena in modern cosmology is the accelerating recession of galaxies. Observations show that galaxies are moving away from each other, and the farther a galaxy is, the faster it recedes. The recession is not just continuing — it is accelerating.
 Standard physics explains this through the so-called dark energy. Its nature is unknown, its mechanism is not described, and it cannot be directly observed. It is introduced solely because without it the acceleration cannot be explained. The observation exists — the mechanism does not.
@@ -36,7 +35,7 @@ The expansion of galaxies is not a mystery requiring new entities. It is a natur
 
 
 
-Chapter 40. COMBUSTION
+## Chapter 40. COMBUSTION
 
 What is combustion from the point of view of the aol model? It is a chain process of chemical reactions in which each act of atoms combining into a new molecule shakes the aol medium — and this shaking of the medium triggers the next reaction.
 Let’s examine this step by step.
@@ -56,7 +55,7 @@ Thus, combustion is not just chemistry. It is a mechanical process in which the 
 
 
 
-Chapter 45. REACTIVE MOTION
+## Chapter 45. REACTIVE MOTION
 
 Reactive motion seems intuitively clear. Something is thrown backward — the body moves forward. But what exactly provides the push? The answer is not as obvious as it seems.
 Let’s start with the simplest case.
@@ -82,7 +81,7 @@ Pressed — it moved. Braced — you get a response.
 
 
 
-Chapter 46. SUPERFLUIDITY
+## Chapter 46. SUPERFLUIDITY
 
 Superfluidity is observed only in liquid helium. 
 Helium liquefies at 4.4 K and becomes superfluid when cooled below 2.17 K — that is minus 271 degrees Celsius. 
@@ -107,8 +106,7 @@ There is no contradiction — just two different modes of motion with fundamenta
 
 
 
-Chapter 47. TWO FACTORS BEHIND THE EMERGENCE 
-OF THE BIG BANG THEORY
+## Chapter 47. TWO FACTORS BEHIND THE EMERGENCE OF THE BIG BANG THEORY
 
 The Big Bang theory in modern science is based on two main observed phenomena:
 1. Cosmic microwave background radiation.
@@ -165,8 +163,7 @@ This makes the explanation simpler, more consistent, and based on a single princ
 
 
 
-Chapter 48. CONCLUSIONS. 
-FOUNDATIONS OF A NEW PHYSICS
+## Chapter 48. CONCLUSIONS. FOUNDATIONS OF A NEW PHYSICS
 
 1. What exists in the Universe
 There is nothing in the Universe except moving and interacting matter.
@@ -238,7 +235,6 @@ The point of the Big Bang could not have dispersed, because there was nothing to
 Electrons cannot flow in a conductor by themselves, because without continuous contact action there will be no motion.
 In all these cases, modern science is forced to speculate.
 But in the new physics, the driver exists — aol space.
-
 
 4. What matter can and cannot do
 Matter cannot arise spontaneously.
@@ -438,7 +434,7 @@ This law makes it possible to immediately recognize incorrect explanations: if a
 
 
 
-AFTERWORD
+## AFTERWORD
 
 I do not consider myself a genius. I do not even consider myself particularly intelligent. I know that many people are much smarter than I am. 
 But I do consider myself a reasonable and clear-thinking person — one who seeks causes rather than being satisfied with effects. 
