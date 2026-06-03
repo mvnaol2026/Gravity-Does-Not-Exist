@@ -1,4 +1,4 @@
-Chapter 17. INERTIA
+## Chapter 17. INERTIA
 
 Every process is the motion of matter. Therefore, to understand any process, we must understand what matter is, how it is structured, and what motion itself is.
 We have already spoken about the structure of matter within the aolian model. Now it is time to examine motion.
@@ -123,7 +123,7 @@ Only at the level of bodies does what we are accustomed to call inertia appear.
 
 
 
-Chapter 18. MASS
+## Chapter 18. MASS
 
 Now that the mechanism of inertia is understood, we can define more precisely what mass is.
 Because without understanding how a body interacts with the aolian medium, it would be premature to speak of mass.
@@ -366,7 +366,7 @@ That is how it ought to be.
 
 
 
-Chapter 20. GRAVITATION
+## Chapter 20. GRAVITATION
 
 When we speak the word “gravitation,” an image of attraction almost automatically appears.
 Planets attract one another. A stone falls toward Earth. The Moon is “held” near Earth by attraction.
