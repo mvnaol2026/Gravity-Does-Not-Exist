@@ -1,4 +1,4 @@
-Chapter 21. TIDES AND EBBS
+## Chapter 21. TIDES AND EBBS
 
 There is a phenomenon that seems simple at first glance, yet raises questions upon closer inspection.
 This is tides and ebbs.
@@ -73,7 +73,7 @@ That is why the ocean forms two bulges rather than one.
 
 
 
-Chapter 22. WHAT MATTER IS CAPABLE OF
+## Chapter 22. WHAT MATTER IS CAPABLE OF
 
 What is matter capable of in official physics?
 Everything. Even things beyond logic.
@@ -129,7 +129,7 @@ There is only motion, contact, and pressure.
 
 
 
-Chapter 23. WHAT IS “ENERGY”
+## Chapter 23. WHAT IS “ENERGY”
 
 The word “energy” is familiar to everyone. It appears everywhere — in physics, technology, and everyday speech. Energy is transferred, stored, transformed. All of this seems self-evident. But ask a simple question — what exactly is energy? — and the usual clarity disappears.
 If energy exists as something real, then where is it located? What is it made of? How exactly is it transferred? Can it be shown as a separate object, isolated in pure form, independent of matter? No. We never observe energy itself. We observe only motion of matter or changes in its state. That alone — and nothing more.
@@ -150,7 +150,7 @@ Motion gives rise to motion. And the primary cause of all motion lies in aolian 
 
 
 
-Chapter 24. HEAT
+## Chapter 24. HEAT
 
 We are used to saying that heat is transferred. But if we think carefully — what exactly is being transferred? Not substance. Not thermal energy. What is transferred is motion. More precisely — oscillations.
 When one body is hotter than another, this means only one thing: its atoms are oscillating more intensely. If such bodies come into contact, a process of equalization begins. But it does not happen by itself — there is always a concrete mechanism behind it.
@@ -168,7 +168,7 @@ And at its foundation there always remains the same triad: contact, pressure, an
 
 
 
-Chapter 25. TEMPERATURE
+## Chapter 25. TEMPERATURE
 
 When a person says “warm” or “cold,” they are describing a sensation. But when they say “temperature,” it seems that they are speaking of something objective, precise, and measurable. And here a question arises that is rarely asked: what exactly are we measuring when we measure temperature?
 The usual answer — “the amount of thermal energy” — explains nothing. Because, as we have already discussed, no independent thermal energy exists in nature. There is only motion. More precisely — oscillation.
@@ -189,7 +189,7 @@ And what else must be understood about heat and temperature — a single aol has
 
 
 
-Chapter 26. LIGHT
+## Chapter 26. LIGHT
 
 Science states that light has a dual nature. It is both a wave and a поток of particles — photons. That is, a photon is simultaneously a particle and a wave. This duality is surprising.
 It did not appear immediately. At first, physicists considered light to be a wave — and this successfully explained interference, diffraction, and polarization. But later, the photoelectric effect was discovered, and the wave theory failed to explain it. As it turned out, the photoelectric effect could not be explained by the wave nature of light. In 1905, Einstein proposed that light consists of discrete portions of energy that travel and strike matter. Later, in 1926, the American physical chemist Lewis named them photons. For explaining the photoelectric effect, Einstein received the Nobel Prize.
