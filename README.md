@@ -83,6 +83,8 @@ A conceptual mechanical model of physical processes based on:
 20. **The world is unified**: The division into the microworld and the macroworld is arbitrary. It is caused by the limitations of human perception. The laws of the macroworld and the microworld are the same.
 21. **The Triad of Aol Physics**: Entities – Contact – Pressure. Any real process can only be understood when all three of these elements are identified within it.
 
+## 🇬🇧 Table of Contents
+
 * [Introduction](/EN/01_introduction_and_chapters_1-3.md#introduction)
 * [Chapter 1. What this book is about](/EN/01_introduction_and_chapters_1-3.md#chapter-1-what-this-book-is-about)
 * [Chapter 2. What exists in the world](/EN/01_introduction_and_chapters_1-3.md#chapter-2-what-exists-in-the-world)
