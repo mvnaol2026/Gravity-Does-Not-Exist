@@ -1,148 +1,218 @@
 ## Chapter 12. ATOMS — HOW MATTER IS BUILT FROM AOLS AND LUNOLS
 
 We have reached the point where the world begins to assemble itself.
+
 Until now, we had:
+
 — aols — smooth elements of the medium,
+
 — lunols — the same aols, but already possessing two dimples.
+
 And now the main question arises: how does an atom emerge from all this?
 Not as an abstract model of orbits and probability clouds, but as a real mechanical construction.
 
-1. The Simplest Idea of an Atom
+**1. The Simplest Idea of an Atom**
+
 Let us begin with the simplest case.
 We have a lunol—an object with two opposite dimples.
 What can happen next?
 Other elements may enter these dimples.
 The simplest possibility is that one aol enters each dimple.
+
 We then obtain an elementary construction:
+
 — one lunol,
+
 — two aols fixed within its dimples.
+
 If one-dimple lunols do indeed exist, then the simplest atom would be such a one-dimple lunol together with one aol.
 Perhaps this is the atom of Hydrogen (protium).
+
 And the atom of Helium may have the form of a “square,” in which four lunols and four aols occupy the corners of that square.
 This would be a stable and inert particle, difficult to alter, and unwilling to enter chemical reactions because of its closed structure.
+
 It is important to understand what holds the aols inside the dimples of lunols.
 Not a “binding force,” not “binding energy.”
 But the pressure of aolian space.
 The medium presses from all sides, and if an aol fits into the geometry of a dimple, it is held there by external pressure.
+
 But one lunol and two aols form a very simple and not especially strong construction.
 Such an aol may be knocked out.
 It may be replaced by another.
 And yet the very “idea of the atom” would remain intact.
+
 This is a very important point.
 Because it shows that an atom is not a rigid little ball, but a construction.
 
-2. A More Interesting Case — A Lunol Inside a Dimple
+**2. A More Interesting Case — A Lunol Inside a Dimple**
+
 Now we come to a key extension.
 Not only an aol may enter the dimple of a lunol.
 Another lunol may enter it by its spherical side.
 And this would occur not merely “sometimes,” but rather often, because lunols are the same elements of the medium, only already deformed.
 What happens in such a case?
+
 Imagine:
+
 — we have one lunol,
+
 — into its dimple enters another lunol by its spherical side.
+
 And here the most interesting part begins.
 
-3. What Arises from Such a Connection
+**3. What Arises from Such a Connection**
+
 When a lunol enters the dimple of another lunol, the result is no longer a linear construction, but a node.
 Let us examine the geometry.
+
 For the first lunol:
+
 — one dimple is occupied,
+
 — the second remains free.
+
 For the second lunol:
+
 — one of its sides has entered the dimple,
+
 — yet it still retains its own two dimples.
+
 In total, the resulting construction now possesses three free dimples.
 This is a very important moment.
 Because it is precisely here that the possibility of branching appears.
-4. Branching — the Key to the Diversity of Matter
+
+**4. Branching — the Key to the Diversity of Matter**
+
 Until now, if only aols entered the dimples, constructions would be mostly linear: lunol – aol – lunol, and so on.
 But as soon as a lunol enters the dimple of another lunol, the structure begins to branch.
+
 Now several elements can be attached to a single construction at once:
+
 — into one dimple,
+
 — into the second,
+
 — into the third.
+
 And into each of them there may enter either an aol or another lunol.
 Here the true “tree” of matter begins.
+
 One may picture it this way:
+
 — one lunol creates a node,
+
 — new branches extend from the node,
+
 — each branch may branch again.
+
 And all of this is held together not by “binding forces,” but by the pressure of the medium, which presses the elements against one another.
 
-5. Why It Does Not Immediately Fall Apart
+**5. Why It Does Not Immediately Fall Apart**
+
 At this point, the reader may ask the proper question: if everything is held only by pressure, why does the construction not collapse?
+
 The answer lies in geometry.
 If elements merely touch, then yes—they are easy to separate.
 But if one element enters the depression of another, mechanical fixation arises.
 And if many such fixations exist and mutually support one another, the construction becomes stable.
+
 A simple analogy may be useful.
 One sphere resting in a hollow is easy to dislodge.
 But if the sphere is clamped by several elements, it becomes harder.
 And if a system of mutual interlocks arises, it becomes stable.
 The same happens here.
 
-6. Why Constructions Differ
+**6. Why Constructions Differ**
+
 It now becomes clear where the diversity of matter comes from.
 Not because there exist “different particles.”
 But because the same elements may connect in different ways.
+
 Several factors matter:
+
 — where exactly contact occurred,
+
 — at what angle,
+
 — which dimples are occupied,
+
 — which remain free.
+
 From this, different structures are born.
 One may say that matter is the geometry of connections.
 
-7. Stable and Unstable Constructions
+**7. Stable and Unstable Constructions**
+
 But another question arises.
 If there are so many possible ways to connect, why do we not see endless chaos of forms?
 Because selection operates.
 Not conscious.
 Not “intelligent.”
 But mechanical.
+
 Stable constructions remain.
 Unstable ones break apart.
+
 If a construction is poorly fixed and cannot withstand the vibrations of the medium, then it simply does not persist.
 But if the interlocks are favorable, the geometry stable, and the pressure of the medium assists retention, then such a construction survives.
-This is a kind of natural selection of forms.
+This is a kind of **natural selection of forms.**
 
-8. Why Large Constructions Are Less Stable
+**8. Why Large Constructions Are Less Stable**
+
 Another important point now becomes clear.
 Excessively large constructions often turn out to be less stable.
 Why?
 Because the number of weak points increases, the probability of failure rises, and it becomes harder to maintain coordinated geometry.
+
 And this later manifests itself as Radioactive decay.
 That is, large structures may break apart into simpler and more stable ones.
 
-9. The Role of Aolian Space
+**9. The Role of Aolian Space**
+
 It is now important to return to the medium.
 Atoms do not exist by themselves.
 They are formed within the medium, held together by the medium, and altered under the action of the medium.
+
 Aolian space presses the elements together, transmits vibrations, may destroy constructions, and may assist their rearrangement.
 Thus, an atom is not a “closed system.”
 It is a node within the vibration of the medium.
 
-10. We Can Now Formulate the Key Understanding
+**10. We Can Now Formulate the Key Understanding**
+
 An atom is not a little ball. Not a “particle.” Not a point.
 An atom is a construction.
+
 More precisely, a construction that is:
+
 — mechanical,
+
 — geometrical,
+
 — held together by pressure.
+
 And this radically changes the view of matter.
 
-11. What This Makes Possible
+**11. What This Makes Possible**
+
 Once we understand the atom as a construction, explanations immediately become possible for:
+
 — chemical reactions,
+
 — changes of substances,
+
 — conductivity,
+
 — strength,
+
 — phase transitions.
+
 Because these are no longer the “magic of interactions.”
 They are rearrangements of structure.
 
-12. Main Conclusion
+**12. Main Conclusion**
+
 In the aolian model, atoms are mechanical structures built from lunols and aols, held together by the pressure of aolian space.
+
 The key element is the lunol, because its dimples create the possibility of fixation.
 An especially important role is played by the joining of lunols to one another—when one lunol enters the dimple of another, a node arises with several free dimples.
 It is precisely such nodes that make branching possible and create the foundation for the diversity of matter.
@@ -157,105 +227,140 @@ An atom is not a “little ball,” but a construction.
 More precisely, a construction capable of interlocking.
 And what happens when such constructions begin interacting with one another?
 
-1. Atoms Do Not “Hang in Empty Space”
+**1. Atoms Do Not “Hang in Empty Space”**
+
 Let us begin with a simple but important clarification.
 Atoms do not exist in emptiness.
 They exist within aolian space.
+
 And this means:
+
 — pressure constantly acts upon them,
+
 — vibrations constantly act upon them,
+
 — they constantly experience impacts from the medium.
+
 Thus, an atom is not a calm object.
 It is an object always under influence.
 And therefore, it cannot simply “rest beside” another atom without interacting in some way.
 
-2. What Happens When Atoms Collide
+**2. What Happens When Atoms Collide**
+
 Imagine two atoms.
 They move through aolian space.
 They collide.
 And then two possibilities arise.
+
 Case 1: Unfavorable Geometry
 If their shapes and protrusions do not match, an ordinary collision occurs.
 They strike, transfer motion, and separate.
 That is all.
 No bond is formed.
+
 Case 2: Favorable Alignment
 But if the geometry happens to match...
 If the dimple of one atom “fits,” and the protrusion of the other “settles into place,” then interlocking occurs.
+
 And here a very important point appears:
+
 — the atoms do not “attract” one another,
+
 — they interlock and are held together by the medium.
 
-3. What Holds a Molecule Together
+**3. What Holds a Molecule Together**
+
 It is very important to understand what keeps atoms together.
 Not a “binding force.”
 Not “energy.”
 They are held together by the pressure of aolian space.
 The medium presses from all sides.
+
 And if atoms have entered one another’s geometry, the medium:
+
 — presses them together,
+
 — fixes them in place,
+
 — prevents them from separating.
+
 One may say that a molecule is a construction clamped by the medium.
 
-4. Why Not All Atoms Join Together
+**4. Why Not All Atoms Join Together**
+
 Now comes an important question.
 If everything is so simple, why do atoms not stick together into one enormous mass?
 Because geometry does not always fit.
+
 Some atoms have good “interlocks,” while others have poor ones.
 If the interlock is weak or awkward, the atoms separate easily, and the medium cannot hold them together.
 
-5. The Role of Vibrations
+**5. The Role of Vibrations**
+
 Now let us add another factor—vibrations.
 Aolian space is constantly oscillating.
 These oscillations are transmitted to atoms.
 If the vibrations are strong, the atoms are shaken, the interlocks break, and the bonds do not hold.
+
 If the vibrations are weaker, the atoms may remain joined, and constructions become more stable.
 This is the key to understanding states of matter.
 But we shall come to that in the next chapter.
 
-6. The Strength of a Molecule
+**6. The Strength of a Molecule**
+
 Now let us examine what determines the strength of a molecule.
 It depends not on “force,” but on the geometry of interlocking.
 Some interlocks are simple, and therefore weak.
 Others are complex and mutual, and therefore strong.
+
 If atoms are joined at only one point, the bond is easy to break.
 If they are joined at several points, they are far more stable.
 Thus, strength depends on the quality of the construction.
 
-7. A Molecule Is Also a Construction
+**7. A Molecule Is Also a Construction**
+
 It is important not to lose the logic.
 An atom is a construction.
 A molecule is also a construction.
 Simply a larger one.
 And in exactly the same way, it may be rearranged, broken apart, or changed.
 
-8. The Destruction of Molecules
+**8. The Destruction of Molecules**
+
 Molecules are not eternal.
 If pressure increases and vibrations intensify, the interlocks may be broken.
 Then the molecule falls apart into atoms or rearranges into a new molecule.
 
-9. Why Chemical Reactions Are Possible
+**9. Why Chemical Reactions Are Possible**
+
 It now becomes clear what a chemical reaction is.
 It is not an “exchange of energy.”
 It is not a “rearrangement of electrons.”
 It is a rearrangement of construction.
+
 Atoms leave old interlocks and enter new ones.
 And thus a new molecule is formed.
-10. Why Everything Is Not Chaotic
+
+**10. Why Everything Is Not Chaotic**
+
 It may seem that this should produce chaos.
 But it does not.
 Because stable constructions repeat themselves.
+
 If a certain geometry is held well, it arises again and again, and it persists.
 That is how stable substances appear.
 
-11. The Role of Aolian Space — Once Again
+**11. The Role of Aolian Space — Once Again**
+
 It is very important not to forget: molecules do not hold themselves together.
 They are held by the medium.
+
 If aolian space were removed, no molecules could exist—atoms would simply fly apart. The medium is not the background against which chemistry unfolds. The medium is what makes chemistry possible.
 
-12. Main Conclusion
+**12. Main Conclusion**
+
 Molecules are mechanical constructions of atoms that interlock through their geometry and are held together by the pressure of aolian space.
+
 The bond between atoms is not a “force,” but the result of form, interlocking, and the pressure of the medium.
 
 
@@ -265,37 +370,57 @@ The bond between atoms is not a “force,” but the result of form, interlockin
 ## Chapter 14. GAS, LIQUID, AND SOLID — HOW MATTER BEHAVES
 
 Around us exists the familiar world. There is air—light, transparent, almost unnoticed. There is water—it flows and takes the shape of its container. There is stone—hard, heavy, and able to preserve its form.
+
 From childhood, we are taught to call these the three states of matter: gas, liquid, and solid.
 But what is the real difference between them?
 If matter is built from atoms, and atoms themselves are constructions made of simpler elements, why can the same fundamental building units behave so differently?
+
 This is where an important understanding begins.
 It is customary to speak as though there are separate “states of matter” divided by clear boundaries. But if we think mechanically, doubt immediately appears. Where exactly is that boundary? At what moment does water cease to be a liquid and become vapor? In what second does metal cease to be solid and begin to melt?
+
 In reality, no mystical boundary exists. There is only a gradual change in the behavior of material constructions.
 That behavior is determined by two main factors: how strongly the elements are interlocked with one another, and how strongly they are shaken, disturbed, and broken apart by the surrounding medium.
+
 From this balance arise all the familiar states of matter.
 Let us imagine not a schoolbook picture, but a living process. Space is completely filled with the aols of the medium. They are in constant motion, transmitting pressure, creating vibrations, and colliding. Within this medium exist atoms and molecules. They too are never at rest: they collide, separate, join together, and rearrange.
+
 This is not a motionless museum of substance. It is continuous movement.
 If the bonds between atoms are weak and the vibrations are strong, no stable structure can endure. Particles collide, transfer motion, and fly apart again. This is how gas behaves.
+
 Gas does not hold its shape, occupies all available volume, and is easily compressed—not because it is some special mystical state, but because its elements are weakly connected or scarcely connected at all.
+
 If external vibrations become more moderate, and the interlocking between atoms begins to hold, a different picture appears. The elements join, but not permanently. Bonds may break and form again. The construction exists, yet remains mobile.
 This is how liquid behaves.
+
 It no longer disperses like gas, but it does not yet possess the rigidity of a solid. Therefore, liquid preserves its volume while easily changing shape and flowing.
+
 If the interlocks become sufficiently strong, and vibrations are no longer enough to destroy them, a stable network of mutual retention appears. Each element is supported by its neighbors, and the whole structure resists destruction.
 Thus a solid is formed.
+
 It preserves its shape, resists deformation, and allows only small internal oscillations of its elements.
+
 The transitions between gas, liquid, and solid are not magic, nor the transformation of one essence into another. They are changes in the balance between cohesion and disruption.
+
 When vibrations intensify, bonds weaken and break apart. Then a solid becomes liquid, and liquid becomes gas.
+
 When vibrations diminish, the elements gain the ability to hold together more firmly. Then gas condenses into liquid, and liquid hardens into solid.
+
 What is usually called temperature may, in this picture, be understood not as some independent “energy,” but as the degree of intensity of motion and vibrations transmitted by the medium to material constructions.
+
 The more strongly the medium shakes atoms and molecules, the higher the temperature of the process.
+
 This can be seen especially clearly in a simple example.
 Ice is a stable structure in which the elements are well fixed. As vibrations increase, some of the bonds begin to fail. The rigid framework loses stability, and ice becomes water.
 If the influence continues, the bonds weaken further, and the system breaks into freely moving elements. Thus water becomes vapor.
+
 There is no need in all this to introduce mysterious stores of internal energy. There is construction, there is motion, there is transmission of motion, and there is the ability of a construction either to remain intact or to break apart under the influence of the medium.
+
 And here we arrive at a fundamental conclusion.
 The primary driver of processes is the medium itself.
 It is aolian space that presses, vibrates, transmits motion, destroys some structures, and helps others assemble.
+
 Not “forces” as independent entities, not abstract fields, but a real material medium existing in continuous motion.
+
 If one feels this picture as a whole, the world ceases to be a collection of disconnected terms and becomes a unified mechanical system in which everything is explained through contact, pressure, and motion.
 
 
@@ -306,42 +431,66 @@ If one feels this picture as a whole, the world ceases to be a collection of dis
 
 Let us take one more step deeper.
 There is a fact long known to science that carries enormous importance for understanding the nature of the world. If followed to its full meaning, many phenomena begin to assemble into a unified picture.
+
 It concerns the vibrations of atoms.
 Modern physics states that atoms are never in complete rest. They are constantly engaged in oscillatory motion. Even when a body is cooled nearly to absolute zero. Even in the cold of outer space. Even where, it would seem, everything ought to be frozen still.
-And here the scale of these processes is especially important. Characteristic frequencies of atomic vibrations reach the order of 10¹³ hertz—trillions of oscillations per second.
+
+And here the scale of these processes is especially important. Characteristic frequencies of atomic vibrations reach the order of 10¹³ hertz — trillions of oscillations per second.
 It is worth pausing to reflect on that number.
 Trillions of motions every second.
+
 And then a natural question arises: where does all of this come from?
 If the atom is a construction, if it contains no internal engine, if motion does not arise by itself, then what causes it to tremble and oscillate continuously?
+
 Conventional physics records the fact of these vibrations and relates them to the internal energy of atoms. But if we ask more precisely, another difficulty appears immediately: where exactly is that energy located? In what form does it exist? What is its carrier?
+
 The aolian model proposes another path of understanding.
 Space is not empty. It is filled with the aols of the medium. This medium exists under pressure, transmits influences, and remains in continuous vibration. Atoms do not exist separately from it, but within it.
+
 Therefore, the atom is constantly subjected to external influences.
 It receives countless microscopic pushes, impacts, and oscillatory impulses from the surrounding medium. And like any construction, it cannot fail to respond to them.
+
 Thus, the atom vibrates not because some independent source of motion is hidden inside it, but because the medium acts upon it without interruption.
+
 A simple image may help.
 If a ball lies motionless, it remains at rest. But if it is constantly struck from all sides, it begins to tremble, vibrate, shift, and bounce. The more frequent and intense the impacts, the more active its motion becomes.
+
 In this analogy, the atom is like that ball, and aolian space is the medium continually acting upon it.
+
 Then the origin of such enormous frequencies becomes easier to understand.
 If the medium itself is capable of transmitting extremely rapid oscillations, the atom merely responds to them. It is not the source of those motions, but their conductor and participant.
+
 And this applies to all matter without exception.
 Vibrations occur not only in metal, stone, or gas. They also occur in living bodies. Every atom of the organism likewise exists in continuous micro-motion, experiences the pressure of the medium, and responds to it.
+
 A person does not feel this only because such a process is background, constant, and has accompanied us since birth.
+
 From this follows an important conclusion.
 The atom does not store within itself some independent reserve of motion as a separate essence. It does not create motion out of nothing. It receives motion, passes it onward, and rearranges it within the limits of its own construction.
+
 What is usually called the energy of the atom, in such a picture, is not a separate entity, but a way of describing the atom’s participation in motion and interactions.
+
 Another well-known fact also becomes clearer: even at temperatures close to absolute zero, motion does not disappear completely.
+
 If the medium exists everywhere and vibrates continuously, then its influence cannot be entirely “switched off.” As long as aolian space exists, atoms will retain their oscillations.
+
 One may add a broader conclusion as well: the magnitude of what we call absolute zero is connected not to some magical boundary of nature, but to the background level of the medium’s influences. 
 If the fundamental vibrations of aolian space were weaker, the lowest possible temperature would appear differently.
+
 We may now understand heating more precisely.
 When we heat a body, we do not “pour” a special substance of energy into atoms. We alter the conditions of external influence. The medium begins transmitting more intense oscillations to the construction.
+
 As a result:
+
 — the motion of elements increases,
+
 — previous bonds weaken,
+
 — the structure of matter changes.
+
 Thus, a simple conclusion may be stated.
 The atom is a passive element in the sense that it does not move itself. Its motion is always caused by influence from outside.
+
 In the aolian model, the universal source of such influence is aolian space.
 If one keeps only a single main thought in mind, let it be this:
 motion in nature does not arise from inside objects by itself. It comes through interaction.
@@ -354,32 +503,47 @@ Therefore, when we observe motion, we should seek not an abstract “energy with
 ## Chapter 16. CHEMICAL PROCESSES
 
 When people speak of chemistry, they usually imagine that some substances “react” with others, transform into something new, combine, or break apart. But if we ask the simplest question—why does a reaction happen at all, what exactly causes matter to change?—a clear mechanical answer is usually not given.
+
 Most often we hear words such as “bond energy,” “activation energy,” “orbital overlap,” or “electron redistribution.” All of this may serve as a language for describing observed phenomena, but it does not reveal the mechanism of what is taking place. It tells us that the process can be calculated, but not always what is physically happening to matter.
+
 If, however, we look at chemistry as the motion and rearrangement of material constructions, the picture becomes far simpler and more vivid.
+
 At the basis of every chemical reaction lies the rearrangement of atomic structures.
 In the aolian model, the atom is not an abstract probability cloud or a point-like object, but a real mechanical construction assembled from lunols and aols. These elements are held together by the geometry of their connections and by the pressure of the surrounding medium. Such a construction is capable of changing position, turning slightly, deforming, entering new interlocks, and leaving old ones.
+
 But matter itself is passive.
 This means that an atom does not begin to rearrange without cause. Every change requires an external influence. And once again, that influence is aolian space.
+
 It acts continuously upon atoms, transmitting vibrations and microscopic impulses. These oscillations shake the elements of the construction, create tiny displacements, generate internal tensions, and constantly bring the system toward the possibility of rearrangement.
+
 Under ordinary conditions, such influence is often insufficient to destroy the old structure immediately. But it is enough to ensure that the construction is never absolutely motionless.
+
 Now let us imagine two atoms brought near one another.
 Their constructions begin to interact not mysteriously at a distance, but through the medium, through contact, and through transmitted pressure. The oscillations of one atom are partially conveyed to the other, mutual influence increases, and if the geometry proves favorable, the possibility of union appears.
+
 At a certain moment, one element of the construction may enter a corresponding dimple of the other. A mechanical interlock arises. The pressure of the medium helps retain the new configuration.
 Thus, a molecule is formed.
+
 But this does not happen randomly, nor does it happen always. Successful union requires several conditions to coincide: suitable geometry, sufficient mobility of the elements, the possibility of close approach, and the presence of external pressure capable of fixing the result.
 If even one of these conditions is absent, no stable union arises.
+
 Now let us consider the reverse process.
 If external oscillations intensify, an existing bond begins to loosen. The construction experiences increasing displacements, tensions grow, the interlock weakens, deforms, and eventually breaks.
+
 Then the atoms separate or pass into a new configuration.
 This is decomposition or chemical transformation.
 Therefore, any chemical reaction may be regarded as the balance of two opposite processes: the formation of new bonds and the destruction of old ones.
 And both processes depend on the intensity of the medium’s oscillations.
+
 It now becomes clear why temperature so strongly influences the rate of chemical reactions.
 Within the aolian model, an increase in temperature means a strengthening of the oscillatory influence of the medium upon atomic constructions. The elements move more actively, old bonds break more easily, and the probability of new collisions and successful interlocks increases.
 That is why reactions usually proceed faster.
+
 Yet the source of the process remains the same.
 Atoms do not “store energy within,” do not possess an inner desire to unite, and do not perform miraculous transformations by themselves.
+
 They exist under the continuous influence of aolian space: they vibrate, collide, enter interlocks, leave them, and rearrange themselves.
 That is what we call chemistry.
 Put very simply, a chemical reaction is the mechanical rearrangement of atomic constructions caused by the oscillations of the medium.
+
 And at the foundation of this process, as in all of nature, lie three things: contact, pressure, and motion.
