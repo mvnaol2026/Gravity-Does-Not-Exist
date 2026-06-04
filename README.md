@@ -141,7 +141,7 @@ A conceptual mechanical model of physical processes based on:
 ## 📚 Repository Structure
 
 ### 🇬🇧 English Version (`/EN/`)
-* [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — TOC, Introduction, and Chapters 1–3.
+* [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
 * [02_chapters_4-6.md](EN/02_chapters_4-6.md) — Chapters 4–6.
 * [03_chapters_7-9.md](EN/03_chapters_7-9.md) — Chapters 7–9.
 * [04_chapters_10-11.md](EN/04_chapters_10-11.md) — Chapters 10–11.
@@ -284,7 +284,7 @@ A conceptual mechanical model of physical processes based on:
 ## 📚 Репозиторий 
 
 ### Russian Version (`/RU/`)
-* [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — Оглавление, введение и главы 1–3 / TOC, introduction & chapters 1-3.
+* [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — От автора, оглавление, введение и главы 1–3 / Preface, TOC, introduction & chapters 1-3.
 * [02_chapters_4-6.md](RU/02_chapters_4-6.md) — Главы 4–6 / Chapters 4-6.
 * [03_chapters_7-9.md](RU/03_chapters_7-9.md) — Главы 7–9 / Chapters 7-9.
 * [04_chapters_10-11.md](RU/04_chapters_10-11.md) — Главы 10–11 / Chapters 10-11.
