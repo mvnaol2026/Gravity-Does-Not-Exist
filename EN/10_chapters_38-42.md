@@ -345,36 +345,42 @@ Let us try a different approach. Let us take Occam’s razor — the principle o
 
 **Ten questions about primary matter**
 
-First question: what is matter made of?
+**First question: what is matter made of?**
+
 Two possibilities. Either matter is a single continuous mass occupying the entire Universe. Or it consists of tiny primary particles.
 
 A continuous mass is an obvious absurdity. We would be sitting inside it like insects in amber and would not be reasoning about anything.
 
 Conclusion: matter consists of tiny primary particles.
 
-Second question: is the entire volume of the Universe filled with matter?
+**Second question: is the entire volume of the Universe filled with matter?**
+
 Two possibilities. Either matter occupies only part of space, leaving vast empty regions. Or it fills everything.
 
 If there is emptiness — why? Why is matter located exactly there and in that way? What created these islands in an infinite void? There is no logical answer. Nature does not tolerate emptiness — this is not a poetic metaphor, but a mechanical principle: if matter exists, there is no reason for its absence somewhere.
 
 Conclusion: matter fills the entire volume of the Universe.
 
-Third question: does matter possess intelligence?
+**Third question: does matter possess intelligence?**
+
 No. Matter is substance. It does not think, does not plan, does not set goals. Everything that happens to matter is the result of mechanics, not intention.
 
 Conclusion: matter is passive and acts only according to mechanical laws.
 
-Fourth question: can primary matter be of several types?
+**Fourth question: can primary matter be of several types?**
+
 The existence of multiple types of primary matter would imply some kind of design — someone would have decided in advance how many types there should be and what they should be like. This leads to the idea of God. And God raises the question of where God came from — and there is no answer and cannot be one. Self-sufficient matter does not require a creator.
 
 Conclusion: primary matter is uniform — one type of primary particle.
 
-Fifth question: what can matter do?
+**Fifth question: what can matter do?**
+
 Only one thing — move. This is shown by all our observations of the world.
 
 Conclusion: the only ability of matter is motion.
 
-Sixth question: what shape are primary particles?
+**Sixth question: what shape are primary particles?**
+
 Cubes and parallelepipeds would form a single monolith — flat faces fit tightly together, and motion inside such a system would be impossible. Shapeless particles lead to the same problem — a lump. Cones are too artificial.
 
 Spheres are the only shape that simultaneously ensures dense filling of space and the possibility of mutual movement. A sphere is the most natural geometric form without privileged directions.
@@ -384,19 +390,22 @@ Absolutely rigid ones would not be able to form any structures — they would al
 
 Conclusion: primary particles are elastic spheres of high but not infinite rigidity.
 
-Seventh question: do primary particles have complex properties — charge, magnetism, gravity?
+**Seventh question: do primary particles have complex properties — charge, magnetism, gravity?**
+
 Why would primitive matter need such complexities? Where would charges come from in mindless substance — if no one even knows what a charge really is? Complex properties of primary particles imply a complex design. But there is no design.
 
 Conclusion: primary particles have no complex properties. They have only shape and rigidity.
 
-Eighth question: how do atoms arise from primary particles?
+**Eighth question: how do atoms arise from primary particles?**
+
 Standard physics proposes hundreds of different particles with complex properties that somehow assemble into atoms. How they assemble is unknown. There is no mechanism.
 
 The aol model proposes something different. Two types of elements: smooth spheres and spheres with two indentations formed under pressure. From these, under pressure and vibration, stable structures — atoms — self-organize. Without design. Without complex properties. Pure mechanics.
 
 Conclusion: atoms are built from one type of primary particle through deformation and self-organization under pressure.
 
-Ninth question: can an empty object be solid?
+**Ninth question: can an empty object be solid?**
+
 The standard atom is almost entirely empty. The nucleus occupies a negligible fraction of its volume. Electrons move somewhere at the edges. Everything else is emptiness.
 
 But emptiness cannot be solid. This contradicts all mechanical experience. Solidity is resistance to compression. Only something that exists can resist. Emptiness resists nothing.
@@ -405,7 +414,8 @@ In the aol model, atoms are solid because they are filled with solid primary par
 
 Conclusion: emptiness cannot be solid and incompressible, so atoms cannot be empty.
 
-Tenth question: does a mechanism of attraction exist?
+**Tenth question: does a mechanism of attraction exist?**
+
 Draw two spheres at a distance. Try to imagine how one pulls the other — without contact, without a mediator, through emptiness. No such mechanism exists. In real life, we never encounter attraction — only pressure and push.
 
 But a mechanism of compression does exist — it is the pressure of the aol medium. Bodies move closer not because they pull each other, but because the medium presses them together where the pressure is lower.
