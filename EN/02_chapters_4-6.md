@@ -4,20 +4,26 @@ Let us take a very simple step.
 For now, we will not descend into the microworld.
 We will not speak yet about atoms, aols, fields, or anything of that kind.
 Let us remain in the world you already see every day.
+
 Look around you.
 A table. A chair. A cup. Water. Air.
 You are already living inside physics.
 You interact with it constantly.
 You use it every day.
+
 And if you look carefully at what is happening around you, one very simple fact becomes visible.
 Everywhere, the same principle is at work.
 Wherever you look, everything comes down to one thing: something is pressing on something.
+
 Let us examine this slowly, step by step.
-Solid bodies are the most straightforward kind of mechanics.
+
+**Solid bodies are the most straightforward kind of mechanics**
+
 Let us begin with the most obvious case.
 You push a wardrobe.
 You brace your feet against the floor, your hands against the wardrobe, and you apply pressure.
 The wardrobe moves.
+
 There is nothing mysterious in this process.
 You feel the pressure.
 You understand what is happening.
@@ -27,18 +33,22 @@ If the pressure is increased, it moves faster.
 If your footing is poor, you simply slide instead of moving the wardrobe.
 Everything is completely clear: there is contact, there is pressure, there is motion.
 That is classical mechanics.
+
 The kind of mechanics a person knows from childhood.
 Now notice something important.
 No one is tempted to explain the motion of a wardrobe by invoking a “field,” “energy,” or some “inner tendency of the wardrobe to move.”
 That would be absurd.
 Here, everything is visible.
-Now let us consider liquids—the same mechanics, only in flowing form.
+
+**Now let us consider liquids—the same mechanics, only in flowing form**
+
 Take water.
 You press on the plunger of a syringe, and the water moves.
 What is happening?
 You are pressing on the water.
 The water transmits pressure.
 And somewhere farther along, something is displaced.
+
 If water did not transmit pressure, hydraulics would not exist.
 There would be no pumps.
 No plumbing systems.
@@ -46,10 +56,13 @@ No hydraulic mechanisms.
 But water does transmit pressure.
 Why?
 Because its particles are in contact and press on one another.
-Once again, we arrive at the same thing: contact, pressure, motion.
+
+Once again, we arrive at the same thing: **contact, pressure, motion.**
 The only difference is that now we are not dealing with a solid object, but with a medium.
 And yet the principle has not changed by even a fraction.
-Gases are no longer visible—but everything works in exactly the same way.
+
+**Gases are no longer visible—but everything works in exactly the same way**
+
 Air cannot be grasped by hand, and it cannot be seen, yet it participates in mechanics just as much.
 Take a pump.
 You compress the air—and it exerts pressure.
@@ -57,74 +70,115 @@ You open a valve—and the air rushes out.
 Air can move objects.
 It can destroy structures.
 It can lift aircraft.
+
 But how does it do this?
 Through pressure.
 The only difference is that the particles are farther apart, their motion is more chaotic—but the principle remains the same.
+
 And this is where something very important happens.
 We have now entered a domain where the object is not visible, the motion is not obvious, and the structure is hidden.
 Yet the logic still holds.
+
 This is a crucial transition.
 Because now a fundamental question arises.
-What if everything is built in the same way?
+
+**What if everything is built in the same way?**
+
 We already see three levels:
+
 1. solids;
+
 2. liquids;
+ 
 3. gases.
-And in all three cases, the same principle applies: contact — pressure — motion.
+
+And in all three cases, the same principle applies: **contact — pressure — motion.**
 Without exception.
 There is no “action at a distance.”
 There is no “by itself.”
 There is no “just because.”
+
 And here the essential question must be asked.
 Why should it stop here?
+
 Why should we assume that:
+
 — at the level of solids, mechanics applies;
+
 — at the level of liquids, mechanics still applies;
+
 — at the level of gases, mechanics continues to apply;
+
 and then suddenly:
+
 — fields appear without a carrier;
+
 — energy appears as some kind of independent “thing”;
+
 — attraction appears without contact.
+
 Why?
 Because we cannot see it?
 But we cannot see gas molecules either.
 And yet that does not prevent them from operating according to mechanical laws.
-And this is where a fourth level of mechanics appears.
+
+**And this is where a fourth level of mechanics appears.**
+
 This is not an assumption made out of nothing.
 It is a continuation of an already observed pattern. If the same principle operates everywhere we are able to observe, then it is this principle that should be treated as fundamental. And if we follow that logic further, a natural conclusion emerges: space is not empty. It, too, consists of elements. These elements also interact. And they also transmit pressure.
-In other words, there exists another level of mechanics—a fourth kind of mechanics.
+
+In other words, there exists another level of mechanics — a fourth kind of mechanics.
 Not the mechanics of solids, not of liquids, and not of gases, but of a deeper medium.
-In this book, that medium is called aolic space.
+
+In this book, that medium is called **aolic space.**
+
 And if it truly exists, then:
+
 — it is this medium that transmits light;
+
 — it is this medium that underlies electrical processes;
+
 — it is this medium that produces magnetic effects;
+
 — it is this medium that presses bodies together (gravitation);
+
 — it is this medium that sustains motion where it seems that “nothing is acting.”
-In other words, the fourth kind of mechanics is not something separate—it is the foundation of all the others.
+
+In other words, the fourth kind of mechanics is not something separate — **it is the foundation of all the others.**
+
 If we put everything together, a simple and powerful picture emerges.
 There are no different “types of interaction” in the world.
 There is one and the same mechanism.
+
 It manifests itself:
+
 — in solids;
+
 — in liquids;
+
 — in gases;
+
 — and in a deeper medium.
+
 And everywhere, it is the same.
-It follows the fundamental law of physics: press—and it moves.
+It follows the fundamental law of physics: **press — and it moves.**
+
 Why is this important?
 Because it removes the apparent chaos from physics.
 Instead of a collection of separate explanations—one here, another there, a third somewhere else—there emerges a single, unified logic.
+
 This means that nature does not change its principles from one level to another.
 If contact and pressure operate at every observable level,
 there is no reason to assume that at a deeper level the mechanism suddenly becomes different.
+
 At that point, physics ceases to be a collection of disconnected rules.
 It becomes an understandable system with a common principle—a single law of motion.
 Nature is not required to conform to the limits of our perception.
 If we do not see something, it does not mean that it does not exist.
-We do not see air—and yet it exists.
-We do not see molecules—and yet they exist.
+We do not see air — and yet it exists.
+We do not see molecules — and yet they exist.
 So why should space be empty and introduce unexplained rules into the motion of matter?
+
 This question will become central in the next chapter.
 Because the next step will change everything: from “empty space” to a medium that exerts pressure.
 And it is there that the real physics of this model begins.
