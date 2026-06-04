@@ -461,8 +461,7 @@ If nothing is pressing on it, why does it not stop immediately?
 This brings us to the central law that will form the foundation of this book.
 Let me first state it precisely, and then in simpler terms.
 
-### **The fundamental law of physics: the motion of an object is possible only when there is
-unbalanced, contact-based, and continuous pressure exerted by another object.**
+### The fundamental law of physics: the motion of an object is possible only when there is unbalanced, contact-based, and continuous pressure exerted by another object.
 
 This may sound formal, but let us break it down.
 There are only three key elements: contact, imbalance, and continuity.
