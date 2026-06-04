@@ -1,43 +1,60 @@
 ## Chapter 33. TRANSFER OF ELECTRIC CHARGE
 
 When people speak about the transfer of charge, they usually imagine that some “thing” — charge — moves from one body to another. But in the aol model, there is nothing to transfer. There is no separate substance. There is only motion of matter.
+
 Therefore, the question must be posed differently: what exactly is transferred when charge is transferred?
 The answer: an organized rotational state of motion, supported by aol space, is transferred.
 
-Contact of two bodies
+**Contact of two bodies**
+
 Let us consider two bodies. One of them is charged, the other is not.
 A charged body is a body in which the atomic structure is in a state of coordinated rotation. This rotation is not chaotic, but directed. It is supported by aol wedges and transmitted into the surrounding aol space in the form of helical motion.
+
 An uncharged body is a body in which such coordinated rotation is absent. It contains only ordinary chaotic vibrations.
+
 When the bodies come into contact, the boundary for pressure transfer disappears between them. Aol space, and with it motion, becomes continuous.
 And here the key process occurs.
 
-Transfer of rotation
+**Transfer of rotation**
+
 The rotating atoms of the charged body begin to affect the atoms of the second body not only in a translational way, but also tangentially. They transfer not just pressure, but directed rotational pressure.
+
 This pressure does not remain local. It spreads through atomic contact, through the aol space between them. As a result, the atoms of the second body begin to be drawn into this motion.
+
 At first, these are weak, local rotations. But if the contact is maintained and the medium supports the process, a chain transfer arises: rotation → pressure → displacement → formation of wedges → strengthening of rotation.
+
 As a result, part of the atoms of the second body begins to rotate in the same direction.
 
-Equalization of states
+**Equalization of states**
+
 The process is neither infinite nor one-sided.
 When two bodies are in contact, the system tends toward a more uniform state of motion. This is similar to heat transfer, but with an important difference.
+
 In heat transfer, the intensities of vibrations are equalized.
 In charge transfer, the structure of motion is equalized.
 That is, not simply “how many vibrations,” but how exactly the structure moves.
 As a result, the charged body loses part of its organized rotation, and the uncharged body gains it.
+
 The system reaches an intermediate state.
 This is the decrease of charge in one body and its appearance in the other. Again, by analogy with heat transfer.
 
-Why charge “splits”
+**Why charge “splits”**
+
 This is an important point.
 The transfer does not occur “all at once,” because the rotational state is supported by local aol wedges and depends on the structure of a particular body.
+
 When two bodies are connected, their structures are different. Not all of the motion configuration can be transferred completely. It is partly restructured and partly dissipated.
+
 Therefore, charge is not transferred as a whole; it is redistributed and partially weakened.
 This creates an analogy with heat, but not through “energy,” rather through the breakdown of ordered motion.
 
-Transfer by friction
+**Transfer by friction**
+
 Now consider friction.
 When two bodies rub against each other, it is not just contact but an intense mechanical interaction. The surfaces are uneven, atoms interlock, shift, periodically stick and then release abruptly.
+
 Under these conditions, strong local motion arises: displacement, breaking of contacts, micro-rotations.
+
 But the main point is that direction appears.
 In friction, motion is not symmetrical. It has a preferred direction along the surface. This motion, through aol space, begins to form local rotational regimes.
 Here an important property of matter appears.
