@@ -308,11 +308,12 @@ Because the true task of physics is not only to calculate the world, but also to
 
 ## Chapter 2. WHAT EXISTS IN THE WORLD
 
-If you ask someone a simple question—“What is the world made of?”—
-the most likely answer will be: “Matter and energy.”
+If you ask someone a simple question—“What is the world made of?”— the most likely answer will be: “Matter and energy.”
 This answer sounds familiar. It is repeated in textbooks, in popular science programs, in everyday discussions about physics. It feels so natural that it is rarely questioned.
+
 But the moment we try to understand what these words actually mean, the situation changes.
 With matter, things are more or less clear. Matter is something that can be experienced. Something that occupies space. Something that can be moved, compressed, or struck. A stone is matter. Water is matter. Air is matter. Even when we move to more subtle levels—atoms, particles—we are still talking about something that exists, that interacts, that participates in physical processes.
+
 But with energy, things are far less obvious.
 Try asking yourself a simple question: “What is energy as a physical entity?”
 Not a formula. Not a textbook definition. But what is it, in reality?
@@ -320,14 +321,17 @@ Where is it located?
 What is it made of?
 What does it look like?
 How is it actually transmitted?
+
 And here is where things become strange.
 It turns out that energy is not an object. It cannot be “touched,” either directly or indirectly. It has no form. No structure. It is not a carrier. It is not something that “exists somewhere.” It cannot be separated from the process itself.
 Energy is a description.
+
 It is a way of talking about how motion changes.
 When a body moves quickly, we say it has high kinetic energy.
 When a body is lifted to a height, we say it has potential energy.
 When a body is heated, we say it has thermal energy.
 But in all these cases, we are not adding a new entity to the world. We are simply describing the state of motion of matter and the ability of that motion to be transferred.
+
 This is a crucial point.
 Because if we remove the word “energy,” nothing in reality disappears.
 Motion remains.
@@ -335,68 +339,87 @@ Collisions remain.
 The transfer of motion remains.
 Processes remain.
 Only a convenient word disappears.
+
 And this leads to a simple but fundamental conclusion: there is no separate entity in the world called “energy.”
 There is only the motion of matter and the transfer of that motion.
-We can say it more precisely: energy is not “something that exists,” but a way of describing what is happening.
-Now let us take the next step.
+We can say it more precisely: **energy is not “something that exists,” but a way of describing what is happening.
+Now let us take the next step.**
+
 If we discard energy as an independent entity, what remains?
 Only matter remains.
 But not matter as something motionless and inert.
 And matter is always in motion.
 This is something that needs to be stated explicitly.
 We are used to saying, “A body is at rest.”
+
 But what does that actually mean?
 If we look more closely, it becomes clear that absolute rest does not exist.
 Even when an object lies on a table, motion is still present within it: atoms oscillate, vibrations are transmitted, and pressure from the surrounding medium is constantly acting on it.
+
 If we go one level deeper, we find that the medium itself—within which the object exists—is not static either. It is not “frozen.” It is continuously acting, continuously oscillating, continuously transmitting motion.
 So rest is not the absence of motion.
 It is a state in which motions are balanced.
+
 And this is where the central idea of the entire book emerges.
-It can be stated simply: every process is the motion of matter.
+It can be stated simply: **every process is the motion of matter.**
+
 Without exception.
 Light is motion.
 Heat is motion.
 Electricity is motion.
 Magnetism is motion.
 Gravitation is motion.
+
 If there is a process somewhere, then something is moving.
 If there is a change somewhere, then the pattern of motion has changed.
 If there is an effect, then motion is being transmitted.
-At first glance, this seems obvious—perhaps even too obvious to emphasize.
+
+At first glance, this seems obvious — perhaps even too obvious to emphasize.
 But this is exactly where a gap appears in modern physics.
 Because in many explanations, motion seems to “lose its carrier.”
 We are told that energy is transferred, that a field acts, that an interaction occurs.
 But it is not always clear: what exactly is moving, through what it is transmitted, and what is actually exerting pressure?
-This question—“what acts on what?”—becomes central.
+This question — “what acts on what?”— becomes central.
 If there is no answer to it, the explanation remains incomplete.
+
 One can write down a formula elegantly.
 One can calculate the result with precision.
 But if the mechanism cannot be shown, the explanation remains suspended in the air.
 For this reason, this book follows a principle that is both very strict and very simple.
+
 Whenever we speak about any phenomenon, we will ask ourselves three questions:
+
 — what is moving?
+
 — through what is motion transmitted?
+
 — what exactly is exerting pressure?
+
 If there is a clear answer to these questions, then the process is understood.
 If there is no answer, then what we have is a description, not an explanation.
+
 So let us summarize where we stand so far.
 Within the picture of the world that this book will gradually unfold, three basic propositions are accepted.
+
 First, only matter exists in the world. There is no need to introduce any “non-material entities” capable of acting on their own.
+
 Second, matter is never absolutely motionless. Every state is either motion, or a balance of motions.
+
 Third, every process is the motion of matter and the transmission of that motion.
+
 From these three propositions, the entire picture will gradually emerge.
 First, we will examine the nature of the medium in which everything takes place.
 Then, we will consider how the structure of matter arises from that medium.
 After that, we will examine how motion appears in the form that is usually called inertia.
 Then we will turn to gravitation.
 Then to light, heat, electricity, and magnetism.
+
 And step by step, it will become clear that behind all of these seemingly different phenomena there may stand one and the same mechanism.
 For now, however, the main point must be fixed clearly.
 The world does not consist of “matter and energy.”
-The world consists of matter.
+**The world consists of matter.**
 Everything else is merely a form of its motion.
-And if that is really so, then the next question becomes unavoidable:
-what exactly sets this matter in motion?
+And if that is really so, then the next question becomes unavoidable: what exactly sets this matter in motion?
 
 
 
@@ -406,6 +429,7 @@ what exactly sets this matter in motion?
 
 Let us begin not with formulas, and not with terminology.
 Instead, let us start with the simplest possible experience—one that every person encounters every day without even thinking about it.
+
 You want to move an object. A cup on a table, for example.
 What do you do?
 You press on it with your hand.
@@ -413,91 +437,121 @@ If you press lightly, it does not move.
 If you press harder, it begins to move.
 When you stop pressing, it stops.
 It is as simple as that.
+
 And it is so familiar that we hardly notice how important this observation is. Yet it already contains almost all of physics.
 Now imagine removing pressure from this process.
 You do not press on the cup.
 Will it move on its own? No.
+
 Now imagine that you press it, set it in motion… and then remove your hand.
 Will it continue to move by itself?
 In real life—no. It will stop.
+
 And here we arrive at a very important observation, one that is usually overlooked.
 For a body to move, it must be under pressure.
 And not just pushed once.
 It must be continuously pressed for as long as the motion continues.
+
 This sounds unexpected, because we have been taught otherwise since childhood.
 We are told that once a body is in motion, it can continue moving “by inertia,” even if no force acts on it anymore.
 But if we look at real processes rather than abstract models, a question arises: what exactly keeps the body moving after we stop pushing it?
 What is pressing on it?
 If nothing is pressing on it, why does it not stop immediately?
+
 This brings us to the central law that will form the foundation of this book.
 Let me first state it precisely, and then in simpler terms.
-The fundamental law of physics: the motion of an object is possible only when there is
-unbalanced, contact-based, and continuous pressure exerted by another object.
+
+**The fundamental law of physics: the motion of an object is possible only when there is
+unbalanced, contact-based, and continuous pressure exerted by another object.**
+
 This may sound formal, but let us break it down.
 There are only three key elements: contact, imbalance, and continuity.
-1. Contact.
+
+1. **Contact.**
 This means that any interaction occurs through contact.
 Not necessarily direct, visible contact with hands or bodies. Contact may be transmitted through a medium. But in every case, there is a chain: one thing presses on another, which presses on the next.
 No contact—no interaction.
-2. Imbalance.
+
+2. **Imbalance.**
 If a body is pressed equally from all sides, it does not move.
 Pressure exists, but it is balanced.
 For motion to arise, pressure must be greater on one side than on the other.
 Only then does a directed effect appear.
-3. Continuity.
+
+3. **Continuity.**
 And this is the most important point.
 Pressure must not occur only for an instant.
 It must persist for as long as the motion continues.
 The moment pressure disappears, motion stops.
 Not gradually, not eventually—but immediately.
+
 If we reduce all of this to a simple statement, we get an almost playful but very precise formulation:
-press—and it moves.
-And, even more importantly:
-stop pressing—and it stops.
-In short: if you press, it moves.
+**press—and it moves.**
+And, even more importantly: stop pressing—and it stops.
+
+In short: **if you press, it moves.**
+
 This may seem too simple. But that is exactly its strength.
 It leaves no room for “by itself.”
+
 It demands an answer every time:
+
 — who is pressing?
+
 — on what?
+
 — through what is the pressure transmitted?
+
 Now try to apply this principle to different phenomena.
 To the motion of a body.
 To a falling stone.
 To the propagation of light.
 To electric current.
 To magnetic effects.
+
 In every case, the same question arises: where is the source of pressure?
 If there is none, the explanation is incomplete.
 And this makes it clear why modern physics encounters difficulties.
+
 Because it often introduces concepts that act, but have no explicit carrier:
+
 — a field acts, but what it consists of is unclear;
+
 — energy is transferred, but what is actually moving is not specified;
+
 — attraction exists, but its mechanism is not shown.
+
 From the point of view of the fundamental law, this looks like a missing link. As if one were to say in a mechanical system: “the gear rotates by itself.”
-No—if it rotates, something must be driving it.
+No — if it rotates, something must be driving it.
 And it is this “something” that we will look for in every chapter.
+
 Now an important point that must be addressed in advance.
 It may seem that this law contradicts observation.
 For example, we throw a stone—and it continues to fly. The hand is no longer pressing on it, yet the motion continues.
 Does this mean the law is wrong? No.
-It means only one thing: we do not see the source of pressure.
+
+It means only one thing: **we do not see the source of pressure.**
+
 This is exactly what we will examine in detail later, when we turn to inertia.
 It will become clear that motion does not continue by itself. There is simply another participant in the process—one that is not taken into account in conventional explanations.
+
 For now, however, it is essential to fix the principle.
 Without it, we cannot move forward.
 The fundamental law of physics provides a simple test for any explanation:
 if it does not specify what is exerting continuous contact pressure, then the explanation is incomplete.
+
 And conversely:
 if one can identify the carrier, the contact, and the pressure, the process becomes understandable.
+
 This is why, throughout this book, we will repeatedly return to the same framework.
 Not to formulas.
 But to mechanics.
 To a very simple, almost everyday question: what is pressing on what?
 And if this question is examined honestly, something remarkable happens: even the most complex phenomena begin to fall into a coherent picture.
+
 In the next chapter, we will take the next step.
 We will examine whether this principle holds equally across different media—solids, liquids, and gases.
 And whether it extends to a deeper level.
-There, an important idea will begin to take shape: nature may be far simpler than it appears.
+There, an important idea will begin to take shape: **nature may be far simpler than it appears.**
 But this simplicity has to be seen.
 
