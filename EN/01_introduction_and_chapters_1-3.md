@@ -135,21 +135,30 @@ Afterword
 ## INTRODUCTION
 
 What questions must science be able to answer clearly and coherently in order to have the right to proudly say: “We have understood how this world works”?
+
 In my view, there are four such fundamental questions.
+
 The first — how is the atom structured?
 That is, what matter is actually made of, what the real structure of the atom is, and, most importantly, where the motion inside the atom comes from and all the activity that science habitually denotes by the word “energy.”
+
 The second — what is motion?
 What is the mechanism of motion? What exactly sets matter into motion? Where is the source of all processes, if any process is the motion of matter?
+
 The third — how do objects interact?
 By what exact mechanism do bodies, atoms, and particles interact? And above all — does such an interaction as “attraction” actually exist, or is it merely a misinterpreted phenomenon?
+
 The fourth — how is the Universe structured?
 Is there emptiness in it? What is its structure? Why do galaxies move?
+
 These four questions are not minor issues, not details, not narrow topics for specialists. They are the foundation. Without answering them, one cannot say that science has understood the world.
 Does modern science have a clear answer to at least one of them?
 No.
+
 And not just that there is no complete answer. There is not even an approximate, internally consistent, mechanically understandable answer. On all these questions, modern physics rests on a set of assumptions, mathematical schemes, and familiar terms, but not on physical understanding.
-Therefore, the first thing the reader must do is stop automatically admiring it. One must see it in its real light. It is not omniscient. It does not stand at the peak of final understanding. It is confused. It does not know where to look for a solution. And, even worse, it very often looks in the wrong place. As Albert Einstein said: “Mathematics is the only perfect method of leading oneself by the nose.”
-Fatal misconceptions of science
+
+Therefore, the first thing the reader must do is stop automatically admiring it. One must see it in its real light. It is not omniscient. It does not stand at the peak of final understanding. It is confused. It does not know where to look for a solution. And, even worse, it very often looks in the wrong place. As Albert Einstein said: *“Mathematics is the only perfect method of leading oneself by the nose.”*
+
+**Fatal misconceptions of science**
 1. The recognition of the existence of attraction.
 2. The Big Bang of a point that gave rise to the Universe.
 3. Empty, solid atoms with flying particles.
@@ -170,30 +179,43 @@ Fatal misconceptions of science
 18. Curvature of empty space and time.
 19. Slowing of time.
 
-Each of these points will be analyzed in this book — not for the sake of criticism itself, but to find a simpler and more mechanically logical explanation. 
+Each of these points will be analyzed in this book — not for the sake of criticism itself, but to find a simpler and more mechanically logical explanation.
+
 And now let us begin to search for correct answers and correct the misconceptions of science.
 Without mathematics.
+
 Let us agree from the very beginning on the criteria by which hypotheses and theories should be properly evaluated.
 There are two criteria that are commonly trusted in science.
+
 The first — a theory is supported by formulas that allow correct calculation of a process.
+
 The second — a theory allows correct prediction of experimental results.
+
 Both criteria seem convincing. But are they sufficient to consider a theory correct? No.
+
 Let us consider a simple example.
 The formulas used to calculate electrical circuits work flawlessly. They allow the construction of devices, machines, and systems of any complexity. Engineers use them every day and obtain precise results. But what exactly stands behind these formulas in terms of physical essence?
 What is electric current — science does not know.
 What is voltage in the physical sense — it does not know.
 What are electrical resistance, magnetic field, electromagnetic induction — it does not know.
+
 The formulas work. The calculations are correct. The predictions come true. But there is no understanding.
 This means that the two traditional criteria — correct calculation and correct prediction — are necessary for practice, but insufficient for understanding. They tell us what happens. But they do not tell us how and why.
+
 So what is a sufficient criterion?
 There is only one.
-A process or phenomenon can be considered truly understood only when the mechanism of its action is explained step by step. Not described mathematically — but explained mechanically: what acts on what, through what the influence is transmitted, and why this exact result occurs.
+**A process or phenomenon can be considered truly understood only when the mechanism of its action is explained step by step.** Not described mathematically — but explained mechanically: what acts on what, through what the influence is transmitted, and why this exact result occurs.
 If the mechanism is not explained, the process remains in the category of the not understood, no matter how many precise formulas describe it.
+
 Let us apply this criterion to modern physics — and the picture becomes sobering. Almost no fundamental phenomenon has an explained mechanism. There are descriptions. There are formulas. There are working technologies. But there is no mechanism.
+
 Let us take the simplest example.
 Why do people living in Australia not fall into space? Why do they walk “upside down” relative to people in the northern hemisphere and notice nothing unusual?
+
 Science answers: gravity. But what gravity is physically — what mechanism holds people on the surface of a planet — it cannot explain. There is a formula. There is no mechanism.
+
 If fundamental science cannot explain the mechanism of such an ordinary phenomenon — why we do not fall — then what is the point of speaking about a deep understanding of nature?
+
 The aol model applies precisely this criterion — explanation of the mechanism and nothing else. Every phenomenon is considered through the question: what exactly presses on what, through what the interaction is transmitted, what is the step-by-step mechanism of the process? If there is no answer — the phenomenon is not considered understood.
 
 
@@ -202,40 +224,62 @@ The aol model applies precisely this criterion — explanation of the mechanism 
 ## Chapter 1. WHAT THIS BOOK IS ABOUT
 
 From childhood, a person lives in a world that seems understandable. A stone falls downward. Fire gives heat. A light bulb shines. A magnet pulls iron. A battery produces electric current. All of this is so familiar that it rarely raises any questions. We use the phenomena of nature as if they were self-evident and seldom stop to consider what is actually happening behind them.
+
 But the moment we begin to ask even the simplest questions, this clarity disappears.
+
 Why does a body fall?
+
 What exactly makes it move downward?
+
 Why does light propagate?
-What is actually moving between the lamp and the eye?
+
+What is actually moving been the lamp and the eye?
+
 What is electric current—not as a formula, but in its essence?
+
 Why does a magnet act across empty space?
+
 What is mass?
+
 What is energy?
+
 Modern physics gives very confident answers to many of these questions. But if we look more closely, something curious becomes clear: most often, what we are given is not a mechanism, but a description. Not an explanation of what is physically happening, but a language of formulas that allows us to calculate it.
+
 Modern physics can calculate—and it does so brilliantly. It creates working technologies, sends spacecraft into space, builds microchips, describes spectra, and predicts experimental results. These are real achievements, and they cannot be denied.
 But the ability to calculate is not the same as the ability to understand.
+
 It is possible to calculate the trajectory of a body with great precision and still not give a clear mechanical answer to the question: what exactly keeps it moving? It is possible to use the word “energy” without explaining what it actually is as a physical reality. One can speak of a “field” without specifying what it consists of or how it transmits influence. One can claim that “attraction” exists without showing what carries it or how it operates.
-This is where the real discussion begins—the one this book is about.
+
+This is where the real discussion begins — the one this book is about.
 This book was not written out of a desire to argue for the sake of argument, nor out of an intention to disprove existing science at any cost. It arose from a simple question: is it possible to explain the world mechanically, if other explanations fail to reveal the actual mechanisms behind physical processes?
-Not mathematically—this has already been done in many cases.
-Not terminologically—there is already more than enough of that.
+Not mathematically — this has already been done in many cases.
+Not terminologically — there is already more than enough of that.
 But mechanically.
+
 In other words, in a way that allows us to trace a chain of causes: what acts on what, through what the interaction is transmitted, why motion arises, and what sustains it.
-In everyday life, we encounter only this kind of mechanism:
-if something is to move, it has to be pushed.
+
+In everyday life, we encounter only this kind of mechanism: if something is to move, it has to be pushed.
 We move objects by pressure. Water transmits pressure. Gas transmits pressure. Every machine, every mechanism, every device created by human beings works only because somewhere, something is pressing on something else. Even where motion appears complicated, hidden, or difficult to follow, if we break it down step by step, we arrive at the same thing again and again: contact, pressure, and the transmission of motion.
+
 This leads to a natural question: why should the deeper level of the world be built on a completely different principle?
 Why is it that in the visible world, mechanics, contact, and pressure are enough, while in the invisible world we are suddenly asked to accept abstract fields without carriers, action at a distance, mysterious entities such as energy existing in its own right, or motion without anything driving it?
+
 This book proposes another path.
 It begins with a simple assumption: nature is unified. It does not change its laws merely because something is hard for us to see, or because a process takes place on a smaller scale. If, in the world of bodies, liquids, and gases, everything works through contact and pressure, then it is reasonable to assume that the same principle must also operate at a deeper level of reality.
+
 For that to become possible, however, one further step is necessary: we must abandon the idea of emptiness.
 Vacuum is a very convenient concept. It fits comfortably into many familiar descriptions. But from a mechanical point of view, emptiness can do nothing. It cannot transmit motion. It cannot exert pressure. It cannot serve as a support. It cannot act as a mediator between bodies. And if it can do none of these things, then it cannot explain light, electricity, gravitation, or motion itself.
+
 That is why this book is built on a different image of the world.
-Space is not empty.
+**Space is not empty.**
+
 It is filled with a special medium composed of primary elements that I call aols.
 These aols form aolic space — a continuous, dense, vibrating medium that does not merely surround matter, but makes the very existence of matter and all processes in the universe possible.
+
 In this picture, aolic space is the primary driver of all processes. It does not rest. It does not switch off. It does not become exhausted. It vibrates continuously, presses continuously, and continuously transmits motion. It creates the conditions under which matter forms, holds matter together, restructures it, destroys it, and assembles it again. Everything that happens in the world happens not because “energy has accumulated” somewhere, nor because “a field has acted,” but because aolic space is continuously at work.
-This book proposes that we view the world in the following way: in the universe, only matter exists, and everything that happens is the motion of matter under pressure.
+
+This book proposes that we view the world in the following way: **in the universe, only matter exists, and everything that happens is the motion of matter under pressure.**
+
 From that single statement, the entire picture gradually unfolds.
 Light turns out to be not a stream of photons, but the transmission of high-frequency vibrations through the medium.
 Electric current turns out to be not the movement of mysterious charges, but the directed motion of aols within the structure of matter.
@@ -243,14 +287,18 @@ A magnetic field is no longer an abstract field, but a vortex-like motion of the
 Gravitation is no longer attraction, but the pressing together of bodies by aolic space because of a pressure difference.
 Inertia is no longer an innate property of bodies, but the result of aolic wedges forming in the medium during motion.
 Even energy, under this approach, ceases to be some independent entity. It becomes what it really is: a characteristic, a convenient way of describing motion, the transmission of motion, and the capacity to transmit motion.
+
 I understand that much of what is being said here may sound unfamiliar. In some places, sharply unfamiliar. That is normal. Any attempt to look at fundamental things in a different way initially creates inner resistance — not necessarily because it is false, but because familiar words and conceptual schemes are deeply rooted in us.
+
 So I ask the reader for only one thing: do not agree too quickly, but do not reject too quickly either.
 Simply proceed step by step.
 Do not try to resolve everything at a single point.
 Do not argue in advance with every thought.
+
 Instead, watch carefully: does a coherent picture emerge as the processes described in this book are examined one by one?
 Does a mechanism appear where previously there was none?
 This book does not require specialized training in physics. There are no formulas here. What matters more is not calculation, but understanding. Not mathematical rigor at any cost, but physical clarity.
+
 We will move from the simple to the complex: from basic principles to light, electricity, magnetism, gravitation, and the general picture of the world.
 And if, by the end of that journey, the reader feels that the world has become more understandable, then this book will not have been written in vain.
 Because the true task of physics is not only to calculate the world, but also to describe its mechanism—to answer the simple question: what, exactly, is pressing on what?
