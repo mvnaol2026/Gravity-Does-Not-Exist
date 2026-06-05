@@ -35,25 +35,25 @@ A conceptual mechanical model of physical processes based on:
 
 ### Fatal Fallacies of Science
 
-1. Recognition of the existence of attraction
-2. The Big Bang of a point that gave birth to the Universe
-3. Empty, solid atoms with flying particles
-4. The presence of mysterious energy within atoms
-5. Emission and absorption of particles by other particles
-6. Fictitious (non-existent) forces capable of moving bodies
-7. Innate internal resistance of bodies to motion
-8. Contactless inertial motion
-9. Conversion of mass into energy and vice versa
-10. Wave-particle duality of particles
-11. The difference between the laws of the macrocosm and the microcosm
-12. Expansion of the Universe by dark energy
-13. Flying quanta, produced by unknown means
-14. All-pervading neutrinos that encounter no obstacles
-15. Massless matter in the form of photons, gluons, and neutrinos
-16. Higgs bosons and the Higgs sea mysteriously granting mass
-17. Emptiness in the Universe
-18. Curvature of empty space-time
-19. Time dilation
+1. **Recognition of the existence of attraction** as a fundamental, inherent property of matterThe 
+2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
+3. **Empty atoms** with chaotically flying massless or point particles
+4. **The presence of a "mysterious internal energy" inside atoms**
+5. **Emission and absorption of particles by other particles**, which emerge from the vacuum in an unknown way
+6. **Fictitious (imaginary) forces**, supposedly capable of physically performing work and moving bodies
+7. **Inherent internal resistance of bodies to their displacement** (inertia as an integral property of the substance itself)
+8. **Non-contact movement of objects**, including through the emptiness of space
+9. **Mutual conversion of mass into energy and energy into mass**
+10. **Wave-particle duality**, endowing particles with a dual nature
+11. **Artificial separation of the laws of the macrocosm and microcosm** into two incompatible physics
+12. **Expansion of the Universe** under the influence of a mythical and unobservable "dark energy"
+13. **Flying quanta**, emerging in an unknown way and moving inexplicably
+14. **All-pervading neutrinos** that know no obstacles
+15. **Massless matter** in the form of photons, gluons, and other abstract force carriers, which shows a lack of understanding of the essence of matter and mass
+16. **Bosons and the hypothetical Higgs sea**, mysteriously endowing particles with the property of mass
+17. **The existence of absolute emptiness in the Universe**
+18. **Curvature of empty space and the non-material coordinate of time**
+19. **Physical time dilation** depending on the speed of motion or gravity
 
 ### 🏛️ The Fundamental Law of Motion
 
@@ -181,10 +181,10 @@ A conceptual mechanical model of physical processes based on:
 1. **Признание существования притяжения** как фундаментального врожденного свойства материи
 2. **Теория Большого взрыва**, постулирующая рождение Вселенной из сингулярной математической точки
 3. **Пустые атомы** с хаотично летающими безмассовыми или точечными частицами
-4. **Наличие «загадочной внутренней энергии»** внутри атомов
+4. **Наличие «загадочной внутренней энергии» внутри атомов**
 5. **Испускание и поглощение частиц частицами**, неизвестно как возникающих из вакуума
 6. **Фиктивные (мнимые) силы**, якобы способные физически совершать работу и двигать тела
-7. **Врождённое внутреннее сопротивление тел** их перемещению (инерция как неотъемлемое свойство самого вещества)
+7. **Врождённое внутреннее сопротивление тел их перемещению** (инерция как неотъемлемое свойство самого вещества)
 8. **Бесконтактное движение объектов**, в том числе в пространстве через пустоту
 9. **Взаимное превращение массы в энергию и энергии в массу**
 10. **Корпускулярно-волновой дуализм**, наделяющий частицы двойственной природой
