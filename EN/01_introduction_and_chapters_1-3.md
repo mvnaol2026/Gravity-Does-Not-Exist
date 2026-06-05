@@ -159,25 +159,26 @@ And not just that there is no complete answer. There is not even an approximate,
 Therefore, the first thing the reader must do is stop automatically admiring it. One must see it in its real light. It is not omniscient. It does not stand at the peak of final understanding. It is confused. It does not know where to look for a solution. And, even worse, it very often looks in the wrong place. As Albert Einstein said: *“Mathematics is the only perfect method of leading oneself by the nose.”*
 
 **Fatal misconceptions of science**
-1. The recognition of the existence of attraction.
-2. The Big Bang of a point that gave rise to the Universe.
-3. Empty, solid atoms with flying particles.
-4. The presence of mysterious energy in atoms.
-5. Emission and absorption of particles by particles.
-6. Fictitious (nonexistent) forces capable of moving bodies.
-7. Innate internal resistance of bodies to motion.
-8. Contactless motion.
-9. Transformation of mass into energy and vice versa.
-10. Wave–particle duality of particles.
-11. The difference between the laws of the macroworld and the microworld.
-12. Expansion of the Universe by dark energy.
-13. Flying quanta, unknown how they are produced.
-14. All-penetrating neutrinos that do not encounter obstacles.
-15. Massless matter in the form of photons, gluons, neutrinos.
-16. Higgs bosons and the Higgs field, mysteriously giving mass.
-17. Emptiness in the Universe.
-18. Curvature of empty space and time.
-19. Slowing of time.
+
+1. **Recognition of the existence of attraction** as a fundamental, inherent property of matterThe 
+2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
+3. **Empty atoms** with chaotically flying massless or point particles
+4. **The presence of a "mysterious internal energy" inside atoms**
+5. **Emission and absorption of particles by other particles**, which emerge from the vacuum in an unknown way
+6. **Fictitious (imaginary) forces**, supposedly capable of physically performing work and moving bodies
+7. **Inherent internal resistance of bodies to their displacement** (inertia as an integral property of the substance itself)
+8. **Non-contact movement of objects**, including through the emptiness of space
+9. **Mutual conversion of mass into energy and energy into mass**
+10. **Wave-particle duality**, endowing particles with a dual nature
+11. **Artificial separation of the laws of the macrocosm and microcosm** into two incompatible physics
+12. **Expansion of the Universe** under the influence of a mythical and unobservable "dark energy"
+13. **Flying quanta**, emerging in an unknown way and moving inexplicably
+14. **All-pervading neutrinos** that know no obstacles
+15. **Massless matter** in the form of photons, gluons, and other abstract force carriers, which shows a lack of understanding of the essence of matter and mass
+16. **Bosons and the hypothetical Higgs sea**, mysteriously endowing particles with the property of mass
+17. **The existence of absolute emptiness in the Universe**
+18. **Curvature of empty space and the non-material coordinate of time**
+19. **Physical time dilation** depending on the speed of motion or gravity
 
 Each of these points will be analyzed in this book — not for the sake of criticism itself, but to find a simpler and more mechanically logical explanation.
 
