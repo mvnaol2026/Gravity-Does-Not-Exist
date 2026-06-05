@@ -125,16 +125,7 @@ An aol has minimal size and minimal mass. After receiving an impact, it does not
 
 Its first role is to transmit the influence to the next aol.
 Why?
-Because a full wedge of the medium cannot form behind a single aol.
-It is too small and exists among the geometric gaps between neighboring aols. The medium cannot create behind it a stable support sufficient to continue independent motion.
-
-As a result:
-
-— no wedge is formed,
-
-— no accumulated pressure arises,
-
-— independent motion does not continue.
+Because an aol forcibly displaced by an external force cannot move the aol wedges, as the aol does not advance by its diameter and cannot create a wedge. The medium will close behind it not by the aol's diameter, but only by 71% or 87%, depending on which gap between the aols of the medium closes behind the aol. That is, no aols will be completely extruded from the medium. Two primordial elements combined (an aol and a lunol) are capable of extruding one or two aols, and the medium will push the extruded aol (or two) as a wedge behind this pair. The pair will be able to move by "inertia" – due to the wedges.
 
 The aol does not “fly.” It functions as a transmitter of influence.
 
