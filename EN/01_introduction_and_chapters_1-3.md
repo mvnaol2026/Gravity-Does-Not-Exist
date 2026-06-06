@@ -128,37 +128,39 @@ Afterword
 
 
 
-
-
-
-
 ## INTRODUCTION
 
-What questions must science be able to answer clearly and coherently in order to have the right to proudly say: “We have understood how this world works”?
+Fundamental science has the right to declare that it has understood the structure of the Universe only when it is able to provide clear answers to four basic questions.
 
-In my view, there are four such fundamental questions.
+**The first is: how is the atom structured?**\
+That is, what does matter actually consist of, what is the physical buildup of the atom, and, what is especially important, where does the movement inside the atom and all that activity that science habitually designates with the word "energy" come from?
 
-The first — how is the atom structured?
-That is, what matter is actually made of, what the real structure of the atom is, and, most importantly, where the motion inside the atom comes from and all the activity that science habitually denotes by the word “energy.”
+**The second is: what is motion?**   
+What is the mechanism of motion? What exactly sets matter in motion? Why does matter move if the force leading to motion is not visible? Where is the source of all dynamic processes in nature? After all, any process is the motion of matter. By understanding motion, we will understand the processes.
 
-The second — what is motion?
-What is the mechanism of motion? What exactly sets matter into motion? Where is the source of all processes, if any process is the motion of matter?
+**The third is: how is the interaction of objects carried out?**\
+By what exact mechanism does the interaction of bodies, atoms, and particles occur? And above all — does such an interaction as "attraction" actually exist in reality, or is it merely a misinterpreted phenomenon?
 
-The third — how do objects interact?
-By what exact mechanism do bodies, atoms, and particles interact? And above all — does such an interaction as “attraction” actually exist, or is it merely a misinterpreted phenomenon?
+**The fourth is: how is the Universe structured?**\
+Is there emptiness in it? What is the geometry and filling of space? What is the structure of the Universe? What material force moves the galaxies?
 
-The fourth — how is the Universe structured?
-Is there emptiness in it? What is its structure? Why do galaxies move?
+These four questions are neither narrow topics for specialists nor secondary details. They form the very foundation of science. Without answering them, one cannot claim that science truly understands the world.
 
-These four questions are not minor issues, not details, not narrow topics for specialists. They are the foundation. Without answering them, one cannot say that science has understood the world.
-Does modern science have a clear answer to at least one of them?
-No.
+Is modern mainstream physics capable of providing a clear answer to even one of these points? No. It has no real, comprehensible answer. In each of these areas, academic science has constructed a cumbersome system of convenient assumptions, abstract mathematical models, and habitual terminology. Equations allow us to calculate the effects, but the physical essence of the root causes remains entirely a blind spot.
 
-And not just that there is no complete answer. There is not even an approximate, internally consistent, mechanically understandable answer. On all these questions, modern physics rests on a set of assumptions, mathematical schemes, and familiar terms, but not on physical understanding.
+The famous phrase **"Shut up and calculate"** is an informal guiding principle in quantum physics. It urges physicists to abandon philosophical debates about the nature of reality and focus instead on the practical application of mathematical tools. Quantum mechanics yields precise predictions, yet its laws contradict our intuition and experience. For instance, the human mind is incapable of comprehending how a particle can exist in multiple locations simultaneously. This principle suggests not wasting time trying to "understand" it intellectually, but simply using the formulas that work in practice.
 
-Therefore, the first thing the reader must do is stop automatically admiring it. One must see it in its real light. It is not omniscient. It does not stand at the peak of final understanding. It is confused. It does not know where to look for a solution. And, even worse, it very often looks in the wrong place. As Albert Einstein said: *“Mathematics is the only perfect method of leading oneself by the nose.”*
+If you agree with this principle, then this book is not for you. It contains no formulas or mathematics whatsoever.
 
-**Fatal misconceptions of science**
+The first thing the reader must do is break free from the hypnotic spell of official science’s authority and see its true condition. It is not omniscient. It has become entangled in its own abstractions, reached a conceptual dead end, and is attempting to substitute physical reality with mathematical surrogates.
+
+As Albert Einstein aptly noted: **"Mathematics is the only perfect method to fool oneself."**  
+And Hans-Georg Gadamer said: **"Authority is the source of prejudices."**  
+Strive to understand, rather than blindly trust authorities.
+
+At the core of the prolonged crisis in modern natural science lie fatal misconceptions that have become deeply entrenched in the pages of school and university textbooks.
+
+Here is a list of some of **the fatal misconceptions of science:**
 
 1. **Recognition of the existence of attraction** as a fundamental, inherent property of matterThe 
 2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
@@ -180,44 +182,32 @@ Therefore, the first thing the reader must do is stop automatically admiring it.
 18. **Curvature of empty space and the non-material coordinate of time**
 19. **Physical time dilation** depending on the speed of motion or gravity
 
-Each of these points will be analyzed in this book — not for the sake of criticism itself, but to find a simpler and more mechanically logical explanation.
+Each of these misconceptions will be analyzed in detail throughout this book. The goal is not criticism for the sake of criticism. The goal is to prove that absolutely any of these phenomena has a much simpler, more intuitive, and mechanically logical explanation, completely stripped of mathematical fog.
 
-And now let us begin to search for correct answers and correct the misconceptions of science.
-Without mathematics.
+The virtue of the hypothesis presented here lies in its logic and its coherence as a single chain — stretching from the elementary particle to the Universe. No other alternative hypotheses or global official theories possess this quality. They lack interconnection into a unified chain, and quite often, they lack logic altogether. Most importantly, they fail to explain the mechanism of the processes, whereas the proposed hypothesis explains these mechanisms fully.
 
-Let us agree from the very beginning on the criteria by which hypotheses and theories should be properly evaluated.
-There are two criteria that are commonly trusted in science.
+And from the very beginning, let us agree on the proper criteria for evaluating hypotheses and theories.  
+In official science, it is customary to trust two criteria for a theory's success:
 
-The first — a theory is supported by formulas that allow correct calculation of a process.
+1.	The ability to accurately calculate a process using formulas
+2.	The ability to correctly predict the results of experiments
 
-The second — a theory allows correct prediction of experimental results.
+Both criteria are indispensable for engineering practice, but absolutely insufficient for a physical understanding of nature. They answer the question "what is happening?", but remain utterly silent on "how and why?".
 
-Both criteria seem convincing. But are they sufficient to consider a theory correct? No.
+A prime example is electrodynamics. Formulas for calculating electrical circuits work flawlessly, enabling the creation of highly complex technology. Yet, official physics still does not know what electric current, voltage, resistance, or a magnetic field actually are in terms of their inner physical essence. The calculations are correct, the technologies work, but there is no fundamental understanding.
 
-Let us consider a simple example.
-The formulas used to calculate electrical circuits work flawlessly. They allow the construction of devices, machines, and systems of any complexity. Engineers use them every day and obtain precise results. But what exactly stands behind these formulas in terms of physical essence?
-What is electric current — science does not know.
-What is voltage in the physical sense — it does not know.
-What are electrical resistance, magnetic field, electromagnetic induction — it does not know.
+This implies that the two traditional criteria — accurate calculation and correct prediction — are necessary for practice, but insufficient for understanding.  
+Technology evolves through practice and experimentation, not through the quest for theoretical root causes. Remember: "Shut up and calculate"?
 
-The formulas work. The calculations are correct. The predictions come true. But there is no understanding.
-This means that the two traditional criteria — correct calculation and correct prediction — are necessary for practice, but insufficient for understanding. They tell us what happens. But they do not tell us how and why.
+What, then, is the sufficient criterion?  
+There is only one sufficient criterion of truth: **a phenomenon can be considered correctly understood only when the mechanism of its action is explained step by step.** It is necessary to clearly demonstrate: what physically acts upon what, through which medium this interaction is transmitted, and why exactly this result occurs. Without a mechanical justification, a process remains misunderstood, no matter how many precise equations describe it.
 
-So what is a sufficient criterion?
-There is only one.
-**A process or phenomenon can be considered truly understood only when the mechanism of its action is explained step by step.** Not described mathematically — but explained mechanically: what acts on what, through what the influence is transmitted, and why this exact result occurs.
-If the mechanism is not explained, the process remains in the category of the not understood, no matter how many precise formulas describe it.
+If we apply this criterion to modern physics, the picture becomes sobering. Not a single fundamental phenomenon has an explained mechanism. Science easily calculates the force that holds people on Earth and calls it "gravity." Yet, it is incapable of explaining the exact mechanism that keeps a human being on the planet. There is a formula, but there is no mechanism.
 
-Let us apply this criterion to modern physics — and the picture becomes sobering. Almost no fundamental phenomenon has an explained mechanism. There are descriptions. There are formulas. There are working technologies. But there is no mechanism.
+If fundamental science cannot explain the mechanism of an everyday phenomenon — "why we do not fall off the planet" — then what is the point of speaking about a deep understanding of nature?
 
-Let us take the simplest example.
-Why do people living in Australia not fall into space? Why do they walk “upside down” relative to people in the northern hemisphere and notice nothing unusual?
+Aol physics utilizes the criterion of mechanical causality exclusively. Here, any process is examined through specific questions: what exactly presses against what, through what is the interaction transmitted, and what is the step-by-step mechanism of the process?   If there is no answer, the phenomenon is not considered understood.
 
-Science answers: gravity. But what gravity is physically — what mechanism holds people on the surface of a planet — it cannot explain. There is a formula. There is no mechanism.
-
-If fundamental science cannot explain the mechanism of such an ordinary phenomenon — why we do not fall — then what is the point of speaking about a deep understanding of nature?
-
-The aol model applies precisely this criterion — explanation of the mechanism and nothing else. Every phenomenon is considered through the question: what exactly presses on what, through what the interaction is transmitted, what is the step-by-step mechanism of the process? If there is no answer — the phenomenon is not considered understood.
 
 
 
