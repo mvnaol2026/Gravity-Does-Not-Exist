@@ -211,88 +211,84 @@ Aol physics utilizes the criterion of mechanical causality exclusively. Here, an
 
 
 
+**Chapter 1. WHAT THIS BOOK IS ABOUT**
 
-## Chapter 1. WHAT THIS BOOK IS ABOUT
+Since childhood, humans have lived in a world that feels intuitive and understandable. A stone falls downward. Fire warms us. A lightbulb shines. A magnet attracts iron. A battery provides electric current. All of this is so familiar that it rarely prompts any questions. We make use of natural phenomena as if they were a given, seldom contemplating what is actually taking place.
 
-From childhood, a person lives in a world that seems understandable. A stone falls downward. Fire gives heat. A light bulb shines. A magnet pulls iron. A battery produces electric current. All of this is so familiar that it rarely raises any questions. We use the phenomena of nature as if they were self-evident and seldom stop to consider what is actually happening behind them.
+However, if one does show curiosity and asks the simplest of questions, the picture immediately loses its clarity.  
+Why does an object fall?  
+What exactly causes it to move downward?  
+Why does light propagate?  
+What exactly is in motion between the lamp and the eye?  
+What is electric current—not according to a formula, but in its very essence?  
+Why does a magnet act through empty space?  
+What is mass?  
+What is energy?  
 
-But the moment we begin to ask even the simplest questions, this clarity disappears.
+Modern physics answers many of these questions with immense confidence. Yet, if one looks closer, a curious fact emerges: more often than not, we are handed a description rather than a mechanism. We receive a language of formulas designed to calculate the phenomenon, rather than an explanation of what is physically happening.
 
-Why does a body fall?
+Modern physics knows how to calculate. It creates working technologies, launches spacecraft into orbit, builds microchips, describes spectra, and predicts experimental outcomes. These are all genuine achievements, and denying them is impossible.
 
-What exactly makes it move downward?
+Yet, the ability to calculate and the ability to understand are not the same thing.  
+One can calculate an object's trajectory with extreme precision and still fail to provide a clear mechanical answer to the question: what exactly continues to drive this object?  
+One can utilize the word "energy" without ever explaining what it is as a physical reality.  
+One can speak of a "field" without specifying what it consists of or how exactly it transmits an interaction.  
+One can assert that "attraction" exists without demonstrating what performs this attraction and how.  
 
-Why does light propagate?
+This is precisely where the conversation for which this book was written begins.  
+This book was not born out of a desire to argue for the sake of arguing, nor from an ambition to refute existing science at any cost. It was born from a simple question: is it not possible to explain the world mechanically, given that other explanations fail to reveal the causal mechanism behind the processes?  
+Not mathematically — in many cases, that has already been done.  
+But precisely mechanically.
 
-What is actually moving been the lamp and the eye?
+In other words, in a way that allows us to trace the causal chain: what acts upon what, through what is the interaction transmitted, why does motion arise, and what exactly sustains the process?
 
-What is electric current—not as a formula, but in its essence?
+In everyday life, we encounter only this type of mechanism — for something to move, it must be pressed upon.  
+We move objects through pressure. Water transmits pressure. Gas transmits pressure. Any machine, any mechanism, any human-made device operates solely because somewhere, something is pressing against something else. Even where the motion appears complex, intricate, or hidden, if we break it down step by step, we arrive time and again at the exact same principle: contact, pressure, and the transfer of motion.
 
-Why does a magnet act across empty space?
+This raises a logical question: **why should things be any different at the deepest level of the universe?**
 
-What is mass?
+Why is it that in the world visible to us, mechanics, contact, and pressure govern, while in the invisible realm, we are suddenly expected to accept abstract fields without a carrier, action at a distance, mysterious entities like energy existing on its own, or motion without a mover?
 
-What is energy?
+This book offers a different path.  
+It proceeds from the premise that nature is unified. It does not change its laws simply because humans find it difficult to see something, or because a phenomenon occurs on a micro-scale. If in the world of bodies, liquids, and gases everything works through contact and pressure, then it is logical to assume that the same principle must operate at a deeper level of the universe as well.
 
-Modern physics gives very confident answers to many of these questions. But if we look more closely, something curious becomes clear: most often, what we are given is not a mechanism, but a description. Not an explanation of what is physically happening, but a language of formulas that allows us to calculate it.
+For this to become possible, we must take the next step — we must abandon the concept of the void.  
+The void is a highly convenient concept. It fits neatly into many familiar descriptions. Yet, from a mechanical standpoint, a void can achieve nothing. It cannot transmit motion. It cannot exert pressure. It cannot act as a support. It cannot serve as a mediator between bodies. And if it can do nothing, then it is impossible to explain light, electricity, gravity, or motion itself through it.
 
-Modern physics can calculate—and it does so brilliantly. It creates working technologies, sends spacecraft into space, builds microchips, describes spectra, and predicts experimental results. These are real achievements, and they cannot be denied.
-But the ability to calculate is not the same as the ability to understand.
+Therefore, at the core of this book lies a different image of the universe.  
+Space is not empty.  
+It is filled with a unique medium consisting of primary elements that I call aols.
 
-It is possible to calculate the trajectory of a body with great precision and still not give a clear mechanical answer to the question: what exactly keeps it moving? It is possible to use the word “energy” without explaining what it actually is as a physical reality. One can speak of a “field” without specifying what it consists of or how it transmits influence. One can claim that “attraction” exists without showing what carries it or how it operates.
+These aols form the aol space — a continuous, dense, vibrating medium that does not merely surround matter, but makes the very existence of matter and all processes in the Universe possible.
 
-This is where the real discussion begins — the one this book is about.
-This book was not written out of a desire to argue for the sake of argument, nor out of an intention to disprove existing science at any cost. It arose from a simple question: is it possible to explain the world mechanically, if other explanations fail to reveal the actual mechanisms behind physical processes?
-Not mathematically — this has already been done in many cases.
-Not terminologically — there is already more than enough of that.
-But mechanically.
+In this picture, it is the aol space itself that acts as the primary driver of all processes. It never rests. It never turns off. It is never depleted. It continuously vibrates, continuously exerts pressure, and continuously transmits motion. It creates the conditions for the formation of matter, holds it together, rearranges it, destroys it, and reassembles it anew.\
+Everything that happens in the universe occurs not because "energy has accumulated" somewhere, nor because "a field has been activated," but because the aol space is in a state of perpetual action.
 
-In other words, in a way that allows us to trace a chain of causes: what acts on what, through what the interaction is transmitted, why motion arises, and what sustains it.
+This book proposes viewing the world in this way: only matter exists in the Universe, and everything that transpires is the motion of matter under the influence of pressure.
 
-In everyday life, we encounter only this kind of mechanism: if something is to move, it has to be pushed.
-We move objects by pressure. Water transmits pressure. Gas transmits pressure. Every machine, every mechanism, every device created by human beings works only because somewhere, something is pressing on something else. Even where motion appears complicated, hidden, or difficult to follow, if we break it down step by step, we arrive at the same thing again and again: contact, pressure, and the transmission of motion.
+From this single assertion, the entire picture gradually unfolds.  
+Light turns out to be not a stream of photons, but the transmission of high-frequency vibrations through the medium.  
+Electric current is not the movement of mysterious charges, but the directional motion of aols within the structure of substance.  
+A magnetic field is not an abstract field, but a vortex motion of that very same medium.  
+Gravity is not attraction, but the pressing together of bodies by the aol space due to a pressure differential.  
+Inertia is not an inherent property of a body, but the result of the action of aol wedges that form within the medium during motion.  
 
-This leads to a natural question: why should the deeper level of the world be built on a completely different principle?
-Why is it that in the visible world, mechanics, contact, and pressure are enough, while in the invisible world we are suddenly asked to accept abstract fields without carriers, action at a distance, mysterious entities such as energy existing in its own right, or motion without anything driving it?
+With this approach, even energy ceases to be some kind of independent entity. It transforms into what it fundamentally is—a characteristic, a convenient description of motion, the transfer of motion, and the capacity to transfer motion.
 
-This book proposes another path.
-It begins with a simple assumption: nature is unified. It does not change its laws merely because something is hard for us to see, or because a process takes place on a smaller scale. If, in the world of bodies, liquids, and gases, everything works through contact and pressure, then it is reasonable to assume that the same principle must also operate at a deeper level of reality.
+I understand that much of what has been said sounds unfamiliar. And that is perfectly normal. Any attempt to look at fundamental concepts in a different light initially provokes internal resistance, because familiar words and paradigms are deeply ingrained in our consciousness.
 
-For that to become possible, however, one further step is necessary: we must abandon the idea of emptiness.
-Vacuum is a very convenient concept. It fits comfortably into many familiar descriptions. But from a mechanical point of view, emptiness can do nothing. It cannot transmit motion. It cannot exert pressure. It cannot serve as a support. It cannot act as a mediator between bodies. And if it can do none of these things, then it cannot explain light, electricity, gravitation, or motion itself.
+Therefore, I ask only one thing of the reader: you do not have to agree immediately, but do not dismiss it immediately either.  
+Simply go step by step.  
+Do not try to resolve everything all at once.  
+Do not argue with every thought in advance.  
+Instead, observe: does the picture come together as we gradually examine the processes described in this book? Does a mechanism emerge where there was none before?
 
-That is why this book is built on a different image of the world.
-**Space is not empty.**
+This book requires no specialized background in physics. There are no formulas here. What matters most is not computation, but understanding. Not mathematical rigor at all costs, but physical clarity.
 
-It is filled with a special medium composed of primary elements that I call aols.
-These aols form aolic space — a continuous, dense, vibrating medium that does not merely surround matter, but makes the very existence of matter and all processes in the universe possible.
+We will move from the simple to the complex: from basic principles to inertia, mass, gravity, light, electricity, magnetism, and the overall picture of the universe.
 
-In this picture, aolic space is the primary driver of all processes. It does not rest. It does not switch off. It does not become exhausted. It vibrates continuously, presses continuously, and continuously transmits motion. It creates the conditions under which matter forms, holds matter together, restructures it, destroys it, and assembles it again. Everything that happens in the world happens not because “energy has accumulated” somewhere, nor because “a field has acted,” but because aolic space is continuously at work.
-
-This book proposes that we view the world in the following way: **in the universe, only matter exists, and everything that happens is the motion of matter under pressure.**
-
-From that single statement, the entire picture gradually unfolds.
-Light turns out to be not a stream of photons, but the transmission of high-frequency vibrations through the medium.
-Electric current turns out to be not the movement of mysterious charges, but the directed motion of aols within the structure of matter.
-A magnetic field is no longer an abstract field, but a vortex-like motion of the same medium.
-Gravitation is no longer attraction, but the pressing together of bodies by aolic space because of a pressure difference.
-Inertia is no longer an innate property of bodies, but the result of aolic wedges forming in the medium during motion.
-Even energy, under this approach, ceases to be some independent entity. It becomes what it really is: a characteristic, a convenient way of describing motion, the transmission of motion, and the capacity to transmit motion.
-
-I understand that much of what is being said here may sound unfamiliar. In some places, sharply unfamiliar. That is normal. Any attempt to look at fundamental things in a different way initially creates inner resistance — not necessarily because it is false, but because familiar words and conceptual schemes are deeply rooted in us.
-
-So I ask the reader for only one thing: do not agree too quickly, but do not reject too quickly either.
-Simply proceed step by step.
-Do not try to resolve everything at a single point.
-Do not argue in advance with every thought.
-
-Instead, watch carefully: does a coherent picture emerge as the processes described in this book are examined one by one?
-Does a mechanism appear where previously there was none?
-This book does not require specialized training in physics. There are no formulas here. What matters more is not calculation, but understanding. Not mathematical rigor at any cost, but physical clarity.
-
-We will move from the simple to the complex: from basic principles to light, electricity, magnetism, gravitation, and the general picture of the world.
-And if, by the end of that journey, the reader feels that the world has become more understandable, then this book will not have been written in vain.
-Because the true task of physics is not only to calculate the world, but also to describe its mechanism—to answer the simple question: what, exactly, is pressing on what?
+And if, at the end of this journey, the reader feels that the world has become more understandable, then this book was not written in vain.  
+Because the ultimate task of physics is not merely knowing how to calculate the universe, but knowing how to describe the mechanism — that is, answering the simple question: what exactly is pressing against what?
 
 
 
