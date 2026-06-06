@@ -13,6 +13,14 @@ A comprehensive alternative physical model and conceptual mechanical framework c
 
 ---
 
+## Important Notice Regarding Translation & Semantics
+
+**Please note:** The original architecture, theoretical framework, and semantic foundation of this hypothesis were conceived and written in **Russian**.   
+While this English version has been meticulously translated using precise physical and mechanical terminology, the **Russian text remains the ultimate reference point.**  
+For the absolute, unaltered physical essence of the hypothesis, please refer to the original Russian documentation in this repository.
+
+---
+
 ## 🌍 Project Overview (English)
 
 A conceptual mechanical model of physical processes based on:
