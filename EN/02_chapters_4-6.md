@@ -83,7 +83,6 @@ This approach eliminates the chaos currently entrenched in science. The pileup o
 
 Nature is logical and pragmatic. It does not pervert itself with wild fantasies. It has no need for them when it has an excellently functioning principle right at hand—a simple principle of contact pressure that works always and everywhere, with all objects: solid, liquid, gaseous, immense, and microscopic.
 
-Do you possess enough intellect and logic to comprehend these simplest four types of mechanics?
 
 
 
