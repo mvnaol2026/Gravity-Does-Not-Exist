@@ -1,188 +1,89 @@
 ## Chapter 4. THE FOUR KINDS OF MECHANICS
 
-Let us take a very simple step.
-For now, we will not descend into the microworld.
-We will not speak yet about atoms, aols, fields, or anything of that kind.
-Let us remain in the world you already see every day.
+There are four types of mechanics.  
+Three of them are known to science, but the fourth is not. It is precisely due to this ignorance that physicists invent absurdities that they themselves do not understand ("Shut up and calculate!"). They have immersed themselves in mathematics; there is no physics left there.
 
-Look around you.
-A table. A chair. A cup. Water. Air.
-You are already living inside physics.
-You interact with it constantly.
-You use it every day.
+Yet, all that was required after the first three steps was to take the final, fourth logical step in the exact same direction. Everything would have fallen into place. There would have been no need to fabricate the incredible, justifying it by claiming that the invisible world allegedly operates under its own, inadequate laws.
 
-And if you look carefully at what is happening around you, one very simple fact becomes visible.
-Everywhere, the same principle is at work.
-Wherever you look, everything comes down to one thing: something is pressing on something.
+Let us list the four types of mechanics. 
 
-Let us examine this slowly, step by step.
+**1. Classical Mechanics — The Mechanics of Solid Bodies**
 
-**Solid bodies are the most straightforward kind of mechanics**
+You encounter it every single second; you live within it. You are incapable of breaking away from it for even a brief moment. In this mechanics, solid objects make contact and act upon one another. You see it, you feel it, you do it, and you understand it perfectly. This interaction always takes the form of either contact pressure or a contact impact (which is simply short-term pressure). In other words, the principles of pressed—moved and press—it moves are at work here. 
 
-Let us begin with the most obvious case.
-You push a wardrobe.
-You brace your feet against the floor, your hands against the wardrobe, and you apply pressure.
-The wardrobe moves.
+All mechanisms and machines are engineered based on these very principles. Everything created by humans has been made through contact pressure. Look around you; recall your day. In the visible and tangible physical world of solid bodies, you have never once encountered anything other than contact pressure.
 
-There is nothing mysterious in this process.
-You feel the pressure.
-You understand what is happening.
-You see the result.
-If the pressure is removed, the wardrobe does not move.
-If the pressure is increased, it moves faster.
-If your footing is poor, you simply slide instead of moving the wardrobe.
-Everything is completely clear: there is contact, there is pressure, there is motion.
-That is classical mechanics.
+It would never cross anyone's mind to explain the movement of furniture by the influence of abstract "fields," quanta of massless energy, or an inherent desire of the wardrobe itself to move.
+Because that would be ridiculous.  
+In this mechanics, everything is obvious.
 
-The kind of mechanics a person knows from childhood.
-Now notice something important.
-No one is tempted to explain the motion of a wardrobe by invoking a “field,” “energy,” or some “inner tendency of the wardrobe to move.”
-That would be absurd.
-Here, everything is visible.
+**2. Fluid Mechanics**
 
-**Now let us consider liquids—the same mechanics, only in flowing form**
+It is commonly referred to as hydraulics. Here, too, everything is logical—molecules of a liquid make contact and exert pressure upon one another or upon an actuating mechanism, such as a piston. It is the exact same principle: pressed—moved. Nothing else exists, nor can it exist. It is pure mechanics, albeit wet.  
+The mechanics of an isolated solid body have been replaced by the mechanics of a continuous medium, yet the physical essence of the process—contact, the transfer of pressure, and the resulting motion—remains unchanged.
 
-Take water.
-You press on the plunger of a syringe, and the water moves.
-What is happening?
-You are pressing on the water.
-The water transmits pressure.
-And somewhere farther along, something is displaced.
+**3. Gas Mechanics**
 
-If water did not transmit pressure, hydraulics would not exist.
-There would be no pumps.
-No plumbing systems.
-No hydraulic mechanisms.
-But water does transmit pressure.
-Why?
-Because its particles are in contact and press on one another.
+This is pneumatics. Under normal conditions, a gaseous medium is completely invisible to the human eye; however, it obeys the very same unshakeable laws of the mechanics of contact collisions.  
+Air can move objects.  
+It can destroy structures.  
+It can lift airplanes.  
 
-Once again, we arrive at the same thing: **contact, pressure, motion.**
-The only difference is that now we are not dealing with a solid object, but with a medium.
-And yet the principle has not changed by even a fraction.
+By virtue of what? By virtue of contact pressure.  
+It is simply that the particles are now further apart from one another, and their motions are more chaotic, but the principle remains identical: contact and the pressure of gas molecules upon one another and upon actuating mechanisms. It is the exact same principle: pressed—moved. Pure mechanics—already invisible to the eye, yet still comprehended by the mind.
 
-**Gases are no longer visible—but everything works in exactly the same way**
+Into none of these three types of mechanics can one insert fantasies about other kinds of interactions. Everywhere, there is only contact and pressure; everywhere, there is only a single mechanism of interaction: pressed—moved. Without contact and pressure, nothing would ever transpire. Reflect upon these first three types of mechanics, and you will easily realize this.
 
-Air cannot be grasped by hand, and it cannot be seen, yet it participates in mechanics just as much.
-Take a pump.
-You compress the air—and it exerts pressure.
-You open a valve—and the air rushes out.
-Air can move objects.
-It can destroy structures.
-It can lift aircraft.
+The world of solid bodies, the world of liquids, and the world of gases operate solely under the laws of mechanics. Denying this is impossible.
 
-But how does it do this?
-Through pressure.
-The only difference is that the particles are farther apart, their motion is more chaotic—but the principle remains the same.
+Why, then, did no one assume that nature would not behave bizarrely with processes invisible to the eye in the micro-world, and that the same logical and natural principle—pressed—moved—would operate there as well?
 
-And this is where something very important happens.
-We have now entered a domain where the object is not visible, the motion is not obvious, and the structure is hidden.
-Yet the logic still holds.
+Why have physicists so convoluted the intrinsic simplicity of nature, attributing absurd interactions like action-at-a-distance attraction and action-at-a-distance repulsion to the invisible world?
 
-This is a crucial transition.
-Because now a fundamental question arises.
+Furthermore, science is utterly incapable of describing these mechanisms. It is incapable for an obvious reason: it is impossible to describe that which does not and cannot exist. For as long as humanity has existed, attraction has remained an absolute mystery.
 
-**What if everything is built in the same way?**
+Why should everything end with three types of mechanics?  
+Why are we expected to believe that:  
+• At the level of solid bodies, mechanics is at work;  
+• At the level of liquids, it is also mechanics;  
+• At the level of gases, it is mechanics yet again.
 
-We already see three levels:
+And then, suddenly:  
+• Abstract fields without a carrier appear;  
+• Energy emerges as a "something" capable of pushing entire galaxies;  
+• Attraction occurs without contact.
 
-1. solids;
+Why? Because we cannot see it? But we cannot see gas molecules either. That does not prevent them from operating according to mechanical laws.
 
-2. liquids;
- 
-3. gases.
+Therefore, let us speak of the fourth type of mechanics.  
+The fourth type of mechanics is just as natural and logical, and exactly identical to all the others.
 
-And in all three cases, the same principle applies: **contact — pressure — motion.**
-Without exception.
-There is no “action at a distance.”
-There is no “by itself.”
-There is no “just because.”
+**4. Aol Mechanics**
 
-And here the essential question must be asked.
-Why should it stop here?
+This mechanics manifests in the micro-world, gravity, and motion (in what is commonly called "inertia"). Its operating principle is exactly the same: contact-pressed and moved. Nothing else can exist in nature. It is incapable of interacting in any other way.
 
-Why should we assume that:
+For motion to occur, contact and pressure are required.  
+The world of solid bodies, liquids, and gases is screaming this at us. Hear this scream.  
 
-— at the level of solids, mechanics applies;
+If the very same mechanical principle operates across all levels accessible to us, then it is this very principle that is fundamental to the entire Universe.
 
-— at the level of liquids, mechanics still applies;
+Space is not empty — it represents a super-dense medium composed of discrete elements that continuously interact with one another and transmit mechanical pressure. They are the true quanta of this world.
 
-— at the level of gases, mechanics continues to apply;
+The aol medium serves as the single foundation for all known physical processes.  
+The aol space carries light as a purely mechanical wave of collisions, enables electrical and magnetic processes through the dynamics of the medium, presses bodies toward one another (gravity) via an external pressure gradient, and sustains inertial motion where the classical viewpoint fails to see any active forces.
 
-and then suddenly:
+Thus, the fourth mechanics is not an isolated branch of physics, but the very primal foundation of all the others (given that the motion of "inertia" plays a colossal role in any motion within both the macro- and micro-world).
 
-— fields appear without a carrier;
+In reality, there is no multitude of fundamentally distinct "types of interaction" (strong, weak, electromagnetic, gravitational). There is only one single, universal mechanism that manifests itself identically across all states of matter: in solid bodies, liquids, gases, and within the most fundamental medium itself.
 
-— energy appears as some kind of independent “thing”;
+The entire Universe obeys the rigid rule of the fundamental law of physics: press — it moves.  
+This approach eliminates the chaos currently entrenched in science. The pileup of scattered, abstract rules is replaced by a through-and-through, monolithic logic.
 
-— attraction appears without contact.
+**Nature is unified.** It did not invent special laws just for what humans are incapable of seeing. Human vision is far too weak a tool, and nature is under no obligation to adapt to its limitations. The invisibility of a medium does not prove its absence. Poor eyesight is a human problem, not nature's.
 
-Why?
-Because we cannot see it?
-But we cannot see gas molecules either.
-And yet that does not prevent them from operating according to mechanical laws.
+Nature is logical and pragmatic. It does not pervert itself with wild fantasies. It has no need for them when it has an excellently functioning principle right at hand—a simple principle of contact pressure that works always and everywhere, with all objects: solid, liquid, gaseous, immense, and microscopic.
 
-**And this is where a fourth level of mechanics appears.**
-
-This is not an assumption made out of nothing.
-It is a continuation of an already observed pattern. If the same principle operates everywhere we are able to observe, then it is this principle that should be treated as fundamental. And if we follow that logic further, a natural conclusion emerges: space is not empty. It, too, consists of elements. These elements also interact. And they also transmit pressure.
-
-In other words, there exists another level of mechanics — a fourth kind of mechanics.
-Not the mechanics of solids, not of liquids, and not of gases, but of a deeper medium.
-
-In this book, that medium is called **aolic space.**
-
-And if it truly exists, then:
-
-— it is this medium that transmits light;
-
-— it is this medium that underlies electrical processes;
-
-— it is this medium that produces magnetic effects;
-
-— it is this medium that presses bodies together (gravitation);
-
-— it is this medium that sustains motion where it seems that “nothing is acting.”
-
-In other words, the fourth kind of mechanics is not something separate — **it is the foundation of all the others.**
-
-If we put everything together, a simple and powerful picture emerges.
-There are no different “types of interaction” in the world.
-There is one and the same mechanism.
-
-It manifests itself:
-
-— in solids;
-
-— in liquids;
-
-— in gases;
-
-— and in a deeper medium.
-
-And everywhere, it is the same.
-It follows the fundamental law of physics: **press — and it moves.**
-
-Why is this important?
-Because it removes the apparent chaos from physics.
-Instead of a collection of separate explanations—one here, another there, a third somewhere else—there emerges a single, unified logic.
-
-This means that nature does not change its principles from one level to another.
-If contact and pressure operate at every observable level,
-there is no reason to assume that at a deeper level the mechanism suddenly becomes different.
-
-At that point, physics ceases to be a collection of disconnected rules.
-It becomes an understandable system with a common principle — a single law of motion.
-Nature is not required to conform to the limits of our perception.
-If we do not see something, it does not mean that it does not exist.
-We do not see air — and yet it exists.
-We do not see molecules — and yet they exist.
-So why should space be empty and introduce unexplained rules into the motion of matter?
-
-This question will become central in the next chapter.
-Because the next step will change everything: from “empty space” to a medium that exerts pressure.
-And it is there that the real physics of this model begins.
-
+Do you possess enough intellect and logic to comprehend these simplest four types of mechanics?
 
 
 
