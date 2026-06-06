@@ -295,119 +295,116 @@ Because the ultimate task of physics is not merely knowing how to calculate the 
 
 ## Chapter 2. WHAT EXISTS IN THE WORLD
 
-If you ask someone a simple question—“What is the world made of?”— the most likely answer will be: “Matter and energy.”
-This answer sounds familiar. It is repeated in textbooks, in popular science programs, in everyday discussions about physics. It feels so natural that it is rarely questioned.
+If you ask someone the question, "What is the world made of?" they will most likely answer, **"Of matter and energy."**  
+This answer sounds familiar. It is repeated in textbooks, in popular science shows, and in conversations about physics. It seems so natural that it raises no doubts. And it sounds fundamental—meaning that it specifies not only matter as the composition of all existence, but also energy as the cause behind the interaction of that matter.
 
-But the moment we try to understand what these words actually mean, the situation changes.
-With matter, things are more or less clear. Matter is something that can be experienced. Something that occupies space. Something that can be moved, compressed, or struck. A stone is matter. Water is matter. Air is matter. Even when we move to more subtle levels—atoms, particles—we are still talking about something that exists, that interacts, that participates in physical processes.
+Yet, if one tries to delve deeply into what exactly lies behind these words, the situation changes.  
+With matter, everything is more or less clear. Matter is something that can be perceived. Something that occupies space. Something that can be touched, compressed, struck, or displaced. A stone is matter. Water is matter. Air is matter. Even when we transition to subtler levels—atoms—we are still talking about something that exists, interacts, and participates in processes.
 
-But with energy, things are far less obvious.
-Try asking yourself a simple question: “What is energy as a physical entity?”
-Not a formula. Not a textbook definition. But what is it, in reality?
-Where is it located?
-What is it made of?
-What does it look like?
-How is it actually transmitted?
+But with energy, everything is far less obvious.  
+Try asking yourself the question: **"What is energy as a physical object?"**  
+Not a formula. Not a textbook definition. But precisely—what is it in reality?  
+Where is it located?  
+What does it consist of?  
+What does it look like?  
+How exactly is it transmitted?  
 
-And here is where things become strange.
-It turns out that energy is not an object. It cannot be “touched,” either directly or indirectly. It has no form. No structure. It is not a carrier. It is not something that “exists somewhere.” It cannot be separated from the process itself.
-Energy is a description.
+And this is where the strange part begins.  
+It turns out that energy is not an object. It cannot be "touched," either directly or indirectly, whether by hands or by sensors. It has no shape. It has no structure. It is not a carrier. It does not "lie" anywhere. It is impossible to isolate it within a reservoir.  
+It cannot be separated from the process itself.
 
-It is a way of talking about how motion changes.
-When a body moves quickly, we say it has high kinetic energy.
-When a body is lifted to a height, we say it has potential energy.
-When a body is heated, we say it has thermal energy.
-But in all these cases, we are not adding a new entity to the world. We are simply describing the state of motion of matter and the ability of that motion to be transferred.
+Energy is not a material object, but a convenient mathematical way to describe the intensity and character of the motion of matter—a description of how motion changes.  
+When an object moves fast, we say it has high kinetic energy.  
+When an object is raised high, we say it has potential energy.  
+When an object is heated, we say it has thermal energy.  
+Yet, in all these cases, we are not adding a new entity into the world. We are simply describing the state of the motion of matter or the capacity to transfer this motion.
 
-This is a crucial point.
-Because if we remove the word “energy,” nothing in reality disappears.
-Motion remains.
-Collisions remain.
-The transfer of motion remains.
-Processes remain.
-Only a convenient word disappears.
+And this is a crucial point.  
+Because if you remove the word "energy," nothing in reality vanishes.  
+Motion will remain.  
+Collisions will remain.  
+The transfer of motion will remain.  
+Processes will remain.  
+Only a familiar word will disappear.  
 
-And this leads to a simple but fundamental conclusion: there is no separate entity in the world called “energy.”
-There is only the motion of matter and the transfer of that motion.
-We can say it more precisely: **energy is not “something that exists,” but a way of describing what is happening.
-Now let us take the next step.**
+This means we can draw a fundamental conclusion: **there is no separate entity called "energy" in the world.**  
+**There is only the motion of matter and the transfer of this motion.**  
+To put it differently: "Energy is not 'something that exists,' but rather how we mathematically describe the alteration of motion."
 
-If we discard energy as an independent entity, what remains?
-Only matter remains.
-But not matter as something motionless and inert.
-And matter is always in motion.
-This is something that needs to be stated explicitly.
-We are used to saying, “A body is at rest.”
+If we discard energy as an independent entity, what remains?  
+Only matter remains.  
+But not simply matter lying motionless.  
+Rather, matter that is always in motion.  
 
-But what does that actually mean?
-If we look more closely, it becomes clear that absolute rest does not exist.
-Even when an object lies on a table, motion is still present within it: atoms oscillate, vibrations are transmitted, and pressure from the surrounding medium is constantly acting on it.
+This, too, is important to state explicitly.  
+We often say: "The object is at rest. The object is not moving."  
+But what is happening in reality?  
+In reality, **absolute motionless does not exist.**  
+Even if an object lies motionless on a table, motion is occurring inside it: atoms oscillate, vibrations are transmitted, and the pressure of the surrounding medium is at work. Furthermore, everything on the table, and the table itself, is hurtling through space at tremendous speed.
 
-If we go one level deeper, we find that the medium itself—within which the object exists—is not static either. It is not “frozen.” It is continuously acting, continuously oscillating, continuously transmitting motion.
-So rest is not the absence of motion.
-It is a state in which motions are balanced.
+If we venture to a deeper level, it turns out that the very medium in which the object resides is not static either. It is not "frozen." It continuously exerts influence, oscillates, and transmits motion.  
+In other words, rest is not the absence of motion.  
+It is a state in which motions are locally balanced. Relative to the table, the forces acting upon the object are balanced, and therefore, the object appears motionless.
 
-And this is where the central idea of the entire book emerges.
-It can be stated simply: **every process is the motion of matter.**
+And here emerges the pivotal idea of the book.  
+It can be stated simply: **every process is the motion of matter.**  
+Light is motion.  
+Heat is motion.  
+Electricity is motion.  
+Magnetism is motion.  
+Gravity, too, is motion.  
 
-Without exception.
-Light is motion.
-Heat is motion.
-Electricity is motion.
-Magnetism is motion.
-Gravitation is motion.
+From this, the fundamental postulate of Aol physics is derived: **every process in the Universe—from the propagation of light to the motion of galaxies — consists exclusively of the motion of matter and the direct contact transfer of this motion from one object to another.**
 
-If there is a process somewhere, then something is moving.
-If there is a change somewhere, then the pattern of motion has changed.
-If there is an effect, then motion is being transmitted.
+If a process occurs somewhere, it means something is in motion there.  
+If a change occurs somewhere, it means the pattern of motion has shifted there.  
+If an interaction occurs somewhere, it means motion is being transferred there.  
 
-At first glance, this seems obvious — perhaps even too obvious to emphasize.
-But this is exactly where a gap appears in modern physics.
-Because in many explanations, motion seems to “lose its carrier.”
-We are told that energy is transferred, that a field acts, that an interaction occurs.
-But it is not always clear: what exactly is moving, through what it is transmitted, and what is actually exerting pressure?
-This question — “what acts on what?”— becomes central.
-If there is no answer to it, the explanation remains incomplete.
+At first glance, this seems obvious.    
+Yet, this is precisely where a rift opens in modern physics.  
+Because in many explanations, motion "loses its carrier."    
+It is said that energy is transferred, a field acts, or an interaction takes place.  
+But it is not always clear: what exactly is in motion, through what is the action transmitted, and who or what is pressing?
 
-One can write down a formula elegantly.
-One can calculate the result with precision.
-But if the mechanism cannot be shown, the explanation remains suspended in the air.
-For this reason, this book follows a principle that is both very strict and very simple.
+And this very question — "what acts upon what?" — becomes central.  
+If there is no answer to it, the explanation remains incomplete or erroneous.  
+One can write a beautiful formula.  
+One can calculate the outcome with precision.  
+But if it is impossible to demonstrate the mechanism, the explanation hangs in midair—it does not exist.
 
-Whenever we speak about any phenomenon, we will ask ourselves three questions:
+Therefore, throughout this book, we will adhere to a very strict and, at the same time, very simple principle.  
+Every time we discuss any phenomenon, we will ask ourselves two questions:
 
-— what is moving?
+1.	**What is in motion?** Which specific material body is displacing in space?
+2.	**What exactly is exerting pressure?** What is the carrier that produces the interaction?
 
-— through what is motion transmitted?
+If there is a comprehensible answer to these questions, it means we understand the process.  
+If there is no answer, it means we are facing merely a description, not an explanation.
 
-— what exactly is exerting pressure?
+Let us summarize our findings so far.  
+Within the framework of the worldview that we will unfold moving forward, three base assertions are accepted:
 
-If there is a clear answer to these questions, then the process is understood.
-If there is no answer, then what we have is a description, not an explanation.
+1. **Only matter exists in the world.** Reality is completely stripped of "non-material fields" or "pure energy" capable of physically acting upon objects without direct material contact.
+2. **Matter is always in motion.** Absolute rest does not exist. Any static state is merely a dynamic equilibrium of hidden, opposing motions.
+3. **Every process is the motion of matter and the transfer of this motion.**
 
-So let us summarize where we stand so far.
-Within the picture of the world that this book will gradually unfold, three basic propositions are accepted.
+From these three assertions, the entire picture will gradually take shape.  
+First, we will figure out what exactly the medium in which everything occurs represents.
 
-First, only matter exists in the world. There is no need to introduce any “non-material entities” capable of acting on their own.
+Then, we will examine:  
+•	How the structure of matter emerges from this medium  
+•	How the motion we call inertia arises  
+•	How gravity operates  
+•	What light, heat, electricity, and magnetism truly are
 
-Second, matter is never absolutely motionless. Every state is either motion, or a balance of motions.
+And step by step, it will become clear that one and the same mechanism can lie behind all these diverse phenomena.  
+For now, however, it is essential to anchor the main point.  
+The world is not made of "matter and energy."  
+The world is made of matter.  
+And everything else is simply the forms of its motion.  
 
-Third, every process is the motion of matter and the transmission of that motion.
-
-From these three propositions, the entire picture will gradually emerge.
-First, we will examine the nature of the medium in which everything takes place.
-Then, we will consider how the structure of matter arises from that medium.
-After that, we will examine how motion appears in the form that is usually called inertia.
-Then we will turn to gravitation.
-Then to light, heat, electricity, and magnetism.
-
-And step by step, it will become clear that behind all of these seemingly different phenomena there may stand one and the same mechanism.
-For now, however, the main point must be fixed clearly.
-The world does not consist of “matter and energy.”
-**The world consists of matter.**
-Everything else is merely a form of its motion.
-And if that is really so, then the next question becomes unavoidable: what exactly sets this matter in motion?
-
+If this is indeed the case, then the next question becomes inevitable:  
+**What exactly sets this matter in motion?**
 
 
 
