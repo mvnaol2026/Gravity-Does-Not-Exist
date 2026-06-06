@@ -411,130 +411,45 @@ If this is indeed the case, then the next question becomes inevitable:
 
 ## Chapter 3. THE FUNDAMENTAL LAW OF PHYSICS
 
-Let us begin not with formulas, and not with terminology.
-Instead, let us start with the simplest possible experience—one that every person encounters every day without even thinking about it.
+What exists in the Universe?  
+Only matter in motion. There is no such thing as motionless matter. And there is nothing else besides matter in motion.  
+Every process, every phenomenon is the motion of matter.
 
-You want to move an object. A cup on a table, for example.
-What do you do?
-You press on it with your hand.
-If you press lightly, it does not move.
-If you press harder, it begins to move.
-When you stop pressing, it stops.
-It is as simple as that.
+Therefore, the fundamental law of the Universe and the fundamental law of physics is the law of motion. By tracing the motion of matter within a process, the process itself becomes understood.
 
-And it is so familiar that we hardly notice how important this observation is. Yet it already contains almost all of physics.
-Now imagine removing pressure from this process.
-You do not press on the cup.
-Will it move on its own? No.
+### The fundamental law of physics states: the motion of an object is possible only under contact, unbalanced, and continuous pressure from another object.
 
-Now imagine that you press it, set it in motion… and then remove your hand.
-Will it continue to move by itself?
-In real life—no. It will stop.
+Let us break it down part by part.  
+There are three key words here: **contact, unbalanced, and continuous.**
+1.	**Contact.** This means that interaction always occurs through physical touch. This touch does not have to be a direct, "visible" contact by hands or bodies. Contact can be transmitted through a medium. However, in any case, a contact chain exists: one thing presses against another, and that other presses against the next. Without contact, there can be no interaction.
+	
+2.	**Unbalanced.** If an object is pressed upon equally from all sides, it does not move. The pressure is present, but it is compensated. For motion to arise, the pressure from one side must be greater than from the others. Only then does a directional, predominant action occur.
+	
+3.	**Continuous.** This is a highly crucial point. Science completely overlooks it. This oversight stems from a flawed interpretation of how we visually perceive the motion of certain bodies. Pressure must not simply occur for a fleeting moment. It must persist the entire time the motion lasts. The very instant the pressure vanishes, the motion ceases. Not "gradually," not "eventually," but instantaneously.
+	
+One could simplify the fundamental law down to a couple of words: **pressed — moved.** This is a specific case of the law.  
+At the same time, it is vital to understand: **stopped pressing — stopped.**  
+Thus, the law in short is: **press — it moves.**
 
-And here we arrive at a very important observation, one that is usually overlooked.
-For a body to move, it must be under pressure.
-And not just pushed once.
-It must be continuously pressed for as long as the motion continues.
+The fundamental law completely denies motion "in and of itself" and mandates that every physical process provide three specific answers: what exactly is pressing, what is it pressing against, and through which material medium is this pressure transmitted if the carriers of the contact pressure are invisible.
 
-This sounds unexpected, because we have been taught otherwise since childhood.
-We are told that once a body is in motion, it can continue moving “by inertia,” even if no force acts on it anymore.
-But if we look at real processes rather than abstract models, a question arises: what exactly keeps the body moving after we stop pushing it?
-What is pressing on it?
-If nothing is pressing on it, why does it not stop immediately?
+Try applying this law to any phenomenon: a falling stone, the propagation of light, an electric current, or magnetic effects. Everywhere, the exact same question will arise — one that official science cannot answer: where is the physical source of the continuous contact pressure?
 
-This brings us to the central law that will form the foundation of this book.
-Let me first state it precisely, and then in simpler terms.
+In modern physics, conceptual dead ends arise precisely because this link — continuous contact pressure — is frequently omitted.   
+Entities are introduced into equations that exert influence but lack a contact-pressing material carrier:  
+•	**A field** exerts a force, but it remains unknown what physical particles it consists of and how exactly it interacts.  
+•	**Energy** is transferred, but what exactly is physically displacing in space is not specified.  
+•	**Attraction** is allegedly observed (it is more accurate to speak of mutual approach), but the mechanical mediator of the process is absent.
 
-### The fundamental law of physics: the motion of an object is possible only when there is unbalanced, contact-based, and continuous pressure exerted by another object.
+From the standpoint of the laws of mechanics, this looks as though, within a complex device, one of the gears is rotating all by itself, without meshing with the other parts. In reality, however, this never happens: if a component is rotating, it means something is continuously pushing it. And we will systematically uncover this material "something."
 
-This may sound formal, but let us break it down.
-There are only three key elements: contact, imbalance, and continuity.
+At this stage, a reasonable objection naturally arises: the law of continuous pressure appears to contradict observations.  
+We throw a stone; the hand no longer touches it, yet it continues to fly. Does this mean the law is incorrect? No.   
+It means only one thing — **the source of the pressure is invisible to our eyes.** We will find it in the chapter on inertia.
 
-1. **Contact.**
-This means that any interaction occurs through contact.
-Not necessarily direct, visible contact with hands or bodies. Contact may be transmitted through a medium. But in every case, there is a chain: one thing presses on another, which presses on the next.
-No contact—no interaction.
+For now, let us remember the fundamental law: in its full form, in its short form, and as the trinity of the physics of motion: **carriers — contact — pressure.**
 
-2. **Imbalance.**
-If a body is pressed equally from all sides, it does not move.
-Pressure exists, but it is balanced.
-For motion to arise, pressure must be greater on one side than on the other.
-Only then does a directed effect appear.
-
-3. **Continuity.**
-And this is the most important point.
-Pressure must not occur only for an instant.
-It must persist for as long as the motion continues.
-The moment pressure disappears, motion stops.
-Not gradually, not eventually—but immediately.
-
-If we reduce all of this to a simple statement, we get an almost playful but very precise formulation:
-**press—and it moves.**
-And, even more importantly: stop pressing—and it stops.
-
-In short: **if you press, it moves.**
-
-This may seem too simple. But that is exactly its strength.
-It leaves no room for “by itself.”
-
-It demands an answer every time:
-
-— who is pressing?
-
-— on what?
-
-— through what is the pressure transmitted?
-
-Now try to apply this principle to different phenomena.
-To the motion of a body.
-To a falling stone.
-To the propagation of light.
-To electric current.
-To magnetic effects.
-
-In every case, the same question arises: where is the source of pressure?
-If there is none, the explanation is incomplete.
-And this makes it clear why modern physics encounters difficulties.
-
-Because it often introduces concepts that act, but have no explicit carrier:
-
-— a field acts, but what it consists of is unclear;
-
-— energy is transferred, but what is actually moving is not specified;
-
-— attraction exists, but its mechanism is not shown.
-
-From the point of view of the fundamental law, this looks like a missing link. As if one were to say in a mechanical system: “the gear rotates by itself.”
-No — if it rotates, something must be driving it.
-And it is this “something” that we will look for in every chapter.
-
-Now an important point that must be addressed in advance.
-It may seem that this law contradicts observation.
-For example, we throw a stone—and it continues to fly. The hand is no longer pressing on it, yet the motion continues.
-Does this mean the law is wrong? No.
-
-It means only one thing: **we do not see the source of pressure.**
-
-This is exactly what we will examine in detail later, when we turn to inertia.
-It will become clear that motion does not continue by itself. There is simply another participant in the process—one that is not taken into account in conventional explanations.
-
-For now, however, it is essential to fix the principle.
-Without it, we cannot move forward.
-The fundamental law of physics provides a simple test for any explanation:
-if it does not specify what is exerting continuous contact pressure, then the explanation is incomplete.
-
-And conversely:
-if one can identify the carrier, the contact, and the pressure, the process becomes understandable.
-
-This is why, throughout this book, we will repeatedly return to the same framework.
-Not to formulas.
-But to mechanics.
-To a very simple, almost everyday question: what is pressing on what?
-And if this question is examined honestly, something remarkable happens: even the most complex phenomena begin to fall into a coherent picture.
-
-In the next chapter, we will take the next step.
-We will examine whether this principle holds equally across different media—solids, liquids, and gases.
-And whether it extends to a deeper level.
-There, an important idea will begin to take shape: **nature may be far simpler than it appears.**
-But this simplicity has to be seen.
-
+Finally, in this chapter, I will address the current state of human knowledge.  
+Today, it is shameful to believe in a flat Earth. It is a sign of utter ignorance.  
+In the near future, it will be considered equally ignorant not to know the supreme law of physics and to believe in attraction.  
+**There is no motion without contact** — this is the foundation of the physics of the future.
