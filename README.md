@@ -39,7 +39,6 @@ A conceptual mechanical model of physical processes based on:
 * **Light:** High-frequency vibrations of aol space (rejecting photon particle flights).
 * **Electric Charge:** Rotational states of atomic structures.
 * **Magnetism:** Organized rotational motion of the medium.
-* **Photoelectric Effect:** Ejection of organized aol motion.
 
 ### Fatal Fallacies of Science
 
@@ -182,7 +181,6 @@ A conceptual mechanical model of physical processes based on:
 * **Свет:** Высокочастотные колебания (волны давления) аольного пространства, а не полет частиц-фотонов.
 * **Электрический заряд:** Вращательные состояния атомных структур.
 * **Магнетизм:** Организованное вращательное движение аольной среды.
-* **Фотоэффект:** Выброс организованного аольного движения.
 
 ### Фатальные заблуждения науки
 
