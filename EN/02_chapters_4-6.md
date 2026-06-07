@@ -311,142 +311,95 @@ And if that is the case, it is time to get acquainted with them.
 
 ## Chapter 6. AOLS — THE PRIMARY ELEMENTS OF THE WORLD
 
-If we have already taken the step of recognizing that space is not empty, but is instead a real material medium, then a natural question follows: what is this medium made of?
-It is not enough to say, “there is some kind of medium,” and leave it at that. If it is material, if it transmits motion, if it exerts pressure, vibrates, and participates in all processes, then it must have its own elements.
+Acknowledging space as a material medium inevitably demands an answer to the question: what specific elements does it consist of? A medium cannot be an abstract, fluid, monolithic entity. If it transmits motion, vibrates, and exerts pressure, it must possess a discrete structure.
 
-This is where a concept appears in the aolic model that will be fundamental for the entire book: **aols.**
+At the core of the proposed model lies the concept of the aol. An aol is not merely another submicroscopic particle. It is the primary, single, indivisible element of the world, representing the deepest and definitive level of matter's existence. Absolutely everything consists of aols: not only atoms and all material bodies, but the very fabric of physical space itself—the aol space.
 
-The word itself may seem unfamiliar, but there is nothing unusual about that. Any new model of the world inevitably introduces its own basic terms. At one time, words like “atom,” “electron,” and “quark” played that role. Here, that role is taken by the word aol.
+For aols to be able to form a continuous, stable, and predictable Universe, they must possess a set of concrete geometric and physical characteristics.
 
-But of course, the important thing is not the word itself, but what stands behind it.
-An aol is not “just another particle” among those already known. In this model, an aol is a primary element of the world—the deepest level of matter we reach in our reasoning.
+**1. Absolute Identity**
 
-In other words, we are not speaking about a particle that makes up some particular thing.
-We are speaking about a particle that makes up everything.
+All aols in the Universe are strictly identical. If a multitude of diverse primary elements existed at the fundamental level of reality, the world would be inherently chaotic and unstable. The identity of aols is the sole reason why the exact same laws of nature operate across all points of the cosmos, and mechanical impulses are transmitted according to unified principles. Aols are not just "similar" to one another—they are geometrically and physically identical.
 
-Not only bodies.
+**2. Ideal Spherical Shape**
 
-Not only atoms.
+A sphere has no "preferred" direction. The sphere is the only geometric shape that ensures absolutely isotropic (uniform) interaction in all directions of space. A sphere has no edges, corners, or protrusions that could create dedicated axes or unevenness in engagement. For the primary elements of the medium to form a universal, homogeneous space, they must be ideal rigid spheres.  
+Moreover, within a medium vibrating at a colossal frequency, primary, elementary matter of any geometric shape would assume the form of a sphere almost instantaneously. The "forge" of the aol medium instantly corrects any changes in shape, reshaping the primal elements into ideal spheres.
 
-But space itself.
+**3. Supreme, Yet Finite Rigidity**
 
-At this point, it is necessary to state clearly what properties these elements must have, if they are to form the continuous medium of the world.
+To ensure the colossal speeds at which physical interactions propagate (such as light and gravitational pressure), aols must possess extreme rigidity. Soft or viscous elements would dampen the impulse, rendering the transfer of motion slow and subject to decay. However, the world shows us that processes with highly elevated propagation speeds do exist. Consequently, the elements of the medium must possess a corresponding level of stiffness.
 
-**First of all, aols must be identical.**
+Yet, there is an important nuance that must be emphasized here.  
+Aols are not infinitely rigid. If they were absolutely non-deformable, the transmission of interaction through them would happen instantaneously rather than at a finite speed. But we observe that the propagation speed of light and other interactions is finite. Therefore, the rigidity of aols has a colossal, yet strictly finite limit.
 
-Why is this important?
-Because if, at the most fundamental level, there were many different kinds of primary elements, the world would be inherently irregular and chaotic. 
-It would then be difficult to explain why the same laws operate in widely different regions of the universe. Why the transmission of motion follows the same principles everywhere. Why the properties of space remain consistent.
-Thus, the first essential property of aols is their uniformity.
+This ensures the elastic transmission of micro-impacts: an aol receives an interaction and negligibly deforms for an elusive fraction of time, translating the impulse to the next element at a fixed, finite speed.  
+It restores its shape not due to its own elasticity, but because of trillions of micro-impacts per second from all directions.  
+That is, by negligibly deforming for a moment, it restores its spherical shape within an infinitesimal fraction of a second thanks to the "forge" of the medium. This is a permanent process.
 
-This does not mean that they are merely similar.
-It means that they are truly identical as the basic elements of the medium.
+**4. The Absence of Friction in the Macroscopic Sense**
 
-**The next property is their shape.**
-In the aolic model, aols are assumed to have a **spherical form.**
-This is not an arbitrary assumption. A sphere is the most natural form for an element that must interact equally in all directions. A sphere has no preferred direction. No edges that could lead to accidental engagement. No protrusions that would make one direction different from another.
-If the primary elements of the medium are to form a universal space, then spherical symmetry is the most consistent assumption.
-But spherical form alone is not sufficient.
+Another fundamental property of aols is the absence of friction in the conventional sense.  
+When we speak of friction in the familiar world, we refer to the interlocking of surface roughness, the indentation of one surface into another, the tearing away of protrusions, and the deformation of contacts.  
+However, if the primary elements of the world are ideally spherical and extremely rigid, such a mechanism simply does not exist between them.  
 
-**Aols must be extremely hard.**
-Why?
-Because it is through them that extremely high-speed interactions must be transmitted. Light, vibrations, pressure — all of these require a medium capable of transmitting effects quickly and reliably.
-If aols were soft, they would damp motion. Transmission would be slow and viscous. But the world shows us that there are processes in which effects propagate at extremely high speeds. Therefore, the elements of the medium must possess a corresponding degree of rigidity.
+• Aols do not catch onto one another with protrusions, because there are no protrusions.  
+• They do not scratch one another, because there is no roughness.  
+• They do not get stuck in one another, because they are extremely rigid.
 
-However, there is an important subtlety here.
-**Aols are not infinitely rigid.**
-This must be emphasized.
-If they were absolutely undeformable, then the transmission of interaction through them would occur instantaneously, rather than at a finite speed. But we observe that the propagation of light and other effects occurs at a finite speed. Therefore, aols must possess a very high, yet still finite, rigidity.
+Therefore, under normal conditions, they are capable of displacing relative to one another without the friction characteristic of the macro-world.
 
-It is precisely this that makes elastic transmission possible: an aol responds to an impact and passes it on further. It does not “lag” significantly, but neither does it transmit the effect instantaneously.
+And this is critically important. Otherwise, the medium itself would be "viscous" in the negative sense of the word. The absence of viscous friction allows the elements of the medium to slide past one another without losing kinetic impulse.  
+This is crucial: otherwise, within a short, decaying timeframe, the aol space would slow down and freeze any wave and oscillatory processes in the Universe, and would hinder the motion of macro-bodies.
 
-**Another fundamental property of aols is the absence of friction in the usual sense.**
-It is easy to make a mistake here if friction is understood too superficially.
-In the familiar macroscopic world, friction arises from the interlocking of surface irregularities, from the embedding of one surface into another, from the tearing of protrusions, from the deformation of contact points. But if the primary elements of the world are perfectly spherical and extremely rigid, such mechanisms simply do not exist between them.
+**5. Absolute Indivisibility, Incorrodibility, and Eternity**
 
-Aols do not catch on one another, because there are no protrusions.
-They do not scratch one another, because there is no roughness.
-They do not become lodged in one another, because they are extremely rigid.
+The aol is a truly monolithic primary matter. It lacks any internal structure, constituent parts, layers, or subagents. Mechanical wear or abrasion (abrasive wear) is possible only for composite objects of the macro-world, where an external force can tear away a portion of the structure or a layer from the whole.  
+An aol, however, cannot be divided, split, or worn down precisely because it is indivisible and represents the elementary physical quantum of matter. Aols are eternal and unalterable in their pristine state.
 
-As a result, under ordinary conditions, they can move relative to one another without the kind of friction that is characteristic of the macroscopic world.
+**6. Absolute Indivisibility as an Ontological Limit**
 
-And this is crucial. Otherwise, the medium itself would be “viscous” in the worst sense of the word and would slow down all processes.
+The aol is regarded as the fundamental limit of the division of matter. This is a logical requirement for the finiteness of any physical model: if the explanation of processes is endlessly deferred to "even smaller sub-levels," the theory will never be complete.  
+The aol is not a complex structure; it is an indivisible quantum of reality out of which everything else is assembled. Its presence is capable of sustaining the existence of composite matter of any complexity, the existence of the medium, and the execution of all processes.
 
-**Aols are eternal.** They do not consist of parts or layers. They are a single, unified form of matter that cannot be broken into pieces, and that is not subject to wear or erosion. One can wear down something that consists of parts — but an aol has no parts; it is a single whole.
+In other words, it is sufficient for the functioning of nature. Therefore, there are no smaller particles when aols already provide everything in the world. Any other particle would be superfluous to the operation of the universe and would disrupt its functioning.
 
-At this point, the reader may ask: if aols are so smooth, so identical, so spherical — how can a complex world arise from them? How do atoms, molecules, bodies, and substances emerge from perfectly smooth spheres? 
+**7. The Geometry of Microcosmic Interstices**
 
-This is an excellent question.
-The answer will be given later, when we examine the deformation of aols and the formation of lunols. For now, it is important to understand that at the most basic level, aols are simple—and that is their strength. They are not required to contain the entire diversity of the world within themselves. Their role is to serve as a universal foundation.
+The postulate that the Universe is super-densely filled with aols raises a logical geometric question: does free space exist between these elements?
 
-Diversity appears later, when, under immense pressure, some of them begin to change their shape.
-But for now, we are dealing with the initial level — with aols as the “zero layer” of matter.
-There is one more important property.
+Under any packing arrangement of ideal rigid spheres, even the densest possible, minimal interstices inevitably remain between them. This is easy to understand using the example of bowling balls or tennis balls: no matter how tightly they are pressed together, small gaps remain between them, dictated by the very geometry of the spherical shape.
 
-Within this model, aols must be indivisible.
-Not because this is convenient, but because otherwise we would never reach a true foundation. If every explanation can be indefinitely postponed to “an even deeper level,” the model will never be complete. Therefore, in this framework, the aol is understood as the limit of the divisibility of matter.
+In the aol model, the existence of only this type of "void" is permitted — one that is geometrically inevitable, minimal, and confined between contacting spherical elements.
 
-In other words, an aol is that from which everything else is composed — but it is not itself treated as a complex structure.
+However, in Aol physics, these gaps fundamentally differ from the "vacuum" postulated by official science.
 
-Now we come to a very important point, one that often вызывает внутреннее сопротивление—one that often meets with inner resistance.
+The geometric interstice between aols is not an independent, extended region of the world. It is rigidly bounded and totally controlled by the surrounding, touching spheres. This control means that if an interstice equal to the volume of an aol were to appear, it would be instantaneously occupied by the nearest aol.   
+There is no absolute void as a physical object in the Universe; there exist only microscopic inter-spherical voids, which are a natural consequence of sphere packing. The packing of aols is chaotic — ranging from 4 to 12 contacts between spheres.  
+This means that the interstices vary in size and are constantly changing at an incredible speed, as the aols continuously alter their number of contacts due to vibrations, diminishing some gaps while enlarging others.
 
-If aols fill all of space, does that mean that there is absolutely nothing between them?
-The answer here is subtle.
-When spheres are packed closely together, minimal geometric gaps inevitably arise. This is easy to understand even from simple examples like balls: no matter how tightly they are pressed together, tiny spaces remain between them, dictated by geometry itself.
+**8. Estimated Size of Aols**
 
-In the aolic model, only this kind of “emptiness” is allowed—geometrically unavoidable, minimal, confined between contacting spherical elements.
-But this is not the kind of emptiness that is usually meant when physics speaks of a vacuum or empty space.
+This value is yet to be further refined. However, as a preliminary estimate, the diameter of an aol is taken to be **10<sup>-9</sup>** cm.
 
-Such a geometric gap does not form an independent region of the world. It is immediately “controlled” by the surrounding dense medium. It cannot become a place where something happens independently of matter.
+**The Picture of the Universe**
 
-In simple terms — absolute emptiness does not exist.
-There are only minimal gaps, unavoidable in the dense packing of spheres.
-And that is a crucial difference.
+If we unite all the properties of the primary elements, a monumental picture of reality unfolds before us. The Universe is not an empty space in which rare material bodies chaotically fly about. The Universe represents a total, dense array of an infinite multitude of the tiniest, identical, rigid spheres—aols.
 
-Now let us bring everything together into a single, vivid picture.
-Imagine not an empty universe in which objects drift somewhere within it.
-But a universe completely filled with an immense number of the smallest identical spherical elements.
+Aols are in continuous mutual contact; they transmit mechanical pressure along a chain, and they perceive, conduct, and redirect micro-vibrations of the highest frequency, shaping the very physical fabric of space. In this concept, aols are the universal and sole primal matter of the world, and space is the eternal Primary Mover.
 
-These elements are in contact.
+Both macroscopic bodies themselves and that which mistakenly appears to be a "gap" or "void" between them — space — are constructed from aols. 
 
-They transmit pressure to one another.
+Because aols form the foundation of reality and its entire superstructure, it is their basic mechanical properties that directly dictate the physical constants and laws of our Universe:  
+• The finitude of the speed of light is determined by the strictly finite rigidity and micro-deformation of aols upon collision.  
+• The global transfer of force interactions is ensured by the fact that aols continuously touch and transmit mechanical vibrational pressure.  
+• The impossibility of an absolute vacuum stems from the total filling of space by the array of aols and the control aols exert over the interstices.  
+• The universality of the laws of mechanics across all scale levels is guaranteed by the fact that rigid, contacting, identical elements lie at the very foundation of the world.
 
-They receive and transmit vibrations.
+Thus, the concept of the aol is not merely the abstract introduction of a new hypothetical particle, but a through-and-through key to the mechanical explanation of the entire subsequent picture of the world. It is not a new particle, but the only particle out of which absolutely everything consists.
 
-They form the very fabric of space.
+However, knowing the properties of individual isolated "bricks" is insufficient. If aols are ideally smooth and identical, what exactly causes them to assemble into stable, complex structures—atoms, molecules, and chemical substances?
 
-In such a picture, space ceases to be an empty stage.
-It becomes a dense mechanical reality.
-Aols, in this framework, are not “components inside objects.”
-**They are the universal matter of the world.**
-Both bodies and what appears to be the “space” between them are built from them.
+Answering this question requires a transition from the statics of a single particle to the dynamics of the entire aol medium as a whole. We need to investigate how pressure is distributed within this gigantic array of spheres, why zones of colossal compression arise inside it, and under the influence of what forces a portion of the aols are forced to transform.
 
-And here another important idea emerges.
-If aols constitute the very medium of space, then it is their properties that determine the properties of the world.
-
-Why is the speed of light finite?
-Because aols possess finite rigidity.
-
-Why can space transmit pressure?
-Because aols are in contact and press against one another.
-
-Why is emptiness impossible?
-Because all of space is filled with aols.
-
-Why is mechanics possible at all levels?
-Because the foundation of the world consists of elements in contact.
-
-In other words, aols are not merely a “hypothetical particle.”
-They are the key to explaining everything that follows.
-
-However, another question arises.
-If aols are so smooth and so identical, what causes them not only to transmit motion, but, under certain conditions, to become the basis of real, stable structures — atoms, molecules, and matter?
-
-Answering this question requires the next step.
-We must understand how the aolic medium behaves as a whole. How pressure is distributed within it. Why regions of immense compression arise. And why it is precisely in these regions that some aols may change.
-
-This is where we will go next.
-Because knowing the “building blocks” alone is not enough.
-
-We must also understand what forces — and under what conditions — cause these building blocks to become structures.
-And that is the subject of the next chapter: aolic space as a continuous, vibrating, pressure-exerting medium of the universe.
+This transition — from individual bricks to the hyperactive, vibrating, and pressing medium of the Universe — is precisely what the next chapter is dedicated to.
