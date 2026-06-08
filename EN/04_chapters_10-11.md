@@ -113,267 +113,123 @@ The next step is now completely natural: if there are aols and lunols, then we n
 
 ## Chapter 11. ATOM: AN EMPTY FANTASY OR A REAL STRUCTURE?
 
-When a person hears the word “atom,” they usually feel that it is something long understood and firmly established. School, textbooks, popular science programs — all of this creates the illusion that the atom is well studied and its structure is clear. But this feeling is deceptive. The atom is one of those areas where modern physics appears especially confident in words and especially helpless when one demands not formulas and terms, but a real mechanical explanation.
+When a person hears the word "atom," they usually experience a sense of something long understood and definitively established. School, textbooks, popular science shows—all of this creates an illusion that the atom is well-studied and its configuration is clear. Yet, this feeling is deceptive. The atom is one of those places where modern physics appears particularly confident in words and particularly helpless when one demands not formulas and terminology, but a real mechanical explanation.
 
-Therefore, I ask you to read this chapter slowly. After each uncomfortable question, it is worth pausing. Because if you rush through the text, the meaning will slip away — and with it, the full disruptive force of what is being said here.
+Therefore, I ask you to read this chapter slowly. After each uncomfortable question, it is worth pausing. Because if you rush through the text without lingering, the meaning will slip away, and along with it, the entire destructive force of what is stated here.
 
-What is the world made of?
-The world is made of matter.
-Good. And what is matter itself made of?
-Of atoms.
-So the world is made of atoms.
+**1. The Official Registry of Particles**
 
-Once, the word “atom” meant “indivisible.” It was thought that there was nothing beyond it, that it was the fundamental building block of the world. But later the atom was “taken apart,” and it was decided that it itself consists of even smaller particles.
+What does the tangible world consist of? Of matter. What does matter itself consist of? Of atoms. Consequently, the world is constructed from atoms.  
+Historically, the term "atom" meant "indivisible" — the final, elementary brick of reality. But later, the atom was "disassembled," and it was decided that it consists of even smaller particles. According to the modern academic picture, all ordinary, stable substance in the Universe is built from just two fundamental entities: electrons and quarks (of the up u and down d types).
 
-Today, the official picture of the world looks like this: ordinary matter is built from electrons and quarks. If we discard the colorful crowd of short-lived particles that flash in accelerators and disappear instantly, it turns out that for building ordinary matter, physics needs only three fundamental entities:
+All the rest of the cumbersome terminology of nuclear physics — fermions, leptons, hadrons, baryons, nucleons, mesons — represents merely an auxiliary classification system. If we strip away this terminological noise, official science asserts that the macroscopic world is assembled entirely from quarks and electrons, while everything else is either a combination of them or a carrier of their interactions.
 
-— the electron,
+**2. The Mathematical Paradox: How Much Real Substance Is Inside Planet Earth?**
 
-— the up quark,
+Let us apply the official parameters of elementary particles to the volume of our planet and perform a calculation. The globe consists of approximately 10<sup>50</sup> atoms. On average, there are about 13 electrons per atom, yielding a total number of electrons on the order of 10<sup>51</sup>.  
+In quantum electrodynamics, the physical size (radius) of an electron is considered point-like or estimated within the limit of 10<sup>-20</sup> cm. At this scale, 10<sup>60</sup> electrons could physically fit inside a single cubic centimeter of space. 
 
-— the down quark.
+Consequently, absolutely all the electrons of planet Earth, gathered together, would occupy a mere one-billionth of a cubic centimeter — a volume impossible to see even through the most powerful microscope. To fill that single cubic centimeter (about half the phalanx of your finger), you would have to collect all the electrons from one billion planets just like Earth.  
+I asked you to read slowly — think about this cubic centimeter. Comprehend the utter insignificance of electrons.
 
-All other terms — fermions, leptons, hadrons, baryons, nucleons, and so on — are largely intermediate labels. They are needed so as not to drown in classification. 
+Now let us calculate the volume of quarks. The physical radius of a quark is estimated by science to be within the limit of 10<sup>-17</sup> cm. The total number of quarks forming the nuclei of all atoms on Earth is on the order of 8×10<sup>51</sup> particles. Multiplying these values yields a shocking result: the combined physical volume of all the quarks on the planet fits into a few cubic centimeters. This is the volume of a human fist, or rather, a finger.
 
-But essentially, physics claims that the world is made of electrons and quarks, and everything else is either combinations of these particles or carriers of their interactions.
+The upshot of the calculation: all the real, physically dense matter of the Earth (quarks and electrons) occupies a volume the size of a fist. The entire rest of the planet's space is absolute void. The share of real substance within the structure of a planetary atom is a negligible 10<sup>-25</sup>. The Universe, the Sun, macroscopic objects, and your own body, according to physics textbooks, consist of 99.9999999999999999999999999% empty "nothingness."
 
-**How much real matter is in the Earth**
+Here arises a fundamental question to which official physics has no mechanical answer: how does a "fist" of matter make the planet beneath our feet solid, heavy, and stable? Why does this absolute void not give way when a person leans on a table? By what mechanical means does the void sustain the colossal weight of macro-objects, resist compression, and require immense effort to drill through rock formations?   
+From the perspective of classical contact mechanics (local action), this is not physics — it is mysticism. And a science that plugs conceptual holes with mathematical miracles ceases to be science.
 
-The official picture of the world is as follows: ordinary matter consists of electrons and quarks. Everything else — protons, neutrons, nuclei, atoms — are combinations of these entities plus carriers of interactions.
+**3. A Thought Experiment: A Planet Made of a Single Atom**
 
-Let us calculate how much real matter is contained in the Earth.
-The Earth consists of approximately 10⁵⁰ atoms. On average, each atom has about 13 electrons. That gives roughly 10⁵¹ electrons in the Earth. The size of an electron is estimated to be about 10⁻²⁰ centimeters. One cubic centimeter could contain about 10⁶⁰ electrons. 
+To visually experience the scale of this contradiction, let us perform a thought experiment. Imagine a hypothetical planet named "Zhelezyaka" (The Iron World) — a monolithic, solid globe equal in size to the Earth, but composed not of a conglomerate of particles, but of a single, gigantic atom of iron. Crucially, the proportion of real matter volume to the void within this entire planet is strictly preserved.
 
-This means that all the electrons of the Earth occupy only a billionth of a cubic centimeter — a volume impossible to see even under a microscope.
+The diameter of this atom-planet is roughly 12,700 kilometers. According to the official proportions of the micro-world, its nucleus would have a diameter of only about one kilometer. Yet, it would be an utterly "empty" nucleus: inside this one-kilometer zone, there would be just 168 quarks, scaled up to the size of ordinary peas. The electrons, transformed into microscopic points measuring fractions of a millimeter, would orbit at colossal distances near the planet’s surface.
 
-Now quarks. Their size is on the order of 10⁻¹⁷ centimeters. The total number of quarks in the Earth is about 8×10⁵¹ — corresponding to a volume of only a few cubic centimeters. A handful. A fist.
+Now, let us try to step onto this planet. What lies directly beneath the sole of our shoe? Void. Somewhere in the deep interior, six thousand kilometers beneath our feet, rests the one-kilometer nucleus containing a handful of pea-like quarks. What supports our weight? What provides the structural rigidity of this configuration?  
+Quantum mechanics declares that we are held up by abstract "mathematical probabilities of electrons" and contactless fields of an unknown nature. But there is not a single ounce of mechanical conviction in this picture.
 
-Conclusion: all the real matter of the Earth, if we mean electrons and quarks, occupies a volume roughly the size of a fist. Everything else is emptiness.
+**4. The Paradoxes of Quantum Patches: "Color," "Gluons," and 15-Ton Glue**
 
-Pause on this thought.
+To prevent the speculative model of the empty atom from self-destructing, official physics is forced to continuously introduce speculative entities into its equations. Let me remind you — we are not speaking of observable particles here, but of those presumed by science.
 
-The Earth is almost entirely empty. The Sun is almost entirely empty. Your body is almost entirely empty. According to the official picture, the fraction of real matter in an atom is about 0.000000000000000000000000001 percent. Everything else is nothing.
+**The Paradox of the Pauli Principle** 
 
-And here a question arises to which physics gives no mechanical answer: how does this “finger” of matter make the Earth solid, heavy, and reliable under our feet?
+According to the nuclear formula, a proton consists of a trio of quarks (uud), and a neutron consists of (udd). In each trio, two particles are absolutely identical. However, the fundamental Pauli exclusion principle postulates that two identical particles cannot occupy the same system. To bypass this theoretical obstacle, quarks were artificially assigned a purely abstract property — "color" (red, green, blue). From that moment on, it was declared that the trio must be "colorless," and that quarks continuously change colors in flight. 
 
-This almost absolute emptiness somehow does not bend when you press on a table. This emptiness holds your weight. This emptiness resists compression. This emptiness is even difficult to drill through — oil workers know this, miners know this.
+What is the "color" of a quark physically, if we remove the mathematical symbol from the equation? There is no mechanical answer. Color was invented to save the scheme. This is a classic mathematical patch designed to rescue a crumbling framework. I will not dwell on how the scheme was saved by introducing the quantum number "flavor," nor on the quantum numbers "charm" and "strangeness." All of this is a word game within a classification system fantasized by physicists. This romantic terminology adds no physical properties to the particles; it is required strictly for the mathematics.
 
-This is no longer physics.
-This is a miracle.
-And physics that must patch its gaps with miracles ceases to be physics.
+**Gluon Glue and the 15-Ton Paradox** 
 
-**What can be said about Rutherford’s experiments**
+According to the academic version, quarks are held together inside a nucleon by means of the "strong interaction," carried by massless particles called gluons (from the English word glue). The force of this engagement is monstrous: on a tangible scale, two point-like, volumeless microparticles hold each other with a mechanical force on the order of 15 tons. This force is sufficient to lift a fully loaded dump truck.
 
-Here it is appropriate to return to an important turning point.
-The idea of the “empty atom” became firmly established largely after Ernest Rutherford’s experiments. But they can be interpreted differently.
+Here, contact mechanics must demand rigid answers: how can an object completely devoid of mass generate a 15-ton mechanical force? In what way does the flight of a messenger-particle from one quark to another cause the target to be attracted backward, toward the source, violating the law of conservation of momentum during recoil?  
+Why, under such a colossal force of mutual attraction, do the quarks not collide and merge into a point? How do massless gluons manage to spontaneously multiply out of themselves during flight? Official science provides no answers — it replaces the physics of the process with abstract Feynman diagrams.
 
-Not as proof of the emptiness of the atom, but as proof that the atom is transparent to the transmission of vibrations.
+**5. A Mockery of Mechanics: Creating Mass out of Masslessness**
 
-If an atom is a structure within aol space, it is capable of receiving, distorting, and transmitting vibrations of the medium. A radioactive source creates a vibrational process. This process travels through aol space to the foil, induces vibrations in its atoms, passes through the foil already as a more complex vibration, and then reaches the screen.
+The mass paradox within the atomic nucleus looks like an outright absurdity. A proton is approximately 1836 times heavier than an electron. If it is assembled from three quarks, it is only logical to expect that these quarks provide its physical weight. However, the pure summation of the masses of the three quarks yields a negligible value of about 16 MeV, whereas the actual measurable weight of a proton is nearly 1000 MeV. Where do the missing 98% of the nucleus's mass come from?
 
-In this case, the “emptiness” of the atom in Rutherford’s experiments turns out not to be true emptiness, but the ability to transmit vibrations through a structure.
-This is a completely different picture. And it is mechanically much more consistent.
+Therefore, massless gluons with monstrous energy are not an explanation, but the replacement of an explanation with a beautiful term. The official answer of quantum physics is as follows: the missing weight is generated by the "binding energy" of massless gluons. Contemplate this formulation: objects that have no mass create 98% of the mass of the entire Universe. When you step on a scale, you are literally weighing the "binding energy" of massless virtual particles.
 
-**A planet made of a single atom**
+Here, official science commits a gross methodological error by substituting a physical essence with a mathematical characteristic. Energy is not a material object, not a substance, and not a carrier. It is a number describing the intensity of the motion of matter. A number has no right to transform into tangible physical weight. In contact mechanics, only matter in motion is capable of performing work and exerting resistance (possessing mass and inertia).
 
-To feel the scale of the contradiction, let us perform a thought experiment.
-Let us imagine a planet “Zhelezyaka” — the size of Earth, made of iron atoms, solid and dense. Now let us take a single iron atom and scale it up proportionally to the size of the entire planet. We would obtain not a planet made of many atoms, but a planet made of one giant atom, with the same mass and nearly the same size.
+If you throw a heavy dumbbell and a weightless balloon at a target, the dumbbell will cause destructive damage because it possesses mass and elastically transfers momentum. If the balloon completely lost its mass, its mechanical impact upon collision would become strictly equal to zero. A massless gluon with "monstrous energy" is a logical simulacrum masking the lack of understanding of the very nature of mass.
 
-What would we see?
-The entire atom would have a diameter of about ten thousand kilometers. The nucleus would be about one kilometer in size. But this is a very empty nucleus — it contains only 168 quarks, like peas somewhere deep inside. The electrons are almost invisible, fractions of a millimeter, moving along enormous orbits near the “surface.”
+**6. The Higgs Field**
 
-Now let us place our foot on this atom-planet. What is beneath it? Emptiness. Somewhere five thousand kilometers below — a tiny nucleus with pea-like quarks. And the rest of the planet — nothing.
+Academic physics introduced the Higgs boson and the Higgs ocean into its model of the world. It is claimed that the Universe is filled with a specific condensate that exerts resistance against quarks and electrons flying through it, thereby endowing them with inertial mass.  
+There is one positive symptom in this concept: official science has sensed the correct vector by acknowledging that mass and inertia cannot be inherent properties of a body and require the presence of an external material medium.
 
-What are we standing on? What supports our weight? What makes this structure solid?
-There is nothing mechanically convincing in this picture.
+However, the mathematical implementation of this idea completely invalidates the laws of geometry. According to the theory, the Higgs ocean condensed from the singular point of the Big Bang. But matter radially flying apart from a single center is physically capable only of dispersing in space, increasing the distances between particles; it is fundamentally unable to form a stable, homogeneous, dense, continuous medium. Furthermore, this field provides only a negligible fraction of the mass of electrons and quarks, still leaving the generation of 98% of mass at the mercy of the massless gluon glue.
 
-**What the atom is according to official terminology**
+**7. Electrons**
 
-Now that we have felt the problem of scale, let us examine what physics actually proposes as the structure of the atom.
-Let us not drown in terminology, but briefly go through it so that we stop being intimidated by it.
-Physics divides the material world into matter and carriers of interactions.
+With electrons, the official model definitively breaks with common sense. It is postulated that the electron:
 
-Matter, in this picture, consists of fermions.
-Carriers of interactions consist of bosons.
-Of all fermions, we are really interested only in electrons and quarks.
-Of the quarks — mainly the up and down types.
-Combinations of quarks form protons and neutrons.
-They make up the nucleus.
+•	Possesses wave-particle duality (being both a particle and a wave simultaneously).  
+•	Exists in a state of "superposition" — physically present in multiple places in space at once (which is equivalent to claiming that a real object can be in Kyiv and in London at the same time).  
+•	Forms orbitals shaped like complex geometric dumbbells and donuts.  
+•	Is capable of making instantaneous quantum leaps — teleporting from one point of an orbital to another without traversing the physical distance between them.
 
-Electrons are located around the nucleus.
+What coordinates these teleportations? What mechanically accelerates, decelerates, or instantaneously turns an electron on a trajectory with a turning radius of zero? Science remains silent.
 
-Bosons are the “messengers” of interactions:
+Moreover, attributing wave properties to a single, isolated electron reveals a fundamental misunderstanding of the physical nature of wave processes. A wave is exclusively a collective elastic oscillation of a multitude of contacting particles within a continuous material medium. A single, isolated object can move along any trajectory, but it will never become a wave. A hydrogen atom contains only one electron. To assert that it, all by itself, forms a "wave" is a conceptual absurdity.
 
-— the photon — for electromagnetic processes,
+**7. The Strength of Materials in the Micro-World: A Void Supporting a Finger**
 
-— W and Z bosons — for weak interactions,
+Press your finger firmly onto the surface of a table. You will feel a powerful physical resistance. From the standpoint of structural mechanics and the strength of materials (somat/sopromat), absolutely any structure is capable of withstanding external pressure only if it has a rigid support. A book lies on the table because it rests upon its surface.  
+The table stands on the floor, the floor rests on the foundation, and the foundation on the Earth's soil. Without a support, there is no structural strength. Every engineer and every builder knows this.
 
-— gluons — for strong interactions,
+Now, let us project this law of support onto the electron in the official model of the atom. It flies through the absolute void of a vacuum. From within, it is continuously attracted by the electric field of the nucleus.  
+From without, a human finger presses down upon the atom. The electron, existing in empty space and having absolutely no physical support underneath it, somehow manages not to crash into the nucleus while effectively resisting colossal external macroscopic pressure. 
 
-— gravitons — hypothetically for gravity,
+This is not merely an unexplained paradox — it is the complete destruction of the laws of mechanics. An object in a void without a support must instantaneously cave in at the slightest external interaction. Since this does not happen, it means that a vacuum around it simply does not exist.
 
-— the Higgs boson — for mass.
+**8. How Are New Microparticles "Discovered"?**
 
-It sounds impressive. But if we strip away the verbal noise, the same thing remains:
-the atom, according to science, consists of quarks and electrons, and everything else is supporting entourage.
+Official science regularly reports the discovery of yet another subnuclear particle at the latest accelerators (colliders). It is vital to understand that no one observes these particles directly — they are far too small and possess an infinitesimal lifespan. They are "discovered" through purely indirect means: via the computer interpretation of flashes, tracks, and elastic responses of detectors following beam collisions.
 
-**The nucleus: protons, neutrons, and quarks**
+Let us consider a hydrodynamic analogy. If you slam your palm forcefully against the surface of calm water, it will generate eddies, splashes, and complex vortex structures. If you strike the water harder, the configuration of the splashes and hydrodynamic responses will become more complex. 
 
-The atomic nucleus consists of protons and neutrons.
+However, it would never cross any engineer's mind to declare that at the moment of the powerful impact, "new fundamental particles of liquid were born" inside the water. Everyone perfectly understands that we are witnessing an increasingly complex reaction of the water medium itself to a sharply elevated kinetic load.
 
-A proton is a trio of quarks: uud.
+The exact same process occurs within colliders. Physicists collide elastic structures inside the aol space with colossal force. The higher the collision energy, the more complex and branched the elastic wave response of this hyperactive primal medium becomes. Yet, instead of studying the mechanics of this medium, official science interprets each new complex "eddy" as the birth of yet another independent, mythical particle, endlessly expanding its virtual registry.
 
-A neutron is a trio of quarks: udd.
+As accelerator power grows, scientists will continue to "discover" increasingly heavy particles — not because they objectively exist in nature, but because the aol space will yield ever more complex patterns of dynamic response to extreme impacts upon it.
 
-u is the up quark, d is the down quark.
+**THE UPSHOT**
 
-Do not ask me or physicists what this means — no one knows.
+The questions posed before academic physics are not questions in the everyday sense. And there will be no answers: within the framework of the concept of empty space and substance-less fields, logical mechanical answers cannot exist. Every such question is a rigorous logical argument proving the physical impossibility of the processes described by science.
 
-A problem immediately arises: in each trio, two quarks are identical. But identical particles, according to the Pauli principle, supposedly cannot occupy the same system. To get around this, quarks were assigned an additional property — color.
+If a theory is unable to explain what exactly drives an object, what retains it, what it leans upon during an impact, where its mass comes from, and how local action (contact mechanics) is transmitted, then we are dealing not with a true understanding of nature, but with a cumbersome system of fantasies bound together by the authority of institutions and a complex mathematical apparatus.
 
-Since then, quarks are considered not only up and down, but also red, green, and blue, and these colors supposedly constantly change as they emit and absorb colored gluons.
-Overall, the trio must be “colorless.” Therefore, in protons and neutrons, the colors are constantly redistributed so that their sum results in color neutrality.
+The atom of modern quantum physics is one of the pinnacles of scientific absurdity, comparable only to the hypothesis of the Big Bang from a singular point.
 
-Here one must ask: what is quark color physically?
-Not a symbol in an equation. Not a quantum number. But what is it as a real property?
-There is no answer.
+The world that we actually experience is not empty. The Earth does not consist of a fistful of matter, the table beneath your hand is not filled with a vacuum, and the human body is not a void.
 
-Color was invented to save the model. It is not a discovered mechanical reality, but a mathematical patch.
+The atom is configured differently. Within it, there is no causeless, chaotic flight of particles; objects are incapable of teleporting or occupying two points simultaneously; matter is not born out of nothingness, and it cannot resist pressure without a support.
 
-I will not discuss how the model was further “saved” by introducing the quantum number “flavor,” nor the quantum numbers “charm” and “strangeness.”
-All of this is wordplay within an imagined system of particle classification created by physicists.
+The atom is solid — because it is assembled from truly solid elements. The atom is incompressible — because its primary bricks are physically incompressible. And all the interstices between them are filled not with a vacuum, but with a continuous, super-dense, and high-frequency vibrating medium of space.
 
-**Gluons and the strong interaction**
+The atom is structured far more simply, economically, and logically from the standpoint of classical mechanics. And it is precisely this mechanistic "differently" that we will begin to examine step by step in the next chapter.
 
-Physics states that quarks are held together by gluons.
-Gluons are the “glue.” They prevent quarks from escaping the trio and provide the strong interaction.
-
-The strength of this interaction is truly enormous. If we translate this into intuitive terms, it turns out that quarks are held together with a force on the order of 15 tons.
-
-Try to imagine this.
-A point-like particle, negligible in size, holds another with a force sufficient to support a truck. And it does so, it is claimed, using massless, short-lived gluons.
-
-Now the questions.
-
-How does a massless particle create such enormous force?
-
-How does the flight of one particle from one quark to another pull the target back toward the source? 
-
-Why, with such force, do quarks not come into contact? 
-
-Why can gluons reproduce themselves while in flight?
-
-There are no answers. There are words and diagrams. There is no mechanics.
-By the way, almost all of the mass of matter is supposedly provided by massless gluons — about 99%.
-
-Quarks and electrons have only a small mass, acquired in the Higgs field. When you step on a scale, you are weighing your massless gluons.
-
-**The paradox of mass**
-
-A proton is almost 2000 times heavier than an electron. If it consists of three quarks, then the quarks should account for almost all of its mass. But no — the mass of all three quarks gives about 16 MeV, while the proton weighs nearly 1000 MeV. Where do the missing 984 come from?
-
-Physics answers: they come from the binding energy of gluons. Massless gluons create almost all of the proton’s mass.
-This no longer looks like a peculiarity, but like a mockery of mechanics.
-The massless creates mass.
-
-The term “binding energy” replaces a real mechanism.
-And all of this is presented as scientific clarity.
-But what is binding energy in reality?
-How does it turn into mass?
-
-How can a characteristic become matter?
-Science does not know.
-
-Here it is necessary to pause on a very important point.
-Physics constantly uses the word “energy,” but does not know what it is as a physical entity.
-
-**Energy is not an entity**
-
-It is not matter.
-It is not a carrier.
-It is not an object of the world.
-Energy is a term, a characteristic of the ability of matter to act, a characteristic of its motion — a convenient number for calculations.
-
-If humans disappear, the energy they invented will disappear instantly.
-Only moving matter acts.
-Only it can strike, push, move, heat, or destroy something.
-Therefore, massless gluons with enormous energy are not an explanation, but a substitution of explanation with a beautiful term.
-
-Take a heavy dumbbell and a balloon. Which will produce a greater effect if thrown? Of course, the dumbbell. Because mass acts. And if the balloon had no mass at all, it would produce no effect.
-
-**The Higgs boson and the Higgs field**
-
-When the issue of mass became too problematic for physicists, another scheme had to be invented — the Higgs boson and the Higgs field.
-We are told that the Higgs field, in which the Universe is immersed, is responsible for giving quarks and electrons their mass. Due to resistance in this medium, particles moving through it supposedly acquire inertial mass.
-
-Here, strangely enough, there is one positive sign. Physics is beginning to grasp an important idea: to explain mass, a medium is required. Not emptiness, but a medium.
-
-This is a good direction of thought.
-But everything else in this scheme is weak and naive.
-Moreover, the Higgs field gives only a small mass to particles; the main contribution to the mass of matter is attributed to massless gluons.
-
-The very idea of a Higgs field filling the Universe after the Big Bang does not withstand even the simplest geometry. Everything emerging from a single point will disperse, not fill space as a continuous medium. And a condensate formed from a large volume of gas always occupies a much smaller volume as a liquid.
-
-But despite all this, the attempt to explain mass through a medium is important. In this, I welcome the direction of physicists’ thinking. Only such a “field” should not be derived from an explosion — it would not fill everything, especially in an expanding space, as science claims.
-
-**Electrons: superposition and orbitals**
-
-With electrons, common sense is pushed to its limit.
-We are told that an electron can be in several places at once — to exist in superposition. Try to imagine this in reality: an object being simultaneously in Kyiv and in London. This is impossible. But for the microworld, it is somehow considered possible.
-
-We are told that it is both a particle and a wave at the same time. That its orbitals have the shape of dumbbells, donuts, and four-leaf clovers. That it can “jump” between different parts of an orbital without passing through the space between them.
-
-What moves it? What accelerates it? What slows it down? What changes its direction? What transfers it instantly to another point?
-There is no answer.
-
-And a single particle cannot be a wave — this is a fundamental misunderstanding of the nature of a wave. A wave is a collective process of many particles in a medium. A single electron may move along any trajectory, but that does not make it a wave. Hydrogen has only one electron. What wave?
-
-**The emptiness that holds your finger**
-
-Press your finger against a table.
-The table resists. Why? Because any structure resists pressure only if it has support. A book on a table resists because it rests on the table. A book in the air falls. Without support, there is no strength. Every engineer and every builder knows this.
-
-Now look at the electron in the official model. It “flies” in emptiness. The nucleus pulls it inward. From the outside, we press with a finger. And this electron — having no support — does not fall into the nucleus and somehow manages to resist external pressure.
-This is not just an unexplained point. This is a breakdown of mechanics itself.
-
-**How particles are “discovered”**
-
-No one sees them directly — they are too small and live too briefly.
-They are “discovered” in accelerators — through flashes, tracks, and detector responses. That is, not directly, but through interpretation.
-
-If you clap your hands on water, ripples form. If you clap harder, the ripples are stronger. But no one says that new water particles have been created. Everyone understands that the water has simply responded more strongly.
-
-The same can be said about accelerators. The stronger the collision, the more complex the response of the medium. But physicists tend to interpret this increasingly complex response as the birth of more and more particles.
-
-As accelerator power increases, more heavy particles will be “discovered” — not necessarily because they exist as independent entities, but because the medium will produce an increasingly complex pattern of response.
-
-**What the atom really is**
-
-My questions to official physics are not questions in the usual sense. I do not expect answers. I know that it has no answers and cannot have them. These questions are not for curiosity, but as arguments.
-
-Each such question points to the impossibility of a process or action.
-
-If physics cannot explain:
-
-— what drives,
-
-— what holds,
-
-— what provides support,
-
-— where mass comes from,
-
-— how interaction is transmitted,
-
-then we are not dealing with understanding, but with a system of familiar fantasies, held together by mathematics and authority.
-
-That is why the atom of modern physics is one of the peaks of absurdity. The second peak is the Big Bang from a point.
-
-After all that has been said, the main conclusion can be formulated.
-The world we actually experience is not empty. The Earth is not made of a fist-sized amount of matter. The table under your hand is not empty. The human body is not empty.
-
-**The atom is not empty.** Nothing inside it moves without cause, nothing exists simultaneously in several places, nothing is created from nothing, and nothing resists pressure without support.
-
-The atom is solid — because it consists of solid elements. It is incompressible — because its elements are incompressible. And the spaces between atoms are filled with aols of space — not emptiness, but a real dense medium.
-
-The atom is structured differently. More simply. More mechanically. And it is precisely this “different” that unfolds in the following chapters of this book.
