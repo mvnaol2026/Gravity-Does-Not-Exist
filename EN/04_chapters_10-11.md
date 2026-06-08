@@ -44,7 +44,7 @@ At the initial stage, opposing forces of colossal magnitude squeeze the rigid sp
 •	**The Stage of Socket Indentation.**  
 The emergence of flat surfaces radically alters the regime of subsequent loads. While previously the interaction followed a "sphere pressing against sphere" scheme with point contact, now the spherical portion of a shifted neighbor begins to bear directly down upon the flat surface. The line of the medium's pressure must still remain strictly axial.
 
-In many instances, this condition is not met, and the aol with the contact flats is rapidly straightened back out into a spherical aol by the medium. However, the number of attempts is countless, and successful ones do occur—where the compression happens strictly through the centers of the flats and along the axis of the being-deformed aol. Upon repeated cumulative impacts along that same axis, the round sphere of the neighbors begins to mechanically press the flat surface into the interior of the ball, gradually transforming the flatness into a concentric recess (a socket).
+In many instances, this condition is not met, and the aol with the contact flats is rapidly straightened back out into a spherical aol by the medium. However, the number of attempts is countless, and successful ones do occur — where the compression happens strictly through the centers of the flats and along the axis of the being-deformed aol. Upon repeated cumulative impacts along that same axis, the round sphere of the neighbors begins to mechanically press the flat surface into the interior of the ball, gradually transforming the flatness into a concentric recess (a socket).
 
 **5. The Law of Self-Limitation and Geometric Uniformity**
 
@@ -65,7 +65,7 @@ A stereometric analysis of the stamping process provides a clear rationale for w
 The appearance of only a single indentation would imply that the deformation occurred without an opposing force support. In a free elastic medium, the absence of an opposite compression vector would result in the instantaneous displacement or rotation of the sphere, completely ruling out plastic deformation of the surface. Squeezing is only possible from two sides.
 
 •	**The Exception to the Rule.**  
-A single-socket lunol is physically possible only as a secondary product—if a spherical aol has previously "seated" itself into an existing socket of a neighbor. In that scenario, its back side becomes rigidly locked, and the oncoming front of external collisions can press first a flat surface, and subsequently a single socket, onto its free side.
+A single-socket lunol is physically possible only as a secondary product — if a spherical aol has previously "seated" itself into an existing socket of a neighbor. In that scenario, its back side becomes rigidly locked, and the oncoming front of external collisions can press first a flat surface, and subsequently a single socket, onto its free side.
 
 •	**The Instability of Three Sockets.**  
 The presence of three recesses would require the simultaneous application of forces along axes that do not lie on a single straight line. Attempting to deform a rigid ball at three asymmetric points simultaneously inevitably generates overturning torques. These torques destroy the stability of the configuration and cause the particle to slip out. Furthermore, even if three contact flats were successfully pressed, such an aol is far more likely to be straightened back out than to encounter a new, extremely rare favorable situation of three-sided compression.
@@ -88,20 +88,20 @@ The true strength of material objects depends exclusively on the overall spatial
 
 •	**In complex, multi-component structures**, spatially closed, shielded forms arise. In such systems, the engagement nodes are protected by external layers of matter from direct bombardment by the medium, which makes the retention of elements highly reliable.
 
-This mechanical play—the capacity for the reconfiguration of engagements—is of fundamental importance: it is precisely the difference in the accessibility and strength of engagements that subsequently allows us to explain the mechanisms of chemical reactions, radioactive decay, valence, and any phase transitions of substance, completely without invoking abstract forces.
+This mechanical play — the capacity for the reconfiguration of engagements — is of fundamental importance: it is precisely the difference in the accessibility and strength of engagements that subsequently allows us to explain the mechanisms of chemical reactions, radioactive decay, valence, and any phase transitions of substance, completely without invoking abstract forces.
 
 **8. The Lifespan of a Lunol**
 
 Once a lunol has formed, aols fall into its sockets, and within this configuration, the lunol is protected from being straightened back out. This assembly already constitutes an atom. These structures can take a vast multitude of forms, and in all of them, the straightening out of lunols is impossible. 
 
-The lifespan of a lunol is long—spanning billions of years—but it is not infinite. When objects, having traversed a long and arduous journey of billions of kilometers and billions of years, reach the periphery of a Minor universe, they disintegrate into atoms, and those atoms break down into aols and lunols. Within the vibrating medium, the lunols gradually—or, more likely, rapidly—straighten back out, returning to their original spherical shape.  
+The lifespan of a lunol is long — spanning billions of years — but it is not infinite. When objects, having traversed a long and arduous journey of billions of kilometers and billions of years, reach the periphery of a Minor universe, they disintegrate into atoms, and those atoms break down into aols and lunols. Within the vibrating medium, the lunols gradually — or, more likely, rapidly — straighten back out, returning to their original spherical shape.  
 The lunol once again becomes an aol, indistinguishable from all the others.
 
 **9. The Topology of Stamping and the Architectural Upshot**
 
 The process of the irreversible geometric alteration of primal matter is rigidly bound to the cosmological structure of the Universe. Lunols are fundamentally incapable of emerging at arbitrary points in space, since their stamping requires a unique convergence of extreme physical factors: colossal omnidirectional compression, strictly diametrical force geometry, multiple cumulative collisions, and the retention of a stable load axis.
 
-This specific set of conditions forms exclusively within the central zones of the rhombic dodecahedrons of Minor universes. Lunols are not a ubiquitous, background property of space; they are the product of local, high-pressure cosmic presses. This is precisely why matter in the Universe is born and assembled into stable constructs locally—only where the geometry and dynamics of the primal medium establish rigid mechanical conditions for it.
+This specific set of conditions forms exclusively within the central zones of the rhombic dodecahedrons of Minor universes. Lunols are not a ubiquitous, background property of space; they are the product of local, high-pressure cosmic presses. This is precisely why matter in the Universe is born and assembled into stable constructs locally — only where the geometry and dynamics of the primal medium establish rigid mechanical conditions for it.
 
 Lunols are the first and only real, tangible "structural components" of the Universe. Prior to their emergence, reality was merely a homogeneous, isotropic primal medium capable of transmitting elastic waves of pressure. With the appearance of strictly paired deformational sockets acting as mechanical slots, hooks, or "interlocking connections," the true, intuitive architecture of the material world takes its root, opening a direct path to the assembly of atomic structures without relying on mystical fields.
 
