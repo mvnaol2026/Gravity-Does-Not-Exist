@@ -1,310 +1,111 @@
 ## Chapter 10. LUNOLS — HOW THE BASIS OF MATTER IS BORN FROM A SMOOTH SPHERE
 
-We have reached a very important point.
-We have seen that aolian space does not merely exist, but exists under pressure. Moreover, pressure inside the Small Universes is distributed unevenly: it increases from the periphery toward the center.
+The extreme cumulative gradient of forces in the central regions of Minor universes creates unique conditions that are fundamentally impossible on their periphery or in the middle zone. It is precisely within these central zones of colossal compression that the process of plastic deformation of aols is triggered, marking a qualitative transition from an isotropic elastic medium to stable matter in the sense familiar to us.
 
-This means that in the central regions of the Small Universes, entirely special conditions arise—conditions not found elsewhere in that Small Universe, and certainly not on its periphery.
+As long as the base elements of space — aols — remain ideal smooth spheres, the Universe is devoid of the mechanical interlocks necessary for constructing stable material objects. A homogeneous spherical medium is capable of elastically translating pressure, vibrating, and transferring impulses, but it physically cannot assemble itself into the rigid frameworks of atoms, molecules, planets, and stars. For the structural diversity of the cosmos to arise, a qualitative change in the geometry of aols is required — the appearance of lunols.
 
-It is there, in these regions of colossal pressure, that something begins which cannot occur in ordinary aolian space: the deformation of aols.
-And this means that it is precisely there that the transition begins from mere medium—to matter in the sense familiar to us.
+**1. The Structural Deadlock of the Ideal Sphere**
 
-As long as aols remain perfect smooth spheres, the world still lacks the anchor points from which stable structures can be built.
-Yes, such a medium can transmit pressure, can vibrate, can push.
-But it still cannot assemble from itself what will later become atoms, molecules, bodies, stars, and planets.
+If a rigid aol is surrounded by identical spherical particles and the system is subjected to standard omnidirectional compression, the primal elements will merely translate this pressure to one another along a chain. Increasing the pressure to moderate levels intensifies the transmission of micro-collisions, but the geometry of the aol remains unchanged.
 
-For that, a further step is required.
-Some aols must acquire a new form.
-And such a deformed aol is called in this book a lunol.
+When attempting to design a stable, discrete structure exclusively out of smooth spheres, an insurmountable structural obstacle arises. The sphere is a perfect geometric shape for sliding, rolling, and isotropic distribution of forces, but it is absolutely unsuited for the spatial fixation of objects. Two ideal spheres can contact each other only at a point, transmitting a mechanical impact or shifting, yet they completely lack any natural mechanism for rigid and reliable engagement.
 
-**1. Why an Ordinary Aol Cannot Become the Basis of an Atom**
+A Universe consisting solely of smooth aols would forever remain a world of pure dynamics and the transit of wave impulses, completely ruling out the existence of stationary, complex bodies. For stable structures to appear in the cosmos, primal matter had to acquire zones of mechanical fixation. In Aol physics, the role of such interlocking connections is assumed by the deformational recesses of lunols — their sockets (lunkas).
 
-Let us begin with the simplest case.
-Imagine an ordinary aol: smooth, spherical, and extremely hard.
-If it is surrounded by similar aols and even strongly compressed, what happens?
-If the pressure is ordinary, nothing special occurs.
-The aols merely transmit that pressure to one another.
+**2. The Ultimate Physical Strength of Aols**
 
-If the pressure increases, the aol may participate more intensely in transmitting the influence, but as long as the conditions are not extreme, it still remains a sphere.
+The capacity for plastic alteration of an aol's geometry directly stems from its base properties. An aol possesses extreme, yet strictly finite rigidity. Were the primal matter absolutely rigid, elastic interactions would propagate through the Universe instantaneously, and any local deformation would be entirely ruled out. The non-infinite speed of light demonstrates that the rigidity of aols is colossal, but not limitless.
 
-Now imagine that we wish to build a stable structure.
-A problem immediately appears.
-A sphere is a form perfectly suited for sliding and transmitting pressure, but poorly suited for fixation.
+Under ordinary conditions, the stiffness of an aol is more than sufficient to preserve its ideal sphericity. Any negligible micro-deformation is immediately straightened out by trillions of micro-impacts within the vibrating medium. Sphericity is maintained automatically.   
+However, in the central zones of Minor universes, where the vectors of omnidirectional compression reach their critical maximum, the mechanical load overcomes the ultimate strength of the aol. A lunol is not a qualitatively different type of substance — it is the original base aol that has undergone extreme structural overstrain, deforming its geometric shape.
 
-Two smooth spheres may touch, may press against each other, may transmit an impact—but they have no natural mechanism to lock firmly together.
-Thus, a world made only of smooth aols would be a world of motion transfer, but not a world of stable complex constructions.
+**3. The Mechanics of Strictly Diametrical Compression**
 
-For constructions to appear, fixation points are required.
-And such points are provided by the dimples of lunols.
+Under conditions of super-dense packing, an individual aol subjected to an external force tends not to change its shape, but rather to shift, rotate, or slip into a zone of geometric play (an inter-spherical interstice). To trigger a stable process of deformation rather than ordinary displacement, the vectors of mechanical pressure must be applied to the sphere in a strictly defined manner.
 
-**2. Why Deformation Is Possible at All**
+Plastic indentation of the surface occurs exclusively under strictly diametrical compression. Two opposing forces must converge at two opposite points of the aol along a single straight line passing directly through its geometric center.
 
-At this point, a natural question may arise: if aols are so hard, why are they capable of deforming at all?
-The answer has already been partly prepared: aols are extraordinarily hard, but not infinitely hard.
+If the lines of force are shifted by even a negligible angle, a couple of forces arises instead of pure compression. This creates a torque that instantaneously rotates, shifts, or ejects the aol from the loaded configuration, preventing surface deformation.
 
-This is a very important idea and runs throughout the whole model.
-Precisely because aols are not absolutely rigid, a finite speed of influence transmission is possible.
+From this follows the fundamental law of lunol stamping: a stable distortion of the aol’s geometry is possible only along a single axis from two diametrically opposite sides.
+This mechanical constraint completely rules out chaotic scenarios:  
 
-Precisely because they are not absolutely rigid, under extreme conditions a minimal yet real deformation becomes possible.
+•	The appearance of a random, isolated single socket is excluded.  
+•	Haphazard deformation or arbitrary crumpling of the sphere is impossible.  
+•	Structural defects are always strictly paired, mirror-imaged, and rigidly bound to the axis of axial compression.
 
-Under ordinary conditions, it scarcely appears.
-But in the central regions of the Small Universes, where pressure is colossal, it becomes possible.
-Thus, a lunol is not “another type of substance.”
+**4. The Two-Stage Stamping Process: From Flatness to Concavity**
 
-It is the same aol, but one that has undergone such a load that its form could no longer be fully preserved.
+The plastic alteration of an aol’s geometry occurs sequentially, obeying the laws of contact interaction between rigid bodies. The process is divided into two distinct phases:
 
-**3. Why Deformation Cannot Be Arbitrary**
+•	**The Stage of Contact Flats.**  
+At the initial stage, opposing forces of colossal magnitude squeeze the rigid sphere. At the points of contact where the material's elasticity is overcome, zones of radial flattening emerge. The material deforms, losing its ideal curvature. During this startup phase of stamping, what are born are not concave pits, but rather two strictly parallel, flat, and diametrically opposite contact flats. This happens because aols of equal strength are compressed together, meaning neither is capable of indenting deeper into the other to create a socket at this point.
 
-Now we come to the most important mechanical question.
-If pressure is applied to a sphere, it may not deform at all—it may simply shift, rotate, or slip out from under the load.
+•	**The Stage of Socket Indentation.**  
+The emergence of flat surfaces radically alters the regime of subsequent loads. While previously the interaction followed a "sphere pressing against sphere" scheme with point contact, now the spherical portion of a shifted neighbor begins to bear directly down upon the flat surface. The line of the medium's pressure must still remain strictly axial.
 
-This is a very important point.
-For an aol to truly begin changing shape rather than merely moving, the pressure must be applied in a strictly specific way.
-**It must be strictly diametrical.**
-That is, two forces must act upon two opposite points of the aol, along one straight line passing through its center.
+In many instances, this condition is not met, and the aol with the contact flats is rapidly straightened back out into a spherical aol by the medium. However, the number of attempts is countless, and successful ones do occur—where the compression happens strictly through the centers of the flats and along the axis of the being-deformed aol. Upon repeated cumulative impacts along that same axis, the round sphere of the neighbors begins to mechanically press the flat surface into the interior of the ball, gradually transforming the flatness into a concentric recess (a socket).
 
-If this is not the case — if the pressure is even slightly oblique — then instead of pure compression, a force couple arises that tends to rotate the aol, displace it, or eject it from the configuration.
+**5. The Law of Self-Limitation and Geometric Uniformity**
 
-In such a case, no stable deformation can occur.
-Therefore, the first fundamental condition for the formation of a lunol is this:
-the aol must be compressed along one axis from two diametrically opposite sides.
+If the plastic deformation of aols occurs under the influence of collisions within a chaotic medium, a question arises: why do the sockets of different particles not possess arbitrary sizes, but are instead stamped according to a single unified standard? The reason for the geometric uniformity of lunols is hidden within the mechanism of automatic process self-limitation.
 
-This immediately removes many false possibilities.
+During the initial phase of socket indentation, the contact area is minimal. The total compressive force is concentrated on a tiny region, creating colossal specific pressure per unit area. This is more than sufficient to cause deformation.
 
-There cannot be a random single dimple.
+However, as the socket deepens, its geometry begins to precisely replicate the curvature of the pressing neighboring sphere. The radius of the recess expands, which leads to an increase in the contact patch area.  
+At a critical point, the exact same total axial pressure of the medium becomes distributed over the significantly increased surface of the socket bowl. As a result, the specific mechanical stress drops below the plastic yield limit of the aol, and the indentation process stops automatically. There is insufficient force to cause further indentation.
 
-There cannot be chaotic crushing.
+The socket grows only until the drop in specific pressure caused by the expansion of the contact area halts the deformation. This guarantees strict uniformity and an identical size for all stamped "interlocking connections" of the micro-world.
 
-There cannot be an arbitrary pit appearing anywhere.
+**6. Spatial Symmetry of Defects: Why There Are Strictly Two Sockets**
 
-If deformation occurred stably, it must be associated with two opposite pressure points.
+A stereometric analysis of the stamping process provides a clear rationale for why a basic, stable lunol possesses exactly two diametrically opposite recesses:
 
-**4. The First Stage: Not Dimples, but Flats**
+•	**The Impossibility of Initial Single-Socket Formation.**  
+The appearance of only a single indentation would imply that the deformation occurred without an opposing force support. In a free elastic medium, the absence of an opposite compression vector would result in the instantaneous displacement or rotation of the sphere, completely ruling out plastic deformation of the surface. Squeezing is only possible from two sides.
 
-It is very important not to jump immediately to fully formed dimples.
-Dimples do not appear instantly.
+•	**The Exception to the Rule.**  
+A single-socket lunol is physically possible only as a secondary product—if a spherical aol has previously "seated" itself into an existing socket of a neighbor. In that scenario, its back side becomes rigidly locked, and the oncoming front of external collisions can press first a flat surface, and subsequently a single socket, onto its free side.
 
-At the first stage, when two aols—or groups of aols—compress a given aol with colossal force from opposite sides, what occurs is not magic but understandable mechanics:
-flattened areas arise at the contact points.
-That is, the first result is not pits, but two flats.
+•	**The Instability of Three Sockets.**  
+The presence of three recesses would require the simultaneous application of forces along axes that do not lie on a single straight line. Attempting to deform a rigid ball at three asymmetric points simultaneously inevitably generates overturning torques. These torques destroy the stability of the configuration and cause the particle to slip out. Furthermore, even if three contact flats were successfully pressed, such an aol is far more likely to be straightened back out than to encounter a new, extremely rare favorable situation of three-sided compression.
 
-This is an important clarification.
-Why flats?
-Because in the first act of compression, contact occurs between extremely hard spherical bodies.
-The load is initially distributed over a small region.
+•	**The Absurdity of a Chaotic Multitude of Sockets.**  
+Each individual recess requires its own rigidly centered and sustained axis of opposing compression. The stable alignment of a multitude of such independent axes at the scale of a single microparticle is mathematically and mechanically improbable.
 
-The sphere begins to lose its perfect curvature precisely in that zone.
-A flattened contact surface appears.
-Thus, the first step in the birth of a lunol is not yet a “lunar” relief, but two flat contact areas directly opposite one another.
+A hypothetical scenario of compression along two mutually perpendicular axes simultaneously could theoretically lead to the formation of four sockets. However, this exotic configuration is blocked by the loss of axial symmetry after the very first impact.  
+As with the highly improbable three contact flats, an aol with four flats is far more likely to be straightened back out by the medium than to successfully enter the indentation regime of four sockets. Within the framework of Aol physics, a rigid rule is accepted: the basic structural building block of the Universe remains the two-socket lunol (with a certain probability of the existence of single-socket lunols).
 
-**5. Why Flats Later Become Dimples**
+**7. The Nature of Plasticity and the Dynamic Strength of Engagements**
 
-Now the picture changes.
-As soon as two opposite flats appear on the aol, subsequent influences no longer act upon a perfect sphere, but upon a deformed surface.
-And this is crucial.
+The deformation of an aol is strictly plastic, rather than elastic, in nature. Once the material’s ultimate strength is overcome within the central zones of Minor universes, an irreversible geometric rearrangement of the aol takes place.  
+The lunol cannot independently return to its original form once the peak axial pressure ceases—it acquires a stable geometric shape. Were the deformation elastic and easily reversible, any inter-atomic engagements would instantaneously fall apart at the slightest fluctuations of the medium, rendering the assembly of stable matter impossible.
 
-Previously, a sphere pressed upon a sphere.
-Now a sphere begins pressing upon a flat.
-That is an entirely different loading regime.
+At the same time, the mere presence of deformational sockets does not guarantee an absolute, indestructible locking of the mated elements.  
+The true strength of material objects depends exclusively on the overall spatial configuration of the assembly and its accessibility to the surrounding environment:
 
-If a new spherical aol — or a group of aols — again compresses the already deformed aol along the same axis, the pressure becomes concentrated within the boundaries of that flat area.
-Gradually, the material of the aol begins not merely to flatten, but to be pressed inward.
-Thus begins the formation of a depression.
-It is here that the flat starts turning into a dimple.
+•	**In simple, open structures**, oncoming torrents of the aol medium retain direct access to the engagement nodes. External high-frequency collisions are capable of knocking a free spherical aol out of such a recess and replacing it with another, a process that occurs continuously. This does not alter the properties of the structure, given that all aols are absolutely identical.
 
-In other words, a dimple is not the result of a single impact.
-It is the result of an accumulative process, in which the pressure axis is preserved again and again, while the deformation gradually deepens.
+•	**In complex, multi-component structures**, spatially closed, shielded forms arise. In such systems, the engagement nodes are protected by external layers of matter from direct bombardment by the medium, which makes the retention of elements highly reliable.
 
-**6. Why There Are Two Dimples**
+This mechanical play—the capacity for the reconfiguration of engagements—is of fundamental importance: it is precisely the difference in the accessibility and strength of engagements that subsequently allows us to explain the mechanisms of chemical reactions, radioactive decay, valence, and any phase transitions of substance, completely without invoking abstract forces.
 
-We can now formulate the most important conclusion very clearly.
-If deformation is possible only under strictly diametrical compression, then only two opposite dimples can form stably.
+**8. The Lifespan of a Lunol**
 
-Not one.
-A single dimple would mean that deformation occurred without opposing compression.
-But that contradicts the very mechanics of the process.
-Without a second opposing pressure, the aol would not deform stably—it would shift or rotate.
+Once a lunol has formed, aols fall into its sockets, and within this configuration, the lunol is protected from being straightened back out. This assembly already constitutes an atom. These structures can take a vast multitude of forms, and in all of them, the straightening out of lunols is impossible. 
 
-**And yet one dimple is still possible.**
-For this to happen, an aol would need to become lodged inside the dimple of a lunol, and then on the exposed side of the aol a flat surface could first form, followed later by a dimple.
-Therefore, a one-dimple lunol cannot be excluded.
+The lifespan of a lunol is long—spanning billions of years—but it is not infinite. When objects, having traversed a long and arduous journey of billions of kilometers and billions of years, reach the periphery of a Minor universe, they disintegrate into atoms, and those atoms break down into aols and lunols. Within the vibrating medium, the lunols gradually—or, more likely, rapidly—straighten back out, returning to their original spherical shape.  
+The lunol once again becomes an aol, indistinguishable from all the others.
 
-**What about three dimples?**
+**9. The Topology of Stamping and the Architectural Upshot**
 
-Three dimples would imply deformation occurring simultaneously along several axes, which would hardly produce a stable symmetrical configuration and would more likely disrupt the process than form it.
+The process of the irreversible geometric alteration of primal matter is rigidly bound to the cosmological structure of the Universe. Lunols are fundamentally incapable of emerging at arbitrary points in space, since their stamping requires a unique convergence of extreme physical factors: colossal omnidirectional compression, strictly diametrical force geometry, multiple cumulative collisions, and the retention of a stable load axis.
 
-**And a chaotic multitude of dimples?**
+This specific set of conditions forms exclusively within the central zones of the rhombic dodecahedrons of Minor universes. Lunols are not a ubiquitous, background property of space; they are the product of local, high-pressure cosmic presses. This is precisely why matter in the Universe is born and assembled into stable constructs locally—only where the geometry and dynamics of the primal medium establish rigid mechanical conditions for it.
 
-Each dimple would require its own strictly maintained compression axis, while a stable combination of many such axes is extremely improbable and mechanically unnatural.
-Therefore, a normal stable lunol is an aol with two dimples positioned strictly opposite each other.
+Lunols are the first and only real, tangible "structural components" of the Universe. Prior to their emergence, reality was merely a homogeneous, isotropic primal medium capable of transmitting elastic waves of pressure. With the appearance of strictly paired deformational sockets acting as mechanical slots, hooks, or "interlocking connections," the true, intuitive architecture of the material world takes its root, opening a direct path to the assembly of atomic structures without relying on mystical fields.
 
-This is not an arbitrary decision of the model’s author.
-It is a direct consequence of the mechanics of formation.
-At the same time, I do not deny the existence of one-dimple lunols, or even the possible presence of many such one-dimple lunols.
-
-**7. Could There Be Four Dimples?**
-
-This question arises almost inevitably, and it is better not to avoid it.
-Theoretically, one may imagine a very exotic situation in which an aol was deformed simultaneously along two mutually perpendicular axes.
-
-Then one could imagine four dimples.
-But several difficulties immediately appear.
-
-First, once the first pair of flats and the beginning of the first pair of dimples has formed, the shape of the aol changes in such a way that further strictly symmetrical compression along another axis becomes mechanically much less likely.
-
-Second, such a configuration would be far less natural and most likely less stable as a common basis of matter.
-
-Third, to explain the structure of matter, it is sufficient—and far more natural—to assume that lunols are mostly identical and possess one stable typical form: two opposite dimples.
-
-Therefore, it is more reasonable and honest for the model to accept the following:
-even if some exotic exceptions are possible, they do not play a fundamental role.
-**The basic building element of matter is the two-dimple lunol.**
-
-**8. Why All Lunols Are Identical**
-
-This is another key question.
-If deformation occurs under pressure, why then do the dimples of different lunols not end up with different depths, different widths, and an endless variety of forms?
-
-The answer here is elegant and mechanically clear.
-When a dimple first begins to deepen, the contact area is still small.
-
-Therefore, the pressure per unit area is very high.
-That is enough for deformation to continue.
-
-But as the dimple deepens, the situation changes.
-The dimple becomes wider.
-The area over which further pressure is applied increases.
-Thus, the same total pressure becomes distributed across an ever larger surface.
-And at some point a limit is reached.
-
-The pressure is no longer sufficient to press the surface deeper.
-Not because the pressure vanished.
-But because it is no longer enough to continue deforming such an enlarged surface.
-This is where natural stabilization of the form occurs.
-
-The dimple itself reaches a certain “working geometry,” beyond which the medium, under the available pressure, can no longer press it deeper.
-
-That is why lunols turn out identical.
-Not because someone “set a template.”
-But because the process has a natural mechanical stopping point.
-
-One may put it even more simply:
-the dimple grows as long as pressure is sufficient.
-When, because of the enlarged area, the pressure is no longer enough—the growth stops.
-And thus a single typical form emerges.
-
-**9. Why the Deformation Is Irreversible**
-
-We must now answer another important question.
-If a dimple has formed, can the aol later return by itself to an ideal spherical shape?
-Within the aolian model — no.
-
-And the reason is simple: the deformation of a lunol is understood as plastic rather than elastic.
-That is, the aol did not merely bend for a moment, but irreversibly changed its form.
-It entered a new state.
-
-This is very important, because if lunols could easily return to their original shape, stable matter could not arise.
-The world could not be built from temporary deformations.
-Therefore, the formation of dimples is not an episode, but an irreversible step in the birth of matter.
-
-**10. What Makes the Lunol a New Object**
-
-A lunol is no longer merely an element of the medium.
-It differs fundamentally from an ordinary aol in that it acquires points of geometric fixation.
-
-An ordinary aol is smooth.
-It transmits pressure, but does not create stable interlocking bonds.
-
-A lunol has dimples.
-Therefore, another aol—or another lunol—can mechanically fit into that geometry and be held there by the external pressure of the medium.
-And this is already a revolution for the structure of the world.
-
-Because from that moment, the following become possible:
-
-— the first stable linkages,
-
-— the first mechanical “hinges,”
-
-— the first frameworks of future atoms.
-
-Thus, the lunol is truly a transitional object between mere medium and organized matter.
-
-**11. Why Dimples Do Not Guarantee Absolute Strength**
-
-Here it is important not to give the reader the false impression that any aol entering a dimple is held there absolutely and forever.
-No.
-
-In the simplest constructions, retention may be quite unreliable.
-An aol may be knocked out of a dimple and replaced by another, and this may not change the essence of the elementary structure at all.
-
-So the mere existence of dimples does not yet mean absolute strength.
-Strength depends on the whole configuration.
-If the structure is simple and open, the medium still has access to the retained aols, and it is easier to dislodge them.
-
-But if later, as the structure becomes more complex, more closed forms arise, then retention becomes far more reliable.
-
-This is a very important idea, because it will later make it possible to explain chemical reactions, decays, and rearrangements of matter.
-
-**12. Where Lunols Are Formed**
-
-We must now return to the cosmic context.
-Lunols cannot form just anywhere.
-
-Their formation requires an extremely rare combination of conditions:
-
-— colossal pressure,
-
-— correct compression geometry,
-
-— repeated impacts,
-
-— preservation of the same loading axis.
-
-All of these conditions arise naturally only in the central regions of the Small Universes, where pressure is greatest.
-This means that lunols are not a universal property of aolian space, but a product of special regions of the world.
-
-And that is precisely why matter, in the sense familiar to us, does not exist everywhere equally.
-It is born where the proper conditions exist.
-
-**13. Why Lunols Are the Basis of All Subsequent Matter**
-
-If we gather everything together, it becomes clear that the role of lunols is hard to overestimate.
-
-They:
-
-— arise from aols under the action of the medium,
-
-— acquire a stable form,
-
-— become identical in geometry,
-
-— create the possibility of fixation,
-
-— open the path toward the formation of atoms.
-
-One may say that lunols are the first true “construction parts” of the world.
-Before them, there was only the medium.
-With them begins the architecture of matter.
-
-**14. Main Conclusion**
-
-A lunol is an aol that, under colossal and strictly diametrical pressure in the central regions of the Small Universes, becomes irreversibly deformed and acquires two identical, strictly opposite dimples.
-
-These dimples do not form instantly, but gradually:
-first as flats, then as depressions that continue growing until further deepening is hindered by the increasing dimple area and the insufficiency of pressure to press it deeper.
-
-That is why all lunols turn out identical.
-Not by chance.
-Not “by agreement.”
-But by the natural mechanics of the process.
-
-And most importantly — it is precisely with the appearance of lunols that the world gains the ability to build stable structures.
-That is where matter begins in the form we know it.
-
-The next step is now entirely natural:
-if there are aols and lunols, then we must examine how atoms are assembled from them.
-
-Not abstractly, but mechanically:
-what fits into what, what holds what in place, and how simple and complex constructions arise.
+The next step is now completely natural: if there are aols and lunols, then we need to look at how exactly atoms are assembled from them. Not abstractly, but mechanically: what connects and how, what holds what together, how simple and complex structures emerge.
 
 
 
