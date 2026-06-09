@@ -681,7 +681,6 @@ This law makes it possible to immediately recognize incorrect explanations: if a
 **What will require further development in this hypothesis?**
 
 To speak without false modesty — **absolutely everything.**))  
-One person cannot create a full-fledged new science in a few months, during breaks from his main job, as a hobby.
 
 The framework presented here is merely **a backbone. A structural skeleton. A foundational base.**  
 The entire theoretical superstructure is yet to be erected over many years, decades, or perhaps even centuries. This colossal undertaking will demand the combined efforts of millions of physicists and the resources of a matured, genuinely advanced artificial intelligence.
