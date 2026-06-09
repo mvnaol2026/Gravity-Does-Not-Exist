@@ -330,48 +330,61 @@ Therefore, every time we record the dynamic activity of matter in experiments, w
 
 ## Chapter 16. CHEMICAL PROCESSES
 
-When people speak of chemistry, they usually imagine that some substances “react” with others, transform into something new, combine, or break apart. But if we ask the simplest question—why does a reaction happen at all, what exactly causes matter to change?—a clear mechanical answer is usually not given.
+When official science describes chemical phenomena, it operates with abstract concepts: some substances "enter into a reaction" with others, transform into new compounds, synthesize, or disintegrate. Yet, when attempting to uncover the true root cause of the process — what exactly forces a substance to reconfigure at the micro-level — textbooks fail to provide a clear mechanical answer.
 
-Most often we hear words such as “bond energy,” “activation energy,” “orbital overlap,” or “electron redistribution.” All of this may serve as a language for describing observed phenomena, but it does not reveal the mechanism of what is taking place. It tells us that the process can be calculated, but not always what is physically happening to matter.
+Instead of a physical picture of collisions, academic chemistry introduces a speculative terminology: "binding energy," "activation energy," "valence orbitals," "hybridization of electron clouds," and "redistribution of charges." This entire verbal apparatus serves merely as a mathematical surrogate to record the effects, while completely masking the real mechanism of what is taking place.
 
-If, however, we look at chemistry as the motion and rearrangement of material constructions, the picture becomes far simpler and more vivid.
+If we purge chemistry of its quantum fog and view it through the prism of local action (contact mechanics), the picture becomes intuitive and strictly engineering-based. At the foundation of absolutely any chemical reaction lies exclusively the spatial re-assembly and deformation of rigid atomic structures. 
 
-At the basis of every chemical reaction lies the rearrangement of atomic structures.
-In the aolian model, the atom is not an abstract probability cloud or a point-like object, but a real mechanical construction assembled from lunols and aols. These elements are held together by the geometry of their connections and by the pressure of the surrounding medium. Such a construction is capable of changing position, turning slightly, deforming, entering new interlocks, and leaving old ones.
+Within the framework of Aol physics, the atom is not a ghostly cloud of probabilistic trajectories, but a dense mechanical structure assembled from components — aols and lunols. The stability of this architecture is ensured solely by the geometry of mutual engagements and external omnidirectional pressing from the aol space. This open system is capable of locally shifting its position in space, performing micro-motions within the structural play of the configuration, elastically deforming under load, entering into new engagements, and exiting previous ones.
 
-But matter itself is passive.
-This means that an atom does not begin to rearrange without cause. Every change requires an external influence. And once again, that influence is aolian space.
+Since matter is fundamentally passive by its very nature, an atom is incapable of initiating a reconfiguration of its own structure without an external cause. For any change in spatial configuration, a direct impulse from the outside is required.
 
-It acts continuously upon atoms, transmitting vibrations and microscopic impulses. These oscillations shake the elements of the construction, create tiny displacements, generate internal tensions, and constantly bring the system toward the possibility of rearrangement.
+As everywhere and always, this universal dynamic agent is the hyperactive aol space. It continuously acts upon atoms, transmitting vibrations and microscopic impulses to them. These collisions rock the structural components, cause micro-displacements of the nodes, create internal mechanical stresses under fracturing and shearing forces, and permanently bring the system to the point of losing its geometric stability.
+Under ordinary conditions, this interaction is frequently insufficient to immediately destroy the old structure. Yet, it is sufficient to ensure that the configuration is never absolutely motionless.
 
-Under ordinary conditions, such influence is often insufficient to destroy the old structure immediately. But it is enough to ensure that the construction is never absolutely motionless.
+**1. The Mechanics of Molecular Synthesis: The Effect of Snapping Slots and Protrusions Together**
 
-Now let us imagine two atoms brought near one another.
-Their constructions begin to interact not mysteriously at a distance, but through the medium, through contact, and through transmitted pressure. The oscillations of one atom are partially conveyed to the other, mutual influence increases, and if the geometry proves favorable, the possibility of union appears.
+Let us consider the process of two isolated atoms drawing closer. Their structures begin to interact not at a distance in some mysterious fashion, but through contact within a medium that transmits pressure and vibrations. The oscillations of one atom are partially transferred to the other; the mutual influence escalates, and if the geometry turns out to be favorable, an opportunity arises for the atoms to connect — based on the "tongue-and-groove" principle (ship – paz).
 
-At a certain moment, one element of the construction may enter a corresponding dimple of the other. A mechanical interlock arises. The pressure of the medium helps retain the new configuration.
-Thus, a molecule is formed.
+At a specific moment, one structural component can enter a corresponding recess of another. A mechanical interlocking arises. The pressure of the medium helps to sustain the new configuration. This is how a molecule is formed.
+This process is entirely devoid of randomness and is rigidly subject to the criteria of mechanics.
 
-But this does not happen randomly, nor does it happen always. Successful union requires several conditions to coincide: suitable geometry, sufficient mobility of the elements, the possibility of close approach, and the presence of external pressure capable of fixing the result.
-If even one of these conditions is absent, no stable union arises.
+For successful synthesis, the simultaneous fulfillment of four conditions is required:
 
-Now let us consider the reverse process.
-If external oscillations intensify, an existing bond begins to loosen. The construction experiences increasing displacements, tensions grow, the interlock weakens, deforms, and eventually breaks.
+•	The alignment of the spatial geometry of the structures' mating nodes.  
+•	A sufficient amplitude of mobility of the elements within the structural play of the configuration.  
+•	The physical drawing closer of the objects under the action of the medium's external forces.  
+•	The presence of pressure from the aol space, capable of rigidly deadlocking the new node and retaining the achieved result.  
+	
+If even one of these parameters is missing, a stable mechanical interlocking does not arise, and the structure instantaneously disintegrates under the impacts of the space's background vibration.
 
-Then the atoms separate or pass into a new configuration.
-This is decomposition or chemical transformation.
-Therefore, any chemical reaction may be regarded as the balance of two opposite processes: the formation of new bonds and the destruction of old ones.
-And both processes depend on the intensity of the medium’s oscillations.
+If one recalls the vibration frequency of the aol space, one can try to visualize the number of attempts atoms make to find a suitable mutual orientation for mating their protrusions and recesses. Billions or trillions of variations are tested every single second.
 
-It now becomes clear why temperature so strongly influences the rate of chemical reactions.
-Within the aolian model, an increase in temperature means a strengthening of the oscillatory influence of the medium upon atomic constructions. The elements move more actively, old bonds break more easily, and the probability of new collisions and successful interlocks increases.
-That is why reactions usually proceed faster.
+**2. The Mechanics of Disintegration and Thermal Shift of Equilibrium**
 
-Yet the source of the process remains the same.
-Atoms do not “store energy within,” do not possess an inner desire to unite, and do not perform miraculous transformations by themselves.
+The reverse process — the destructuring of a molecule — obeys the very same laws of medium dynamics. As the external bombardment from the aol space intensifies, the existing locks of the atoms begin to vigorously loosen. The internal nodes of the molecular framework experience progressive shearing displacements, the mechanical stresses under fracturing forces escalate, and the geometry of the engagement weakens.
 
-They exist under the continuous influence of aolian space: they vibrate, collide, enter interlocks, leave them, and rearrange themselves.
-That is what we call chemistry.
-Put very simply, a chemical reaction is the mechanical rearrangement of atomic constructions caused by the oscillations of the medium.
+At a critical point, a subsequent extreme impact from the aol space knocks the protrusion of one atom out of the recess of another. The atomic structures separate into free trajectories or re-assemble into a new, more balanced and geometrically closed configuration. In the macro-world, this purely mechanical dismantling or reconfiguration of components is interpreted as a reaction of disintegration or chemical transformation of a substance.
 
-And at the foundation of this process, as in all of nature, lie three things: contact, pressure, and motion.
+Thus, absolutely any chemical reaction is a strictly calculated force balance of two opposing mechanical processes: the assembly of new spatial locks under the external press of the medium and the destruction of former engagements under the influence of its own oscillations.
+
+This law explains why temperature exerts such a powerful influence on the rate of chemical reactions. An increase in temperature in Aol physics means a direct escalation in the intensity and frequency of the medium's oscillatory impacts upon the atomic structures.
+
+During the thermal acceleration of a system:
+
+•	The structural components begin to move with a significantly greater amplitude.  
+•	The old molecular locks deform and disintegrate incomparably easier.  
+•	The probability of high-speed collisions and successful geometric snappings of slots and protrusions increases like an avalanche.
+	
+This is precisely why chemical processes within a heating zone occur fold-times faster. Yet, the root source and the main Primary Mover of the chemical process remain unchanged. Indeed, even in the processes of heating, the source is the aol space.
+
+Atoms carry no mythical stores of "internal energy" within themselves, they are completely deprived of an inherent desire to combine, and they do not perform miraculous transformations on their own. They are immersed in the hyperactive ocean of the aol space, accepting its elastic impulses every single second, colliding, jamming one another inside slots, flying out of them, and rearranging the geometry of their structures.
+
+**THE UPSHOT OF THE CHAPTER**
+
+If we formulate the essence of chemical phenomena in the language of mechanics, the conclusion is as follows: a chemical reaction is a purely mechanical reconfiguration and re-assembly of atomic spatial structures, induced by the high-frequency self-oscillations and pressure of the surrounding environment.
+
+At the foundation of chemistry, as at the foundation of the entire architecture of the Universe, there is no room for abstract quantum fields or long-range charges.  
+The entire periodic table of elements and its transformations obey the trinity of Aol physics: carrier (material parts — aols and lunols), contact (their physical touch), and pressure (the external force action of space).
+
