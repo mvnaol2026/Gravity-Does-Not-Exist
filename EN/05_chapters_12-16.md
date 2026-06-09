@@ -180,59 +180,79 @@ Molecules are mechanical structures made of atoms that lock together due to thei
 
 ## Chapter 14. GAS, LIQUID, AND SOLID — HOW MATTER BEHAVES
 
-Around us exists the familiar world. There is air—light, transparent, almost unnoticed. There is water—it flows and takes the shape of its container. There is stone—hard, heavy, and able to preserve its form.
+Around us lies the familiar macroscopic world. We are enveloped by air — light, transparent, and intangible. We interact with water — it flows, fills vessels, and readily assumes the shape of any container. We lean upon a stone — solid, heavy, monolithic, and preserving its geometry under external loads.
 
-From childhood, we are taught to call these the three states of matter: gas, liquid, and solid.
-But what is the real difference between them?
-If matter is built from atoms, and atoms themselves are constructions made of simpler elements, why can the same fundamental building units behave so differently?
+Since childhood, school textbooks have trained us to classify this reality through the dogma of three isolated "aggregate states of matter": gas, liquid, and solid.  
+Yet, what constitutes their true, deep physical difference? If absolutely all matter in the Universe is constructed from identical primary atoms assembled from aols and lunols, then for what reason do the exact same structural units behave so qualitatively differently in space?
 
-This is where an important understanding begins.
-It is customary to speak as though there are separate “states of matter” divided by clear boundaries. But if we think mechanically, doubt immediately appears. Where exactly is that boundary? At what moment does water cease to be a liquid and become vapor? In what second does metal cease to be solid and begin to melt?
+This is where the fundamental mechanistic understanding of the nature of substance takes its root. Official science draws rigid, speculative boundaries between phases, bound together by complex thermodynamic equations. But if one thinks in categories of local action (contact mechanics), a fatal logical flaw is exposed within these boundaries.  
+At what specific microscopic instant does water cease to be a liquid and turn into vapor? Within what fraction of a second does heated metal lose the properties of a solid body and begin to flow?
 
-In reality, no mystical boundary exists. There is only a gradual change in the behavior of material constructions.
-That behavior is determined by two main factors: how strongly the elements are interlocked with one another, and how strongly they are shaken, disturbed, and broken apart by the surrounding medium.
+In reality, no mystical, step-like phase barriers exist. There is only a smooth, continuous alteration in the dynamic behavior of the exact same material structures.
 
-From this balance arise all the familiar states of matter.
-Let us imagine not a schoolbook picture, but a living process. Space is completely filled with the aols of the medium. They are in constant motion, transmitting pressure, creating vibrations, and colliding. Within this medium exist atoms and molecules. They too are never at rest: they collide, separate, join together, and rearrange.
+This behavior is entirely dictated by the balance of two mechanical factors:
 
-This is not a motionless museum of substance. It is continuous movement.
-If the bonds between atoms are weak and the vibrations are strong, no stable structure can endure. Particles collide, transfer motion, and fly apart again. This is how gas behaves.
+•	The degrees of strength and mutual locking of the aol-lunol engagements within the structure.  
+•	The intensity of the destructive, deconstructive bombardment from the hyperactive, vibrating, and pressing surrounding medium.
 
-Gas does not hold its shape, occupies all available volume, and is easily compressed—not because it is some special mystical state, but because its elements are weakly connected or scarcely connected at all.
+All the properties of matter familiar to us are derived from the preservation or violation of this force equilibrium.
 
-If external vibrations become more moderate, and the interlocking between atoms begins to hold, a different picture appears. The elements join, but not permanently. Bonds may break and form again. The construction exists, yet remains mobile.
-This is how liquid behaves.
+**1. The Gaseous State: The Regime of Free Trajectories**
 
-It no longer disperses like gas, but it does not yet possess the rigidity of a solid. Therefore, liquid preserves its volume while easily changing shape and flowing.
+Let us visualize the real physical picture of the process. The aol space is completely filled with a super-dense array of elastic, rigid spheres. They exist in a state of permanent, high-frequency oscillation, transmit colossal cumulative pressure, and generate the through-and-through vibrational background of the Universe. Atomic and molecular structures are immersed inside this hyperactive medium. 
 
-If the interlocks become sufficiently strong, and vibrations are no longer enough to destroy them, a stable network of mutual retention appears. Each element is supported by its neighbors, and the whole structure resists destruction.
-Thus a solid is formed.
+They are not static background decorations — every single second, they take on trillions of impacts (contemplate this number) from the elements of the medium, colliding, dispersing, locking together, and reconfiguring. This is a continuous, non-decaying mechanical process.
 
-It preserves its shape, resists deformation, and allows only small internal oscillations of its elements.
+If the strength of the engagement between individual atomic structures is weak, while the external oscillatory bombardment from the medium is extremely intense, a stable spatial bond between the atoms has no opportunity to become locked. Colliding with one another and with the aols of space, the molecules elastically transfer kinetic momentum and instantaneously scatter in all directions along chaotic trajectories.
 
-The transitions between gas, liquid, and solid are not magic, nor the transformation of one essence into another. They are changes in the balance between cohesion and disruption.
+This is how gas manifests itself. A gaseous medium is incapable of retaining its shape, tends to occupy the entire available volume of space, and easily yields to compression. This occurs not due to mystical quantum laws, but for a purely mechanical reason: its structural elements are linked together extremely weakly or are not fixed at all, and the distances between them are substantial — meaning they can easily be brought closer to one another by elevated pressure.
 
-When vibrations intensify, bonds weaken and break apart. Then a solid becomes liquid, and liquid becomes gas.
+**2. The Liquid State: The Regime of Dynamic Play**
 
-When vibrations diminish, the elements gain the ability to hold together more firmly. Then gas condenses into liquid, and liquid hardens into solid.
+When the external action of the medium becomes more moderate, and the elastic pressing of the aol space begins to effectively sustain the mating nodes of the conjoined particles, the physical picture changes. Atomic structures acquire the capacity to link with one another; however, this fixation is not yet rigid and deadlocked.
 
-What is usually called temperature may, in this picture, be understood not as some independent “energy,” but as the degree of intensity of motion and vibrations transmitted by the medium to material constructions.
+Under the impacts of the medium’s high-frequency oscillations, individual intermolecular mechanical locks disconnect, but they immediately snap shut into new spatial positions due to the external press of the medium. The structure exists as a volumetric whole, yet retains internal mobility.
 
-The more strongly the medium shakes atoms and molecules, the higher the temperature of the process.
+This is how liquid manifests itself. It is no longer capable of dispersing in space like a gas, since the external pressure of the medium sustains its overall volume, but it does not yet possess the rigid framework of a solid body. A liquid maintains a stable physical volume, yet instantaneously alters its geometry and flows under the action of the slightest force gradients, obeying the laws of dynamic play of continuously reassembling components.
 
-This can be seen especially clearly in a simple example.
-Ice is a stable structure in which the elements are well fixed. As vibrations increase, some of the bonds begin to fail. The rigid framework loses stability, and ice becomes water.
-If the influence continues, the bonds weaken further, and the system breaks into freely moving elements. Thus water becomes vapor.
+**3. The Solid Body: The Regime of Spatial Locking of Degrees of Freedom**
 
-There is no need in all this to introduce mysterious stores of internal energy. There is construction, there is motion, there is transmission of motion, and there is the ability of a construction either to remain intact or to break apart under the influence of the medium.
+If the intensity of the medium's oscillatory bombardment falls below a critical threshold, while the external omnidirectional pressing of aols deadlocks the atomic components into the complementary recesses of neighboring atoms, a fundamentally different topology crystallizes within the Universe.  
+A stable, stationary spatial network of mutual atomic retentions arises. Every individual component of the structure turns out to be rigidly clamped, supported, and locked from all sides by neighboring elements.
 
-And here we arrive at a fundamental conclusion.
-The primary driver of processes is the medium itself.
-It is aolian space that presses, vibrates, transmits motion, destroys some structures, and helps others assemble.
+Thus a solid body is born. The resulting monolithic framework preserves its specified shape, effectively resists any shear and deformational macro-loads, and the vibrational pressure of space is no longer capable of fracturing the engagement nodes.  
+The structure translates the external impacts of the medium into a regime of safe, localized internal micro-oscillations of its elements around their fixation points.
 
-Not “forces” as independent entities, not abstract fields, but a real material medium existing in continuous motion.
+Phase transitions of substance are not the magic of transforming one mysterious entity into another. 
 
-If one feels this picture as a whole, the world ceases to be a collection of disconnected terms and becomes a unified mechanical system in which everything is explained through contact, pressure, and motion.
+They represent a purely mechanical alteration in the balance of forces between the strength of the components' engagement and the destructive power of the oscillating medium's impacts:
+
+•	When the frequency and force of collisions from the elements of space escalate, the rigid locks deform, and the bonds weaken and fall apart. The solid body melts, transforming into a mobile liquid, and the liquid boils, dispersing into a free, volatile gas.  
+•	When the external oscillatory load decreases, the structural components acquire the opportunity to seat themselves firmly into one another's slots. The gas condenses into the volume of a liquid, and the liquid solidifies into a crystalline monolith.
+
+**4. The Physical Nature of Temperature and the Nullification of the Thermal "Substance"**
+
+A true mechanistic approach completely exposes the official dogma of "thermal energy" as an independent physical entity or a hidden parameter within the atom. What official thermodynamics designates with the word "temperature" is, in Aol physics, merely the degree of intensity of motion and micro-vibrations contact-transmitted by the medium to material structures.
+
+A material object does not contain "heat" within itself — it merely takes upon itself the impacts of the vibrating aol space. The more forcefully, rapidly, and rigidly the aol medium oscillates the substance’s atoms and molecules from the outside, the higher the measurable temperature of the process becomes — owing to the greater frequency and amplitude of the forced oscillations of the atoms.
+
+The classical example of the water cycle in nature illustrates this law with engineering precision:
+
+•	Ice represents a rigidly balanced, symmetrical spatial structure in which all aol-lunol connection nodes are tightly closed and locked.  
+•	As the intensity of the medium's external collisions escalates, the amplitude of the elements' micro-oscillations exceeds the limits of critical play. The locks lose stability, the rigid framework breaks down, and the ice melts, transitioning into the liquid phase of water.  
+•	If the extreme bombardment from space continues to increase, the molecular engagements are completely fractured by the kinetic impacts of the medium. The unified system ultimately destructures and disintegrates into isolated, chaotically ricocheting elements — water transforms into vapor.
+
+Throughout this grandiose process, there is not the slightest necessity to introduce abstract stores of internal "energy" or quantum thermal fields into equations. In reality, there exists only a specific geometric structure, explicit mechanical motion, direct contact transfer of momentum, and the capacity of structures to either maintain integrity or break down under the influence of external local-action (contact mechanics) factors.
+
+**THE UPSHOT OF THE CHAPTER**
+
+The primary, continuous, and sole Primary Mover of absolutely all phase processes in the Universe is the medium itself — the aol space. It is the aol space that, through its colossal gradient of forces, compresses atoms, molecules, and objects; through its self-oscillations, continuously transmits kinetic momentum; and through its mechanical activity, fractures certain spatial structures while aiding the assembly of others.
+
+In nature, there are no "forces" as isolated, substance-less entities, nor are there abstract, non-material fields. There exists only a real, super-dense material medium existing in a state of continuous, high-frequency self-oscillation.
+
+The moment we accept this uncompromising basis, the Universe is purged of the chaos of scattered academic terms and transforms into a transparent, unified, and intuitive mechanical system, where absolutely any property of a gas, a liquid, and a solid body is exhaustively explained through the trinity of Aol physics: carrier, contact, and pressure.
+
+
 
 
 
