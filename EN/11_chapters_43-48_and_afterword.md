@@ -678,25 +678,27 @@ This law makes it possible to immediately recognize incorrect explanations: if a
 
 ## AFTERWORD
 
-I do not consider myself a genius. I do not even consider myself particularly intelligent. I know that many people are much smarter than I am. 
-But I do consider myself a reasonable and clear-thinking person — one who seeks causes rather than being satisfied with effects. 
-What matters to me is understanding. 
-The kind of understanding where the whole picture comes together — from beginning to end. Where every intermediate step is present, and each of them is clear.
-I am a mechanic. And I need mechanisms.
+**What will require further development in this hypothesis?**
 
-What will happen to this hypothesis?
-For now, it will not be accepted. Most likely, it will be ridiculed or simply ignored. Because it stands against the enormous machine of modern physics — with millions of people inside it. This system sustains them, and they will not dismantle it. One does not destroy the source that feeds them.
+To speak without false modesty — **absolutely everything.**))  
+One person cannot create a full-fledged new science in a few months, during breaks from his main job, as a hobby.
 
-Physics will continue to move forward, but at the same time it will accumulate contradictions. It will accumulate absurdities. It will describe more and more — and explain less and less. And at some point, it will reach a limit, because it is impossible to go on indefinitely without mechanisms.
+The framework presented here is merely a backbone. A structural skeleton. A foundational base. The entire theoretical superstructure is yet to be erected over many years, decades, or perhaps even centuries. This colossal undertaking will demand the combined efforts of millions of physicists and the resources of a matured, genuinely advanced artificial intelligence.
 
-And that is when change will begin. Not immediately. Not abruptly. But through new generations of physicists.
-Young physicists — those whom the system does not yet sustain — will look at things differently. They will see contradictions. They will feel that something does not add up. And they will search. Not for formulas, but for mechanisms.
+Ahead lie massive conceptual horizons that require precise mechanistic decoding:
 
-Sooner or later, they will arrive at the main question — the most uncomfortable one. The idea of attraction.
-And as soon as they realize that there is no mechanism behind attraction, they will begin to search for a replacement. And they will find it quickly. Not attraction, but compression. Not action through emptiness, but action through a medium. And then everything will begin to fall into place. Very quickly. Like an avalanche. Because physicists are intelligent people.
+•	**The Nature of Light.**  
+This process is far more complex than the classical wave model. Due to the atom's three-dimensional, branched architecture, it emits not a "line" of oscillations, but a complex spatial "bundle" of vibrations of varying frequencies. The amplitude and frequency of these oscillations vary from the extreme points of the branches to the center of the atomic framework. The physics of the interaction of such a multi-frequency wave bundle with the environment has yet to be discovered. 
 
-They will not call it aol space. They will call it something else.
+•	**Electricity and Magnetism.**  
+To gain a profound comprehension of these phenomena, we must thoroughly map — down to the single aol — the actual spatial geometry and kinematics of every atomic configuration within the periodic table.
 
-By that time, I will no longer be here. And my hypothesis will most likely disappear with me.
-But that does not matter for science. What matters is that the correct path will be found.
-And physics will become physics again. Not mathematics, but understanding.
+•	**The Mechanics of Inertia.**  
+Here, the hydrodynamic mechanism behind the formation of aol wedges must be meticulously calculated. The dense medium of space does not passively wait for a full-fledged wedge to grow from the extruded atoms — it begins dynamically driving the aols into the region behind the object at the slightest, most insignificant displacement. We need a rigorous fluid-dynamics analysis of this ultra-fast medium reaction.
+
+•	**Chemical Processes.**  
+The volume of work here is inexhaustible. Every substitution or synthesis reaction must be broken down into elementary steps of mechanical rearrangement, jamming, and opening of the geometric nodes of atomic bonds. And to do this, we need to know the structure of all atoms.
+
+In short, there are fundamental questions remaining within every single topic. This hypothesis is not a final destination, but the opening of a door. There is enough work here to occupy multiple generations of physicists who will have to rebuild science on the principles of common sense and intuitive contact mechanics.
+
+**I wish them the best of luck on this journey.**
