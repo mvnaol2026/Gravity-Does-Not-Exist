@@ -266,7 +266,7 @@ We are speaking of the unceasing microscopic oscillations of atoms. Modern quant
 They perform continuous, high-frequency oscillatory motions.
 This process does not stop even when a material body is cooled to the ultimate theoretical minimum—under conditions of the cosmic void and deep thermal cold, where any thermal activity is expected to grind to a complete halt.
 
-In this phenomenon, the ultimate quantitative magnitude of the process is of fundamental importance. Experimentally recorded characteristic frequencies of intra-atomic trembling reach the extreme order of 1013 Hz—that is tens of trillions of oscillations every single second.
+In this phenomenon, the ultimate quantitative magnitude of the process is of fundamental importance. Experimentally recorded characteristic frequencies of intra-atomic trembling reach the extreme order of **10<sup>13</sup> Hz** — that is tens of trillions of oscillations every single second.
 Here, the mechanics of Aol physics must demand a causal question: where does this beyond-limit, non-decaying dynamics come from?
 
 If the atom is a spatial structure assembled from passive primal components, if it is completely devoid of an internal mystical engine, and if mechanical motion is fundamentally incapable of self-generating out of nothingness, then what specific agent causes substance to continuously tremble at a trillion-fold frequency?
@@ -300,7 +300,7 @@ What official quantum mechanics designates with the abstract term "atomic energy
 
 Aol physics explains why intra-atomic motion is fundamentally impossible to stop, even under the ultimate cooling of substance. Official science records the phenomenon of "zero-point oscillations at absolute zero" but is forced to cover it up with Heisenberg's quantum uncertainty principle. In Aol physics, this paradox is resolved purely geometrically.
 
-Since the material aol space continuously exists at absolutely any point in the cosmos and is fundamentally incapable of ceasing its self-oscillations due to the chaotic packing of aols, it is physically impossible to "turn off" the external impact action on substance. For as long as the aol space exists—and it is eternal—aols will vibrate. Extreme micro-oscillations with a frequency of 10<sup>13</sup> Hz are not the internal warmth of the atom, but the uneliminable vibration of the aol space.
+Since the material aol space continuously exists at absolutely any point in the cosmos and is fundamentally incapable of ceasing its self-oscillations due to the chaotic packing of aols, it is physically impossible to "turn off" the external impact action on substance. For as long as the aol space exists — and it is eternal — aols will vibrate. Extreme micro-oscillations with a frequency of **10<sup>13</sup> Hz** are not the internal warmth of the atom, but the uneliminable vibration of the aol space.
 
 From this follows a most vital general physical conclusion: the value of what science terms absolute zero (–273.15 °C) is not a mystical barrier of nature or the temperature floor of matter, but a strictly fixed background level of the dynamic activity of the aol space itself.
 Absolute zero is a state in which local macroscopic heat (the chaotic motion of the molecules themselves) has been completely squeezed out of the substance, yet the pure, uneliminable through-and-through hum of the medium remains. If the base self-oscillations of the Universe's aol space were weaker, then the mathematical benchmark of the ultimate low temperature would appear completely differently in our instruments.
