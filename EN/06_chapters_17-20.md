@@ -320,204 +320,113 @@ This “volumetric aolian sail-area” depends on the number of bound aols and l
 
 ## Chapter 19. NEWTON’S LAWS
 
-When mechanics is discussed, people almost always recall the three laws of Isaac Newton.
-And this is unsurprising. These laws became the foundation of all classical physics. They work. They allow us to calculate the motion of bodies, build machines, and launch rockets.
+When natural science touches upon mechanics, Isaac Newton’s three laws and the law of universal gravitation invariably become the foundation of the discussion. This is logical: these postulates established the bedrock of classical physics. They operate flawlessly in practice, enabling engineers to calculate the trajectories of macro-objects with supreme precision, design highly complex machinery, and launch spacecraft.
 
-But there is one important point that is usually overlooked.
-A working formula is not yet an understanding of the mechanism.
-One may calculate accurately and still misunderstand what is truly happening.
-From the perspective of the aolian model, this is exactly what happened with Newton’s laws.
+However, academic circles overlook a paramount methodological law: a flawlessly functioning mathematical formula is not synonymous with understanding the physical mechanism of a process.
 
-**The Third Law — the Only One That Truly Reveals the Essence**
+One can possess a perfect mathematical apparatus for calculating effects while completely misinterpreting the very nature of the root cause. This is precisely the conceptual failure that occurred with Newton’s legacy. His laws are correct mathematical protocols of observations, which Aol physics does not invalidate; rather, it provides them with an intuitive mechanical essence.
 
-Let us begin with the third law.
-It states: for every action there is an equal and opposite reaction.
-At first glance, this seems simple. But if we think more deeply, a much greater idea is hidden within it.
+**1. The Third Law: The Sole True Postulate of Contact Mechanics**
 
-Whenever you press on a body, you are always braced against something.
-The floor.
-The ground.
-Another support.
-And the body presses back on you—also through support.
+Let us begin with the Third Law (the equality of action and reaction). Out of the entire triad of Newton's laws, this is the only one that is fundamentally correct and directly reflects the physics of local action (contact mechanics).
 
-This means something simple yet fundamental: pressure is impossible without support.
-You cannot “push into emptiness.”
-You cannot “brace against yourself.”
+A deep mechanical truth is embedded within the formulation "action is equal to reaction." When a person exerts pressure upon an object, they are under absolute obligation to bear rigidly against an external point of support — be it the surface of the floor, the Earth’s soil, or an adjacent structural component. Otherwise, exerting an interaction is impossible. In response, the object produces a symmetrical onslaught upon the person exclusively through the system of supports.
 
-If two people push against one another, both are braced against the ground. Remove that support, and the pressure disappears.
-This observation is elementary. It is verified by every bodily movement.
-And from it, one could have drawn a key conclusion: every interaction requires a medium or a chain of contacts.
-But that conclusion was not drawn.
+From this, a rigid rule of the strength of materials is derived: force pressure in nature is physically impossible without the presence of an external support.
 
-**The First Law — Half Correct, Half in Need of Explanation**
+There are no mechanisms capable of "pressing into a void" or "pressing out of a void" — which is to say, bearing against oneself. Any real interaction between objects requires the presence of a continuous material intermediary medium or a closed chain of direct contacts.
 
-Newton’s first law states that if no force acts upon a body, it remains at rest or moves uniformly in a straight line.
-The first part is entirely correct.
-If no influence acts upon a body, it remains at rest.
-Here everything agrees with mechanics.
+The Third Law of Newton inevitably led to the conclusion that the Universe is totally filled with a material medium; yet, academic science preferred to take a step toward contactless action-at-a-distance, while attributing an inherent capacity to bodies to resist displacement without possessing any support whatsoever.
 
-But the second part raises questions.
-How can a body move without influence?
-What sustains that motion?
-There is no answer.
+**2. The First Law: Correct Statics and the Illusion of "Force-Free" Flight**
 
-Newton recorded the observation, but did not explain the mechanism.
-He saw that a body continued moving and wrote this down as a law.
-But he did not see why it continued moving.
+In Aol physics, Newton's First Law (the law of inertia) is bifurcated into physical reality and mathematical illusion:
 
-**What Is Actually Happening**
+•	**The first (static) part of the law** — "a body preserves its state of rest unless acted upon by external forces" — is absolutely legitimate. It aligns in complete harmony with the aol principle of the fundamental passivity of matter: an object is entirely deprived of the capacity to move itself independently and remains at rest as long as the external pressure of the medium is balanced.
 
-In the aolian model, the picture becomes clear.
-A moving body does not move by itself.
-It interacts with the medium.
+•	**The second (dynamic) part of the law** — "a body moves uniformly and rectilinearly on its own in the absence of forces" — is a profound misconception that directed physics down a false path, along which it continues to travel to this day. Newton protocolled the observed effect of an object's sustained flight but failed to uncover its hidden root cause.
 
-Aolian space:
+Within the framework of Aol physics, rectilinear motion without the support of forces is impossible. A flying object interacts with a super-dense medium. The medium is displaced by the object, flows around it, and — under the press of the Universe — is driven behind the body, forming a continuous, high-frequency sequence of aol wedges.
 
-— flows around the body,
+The body does not fly "on its own" — it is forcefully driven forward by the pressure of the space's aol wedges. If this process of aol wedge action were to cease for even a single instant, the object would not coast by inertia for even a single micrometer; it would stop instantaneously, without any smooth decay of velocity.
 
-— presses aols behind it,
+Instantaneously — let me emphasize this. Without continuous contact pressure, motion in both the macro- and micro-world is physically impossible.
 
-— forms wedges,
+**3. The Second Law: A Mechanical Explanation of the Nature of Acceleration**
 
-— and continues pressing the body forward.
+Newton's Second Law is described by the most famous formula in classical physics:
+**F = ma**
 
-If that process stops, motion stops immediately.
-It does not merely slow down.
-It does not “gradually fade away.”
-It ceases at once.
+It is postulated that if an object is acted upon by an external force that is strictly constant in magnitude, the object begins to displace with a linear increment of velocity — acceleration. Uniformly accelerated motion.
 
-The body would not travel another millimeter “by inertia.”
-Because without pressure, motion is impossible.
+Here, Aol physics is under obligation to point out a fundamental logical paradox of dynamics: if the external force applied to the body is strictly constant, then why is the resulting motion not uniform? Why does the velocity continuously increase? Why is the motion uniformly accelerated?
 
-**In the Second Law, the Formula Works, but the Explanation Is Missing**
+Aol physics asserts that when a constant force acts upon a body, the motion of the body will be uniform. Accelerated motion requires a growing force.
+The true cause of acceleration remained hidden from official science because Newton operated within a model of an empty vacuum and was unaware of the existence of the aol space.
 
-The most famous law is: **F = m a**
-The law states that if a constant force acts on a body, it moves with acceleration.
-And indeed, this is what is observed in experiments.
+In reality, it is not a single, isolated external force that acts upon an accelerating body. As the object gains speed, its interaction with the medium escalates:
 
-But a question arises.
-Why does acceleration occur?
-If the force is constant, one would logically expect uniform motion.
-Yet we observe acceleration.
-Why?
-What is the true cause of acceleration?
+•	The volume of aols displaced and redirected behind the body per unit of time increases. 
 
-The body moves with acceleration because the force is not actually single.
-Newton saw only the external influence, but did not see the steadily increasing influence of the aolian medium. He did not know of the existence of aolian space, nor of aolian wedges.
+•	The frequency with which elastic aol wedges are driven behind the body intensifies.
 
-As motion continues:
+•	The growing pressure of the medium begins to progressively and linearly add itself to the initial external constant force — through the increase in the number of driven aol wedges per unit of time.
 
-— the body is flowed around more rapidly by the medium,
+•	**The external constant force acts as a process regulator:** its magnitude establishes the specific algorithm and frequency for driving the aol wedges.
+	
+The cumulative pushing pressure upon the object grows continuously and linearly, which is precisely what generates the effect of acceleration. A force does not cause acceleration "on its own" out of a mathematical formula — acceleration is the consequence of summing the constant external load and the growing force onslaught of the medium.  
+It is specifically the second component of the total force — **the growing force of the aol wedges' action — that imparts acceleration to the body.**
 
-— more aols are pressed in behind it,
+A logical question arises: how does the formula of the Second Law yield perfectly accurate calculation results if its classical theoretical foundation is incorrect?
+The reason is that Newton's formula is of a purely empirical character. It measures the starting force, records the resulting acceleration, and mass acts as a coefficient linking these two values. Let me emphasize that mass is a coefficient.
 
-— more wedges are formed,
+In reality, mass within Newton's equation is not an abstract mathematical number. It blindly and automatically accounts for the body's interaction with the aol space, recording how intensely the medium reacts with resistance against displacement and at what frequency it is capable of stamping pushing wedges behind the body. Newton's mathematics captured the aol medium in the form of a mass coefficient long before its mechanical basis was uncovered. It has now been uncovered by Aol physics.
 
-— pressure increases.
+**4. The Law of Gravitation: Deconstruction of Action-at-a-Distance and the Gradient of "Universal Pressing"**
 
-Thus, the total influence grows.
-It is because of this that acceleration appears.
-Not because “force itself causes acceleration,” but because the external force is joined by the growing influence of the medium.
+Newton's law of universal gravitation is yet another example of a flawless mathematical calculator completely devoid of a physical mechanism.
 
-**Why Does the Formula Still Work**
+The formula allows for the calculation of planetary orbits, yet it remains completely silent about what material carrier executes the connection between celestial bodies across millions of kilometers. Isaac Newton himself acknowledged this conceptual dead end, explicitly stating in his works that he frames no hypotheses (hypotheses non fingo) regarding the nature of gravity, and was ultimately forced to appeal to divine, non-material forces.
 
-A natural question follows: if the explanation is wrong, why does the formula still produce correct results?
-Because it is empirical.
+From the standpoint of the laws of mechanics, remote "attraction" through a void is absolutely impossible. Not a single material object is capable of pulling another object toward itself without the presence of a rigid intermediate element (a rope, a cable, a chain, a tether) or direct contact with the object.
 
-In it:
+In Aol physics, the concept of **attraction is denied entirely.**
+**In nature, there exists only contact pressing.**
 
-— force is measured,
+The aol space, existing in a regime of vibrational pressure, presses upon any objects in the Universe from all sides with colossal force. When two isolated material bodies (for example, the Earth and the Moon) find themselves relatively close in space, their arrays begin to operate as spatial filters. They partially shade — screen — the medium's vibrational pressure from one another.
 
-— acceleration is measured,
+As a result of this shadow, the intensity of the aols' vibrational pressure drops in the space between the bodies. A pressure differential arises: the external pressure of space from the direction of open cosmos begins to predominate over the weakened pressure within the shadow zone between the objects. This gradient of forces presses the bodies toward one another. Objects do not "attract" each other through internal forces — they are pressed together by the external medium of the Universe.
 
-— and mass serves as the coefficient relating them.
+From this follows the conclusion as to why Newton's law of gravitation is not actually absolutely "universal."  
+In classical physics, the gravitational constant is proclaimed as an unalterable constant. However, if one takes into account the real cellular structure of the Universe, this assertion crumbles.
 
-To emphasize: mass here is a coefficient.
-The formula does not explain the mechanism.
-It simply describes the observed relationship with precision.
+The force pressure of the aol medium is strictly gradient-driven: it escalates toward the centers of Minor universes and drops to a critical minimum on their periphery, near the boundaries of the rhombic dodecahedrons.
 
-**What Does Mass Actually Account For**
+Consequently, the magnitude of the force of the bodies' external gravitational pressing during screening is a variable quantity, rigidly bound to the coordinates of the object within the cosmic cell:
 
-Mass in the formula is not an “abstract coefficient.”
-In reality, it accounts for the interaction of the body with aolian space.
+•	**In the centers of Minor universes**, gravitational pressing reaches peak values, compressing matter into gigantic objects.
 
-When we measure mass, we are effectively measuring:
+•	**On the periphery of the cells**, within the zones of pressure drop, the aol medium completely loses its capacity to press bodies toward one another. The force of screening drops to zero. 
 
-— how strongly the medium acts upon the body,
+Moreover, at the outskirts of the rhombic dodecahedron, the medium loses the capacity to retain the elements inside the atoms themselves, causing complex macro-objects to irreversibly disintegrate, while lunols are straightened back out and return to the phase of free aols. That is to say, there is no question of bodies pressing toward one another, and the bodies themselves break down. The gravitational "constant" is nullified.
+	
+The mathematical structure of Newton's formula is correct, but the coefficient within it fundamentally has no right to be proclaimed a universal cosmic constant. It smoothly alters from a maximum to zero across different zones of a Minor universe.
 
-— and how strongly the body acts upon the medium.
+**THE UPSHOT OF THE CHAPTER**
 
-So the action of aolian space is already included in the formula.
-Only without understanding that aolian space exists.
+Isaac Newton’s laws represent the greatest triumph of empirical observational description in history; however, they completely blocked the development of mechanistic causality. Science obtained functioning formulas, but simultaneously acquired an erroneous understanding of those formulas, which stagnated theoretical physics for centuries and led it into its current dead end.
 
-Mass as a coefficient has automatically incorporated aolian space and its action in the form of aolian wedges.
+•	**The First Law** captured the phenomenon of flight but failed to account for the fact that **a body is continuously pushed from behind by aol wedges.**
 
-**The Law of Gravitation — Precise Mathematics Without Mechanism**
+•	**The Second Law** produced a flawless calculation formula but failed to account for the true cause of acceleration — **the escalating pressure of the medium itself.**
 
-Isaac Newton also introduced the law of universal gravitation.
-The formula works.
-It allows the motion of planets to be calculated with precision.
+•	**The Third Law** correctly indicated the equality of the forces of action and reaction, yet it failed to account for the fact that a support is always necessary. As a result, it produced the **absurd notion of an inherent property of bodies to resist displacement without possessing any support.**
 
-But once again, the same question arises.
-What exactly causes this interaction?
-There is no answer.
-Newton himself acknowledged this.
+•	**The Law of Gravitation** perfectly calculated orbits but generated the mystical simulacrum of contactless action-at-a-distance through a void — attraction. **Attraction ruined theoretical physics.**
 
-In the end, the explanation was reduced to a “force,” even extending to appeals to divine action.
-But here a fundamental problem appears: action at a distance is mechanically impossible.
-No influence can occur without a medium.
+Aol physics does not engage in the destruction of the functioning mathematical tools of classical mechanics. It provides Newton’s formulas with a physical foundation and describes the step-by-step mechanism of every dynamic process.  
+It is precisely this transition from blind mathematical calculation to an intuitive understanding of the essence of processes that transforms physics from an abstract mathematical calculus into a true science of nature.
 
-**What Is Actually Happening**
-
-In the aolian model, there is no attraction. There is compression.
-
-Aolian space:
-
-— presses from all sides,
-
-— is partially “screened” by bodies,
-
-— and creates a pressure difference.
-
-As a result, bodies become pressed toward one another.
-Not attracted. Pressed.
-
-**Why the Law Is Not Entirely “Universal”**
-
-In classical physics, the gravitational constant is treated as unchanging.
-But if the structure of aolian space is taken into account, this is not so.
-
-The pressure of the medium differs:
-
-— higher in central regions,
-
-— lower at the periphery.
-
-Therefore, the compressive effect changes—to the point that it may not only fail to press two bodies together under screening, but may even fail to maintain bodies as bodies, causing them to break apart into aols and lunols.
-
-The formula remains the same.
-But the coefficient within it is not a universal constant.
-
-**Main Conclusion**
-
-Newton’s laws are descriptions of observations.
-But they are not explanations of mechanism.
-
-The first records a phenomenon, but does not explain it.
-
-The second gives a correct formula, but conceals the real cause of acceleration.
-
-The third law points to the necessity of support and contact.
-
-The law of gravitation calculates correctly, but is interpreted incorrectly.
-
-In the aolian model, gravitation as attraction is fully rejected—as an impossible interaction lacking mechanism.
-**The aolian model does not abolish formulas.**
-It gives them explanation and mechanism.
-And that is what transforms calculation into understanding.
-
-Physics is not only, and not primarily, mathematics. It is a science that explains the essence of processes and reveals step by step the mechanisms by which they operate.
-That is how it ought to be.
 
 
 
