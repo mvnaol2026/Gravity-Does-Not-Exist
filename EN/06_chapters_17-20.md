@@ -179,140 +179,140 @@ Only at the level of bodies does what we are accustomed to call inertia appear.
 
 ## Chapter 18. MASS
 
-Now that the mechanism of inertia is understood, we can define more precisely what mass is.
-Because without understanding how a body interacts with the aolian medium, it would be premature to speak of mass.
+**Mass in Official Physics**
 
-And here it is important to remove one common mistake immediately.
-Matter does not resist displacement.
-Matter does not do anything “by itself.”
+In modern academic science, "mass" is proclaimed as one of the most fundamental physical quantities. However, if one strips the strict mathematical equations from university courses and attempts to uncover the physical nature of this phenomenon, it becomes evident that official theoretical physics divides mass into several fundamentally different, superimposed concepts, the nature of which is still described through speculative assumptions.
 
-It is passive.
-Inertia has shown us the essential point: a body does not “preserve motion on its own.” It continues to be moved by the medium through continuously forming aolian wedges.
-And this immediately leads to the next question.
+**1. Inertial Mass and the Higgs Field (The Mass of Elementary Particles)**
 
-What determines how strongly a body interacts with that medium?
-Why is one body difficult to accelerate while another is easy?
-This is where mass appears.
+Within the framework of the Standard Model of elementary particles, it is postulated that fundamental quantum objects — such as electrons and isolated quarks — do not initially possess an inherent mass. Yet, let us recall that real matter consists precisely of quarks and electrons — absolutely everything is made of them. To explain where their inertial mass (the capacity to resist acceleration) comes from, the concept of the Higgs field (or the "Higgs ocean") was introduced into quantum field theory.
 
-**What Actually Resists**
+According to the official dogma, the entire space of the Universe is filled with a specific, invisible quantum condensate. When an elementary particle moves through this hypothetical ocean, it enters into an interaction with the Higgs field. The field exerts a specific viscous resistance upon the particle, complicating its displacement in space. It is precisely this external braking by the medium that official science interprets as the emergence of the particle's inertial mass.
+The actual mechanism of this process is not described.
 
-When a body moves, it seems as though it “resists the medium” or “pushes through it.”
-But if we analyze the mechanism, the opposite is true.
-It is not the body that resists—the medium resists the body’s penetration into it.
-The body is pressed into aolian space by an external influence.
+Furthermore, let us add another "fact" of official science for contemplation: there are 24 fields in total (with a 25th — the gravitational field — which they are currently attempting to integrate), and all of them fill the entire Universe, simultaneously occupying every single point in space. How they manage not to interfere with one another while residing in the exact same point in space remains unknown.
 
-Aolian space cannot allow the body to pass without interaction; it is forced to redistribute itself.
+**2. Gluon Binding Energy (Where 99% of the Mass of Matter Comes From)**
 
-And it is precisely this redistribution that creates resisting pressure.
-So all resistance to the body’s penetration is a reaction of the medium.
-The penetrating body is only the cause of the disturbance.
+However, the Higgs field accounts for only a negligible fraction (about 1%) of the mass of the tangible world around us. The protons and neutrons that construct the nuclei of all atoms consist of quarks. If one simply sums the masses of these quarks obtained from the Higgs field, their combined weight constitutes only about 1% of the actual, measurable mass of a proton.
 
-**What, Then, Is Mass**
+To explain the origin of the remaining 99% of the Universe's mass, quantum chromodynamics introduces the concept of gluon glue. It is asserted that within a nucleon, quarks continuously exchange massless messenger particles called gluons, which move at near-light speeds. According to Einstein’s formula **(E = mc<sup>2</sup>)**, the monstrous "binding energy" and kinetic energy of these massless objects are equivalent to physical mass.
 
-Mass is the measure of how strongly the medium reacts to the penetration of a body into it.
-In other words: mass is the measure of a body’s interaction with aolian space.
+Thus, official science acknowledges that almost the entire mass of matter is created not by material particles, but by the kinetic binding energy within an empty atom.
+At the same time, science does not actually know what energy is.
+
+**3. The Equivalence Principle of Inertial and Gravitational Masses**
+
+In parallel with quantum theories, in macro-physics mass is officially divided into two completely different manifestations, the natures of which are fundamentally unrelated to each other:
+
+•	**Inertial mass** — characterizes the measure of a body's resistance when attempting to change the velocity of its motion under the action of an external force (Newton's Second Law).
+
+•	**Gravitational mass** — characterizes the capacity of a body to create a gravitational field around itself and to respond to the attraction of other bodies (The Law of Universal Gravitation).
+
+In Einstein's General Theory of Relativity (GTR), the weak equivalence principle is anchored, which postulates that inertial and gravitational masses are absolutely identical to each other. Experimentally, the equality of these quantities has been proven with colossal precision.
+
+However, official academic science is incapable of providing a mechanistic answer to the question: why is the property of a body to resist a push of a hand in empty space precisely equal to the property of that very same body to be attracted to the Earth? For official physics, this coincidence is a fundamental, unexplained postulate of nature, accepted on faith.
+
+**The Paradox of "Viscous Friction" for a Wave.**   
+The Higgs mechanism is frequently explained in popular science as "the motion of a styrofoam ball through viscous syrup." However, the electron is officially declared to be a wave. A wave is not an isolated object. How can an extended wave, smeared out in space, experience "localized viscous resistance" from another field?
+
+For the wave of the electron field to continuously interact with the Higgs field and "resist" a change in its state, both fields must continuously exchange real impulses. Who or what pushes the elements of these fields, maintaining them in a state of permanent readiness to exert resistance?
+The mechanism is not described.
+
+**The Paradox of Wave Localization Upon Impact.**   
+If an electron is a wave of an electron field that has acquired mass through the Higgs field, then this mass must be similarly smeared out along the entire length of the wave. Yet, in collision experiments, the electron always behaves as a point-like object that transfers momentum instantaneously and locally at a single point in space.
+
+Quantum mechanics plugs this hole with the concept of the "wave function collapse" (the wave allegedly and mystically collapses into a point at the moment of impact). But how does the Higgs field manage to interact with a smeared-out wave only to ultimately produce the mass of a strictly localized point?
+There is no mechanical answer.
+
+**Mass in Aol Physics**
+
+Now, with the mechanism of inertia described in the preceding chapter understood, we can precisely define what mass actually is. For without a comprehension of exactly how a body interacts with the aol medium, discussing mass would be premature.
+
+And here, it is essential to immediately eliminate a fundamental error of science — matter does not possess an inherent property to resist its own displacement. Matter, in and of itself, does absolutely nothing. Matter is totally, fundamentally passive. Matter possesses only one capability—it can be in motion when it is pushed. Matter is capable of doing nothing more.  
+Inertia has shown us the main point: a body does not "preserve its own motion"; it continues to be driven by the medium through the constantly arising aol wedges.
+
+And the next question immediately appears.  
+What determines how strongly a body interacts with this medium?  
+Why is one body difficult to accelerate, while another is easy?  
+This is precisely where the concept of mass emerges.
+
+
+**What Is Actually Resisting**
+
+When a body moves, it creates the sensation that it is "resisting." This is felt with particular clarity when a person moves a massive object. They feel quite explicitly how "the body resists."
+
+However, if one breaks down the mechanism, it becomes clear that it is not the body that resists, but rather the medium that resists the insertion of the body into itself. This is assuming we exclude the factors of surface friction and air resistance (which is negligible at low velocities of motion) — that is, if we visualize the body in a vacuum.
+
+The body is pressed into the aol space by an external interaction.  
+The aol space cannot allow the body to pass without interaction; it is forced to redistribute itself. And it is precisely this redistribution that creates the resisting pressure.
+Thus, the entirety of the resistance to the body's insertion is the reaction of the medium. The inserted body is merely the cause of the disturbance.
+
+What, then, is mass?  
+Mass is a measure of how intensely the medium reacts to the insertion of a body into it.
+**Mass is a measure of a body's capacity to displace the aol space and to experience its pressure.**
 
 **The Role of Structure**
 
-Why, then, do different bodies have different mass?
-Because they interact with the medium differently.
-And that is determined by their structure.
+Why, then, do different bodies possess different masses?  
+Because they interact with the medium differently. And this is determined by their structure.
+If aols are bound into a dense configuration — into a single whole, into an object that cannot be "pierced through and through without losses" — then such an object displaces the medium, causes a powerful redistribution, and forms wedges during motion.  
+A non-massive body possesses a small number of bound aols and lunols, and there is space between its atoms through which the aols of the medium pass easily, like through a sieve. In this case, the resistance of the medium is significantly lower.
 
-If aols are bound into a dense construction, into a unified whole, into an object that cannot be “pierced straight through without loss,” then such an object displaces the medium, causes strong redistribution, and forms wedges during motion.
+Conversely, if the aols are free, as they are within the aol space, they do not form an obstacle, do not cause displacement, and do not trigger a reaction from the medium. They simply exist as part of this medium.
 
-If, however, the aols are free, as in aolian space itself, then they do not form an obstacle, do not create displacement, and do not provoke a reaction from the medium.
-They are simply part of that medium.
+To better visualize this, let us take two identical volumes:  
+•	One is simply a volume of the aol space.  
+•	The other is a body consisting of bound aols and lunols.
 
-**A Comparison That Captures the Essence**
+The number of aols within these volumes is equal.  
+However, in the first scenario, the medium does not react in any way, whereas in the second scenario, it reacts with resistance.
 
-Let us take two equal volumes:
-
-— one is simply aolian space,
-
-— the other is a body composed of bound aols and lunols.
-
-The number of aols within those volumes may be the same.
-But in the first case, the medium does not react at all, while in the second case it reacts with resistance.
-Because in the second case, structure exists.
-And it is structure that makes interaction possible.
+This occurs because in the second case, there is a structure — a structure of bound aols and lunols. And it is precisely the structure that makes interaction with the medium possible. In the first case, we merely have a portion of the medium, and it has no need to insert itself into itself.
 
 **Minimal Mass**
 
-An aol possesses minimal mass, yet it is the only object that does not display inertia.
-Because it does not form a wedge and cannot create one due to its extremely small size.
-It does not move independently through the medium.
-It is part of the medium itself.
+**The aol possesses the minimal mass**. Yet, it is the only object in existence that has mass but **does not exhibit motion by inertia.**
 
-And it participates only in the transmission of influences.
-Aols can move only when pushed by a body, or by other aols that are themselves being pushed by a body.
+This occurs because it does not form a wedge; it is incapable of creating one due to its minuscule dimensions and its falling into the recesses of the supporting layer of aols. In other words, it is unable to advance by a full layer of aols — by its own diameter. The recesses "eat up" its advancement by 14% to 28% of its diameter, depending on which specific recess the aol falls into — whether it is between two or four spheres of the supporting layer of aols.
+
+It does not move through the medium independently, failing to create a complete wedge out of even a single aol. It exists as part of the medium and participates exclusively in the transmission of interactions — namely, pressure and vibrations. Aols can move only when pushed by a body or by other aols that are being pushed by a body.
 
 **Inertial and Gravitational Mass**
 
-In physics, a distinction is made between inertial mass and gravitational mass.
-But in the aolian model, they are one and the same.
+In official physics, a distinction is drawn between inertial mass and gravitational mass. Within the aol model, however, they are one and the same.  
+In inertia, mass is a measure of how intensely a body interacts with the medium during motion. Its interaction is measured by the number of aols displaced from the medium.  
+In gravity, mass is a measure of how intensely the medium presses upon the body, interacting with it — the body will displace the exact same number of aols from the medium acting upon it.
 
-In inertia, mass is the measure of how strongly a body interacts with the medium during motion.
+This is one and the same mechanism of interaction between a body and the medium, merely manifested in two different scenarios:  
+•	**In the first scenario**, the body is inserted into the aol space.  
+•	**In the second scenario**, the aol space encompasses the body, interacting with it—it inserts the body into itself.
 
-In gravitation, mass is the measure of how strongly the medium presses upon the body and how much the body participates in the redistribution of pressure.
+In both cases, the number of free aols displaced from the aol space matches with absolute precision. In both instances, the reaction of the aol space is equal to the number of free aols displaced from it. And since these numbers are identical, the inertial and gravitational masses are absolutely equal.
 
-It is the same mechanism of interaction between body and medium.
-It is simply manifested in different situations.
-In the first case, the body penetrates into aolian space. In the second, aolian space envelops the body and interacts with it—it incorporates the body into itself.
+**Why Mass Is Constant**
 
-In both cases, the number of free aols displaced from aolian space is exactly the same.
-In both cases, the reaction of aolian space is equal to the number of free aols displaced from it.
-And those numbers are identical.
+The mass of a body does not alter during motion. This is because the structure of the body remains the same, the number of bound elements does not change, the manner of interaction with the medium is preserved, and the number of displaced free aols is always and everywhere identical. It is not the mass that changes. It is the process that changes.
 
-**Mass as a Measure of Displacement**
+**What Increases with Velocity**
 
-It may be stated even more precisely.
-Mass is the measure of a body’s ability to displace aolian space and to experience its pressure.
-These are two sides of the same process.
-The more strongly a body displaces the medium, the more strongly the medium acts upon it.
+When a body moves faster, the medium flows around it more rapidly, and wedges form more frequently, which means the interaction occurs more intensely. It is not the mass that grows. It is the intensity of the processes within the medium that increases.
 
-**Why Mass Remains Constant**
+What is officially termed kinetic "energy" is merely a measure of this intensity — a measure of the frequency at which aol wedges arise. It is not a mythical kinetic "energy" that drives a moving body, but the aol wedges. Kinetic "energy" merely mathematically characterizes the impact of the aol wedges.
 
-The mass of a body does not change during motion.
-Because the structure of the body remains the same, the number of bound elements does not change, the mode of interaction with the medium is preserved, and the number of free aols displaced is always and everywhere the same.
+**The Primary Conclusion**
 
-It is not mass that changes.
-It is the process that changes.
+Matter is passive. It does not resist, nor does it act on its own.  
+The entirety of resistance is the reaction of the aol space. Mass is a measure of a structure's interaction with this medium.
 
-**What Increases with Speed**
+ It is simultaneously:  
+•	A measure of inertia,  
+•	A measure of "gravity,"  
+•	A measure of the medium's displacement.
 
-When a body moves faster:
+And this is one and the same quantity, manifesting in two different processes with an identical interaction with the medium — namely, the displacement of the exact same number of space's aols. These are not two different masses, but one and the same mass, simply observed differently.
 
-— the body is flowed around more rapidly by the medium,
-
-— wedges form more frequently,
-
-— interaction becomes more intense.
-
-Mass does not increase. The intensity of processes increases.
-What is called kinetic “energy” is simply a measure of that intensity—a measure of how intensely aolian wedges arise.
-
-It is not some mythical kinetic “energy” that pushes a moving body, but the aolian wedges.
-Kinetic “energy” merely characterizes the effect of those wedges.
-
-**Main Conclusion**
-
-Matter is passive. It does not resist and does not act by itself.
-All resistance is a reaction of aolian space.
-Mass is the measure of a structure’s interaction with that medium.
-
-It is simultaneously:
-
-— a measure of inertia,
-
-— a measure of “gravitation”,
-
-— a measure of displacement of the medium.
-
-And it is one and the same quantity manifested in different processes.
-Not two different masses, but one and the same mass, simply observed in different ways.
-Mass may be called the **“volumetric aolian sail-area” of a body.**
-
-This “volumetric aolian sail-area” depends on the number of bound aols and lunols.
+Mass can be termed the "volumetric aol windage" of a body. This "volumetric aol windage" of a body depends strictly upon the number of bound aols and lunols. It is this volumetric windage of the body that dictates exactly how many aols the body will displace from the medium.
 
 
 
