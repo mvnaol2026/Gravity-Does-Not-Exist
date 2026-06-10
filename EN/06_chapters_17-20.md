@@ -229,7 +229,7 @@ There is no mechanical answer.
 
 Now, with the mechanism of inertia described in the preceding chapter understood, we can precisely define what mass actually is. For without a comprehension of exactly how a body interacts with the aol medium, discussing mass would be premature.
 
-And here, it is essential to immediately eliminate a fundamental error of science — matter does not possess an inherent property to resist its own displacement. Matter, in and of itself, does absolutely nothing. Matter is totally, fundamentally passive. Matter possesses only one capability—it can be in motion when it is pushed. Matter is capable of doing nothing more.  
+And here, it is essential to immediately eliminate a fundamental error of science — matter does not possess an inherent property to resist its own displacement. Matter, in and of itself, does absolutely nothing. Matter is totally, fundamentally passive. Matter possesses only one capability — it can be in motion when it is pushed. Matter is capable of doing nothing more.  
 Inertia has shown us the main point: a body does not "preserve its own motion"; it continues to be driven by the medium through the constantly arising aol wedges.
 
 And the next question immediately appears.  
