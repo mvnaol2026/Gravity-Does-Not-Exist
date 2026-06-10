@@ -330,9 +330,11 @@ One can possess a perfect mathematical apparatus for calculating effects while c
 
 Let us begin with the Third Law (the equality of action and reaction). Out of the entire triad of Newton's laws, this is the only one that is fundamentally correct and directly reflects the physics of local action (contact mechanics).
 
-A deep mechanical truth is embedded within the formulation "action is equal to reaction." When a person exerts pressure upon an object, they are under absolute obligation to bear rigidly against an external point of support — be it the surface of the floor, the Earth’s soil, or an adjacent structural component. Otherwise, exerting an interaction is impossible. In response, the object produces a symmetrical onslaught upon the person exclusively through the system of supports.
+A deep mechanical truth is embedded within the formulation **"action is equal to reaction."** 
 
-From this, a rigid rule of the strength of materials is derived: force pressure in nature is physically impossible without the presence of an external support.
+And it was precisely from this truth that one should have understood **the utter absurdity of a body's internal resistance.** That is, I exert pressure upon a body while bearing against a support (otherwise, I cannot exert pressure), which means the body, in response, exerts pressure upon me while bearing against a support as well. The pressing bodies act identically. In their interaction, they cannot utilize different laws of physics. Bearing against oneself is impossible. One should have understood, through one’s own physical experience, that for pressure — whether it is an oncoming pressing pressure or a responsive pressure — a support is required. The easiest way to understand this would be when two people push against each other: both bear against their respective supports. It is all completely elementary, after all. 
+
+From this, a rigid rule of the strength of materials is derived: **force pressure in nature is physically impossible without the presence of an external support.**
 
 There are no mechanisms capable of "pressing into a void" or "pressing out of a void" — which is to say, bearing against oneself. Any real interaction between objects requires the presence of a continuous material intermediary medium or a closed chain of direct contacts.
 
