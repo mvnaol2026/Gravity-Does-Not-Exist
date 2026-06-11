@@ -1,177 +1,211 @@
 ## Chapter 17. INERTIA
 
-Every process is the motion of matter. Therefore, to understand any process, we must understand what matter is, how it is structured, and what motion itself is.
-We have already spoken about the structure of matter within the aolian model. Now it is time to examine motion.
+Прежде всего **надо осознать важность понимания механизма инерции.**
+Движение по инерции – это часть процесса движения. Та часть, которая начинается после прекращения действия внешней силы приведшей объект в движение. После прекращения действия внешней силы движение обычно не прекращается. Кроме случаев действия мощных тормозяших факторов в виде сильного трения. 
 
-At first glance, everything seems obvious here. Motion is simply the displacement of an object from one place to another. It is such a familiar idea that almost no one questions it.
+Например, двигаемый человеком шкаф остановится мгновенно после прекращения усилий прикладываемых человеком. Но и здесь инерция помогала человеку пока шкаф был в движении.
 
-But if we look more deeply, a serious question arises.
-Modern science describes motion mathematically with great success, yet the actual mechanism of inertia remains hidden behind the statement: a body continues to move by itself if nothing acts upon it.
+Инерция при движении присутствует всегда. Перед началом движения она мешает сдвинуть объект, а после начала движения она и сопротивляется, и помогает движению.
 
-This idea sounds familiar and elegant. But what does “by itself” actually mean?
-How can motion continue if nothing exists to sustain it?
-If we accept the main principle of the aolian model—that any motion arises only through continuous contact influence—then an unavoidable question appears:
-what exactly continues to move the body after the initial push?
+Закон движения – **инерция присутствует в движении всегда.**   
+Присутствует либо как самостоятельная движущая сила (но не начинающая движение), либо как всегда присутствующая дополнительная сила, помогающая внешней силе.   
+Сдвинуть тяжело, а толкать после начала движения всегда легче. И чем больше набранная скорость, тем толкать легче. А набравший скорость объект остановить трудно. И изменить направление его движения тоже непросто. 
 
-If there is no answer, then the explanation is incomplete.
-That is precisely what we shall now examine: does the body truly move by itself, or is it being continuously moved by something external?
+То есть движение по инерции неотъемленная часть движения.  
+А **важность движения абсолютная, поскольку любое явление, процесс – это движение материи.**  
+И материя никогда не бывает неподвижной.  
+**Мир – это движущаяся материя.**  
+Если понятен механизм движения – будет понятен и весь процесс.
+**Поймём движение – поймём мир, в котором живём.**
 
-**What Happens When a Body Begins to Move**
+Движение от внешних сил, а они всегда видимые или чётко понимаемые не вызывает проблем в понимании.
+Мы понимаем почему движется толкаемый шкаф.  
+Мы понимаем почему движется автомобиль при работающем двигателе – можем проследить всю цепочку механического воздействия одних деталей автомобиля на другие детали – от поршней двигателя до осей колёс. Понимаем как одна внешняя сила создаёт следующую – передаваясь от детали к детали.   
+Но люди и наука не понимают, что и как помогало двигать шкаф, и что движет автомобиль после отключения двигателя.
 
-Let us imagine a body that has begun moving through aolian space.
-It does not “fly through emptiness,” because emptiness does not exist. It presses itself into the surrounding medium.
+И это простейшие виды движения.  
+А ведь есть и сложные виды. Полёт молекул воздуха, газов. Полёт фотонов, кварков, электронов, нейтрино и сотен иных частиц.
 
-The aols in front of the body experience pressure and are forced to shift aside. They cannot disappear, and therefore begin to move around the advancing object.
-But this must be understood correctly: this is not free flowing, as in an ordinary liquid, but a process occurring under the constant pressure of the medium.
+И во всех движениях присутствует движение по инерции.  
+То есть понять движение по инерции критически важно для науки.  
+Без этого понимания наука не выйдет из тупика и не сможет объяснить ни одного процесса. Именно поэтому ни один процесс полностью наука пока и не смогла объяснить. Именно поэтому её частичные объяснения почти все ошибочные.   
+Даже движение шкафа – великая тайна для науки.
 
-**Where the Displaced Aols Go**
+Настойчиво повторю: **самое главное в физике – понять движение.**   
+Полное движение – и от внешних сил, и по инерции.  
+Тогда станут понятны механизмы всех процессов. По крайней мере можно будет отсекать явно ошибочные попытки объяснения, в которых нельзя будет применить чётко понимаемые законы движения.
+То есть даже, если будет непонятно как именно происходит процесс, то понимая движение, можно будет сказать – как точно не может быть.
 
-The aols displaced by the moving body shift sideways, pass around it, and arrive behind it.
-Here the essential point begins.
-There is no empty space behind the body. Aolian medium is already there, and it too exerts pressure forward.
+Например, понимая законы движения, опираясь на главный закон физики о движении, понимая механизм движения по инерции, я могу гарантировано отсечь как ошибочные – полёты частиц: фотонов, электронов, кварков, глюонов, нейтрино и всех прочих.  
+Дальше можно спорить, о том чем и как заменить эти полёты, но исключить такие полёты понимание движения позволяет гарантировано.
 
-Therefore, between:
+А это, как минимум, требует пересмотра всей концепции устройства атомов, устройства материи.
+А ошибочные представления науки о движении объектов в космосе, потребуют пересмотра всей космологии и устройства Вселенной – её появление, функционирование и дальнешая судьба.  
+То есть понимание движения изменит всю науку. И не только физику, но и химию биологию, астрономию.
 
-— the rear surface of the moving body,
+Осознавая важность движения, учёные с древних времён пытались объяснить ту часть движения, которая происходила без внешней силы.
 
-— and the medium pressing behind it,
+**1. Аристотель (Античность): Антиперистасис (круговорот воздуха)**  
+Аристотель утверждал, что естественное состояние любого тела – это покой. Чтобы тело двигалось, на него должна непрерывно действовать внешняя сила.  
+**Объяснение полёта стрелы:** когда стрела вылетает из лука, она рассекает воздух перед собой. Этот вытесненный воздух резко устремляется назад и бьёт стрелу в оперение, толкая её вперёд. Как только движение воздуха затухает, стрела падает.
 
-new aols begin to be forced inward.
+**2. Теория импетуса (Средневековье): Внедрённая сила**  
+Философы Иоанн Филопон, Буридан и Орем поняли, что воздух вокруг стрелы скорее тормозит её, чем толкает. Они ввели понятие импетуса (от лат. impetus — напор, импульс).  
+**Объяснение полёта:** рука или лук при броске передают телу некую нематериальную, умозрительную силу – импетус. Тело летит до тех пор, пока этот внутренний запас импетуса не растратится на сопротивление воздуха.
 
-They do not simply “appear behind it.” The medium literally drives them there through its pressure.
-Each such act creates a local support behind the body.
-This is what is called the wedge.
+**3. Лейбниц и Декарт (XVII век): «Живая сила» (Vis Viva)**
+С развитием математики физики попытались оцифровать этот импетус. Декарт ввёл понятие «количества движения», а Лейбниц сформулировал концепцию «живой силы», которая позже превратилась в кинетическую энергию.  
+**Объяснение полёта:** тело продолжает лететь, потому что внутри него сохраняется скалярная математическая величина — «живая сила», которую оно упруго несёт в себе с момента толчка.
 
-**How the Wedge Works**
+**4. Галилей и Ньютон (XVII–XVIII века): Принятие на веру (Первый закон)**  
+Галилей первым заметил, что по идеальной горизонтальной плоскости тело может катиться бесконечно, если убрать трение.   
+Ньютон зафиксировал это в Первом законе, но совершил радикальный методологический шаг: вместо поиска причины движения он объявил инерцию врождённым, неизменным и необъяснимым свойством самой материи.  
+**Объяснение полёта:** тело летит просто потому, что у него есть масса и свойство инерции. Никаких внешних сил или внутренних аккумуляторов для этого не требуется – таков базовый постулат.
 
-The wedge is not a solid accumulated object, nor does it grow like a pile of matter.
-It is a continuously repeating process.
+### Как объясняет инерцию аольная физика
 
-Each time, the same sequence occurs:
+Что происходит, когда тело начинает двигаться?  
+Представим тело, начавшее движение в аольной среде.  
+Оно не «летит сквозь пустоту», потому что пустоты нет. Оно вдавливается в окружающую среду.
+Аолы, находящиеся перед телом, испытывают давление и вынуждены смещаться. Это вызывает сопротивление началу движения, поэтому-то так сложно сдвинуть тело в первый момент. Аолы не могут исчезнуть, а потому начинают обходить движущийся объект.  
+Но это важно понимать правильно: речь идёт не о свободном обтекании, как в привычной жидкости, а о процессе, происходящем под постоянным давлением среды.
 
-— aols move around the body,
+Аолы, вытесненные движущимся телом, смещаются в стороны, огибают его и оказываются позади.
+Именно здесь начинается главное.  
+Позади тела не существует пустого пространства. Там уже находится аольная среда, которая также оказывает давление вперёд. Оторваться от давящего, вибрирующего пространства невозможно. Создать разрежение, а тем более, пустоту – нельзя. Пространство давит всегда (иначе распались бы атомы тела).
 
-— enter the region behind it,
+Поэтому между задней поверхностью движущегося тела и подпирающей его средой начинают вдавливаться новые аолы.  
+Они не просто «появляются сзади». Среда буквально загоняет их туда своим давлением.
+Каждый такой акт создаёт локальный упор позади тела.  
+Это и называется **аольным “клином”.**
 
-— are pressed inward there by the pressure of the medium,
+**Как работает клин**
 
-— create a forward push.
+Клин не является твёрдым накопившимся объектом и не растёт как куча вещества.  
+Он представляет собой непрерывно повторяющийся процесс.
 
-Then the next layer of aols repeats the same process.
-In other words, the wedge exists not as a thing, but as a series of successive acts of pressure.
+Каждый раз происходит одно и то же:  
+•	аолы обходят тело,  
+•	попадают в область позади него,  
+•	вдавливаются туда давлением среды,  
+•	создают толчок вперёд.
 
-**Testing the wedge mechanism**
+Затем следующий слой аолов повторяет тот же процесс.  
+Иными словами, клин существует не как предмет, а как серия последовательных актов давления – аолов, вколачиваемых давящей и вибрирующей средой.
 
-To understand whether an aol wedge is capable of moving a body at all, it is sufficient to consider a limiting case.
+**Мысленная проверка механизма клина**
 
-Let a body be at rest in aol space. From all sides, equal vibrational pressure acts on it. The body is in complete equilibrium and has no reason to move in any direction.
-Now let us mentally disturb this equilibrium. Imagine that behind the body a single wedge of aols appears — no matter from where, even if we условно “take” it from outside and press it in by the pressure of aol space.
+Чтобы лучше понять, способен ли аольный клин вообще двигать тело, достаточно рассмотреть предельный случай.  
+Пусть тело покоится в аольном пространстве. Со всех сторон на него действует одинаковое вибрационное давление. Тело находится в полном равновесии и не имеет причин двигаться ни в одну сторону.
 
-What will happen?
-The wedge will push the system apart in two directions — toward the body and toward the surrounding space. But aol space remains a continuous support, while the body is movable. Therefore, it is the body that will shift.
+Теперь мысленно нарушим это равновесие. Представим, что сзади тела появляется один-единственный клин из аолов – неважно откуда, хоть бы мы условно «взяли» его извне – “купили в магазине” и вдавили туда давлением аольного пространства.
 
-It will move forward exactly by the thickness of the wedge.
-This is sufficient to draw a fundamental conclusion — a single wedge is enough to move the body.
-And therefore, if after this displacement aol space is capable of forming the next wedge, the process will repeat.
+Что произойдёт?  
+Клин распрёт систему в две стороны – на тело и на окружающее пространство. Но аольное пространство остаётся непрерывной опорой, его сдвинуть нельзя, а тело подвижно. Поэтому сместится именно тело.
+Оно сдвинется вперёд ровно на толщину клина.  
+Этого достаточно, чтобы сделать принципиальный вывод – одного клина достаточно, чтобы сдвинуть тело.
 
-This is no longer an assumption, but a mechanical consequence — the motion of a body is possible as a sequence of wedges driven in behind it.
+А значит, если после этого смещения аольное пространство способно сформировать следующий клин и процесс будет повторяться.  
+Это уже не предположение, а механическое следствие – движение тела возможно как последовательность вколачиваемых за ним клиньев.
 
-**Why the Body Does Not Stop Immediately**
+**Почему тело не останавливается сразу**
 
-It now becomes clear why motion continues after the initial push.
-Not because the body “preserves its speed by itself.”
-But because the medium continues to act upon it.
+Теперь становится понятно, почему движение продолжается после начального толчка.  
+Не потому, что тело «сохраняет скорость само по себе».  
+А потому, что среда продолжает воздействовать на него.  
+Она всё время обтекает тело, под давлением загоняет аолы позади него, создаёт новые клинья, передаёт через них толчки вперёд.  
+Пока этот процесс идёт, движение поддерживается.
 
-It constantly:
+Если бы такого механизма не было, тело остановилось бы сразу после прекращения внешнего толчка.
+И теперь мифическая **кинетическая энергия получает материальное объяснение.** Тело движется не благодаря кинетической энергии, а под действием контактного давления аольных клиньев.   
+И бьёт по препятствию летящее тело не из-за накопленной кинетической энергии. Тело пассивно, как и любая материя. Оно ничего не запасает. Тело всегда – никакое, хоть покоится оно, хоть летит с невероятной скоростью. Тело ударить не способно. Бьют клинья через пассивное тело. **Бьёт аольное пространство через тело.** Никогда не забываем о вечном Главном Движителе.
 
-— flows around the body,
+**Почему может возникать ускорение**
 
-— drives aols behind it under pressure,
+Чем быстрее движется тело, тем интенсивнее происходит взаимодействие со средой.
 
-— creates new wedges,
+Это означает:  
+•	больше аолов успевает обтечь тело за единицу времени,  
+•	больше клиньев формируется за тот же промежуток,  
+•	больше актов давления действует вперёд.
 
-— transmits forward pushes through them.
+Важно понять: речь идёт не об одном всё более мощном клине.  
+Речь идёт о росте числа клиньев, возникающих за единицу времени.  
+Именно это увеличивает общее воздействие среды.  
+Поэтому при постоянном внешнем давлении тело будет ускоряться.  
 
-As long as this process continues, motion is sustained.
-If no such mechanism existed, the body would stop immediately after the external push ceased.
+Не потому, что «сила сама растёт», а потому, что среда начинает работать всё интенсивнее и растёт суммарная сила – постоянное внешнее давлении плюс растущая сила аольных клиньев. Именно растущая сила аольных клиньев приводит к ускорению. А величина постоянной внешней силы задаёт алгоритм частоты вбивания аольных клиньев, то есть задаёт скорость роста силы аольных клиньев. Внешняя сила – регулятор процесса.
 
-**Why Acceleration May Arise**
+Запомним закон: **ускорение бывает только от растущей силы.** 
+Исаак Ньютон ошибся.
 
-Now we come to the most interesting point.
-The faster the body moves, the more intense its interaction with the medium becomes.
+**Реальный механизм формирования клиньев**
 
-This means:
+Механизм формирования и действия клиньев описан упрощённо.   
+В реальности тело – это не монолит атомов непроходимый для аолов пространства, а “сито” – более или менее густое. Часть аолов среды проходят сквозь тело даже не заметив его, точнее они останутся на месте, а тело пройдёт мимо них не побеспокоив. Как ракетка для бадминтона пройдёт сквозь воздух или воду не побеспокоив часть молекул воздуха или воды.
 
-— more aols succeed in passing around the body per unit time,
+Поэтому и клинья за разными по структуре телами будут формироваться разные по числу аолов.   
+За массивными телами будут клинья состоящие из множества аолов (но в один слой – клинья всегда в один слой аолов), а за не массивными – слабенькие клинья из малого количества аолов.  
+Продвинувшись на величину своей длины, тело выдавит из среды и превратит в аольные клинья столько аолов среды, сколько связанных аолов и лунолов в составе тела. При этом “не заметив” аолы пространства прошедшие между просветами атомов.
 
-— more wedges are formed in the same interval,
+За продвинувшимся на величину длины массивным телом и ровно таким же по длине и объёму не массивным, будет одинаковое число образовавшихся клиньев – например, по триллиону клиньев, но за массивным телом будет больше аолов в каждом клине. При этом немассивное тело “не заметит” гораздо больше аолов среды.
 
-— more acts of pressure act forward.
+Но даже это описание упрощено.   
+Растопырьте пальцы на руке, проведите рукой перед глазами. За каждым из ваших пальцев образовывались клинья аолов, а не только за всей ладонью сзади.   
+Любое тело с её атомами – это как ладонь с растопыренными пальцами. И при смещении тела аолы не будут ждать появления “кормы” тела, чтобы только там создать давящие клинья. Клинья будут возникать за каждым “пальцем” – за каждым атомом тела.   
+Но упрощённая картинка легче для восприятия, поэтому будем оперировать ею.
 
-It is important to understand that this does not mean one increasingly powerful wedge.
-It means an increasing number of wedges arising per unit time.
-That is what increases the total influence of the medium.
+**Почему сами аолы не обладают инерцией**
 
-Therefore, under constant external pressure, the body will accelerate.
-Not because “the force grows by itself,” but because the medium begins to work more intensively.
+Теперь тонкий и принципиальный вопрос.  
+Если тела получают инерцию через клинья, обладают ли инерцией сами аолы?  
+В рамках модели – нет.  
 
-**Why Aols Themselves Do Not Possess Inertia**
+Аол имеет минимальный размер и минимальную массу. Получив удар, он не начинает самостоятельно двигаться дальше как тело.  
+Он прежде всего передаёт воздействие следующему аолу.  
 
-Now we come to a subtle and fundamental question.
-If bodies obtain inertia through wedges, do the aols themselves possess inertia?
-Within the model — no.
+Почему?  
+Потому что за отдельным аолом не может сформироваться полноценный клин среды.
 
-An aol has minimal size and minimal mass. After receiving an impact, it does not begin moving onward by itself as a body would.
+Он слишком мал и находится среди геометрических просветов между соседними аолами. Из-за этих впадин между аолами он не может продвинуться на величину своего диаметра и вытеснить аол.  Впадины уменьшают продвижение аола на 14% - 28% в зависмости от того в какую впадину попадает аол – между двумя подпирающими аолами или между четырьмя. Поэтому среда не может создать за ним клин, достаточный для продолжения самостоятельного движения.
 
-Its first role is to transmit the influence to the next aol.
-Why?
+Аол не «летит». Он работает как передатчик воздействия.  
+Именно поэтому аолы обладают особой ролью.  
+Они мгновенно реагируют на воздействие, передают его дальше, не накапливают движение как самостоятельный запас.   
+Это делает их идеальными осцилляторами.   
+Они не разгоняются от ударов в привычном смысле, а участвуют в передаче колебаний через всю среду. Они остаются на месте и вибрируют.
 
-Because an aol forcibly displaced by an external force cannot move the aol wedges, as the aol does not advance by its diameter and cannot create a wedge. The medium will close behind it not by the aol's diameter, but only by 71% or 87%, depending on which gap between the aols of the medium closes behind the aol. That is, no aols will be completely extruded from the medium. Two primordial elements combined (an aol and a lunol) are capable of extruding one or two aols, and the medium will push the extruded aol (or two) as a wedge behind this pair. The pair will be able to move by "inertia" – due to the wedges.
+**Главный вывод**
 
-The aol does not “fly.” It functions as a transmitter of influence.
+Инерция – это не способность тела двигаться само по себе.  
+Это результат давления аольной среды, которое непрерывно формируется позади движущегося тела.  
+Тело не «сохраняет движение».
+Его продолжают двигать.
 
-**Aols as Ideal Oscillators**
+Механизм этого непрерывен:  
+•	тело смещает среду впереди себя,  
+•	аолы обходят тело,  
+•	позади тела под давлением среды возникают новые упоры-клинья,  
+•	через них движение передаётся дальше. 
 
-That is precisely why aols possess a special role.
+Клин не накапливается как структура. Он возникает снова и снова.   
+**Толщина клина всегда равна диаметру аола.**
 
-They:
+Чем быстрее движется тело, тем больше актов создания аольных клиньев происходит за единицу времени.
+Именно поэтому движение продолжается.
+Именно поэтому оно может ускоряться при наличии внешней силы задающей режим ускорения.
 
-— respond instantly to influence,
+Аолы не обладают собственной инерцией. Они не накапливают движение, а лишь передают воздействие.
+Поэтому на уровне самой среды нет самостоятельного движения – есть только передача давления и колебаний.  
+И лишь на уровне тел возникает то, что мы привыкли называть инерцией.
 
-— transmit it onward,
+Если вы поймёте аольно-клиновую инерцию и вспомните главный закон физики, то осознаете невозможность полёта частиц: фотонов, электронов, кварков... Их нечему толкать, а летать “сами по себе” – стыдно в взрослом мире без чудес.
 
-— do not store motion as an independent reserve.
+И вы по-другому взглянете на полёты космических тел. Им не нужно кривое пространство-время и скатывание по кривизне, странно двигаясь “сами по себе”.
 
-This makes them ideal transmitters of vibrations.
+Напомню главный закон физики, который прекрасно подкрепляет движение по инерции: **движение объекта возможно только при контактном, неуравновешенном, непрерывном давлении со стороны других объектов.**
 
-They do not accelerate from impacts in the ordinary sense, but participate in the transmission of oscillations throughout the entire medium.
-
-**Main Conclusion**
-
-Inertia is not the ability of a body to move by itself.
-It is the result of the pressure of the aolian medium, continuously formed behind a moving body.
-The body does not “preserve motion.”
-It continues to be moved.
-
-The mechanism is continuous:
-
-— the body displaces the medium in front of it,
-
-— aols move around the body,
-
-— behind the body new supporting wedges arise under the pressure of the medium,
-
-— through them motion is transmitted onward.
-
-The wedge does not accumulate as a thing. It arises again and again.
-The faster the body moves, the more such acts occur per unit time.
-That is why motion continues.
-That is why it may accelerate.
-
-The aols themselves possess no inertia. They do not accumulate motion, but only transmit influence.
-Therefore, at the level of the medium itself there is no independent motion—only the transmission of pressure and oscillations.
-
-Only at the level of bodies does what we are accustomed to call inertia appear.
+И не могу не отдать должное великому уму Аристотеля. В главном он был прав – **двигаться без материального давления невозможно.** 
 
 
 
