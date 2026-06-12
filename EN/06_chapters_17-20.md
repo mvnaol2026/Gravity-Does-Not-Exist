@@ -703,8 +703,8 @@ However, if one asks a modern academic physicist, "Why does the formula feature 
 This is how official science explains it:  
 **1. The Geometric Explanation: The Concept of the "Flow of Lines of Force"**
 
-In macro-physics, the 1/r<sup>2</sup> law is explained via an abstract gravitational field, which is conceptually visualized in the form of "lines of force" diverging like a fan from a mass in all directions.  
-•	The official argument: Imagine that a mass emits imaginary lines of force from within itself. These lines pierce the space surrounding the body. The surface area of a sphere through which they pass at a distance (r) is equal to **4πr<sup>2</sup>**. The further we move away from the body, the greater the surface area over which these lines are distributed. Consequently, the "density" or concentration of the lines of force per unit of area decreases strictly proportionally to the square of the sphere's radius, 1/r2. Lesser density of lines means weaker attraction.
+In macro-physics, the **1/r<sup>2</sup>** law is explained via an abstract gravitational field, which is conceptually visualized in the form of "lines of force" diverging like a fan from a mass in all directions.  
+•	The official argument: Imagine that a mass emits imaginary lines of force from within itself. These lines pierce the space surrounding the body. The surface area of a sphere through which they pass at a distance (**r**) is equal to **4πr<sup>2</sup>**. The further we move away from the body, the greater the surface area over which these lines are distributed. Consequently, the "density" or concentration of the lines of force per unit of area decreases strictly proportionally to the square of the sphere's radius, **1/r<sup>2</sup>.** Lesser density of lines means weaker attraction.
 
 •	The dead end and deception: This explanation functions only if these "lines of force" are material and physically flow out of the body (like jets of water from a fire hose). Yet official science declares that the vacuum is empty and the field is a non-material substance. An absurdity arises: in what manner is the "density" of non-material, abstract geometric lines capable of performing mechanical work and pulling planets? Science borrowed its geometry from Faraday (who believed in a material medium) but threw the medium itself away, leaving empty mathematical rays in a vacuum.
 
@@ -712,12 +712,12 @@ In macro-physics, the 1/r<sup>2</sup> law is explained via an abstract gravitati
 **2. The Quantum Explanation: The Exchange of Virtual Gravitons**
 
 In modern quantum field theory (QFT), there is an attempt to break down the contactless field into particles.  
-•	The official argument: Gravitation is a process in which two bodies continuously "bombard" each other with hypothetical messenger particles — gravitons. The source emits gravitons in all directions (spherically). As they move away from the source, these flying particles are distributed over an ever-increasing surface area of a sphere. The probability that a graviton will strike the second body at a distance (r) decreases strictly as 1/r<sup>2</sup>.
+•	The official argument: Gravitation is a process in which two bodies continuously "bombard" each other with hypothetical messenger particles — gravitons. The source emits gravitons in all directions (spherically). As they move away from the source, these flying particles are distributed over an ever-increasing surface area of a sphere. The probability that a graviton will strike the second body at a distance (**r**) decreases strictly as **1/r<sup>2</sup>.**
 
 •	The dead end and deception: First of all, the graviton has not been discovered to this day and remains a pure mathematical fantasy. Secondly, a monstrous recoil paradox arises here. If body (A) shoots a particle at body (B), then according to the law of conservation of momentum (Newton's Third Law), body (B) ought to repel from body (A) upon impact.  
 In what manner does the flight of a "messenger particle" from the Earth to the Moon force the Moon to be attracted backward, toward the source? Quantum physics declares that gravitons are "virtual" and possess a "negative momentum." To an engineer, this means: "We have no mechanical explanation, so we invented a particle that violates the laws of geometry and logic".
 
-In Aol physics, the 1/r<sup>2</sup> law is entirely stripped of all mysticism, quantum phantoms, and action-at-a-distance. It is derived naturally and intuitively from the pure stereometry of three-dimensional space.
+In Aol physics, the **1/r<sup>2</sup>** law is entirely stripped of all mysticism, quantum phantoms, and action-at-a-distance. It is derived naturally and intuitively from the pure stereometry of three-dimensional space.
 
 There are no "forces of attraction" in nature that weaken as they move further from a source. Gravity is a process of omnidirectional contact pressing of bodies by a vibrating medium. A material body is entirely passive: it radiates nothing into space and generates no fields out of itself. The body functions strictly as a spatial filter — a shutter rigid and fixed in its dimensions, which screens (shades) the vibrational pressure of the aol space.
 
@@ -728,7 +728,7 @@ Let us examine the geometry of this screening. The further material bodies are r
 
 To mathematically visualize this decay with precision, let us construct an imaginary sphere around one object (the shutter-body) with a radius ( **r**) equal to the distance to the second object. By the laws of geometry, the surface area of this sphere expands proportionally to the square of its radius, calculated via the formula **4πr<sup>2</sup>**.
 
-The shutter-body itself possesses strictly fixed, unalterable physical dimensions. It obstructs the exact same constant area of space. If we increase the distance between the objects (meaning the radius of our sphere) by 3 times, the total surface area of the new, more distant sphere will expand precisely by 9 times, (3<sup>2</sup>). 
+The shutter-body itself possesses strictly fixed, unalterable physical dimensions. It obstructs the exact same constant area of space. If we increase the distance between the objects (meaning the radius of our sphere) by 3 times, the total surface area of the new, more distant sphere will expand precisely by 9 times, (**3<sup>2</sup>**). 
 
 Consequently, at this new distance, our unchanging body will obstruct a fraction of the sphere's total area that is exactly 9 times smaller than before. The shadow of screening shrinks in strict accordance with the expansion of the sphere's surface area.
 
