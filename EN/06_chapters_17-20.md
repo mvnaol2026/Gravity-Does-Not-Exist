@@ -549,7 +549,7 @@ For something to transpire, what is required is a carrier and a contact in the f
 
 The Moon hurtles around the Earth at a velocity of 3,681 kilometers per hour. This is a colossal speed — approximately one kilometer per second, which no fighter jet could ever hope to match.
 
-Furthermore, this is not a matter of a few hundred kilograms or a couple of dozen tons; it is roughly 1020 tons. Do you know what the twentieth power means? I do not know the name of such a number; one has to dig into a reference book — it is vastly greater than billions or trillions. And this massive juggernaut hurtles at a speed of one kilometer per second, continuously trying to break away from the Earth.
+Furthermore, this is not a matter of a few hundred kilograms or a couple of dozen tons; it is roughly **10<sup>20</sup> tons.** Do you know what the twentieth power means? I do not know the name of such a number; one has to dig into a reference book — it is vastly greater than billions or trillions. And this massive juggernaut hurtles at a speed of one kilometer per second, continuously trying to break away from the Earth.
 
 Yet the Earth has grabbed onto it with something — with what they call "attraction" or "gravity" — and does not let go; it holds it! The Earth holds the Moon! The Moon hurtles along, continuously altering its location in cosmos, and the Earth grips it every single instant and does not let go; it holds it.
 
