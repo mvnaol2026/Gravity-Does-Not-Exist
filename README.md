@@ -116,7 +116,6 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 22. What matter is capable of](/EN/07_chapters_21-26.md#chapter-22-what-matter-is-capable-of)
 * [Chapter 23. What is “energy”](/EN/07_chapters_21-26.md#chapter-23-what-is-energy)
 * [Chapter 24. Heat](/EN/07_chapters_21-26.md#chapter-24-heat)
-* [Chapter 25. Temperature](/EN/07_chapters_21-26.md#chapter-25-temperature)
 * [Chapter 26. Light](/EN/07_chapters_21-26.md#chapter-26-light)
 * [Chapter 27. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_27-32.md#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
 * [Chapter 28. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_27-32.md#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
