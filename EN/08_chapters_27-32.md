@@ -123,49 +123,6 @@ And with it, the picture of the world becomes simpler, not more complex.
 
 
 
-
-
-## Chapter 29. A BRIEF SUMMARY OF LIGHT, MEDIUM, AND RELATIVITY
-
-Modern physics encountered a fact — the speed of light is constant.
-But by abandoning the medium, it lost the mechanism.
-And so it was not the medium that was made invariant, but space and time.
-Thus appeared: time dilation, length contraction, and relativity of simultaneity.
-This solution works mathematically.
-
-But it does not answer the main question: what physically happens?
-The aol model takes the opposite path.
-It does not change space and time. It neither curves nor slows them down.
-
-In the Aol model, time is not an entity, but a characteristic of the duration of processes introduced by humans for the convenience of calculations.
-The Aol model returns the medium.
-And with the medium, the mechanism returns.
-
-Light is not particles and not abstract waves. It is the transmission of motion.
-The speed of light is not a postulate. It is a property of the medium.
-The speed limit is not a prohibition. It is the limit of the medium’s reconfiguration.
-Time dilation is not a change of time. It is a slowing of processes.
-Contraction is not geometry. This is a result of pressure.
-
-All the effects that appear as paradoxes in relativity
-become consequences of a single process in the aol model — the transmission of motion through contact and pressure.
-Without postulates.
-Without abstractions.
-Without the geometry of four-dimensional space-time.
-Only the medium and its behavior.
-
-And then it becomes clear that relativity is not a final explanation,
-but a mathematical description of phenomena that arose from the absence of a proper model of the medium.
-
-The aol model takes the next step.
-It restores what no mechanics can exist without — the carrier.
-And with this restoration, the picture of the world becomes coherent.
-
-
-
-
-
-
 ## Chapter 30. ELECTRIC CURRENT
 
 When a person turns on a light or starts a motor, they rarely think about what is actually happening inside the wires. Science gives a simple answer: electrons are moving. This has become the standard explanation — simple, convenient, and at first glance complete. Few people question it. Electrons — so be it.
