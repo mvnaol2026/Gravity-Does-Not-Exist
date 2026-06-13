@@ -171,7 +171,7 @@ There is no energy as an independent entity within it. There can be no mysteriou
 “Charges” are right- and left-rotating vortices of aols.
 “Fields” are directed motions of aols: for example, from the north pole of a magnet to the south pole, or the movement of aols around a current-carrying conductor caused by the rotation of parts of its atoms.
 
-Atoms vibrate at frequencies of 10¹³ Hz not because of internal “energy,” but because vibrating aolian space shakes them in that way.
+Atoms vibrate at frequencies of **10¹³ Hz** not because of internal “energy,” but because vibrating aolian space shakes them in that way.
 
 Energy does not exist. What exists is the eternal Mover — aolian space.
 
