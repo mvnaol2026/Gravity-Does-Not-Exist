@@ -224,7 +224,7 @@ In the aolian model there is no need to search for energy. There exists an etern
 
 ## Chapter 24. HEAT
 
-The History of Heat: From an Invisible Fluid to Thermodynamic Abstractionism
+**The History of Heat: From an Invisible Fluid to Thermodynamic Abstractionism**  
 The concept of "heat" in the history of science has traversed a complex path: from its recognition as a material but "massless" fluid to its complete dissolution within the mathematical equations of the molecular-kinetic theory (MKT).
 
 **1. Prior to the 18th Century: "Fiery Matter" and the Primary Elements**
@@ -275,7 +275,7 @@ When one body is hotter than another, it signifies only one thing: its atoms osc
 
 Let us visualize two bodies in contact. The atoms of the hotter body oscillate more powerfully and begin to act upon the neighboring atoms of the cold one. This interaction is purely mechanical — consisting of tiny impacts, micro-displacements, and pressure. The more intense oscillations gradually excite the less intense ones. 
 
-Within the first body, the oscillations weaken, while within the second, they intensify. The system moves toward equilibrium. This is precisely what heat conduction is. In essence, it is the transmission of oscillations through contact.
+Within the first body, the oscillations weaken, while within the second, they intensify. The system moves toward equilibrium. This is precisely what **heat conduction** is. In essence, it is the transmission of oscillations through contact.
 
 This transmission does not occur instantaneously. Each atom transmits motion to its neighbor, which in turn passes it to the next, and so on along the chain. A spoon dipped into boiling water is extremely hot in the portion submerged within the boiling liquid, yet remains less hot along its length — the atoms simply have not had enough time to be excited. 
 
@@ -317,13 +317,13 @@ Yet this is already physiology, not physics. For nature, everything remains the 
 
 Temperature is a measure of the intensity of atomic oscillations arising under the interaction of the aol space. When we say that a body is heating up, we are stating that the excitation of its atomic structure is intensifying. Nothing more, yet nothing less. 
 
-And what else must be comprehended regarding heat and temperature is that an individual aol possesses neither heat nor temperature. It merely vibrates due to the vibration of the aol space. It is intrinsically "neutral" — neither cold nor hot. **It is simply "shaking."**
+And what else must be comprehended regarding heat and temperature is that **an individual aol possesses neither heat nor temperature.** It merely vibrates due to the vibration of the aol space. It is intrinsically "neutral" — neither cold nor hot. **It is simply "shaking."**
 
 Having recognized that an aol is intrinsically "neutral" and merely shaking, one can transition to a larger scale. Is it hot at the center of the Sun, where science estimates the temperature to be fifteen million degrees Celsius? An atom at the center of an "incandescent" star is just as "cold" as one at the North Pole — or rather, not "cold," but neutral. It is simply that at the North Pole, atoms oscillate weakly, whereas at the center of a star, the frequency of their oscillations is immense.
 
 It is vital to comprehend that throughout this, the very state of the aols, lunols, and atoms remains unalterable: they are neutral; they merely oscillate. They do not heat up, they do not glow, and they do not emit rays or radiation such as X-rays. They vibrate. Nothing more. No other qualities or properties exist within them.
 
-For instance, if a substance "glows," it does not mean that the atoms of the substance are glowing; they are neutral — they oscillate at a frequency of approximately 1014 hertz. Furthermore, the substance itself does not glow either; it is subjectively perceived as glowing due to the configuration of the eyes of living beings capable of perceiving oscillations of a specific frequency. Moreover, different beings see light differently due to the diverse configurations of their visual organs.
+For instance, if a substance "glows," it does not mean that the atoms of the substance are glowing; they are neutral — they oscillate at a frequency of approximately **10<sup>14</sup>** hertz. Furthermore, the substance itself does not glow either; it is subjectively perceived as glowing due to the configuration of the eyes of living beings capable of perceiving oscillations of a specific frequency. Moreover, different beings see light differently due to the diverse configurations of their visual organs.
 
 Nature is dark, soundless, and "cold" — or more precisely, nature is intrinsically "neutral." It is vibrating. Meanwhile, light, sound, heat, and cold are all biological perceptions of living beings that have learned, for the sake of their survival, to classify vibrations — their frequency, intensity, and amplitude.
 
@@ -337,7 +337,7 @@ Throughout this, their temperature remains entirely neutral — it does not exis
 
 The Sun "warms" not by virtue of "thermal radiation," but because it transmits the mechanical oscillations of its atoms through the aol space to the Earth — to its surface, its atmosphere, and to everything running across the Earth. **The Sun strikes the Earth through the aols of space.** It strikes us and everything else. It strikes with its vibrations. It strikes through the aol space. We subjectively perceive this "battering" as heat, as warmth. In reality, the vibrations of our body's atoms have increased, altering the functioning of the organism's chemical-biological "factory".
 
-There is no fundamental difference between heat, light, and color. In physics textbooks, you have seen a graph — a sloping straight line with labels underneath: sound, radio waves, infrared radiation, light, X-rays, gamma radiation. This is entirely correct, yet one must bear in mind that all of these are mechanical oscillations of varying frequencies. They are the mechanical oscillations of the aols of the aol space (or, in the case of sound, the mechanical oscillations of air molecules).
+**There is no fundamental difference between heat, light, and color.** In physics textbooks, you have seen a graph — a sloping straight line with labels underneath: sound, radio waves, infrared radiation, light, X-rays, gamma radiation. This is entirely correct, yet one must bear in mind that all of these are mechanical oscillations of varying frequencies. They are the mechanical oscillations of the aols of the aol space (or, in the case of sound, the mechanical oscillations of air molecules).
 
 Between adjacent points on that graph's line, there is a single difference — the frequency of oscillations. This graph can be considered the emblem of the Universe, as it symbolically explains all the major processes occurring within it: the mechanical vibrations of matter at varying frequencies.
 
