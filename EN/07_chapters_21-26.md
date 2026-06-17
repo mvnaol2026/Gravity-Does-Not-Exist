@@ -225,8 +225,10 @@ For the world to come alive, this matter requires Motion: a alteration of positi
 
 In the modern scientific worldview, energy is the grand architect and engine of all that exists. Without it, the Universe would not merely plunge into darkness — it would transform into an eternal, stagnant monument. The dogma of science dictates that without energy, absolutely nothing is possible. If matter answers the question "what exists?", then energy answers the question "why does it move and change?". Energy is the foundation of everything that transpires.
 
-To prove this total dependency of the world upon energy, official physics enumerates a grand chain of processes across all conceivable scales of the Universe, clear to every person:  
+To prove this total dependency of the world upon energy, official physics enumerates a grand chain of processes across all conceivable scales of the Universe, clear to every person: 
+
 **•	The Cosmic Scale (The Motion of Celestial Bodies):**
+
 Look at the night sky. Our Earth — an immense boulder of matter weighing billions of billions of tons — hurtles through the cosmic vacuum in its orbit at a velocity of 30 kilometers per second. The Moon continuously rushes around the Earth, upheaving billions of tons of water in the terrestrial oceans during tides and ebb tides. 
 
 The Sun itself, along with our entire planetary system, flies around the center of the Milky Way galaxy at an insane velocity of 220 kilometers per second. Meanwhile, billions of other galaxies, swirled into colossal spirals, scatter away from one another in different directions, expanding the very fabric of cosmos. 
@@ -338,7 +340,8 @@ By asserting that "electrical energy converts into thermal energy," official sci
 
 While potential energy within official physics represents an obvious, legalized magic (the "energy of position" stored within abstract spatial coordinates), the situation with kinetic energy is far more serious. Kinetic energy has been proclaimed the dominant force of the Universe — the real, tangible embodiment of action. A train smashes through a barrier, a bullet pierces a wall, a flying asteroid is capable of wiping out an entire city — all of this is credited to kinetic energy. Yet, the moment we remove the formula for kinetic energy and inquire about the physical mechanism, official science falters.
 
-Let us dissect this "chief energy" of the macro-world and expose two fundamental paradoxes that official textbooks meticulously bypass.  
+Let us dissect this "chief energy" of the macro-world and expose two fundamental paradoxes that official textbooks meticulously bypass. 
+
 **•	Paradox One: The Body Remained Identical. From Whence Came the Force?**
 
 Visualize two absolutely identical steel spheres manufactured at the same factory from the exact same batch of metal. One sphere rests motionless upon a table, while the second flies parallel to it at a velocity of 100 kilometers per hour.
