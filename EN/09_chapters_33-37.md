@@ -514,7 +514,7 @@ Yet how do fields make anything, or how are fields manufactured by something out
 
 **Another fundamental question:** what pushes, hurls, and forces that which has been made (by some mysterious technology) to fly, propagate, and execute motion? After all, it must be pushed in order to fly at the speed of light. Science fails to describe the mechanism of the push and the mechanism of the flight. It took flight, and that is all. Without explanations. Yet without explanations, this is not science, but fantasy.
 
-**The third fundamental question:** why is it that a charged body, while producing a field that is unimaginable in its volume—meaning, producing something capable of pushing, pulling, or interacting — does not itself alter in any way, does not "lose weight"?
+**The third fundamental question:** why is it that a charged body, while producing a field that is unimaginable in its volume — meaning, producing something capable of pushing, pulling, or interacting — does not itself alter in any way, does not "lose weight"?
 
 Consider another example: a magnetic field must consist of something. Is it not logical to assume this? After all, it differs in some way from the rest of space, does it not? It does. The properties of this sector of magnetized space are entirely different from those of the surrounding space. How does it differ? In what specific, physical way? What exactly is different within it compared to an adjacent pocket of space? Only matter can act, yet a field possesses no matter...
 
