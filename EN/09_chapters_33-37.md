@@ -514,11 +514,11 @@ Yet how do fields make anything, or how are fields manufactured by something out
 
 **Another fundamental question:** what pushes, hurls, and forces that which has been made (by some mysterious technology) to fly, propagate, and execute motion? After all, it must be pushed in order to fly at the speed of light. Science fails to describe the mechanism of the push and the mechanism of the flight. It took flight, and that is all. Without explanations. Yet without explanations, this is not science, but fantasy.
 
-**The third fundamental question:** why is it that a charged body, while producing a field that is unimaginable in its volume—meaning, producing something capable of pushing, pulling, or interacting—does not itself alter in any way, does not "lose weight"?
+**The third fundamental question:** why is it that a charged body, while producing a field that is unimaginable in its volume—meaning, producing something capable of pushing, pulling, or interacting — does not itself alter in any way, does not "lose weight"?
 
 Consider another example: a magnetic field must consist of something. Is it not logical to assume this? After all, it differs in some way from the rest of space, does it not? It does. The properties of this sector of magnetized space are entirely different from those of the surrounding space. How does it differ? In what specific, physical way? What exactly is different within it compared to an adjacent pocket of space? Only matter can act, yet a field possesses no matter...
 
-Furthermore, given a certain concrete foundation that renders it a magnetic field, how does this foundation alter and transform into something completely different—into an electrical field? What is changing into what, and by virtue of what? What executes the actions to perform this transformation?
+Furthermore, given a certain concrete foundation that renders it a magnetic field, how does this foundation alter and transform into something completely different — into an electrical field? What is changing into what, and by virtue of what? What executes the actions to perform this transformation?
 
 How does one thing generate something else out of itself, only for the reverse process to occur afterward? Once again, we must recall the process of manufacturing (making).
 
@@ -542,7 +542,7 @@ Rather, specifically — what is it by its very physical nature? This is precise
 
 At the same time, physicists concede: "A field possesses practically all the attributes of a full-fledged physical reality, including the capability to transport energy and momentum, and even, under specific conditions, to possess an effective mass."
 
-That is to say, something does exist—yet what it is exactly, they are unable to comprehend. The field remains an absolutely incomprehensible physical state of space.
+That is to say, something does exist — yet what it is exactly, they are unable to comprehend. The field remains an absolutely incomprehensible physical state of space.
 
 Physicists themselves, when they desire to intuitively visualize a field, resort to the following image—and this is an official academic recommendation: *"The simplest way to intuitively visualize a field (when dealing, for instance, with fundamental fields that lack an obvious, direct mechanical nature) is as a perturbation of some hypothetical or merely imaginary continuous medium filling the entirety of space. For example, as a deformation of an elastic medium whose equations of motion coincide with or are close to the field equations of that more abstract field which we desire to intuitively present to ourselves. Historically, such a medium was termed the ether; however, subsequently, the term almost entirely fell out of use, and its implied, physically substantive part merged with the concept of the field itself. Nevertheless, for a fundamental, intuitive comprehension of the physical field concept in general terms, such a representation is useful."*
 
