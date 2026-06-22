@@ -42,9 +42,9 @@ But wait, in the real physical world, there is no such thing as "infinite densit
 When Einstein’s General Relativity reaches the moment t = 0, its equations begin to divide by zero and yield a mathematical absurdity. Instead of honestly admitting, "Our formulas are imperfect, they have hit a dead end and cannot describe this stage of reality," theoretical physics committed a fraud. It declared this bug in the equations to be an actual physical state of the Universe. The word "singularity" was simply used to cover up the intellectual impotence of mathematical models.
 
 Realizing that a "zero volume" too severely insults the ears of any person possessing common sense, science immediately utilizes a "crutch" from quantum mechanics — the so-called Planck scale.   
-We are told: "Fine, let us assume the volume was not entirely zero. The Universe was compressed to the Planck length—approximately 10<sup>-35</sup> meters. This is infinitesimally small, quadrillions of times smaller than a protn, yet it is still not a zero."
+We are told: "Fine, let us assume the volume was not entirely zero. The Universe was compressed to the Planck length — approximately 10<sup>-35</sup> meters. This is infinitesimally small, quadrillions of times smaller than a protn, yet it is still not a zero."
 
-However, this crutch does not salvage the geometry; it merely compounds the absurdity. The density of the Universe at this stage still turns out to be monstrous — 1093 grams per cubic centimeter. To help you comprehend the scale of this fantasy: into a single cubic centimeter (the size of a sugar cube), theoretical physics manages to "pack" the mass of our entire immense Observable Universe with its trillions of galaxies.
+However, this crutch does not salvage the geometry; it merely compounds the absurdity. The density of the Universe at this stage still turns out to be monstrous — 10<sup>93</sup> grams per cubic centimeter. To help you comprehend the scale of this fantasy: into a single cubic centimeter (the size of a sugar cube), theoretical physics manages to "pack" the mass of our entire immense Observable Universe with its trillions of galaxies.
 
 Any person who has retained the capability to think understands: an object with an infinitesimally small (or zero) diameter is fundamentally incapable of containing an infinite volume of real substance. Either substance is material and occupies a location in space, or you are engaged in pure mathematical mysticism.
 
@@ -103,8 +103,8 @@ Recall the picture from Part Two: inside our empty ten-meter sphere, as if arran
 
 And so, the inflaton begins to decay and frantically oscillate. By virtue of purely mathematical coupling formulas (the so-called interaction Lagrangians), these oscillations flow from one equation into others. And — lo and behold! — the empty, lifeless fields, which contained no matter whatsoever, suddenly begin to "excite" and vibrate.
 
-•	Waves surge upon the electron field — electrons are born.  
-•	Waves surge upon the quark fields — quarks are born.  
+•	Waves surge upon the electron field — electrons are born.    
+•	Waves surge upon the quark fields — quarks are born.    
 •	Ripples rise upon the photon field — light (photons) is born.
 
 Yet let us switch on sane mechanics and ask: how can one excite that which does not exist in a physical sense? How can one transmit motion to a field that contains no material particles capable of receiving this motion?
@@ -150,11 +150,13 @@ The word "flat" in physics describes not the shape of the Universe, but its inte
 
 To comprehend the difference between a flat and a curved three-dimensional space, visualize three simple tests:
 
-**1.	The Laser Test:**  
+**1.	The Laser Test:**    
 If you activate two powerful lasers in deep space strictly parallel to one another, within our flat Universe their beams will travel for billions of years and invariably remain parallel. Conversely, were space curved (spherical), these beams would eventually, entirely on their own, begin to draw closer and intersect, even though no one had deflected them.
-**2.	The Triangle Test:**  
+
+**2.	The Triangle Test:**    
 If you mentally draw a gigantic triangle between three distant galaxies, then within our flat cosmos, the sum of its angles will be strictly equal to 180°. Within a curved cosmos, it would be either greater or less than 180°.
-**3.	An Everyday Example:**  
+
+**3.	An Everyday Example:**    
 Visualize an ordinary room inside your apartment. The walls, the floor, and the ceiling all around constitute a 3D volume; you can look in absolutely any direction. Yet, the corners in the room are right angles, the floor is level, and the ceiling is flat. Light within it travels along straight lines.
 
 Our Universe is exactly such a room, only infinite and devoid of walls. Substance fills it across all three dimensions, which is why telescopes observe stars in any direction. However, the space itself inside this three-dimensional "room" is ideally level and uncurbed by global gravitation.
@@ -182,8 +184,8 @@ One of these negligible beads is our future habitable world (everything we obser
 
 Now, watch the sleight of hand of the theoretical physicists. When the general inflaton field issues the command to "blast," this process is triggered simultaneously throughout the entire infinite network.
 
-•	Our negligible bead, in a fraction of a second, inflates into a 10-meter house.  
-•	The neighboring bead on the right, at that very same instant, inflates into an identical 10-meter house.  
+•	Our negligible bead, in a fraction of a second, inflates into a 10-meter house.    
+•	The neighboring bead on the right, at that very same instant, inflates into an identical 10-meter house.    
 •	The bead behind it does the same.
 
 This entire infinite garland of "houses" begins to concurrently and violently swell at every point of infinite space.  
@@ -214,7 +216,7 @@ If science insists that the Big Bang occurred inside all the countless beads of 
 Realizing this dead end, the currently dominant theory of Eternal Inflation declares: "Yes, the blasts transpire at different times! The inflaton boils eternally; inside our bead, the fluctuation went off 13.8 billion years ago, whereas inside our neighbors' beads, it will occur in trillions of years, or has not occurred at all yet. Surrounding us is a multitude of unexploded, sleeping Planckian points." 
 
 Yet now, let us switch on real geometry and examine what this official mainstream executes to our ideally flat Universe.  
-Visualize this: our "bead" exploded and, in an infinitesimal fraction of a second, inflated from a Planckian point first into a 10-meter house, and subsequently into the scale of the Solar System. Meanwhile, our neighbor on the right failed to explode. It remained sleeping in the state of a negligible Planckian pixel with a dimension of 10-35 meters, awaiting its own fluctuation.
+Visualize this: our "bead" exploded and, in an infinitesimal fraction of a second, inflated from a Planckian point first into a 10-meter house, and subsequently into the scale of the Solar System. Meanwhile, our neighbor on the right failed to explode. It remained sleeping in the state of a negligible Planckian pixel with a dimension of 10<sup>-35</sup> meters, awaiting its own fluctuation.
 
 How can our expanding, gigantic volume, filled with bubbling plasma, border a neighbor that remained a microscopic point? In the real geometric world, our expanding bubble was obligated to literally crush, erase, or absorb this unborn neighbor.
 
@@ -232,8 +234,8 @@ And it is precisely here that official science rolls out its most astounding adm
 
 Our entire so-called Observable Universe—this colossal habitable bubble which, over 13.8 billion years of expansion, has grown to a diameter of 93 billion light-years — is not the entire cosmos. It is merely the inflated innards of our single, solitary former Planckian point.
 
-•	All the trillions of galaxies captured by the Hubble and James Webb space telescopes.  
-•	All the substance from which the Sun, the Earth, and you and I are constructed.  
+•	All the trillions of galaxies captured by the Hubble and James Webb space telescopes.    
+•	All the substance from which the Sun, the Earth, and you and I are constructed.    
 •	This entire ocean of stars in every single direction.
 
 All of this represents the thinnest "splinters and shards" that once came to a boil inside our local ten-meter inflationary "house" and grew along with it.
@@ -270,29 +272,31 @@ All quantum equations predicted that the hot Big Bang should have birthed a coun
 
 **How Inflation Resolved Everything "in One Fell Swoop" (On Paper)**
 
-To patch these three puncture wounds, physicists devised inflation—a stage of ultra-fast, exponential inflation of empty space. 
+To patch these three puncture wounds, physicists devised inflation — a stage of ultra-fast, exponential inflation of empty space. 
 
-**•	The Solution to the Horizon Problem:**  
+**•	The Solution to the Horizon Problem:**    
 Prior to inflation, our "bead" was so tiny (smaller than a proton) that all substance within it had enough time to perfectly mix and arrive at a single temperature. And then, inflation instantaneously tore this already uniform droplet apart, carrying its edges away at superluminal velocity.
-**•	The Solution to the Flatness Problem:**  
+
+**•	The Solution to the Flatness Problem:**    
 Visualize a severely wrinkled, curved toy balloon. If it is instantaneously inflated to the dimensions of the Earth, its surface will appear ideally flat to any ant walking upon it. Inflation simply "smoothed out" the geometry of space, concealing any curvature beyond the horizon of visibility.
-**•	The Solution to the Monopole Problem:**  
+
+**•	The Solution to the Monopole Problem:**    
 Inflation expanded the volume of space so monstrously that all the born monopoles were simply "diluted" within this infinity. For our entire immense Observable Universe, at most one monopole remained, which is why we fail to witness it.
 
 Look at this tactic: instead of searching for real mechanical causes for the uniformity and flatness of the material world, theoretical physics simply invented a hypothetical field (the inflaton), endowed it with the magical property of "negative pressure," and forced the void itself to expand faster than light, in order to plaster over all the logical holes of its theory under the microscope of formulas. Inflation is not a triumph of discovery; it is a grandiose mathematical band-aid applied to a broken cosmology of the Big Bang.
 
 To ensure that you definitively fix this fantastical process in your mind and do not become entangled in its scales, let us once more clearly log its dry spacetime coordinates:
 
-**•	The Start Time of Inflation:**  
+**•	The Start Time of Inflation:**    
 Exactly 10<sup>-36</sup> seconds after the mythical instant of singularity. At this moment, our future Observable Universe (our "bead") was a sub-quantum point smaller than the Planck length — smaller than 10<sup>-35</sup> meters. Adjacent to it, trillions of identical neighbor-"beads" were pressed flush, and all of this occupied an infinite space. Infinity was filled with this "minutia."
 
-**•	The End Time of Inflation:**  
+**•	The End Time of Inflation:**    
 Between 10<sup>-33</sup> and 10<sup>-32</sup> seconds from the beginning of time. The entire process occupied an infinitesimal, unfathomable fraction of a second — one trillionth of a trillionth of a second.
 
-**•	To What Dimension the Volume of the Beads Grew:**  
+**•	To What Dimension the Volume of the Beads Grew:**    
 During this instant, every empty "bead" (including our own) increased its scale by at least 10<sup>26</sup> times and inflated to the dimensions of a large apple or a three-story house (about 10 meters in diameter), depending on the radicalism of the mathematical model. The infinite network of these "houses" grew simultaneously in all directions.
 
-**•	At What Velocity the Expansion Proceeded:**  
+**•	At What Velocity the Expansion Proceeded:**    
 To pack such a colossal growth into such a minuscule fraction of a second, the very fabric of the Universe's space was obligated to expand at a velocity that multiplied — by trillions of times — the speed of light.
 
 Official science declares without a shred of embarrassment that the empty Universe breached the light barrier in a fraction of a second, because Einstein’s laws prohibit traveling faster than light exclusively for matter moving through space, whereas for the expansion of space itself, no speed limits exist.
@@ -325,7 +329,8 @@ Everything in the Universe is concurrently "standing" in place and rushing at a 
 
 However, the most beautiful optical trick lies in the fact that we witness these superluminal galaxies right now in our telescopes. It would seem that if they are fleeing faster than light, the light emitted by them ought to be carried backward — like a bullet fired against the direction of a train’s motion — and never reach the Earth.
 
-The official crutch explaining this miracle is structured as follows: the light we capture today (for instance, via the James Webb space telescope) was launched billions of years ago. In that ancient epoch, the Universe was smaller, and these galaxies were located much closer to us. The velocity of space expansion between us back then was still subluminal, and the photons managed to escape forward.  
+The official crutch explaining this miracle is structured as follows: the light we capture today (for instance, via the James Webb space telescope) was launched billions of years ago. In that ancient epoch, the Universe was smaller, and these galaxies were located much closer to us. The velocity of space expansion between us back then was still subluminal, and the photons managed to escape forward.
+
 For billions of years, they traveled through the expanding canvas; they were carried backw ard, yet they stubbornly advanced forward, gradually transitioning to those sectors of the cosmic "dough" that are closer to the Earth. And the closer to the Earth, the slower the space itself expands. Ultimately, the light broke out of the "superluminal trap" and fell upon our sensors.
 
 We are looking at the ancient ghost of a galaxy, broadcasting its subluminal past to us. Yet its present is already cut off from us forever: the light it is emitting right now, in 2026, due to the acceleration of the Universe by dark energy, will never be capable of overcoming the expansion of space and will fly off into the infinite darkness.
@@ -384,14 +389,14 @@ Yet within none of these scenarios is there any location for tangible physical m
 
 **Conclusion. Where Do the Mathematical Crutches Lead?**
 
-Having traced the entire chronological chain of official cosmology, we can fully appreciate the scale of that grandiose logical trap into which modern theoretical physics has driven itself. In order to salvage a single, initially absurd mathematical dogma — the concept that our entire infinite material world can be birthed out of an infinitesimally small point—science was forced at every turn to construct new invisible entities and prop up the theory with increasingly cumbersome abstract crutches.
+Having traced the entire chronological chain of official cosmology, we can fully appreciate the scale of that grandiose logical trap into which modern theoretical physics has driven itself. In order to salvage a single, initially absurd mathematical dogma — the concept that our entire infinite material world can be birthed out of an infinitesimally small point — science was forced at every turn to construct new invisible entities and prop up the theory with increasingly cumbersome abstract crutches.
 
 Let us look back upon this labyrinth of formulas through which we have passed:
 
-1.	First, Einstein’s equations divide by zero and yield nonsense in the form of infinite density inside a zero volume — the scientific world declares this bug to be a real object named the "Singularity".
-2.	To prevent the singularity from devolving into chaos, 26 independent quantum fields, which are materially vacant yet for some reason do not mix, are packed inside a Planckian diameter (10<sup>-35</sup> meters).
-3.	To explain why the Universe failed to collapse back, they invent a detonator field — the inflaton, which in 10<sup>-32</sup> seconds inflates empty space faster than light. Subsequently, through a mathematical resonance "out of the negative credit of gravitation," it miraculously births real substance by exciting other fields through an unknown mechanism (formulas).
-4.	To prevent this substance from scattering as luminous ghosts, at the mark of 10<sup>-12</sup> seconds inside the volume of the Solar System, they instantaneously turn on the Higgs field. This field "feels the cold" despite having no structure, and endows particles with mass, remaining eternally immutable during an expansion of billions of times.
+1.	First, Einstein’s equations divide by zero and yield nonsense in the form of infinite density inside a zero volume — the scientific world declares this bug to be a real object named the "Singularity".  
+2.	To prevent the singularity from devolving into chaos, 26 independent quantum fields, which are materially vacant yet for some reason do not mix, are packed inside a Planckian diameter (10<sup>-35</sup> meters).  
+3.	To explain why the Universe failed to collapse back, they invent a detonator field — the inflaton, which in 10<sup>-32</sup> seconds inflates empty space faster than light. Subsequently, through a mathematical resonance "out of the negative credit of gravitation," it miraculously births real substance by exciting other fields through an unknown mechanism (formulas).  
+4.	To prevent this substance from scattering as luminous ghosts, at the mark of 10<sup>-12</sup> seconds inside the volume of the Solar System, they instantaneously turn on the Higgs field. This field "feels the cold" despite having no structure, and endows particles with mass, remaining eternally immutable during an expansion of billions of times.  
 5.	To reconcile this nonsense with the observed flat geometry of the cosmos, a single bead is transformed into an infinite garland of concurrently swelling "houses" that expand flush against one another, yet somehow manage not to collide via their boundaries.
 
 To explain the accelerating recession of galaxies in the finale, they introduce dark energy — a mythical "who-knows-what" whose density does not drop upon expansion and which represents merely a dry number inscribed on the margins of equations.
