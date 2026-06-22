@@ -423,7 +423,7 @@ Having introduced aols as the primary elements of the world, we must now take th
 
 They merely provide us with the "substance of space." Our task now is to understand how this substance is organized — why it exists under immense pressure, why it undergoes continuous vibration, and why specific regions of the cosmos foster the conditions for the birth of matter while others do not.
 
-This inquiry brings us to one of the most vital paradigms of the entire aol model: the concept of the Universe as an interconnected system of Mini-Universes—colossal cells of aol space, each governed by its own autonomous internal mechanics.
+This inquiry brings us to one of the most vital paradigms of the entire aol model: the concept of the Universe as an interconnected system of Mini-Universes — colossal cells of aol space, each governed by its own autonomous internal mechanics.
 
 **1. Inadequacy of the Concept of a Structureless, Infinite Medium**
 
