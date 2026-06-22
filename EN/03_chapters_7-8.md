@@ -417,11 +417,11 @@ It is precisely this task that Aol physics resolves, returning science from the 
 
 
 
-## Chapter 8. AOLIC SPACE AND THE STRUCTURE OF SMALL UNIVERSES
+## Chapter 8. AOL SPACE AND THE STRUCTURE OF SMALL UNIVERSES
 
 Having introduced aols as the primary elements of the world, we must now take the next logical step and examine the medium as a continuous whole, rather than focusing on a single, isolated particle. In and of themselves, individual aols cannot yet explain the overarching structure of the Universe. 
 
-They merely provide us with the "substance of space." Our task now is to understand how this substance is organized—why it exists under immense pressure, why it undergoes continuous vibration, and why specific regions of the cosmos foster the conditions for the birth of matter while others do not.
+They merely provide us with the "substance of space." Our task now is to understand how this substance is organized — why it exists under immense pressure, why it undergoes continuous vibration, and why specific regions of the cosmos foster the conditions for the birth of matter while others do not.
 
 This inquiry brings us to one of the most vital paradigms of the entire aol model: the concept of the Universe as an interconnected system of Mini-Universes—colossal cells of aol space, each governed by its own autonomous internal mechanics.
 
