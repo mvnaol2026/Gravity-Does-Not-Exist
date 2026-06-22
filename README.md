@@ -100,7 +100,8 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 4. Four types of mechanics](/EN/02_chapters_4-6.md#chapter-4-four-types-of-mechanics)
 * [Chapter 5. Space is not empty. The driving medium](/EN/02_chapters_4-6.md#chapter-5-space-is-not-empty-the-driving-medium)
 * [Chapter 6. Aols — the primary elements of the world](/EN/02_chapters_4-6.md#chapter-6-aols--the-primary-elements-of-the-world)
-* [Chapter 7. Aol space and the structure of small universes](/EN/03_chapters_7.md#chapter-7-aol-space-and-the-structure-of-small-universes)
+* [Chapter 7. A mad world from a point](/EN/03_chapters_7-8.md#chapter-7-a-mad-world-from-a-point)
+* [Chapter 8. Aol space and the structure of small universes](/EN/03_chapters_7-8.md#chapter-8-aol-space-and-the-structure-of-small-universes)
 * [Chapter 10. Lunols — how the basis of matter emerges from a smooth sphere](/EN/04_chapters_10-11.md#chapter-10-lunols--how-the-basis-of-matter-emerges-from-a-smooth-sphere)
 * [Chapter 11. Atom: an empty fantasy or a real structure?](/EN/04_chapters_10-11.md#chapter-11-atom-an-empty-fantasy-or-a-real-structure)
 * [Chapter 12. Atoms — how matter is built from aols and lunols](/EN/05_chapters_12-16.md#chapter-12-atoms--how-matter-is-built-from-aols-and-lunols)
@@ -145,7 +146,7 @@ A conceptual mechanical model of physical processes based on:
 ### 🇬🇧 English Version (`/EN/`)
 * [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
 * [02_chapters_4-6.md](EN/02_chapters_4-6.md) — Chapters 4–6.
-* [03_chapters_7.md](EN/03_chapters_7.md) — Chapters 7.
+* [03_chapters_7-8.md](EN/03_chapters_7-8.md) — Chapters 7-8.
 * [04_chapters_10-11.md](EN/04_chapters_10-11.md) — Chapters 10–11.
 * [05_chapters_12-16.md](EN/05_chapters_12-16.md) — Chapters 12–16.
 * [06_chapters_17-20.md](EN/06_chapters_17-20.md) — Chapters 17–20.
