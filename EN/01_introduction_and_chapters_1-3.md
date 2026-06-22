@@ -40,11 +40,9 @@ Chapter 5. Space is not emptiness. The prime mover
 
 Chapter 6. Aols — the primary elements of the world
 
-Chapter 7. Aol space and the structure of small universes
+Chapter 7. A mad world from a point
 
-Chapter 8. Why cells of small universes emerge from a chaotic dense medium
-
-Chapter 9. Why these cells become colossal
+Chapter 8. Aol space and the structure of small universes
 
 Chapter 10. Lunols — how the basis of matter emerges from a smooth sphere
 
@@ -76,15 +74,11 @@ Chapter 23. What “energy” is
 
 Chapter 24. Heat
 
-Chapter 25. Temperature
-
 Chapter 26. Light
 
 Chapter 27. The Michelson experiment and why the wrong ether was sought
 
 Chapter 28. How the theory of relativity arose — and what would happen if a medium existed
-
-Chapter 29. A brief summary of light, medium, and relativity
 
 Chapter 30. Electric current
 
@@ -93,8 +87,6 @@ Chapter 31. Induction — transmission of motion
 Chapter 32. Electric Charge and Magnetism as Forms of Aol Motion
 
 Chapter 33. Transfer of Electric Charge — Mechanism
-
-Chapter 34. Coulomb’s Law
 
 Chapter 35. Photoelectric Effect — Mechanism of Aol Ejection
 
@@ -105,8 +97,6 @@ Chapter 37. Fields
 Chapter 38. Magnetic field
 
 Chapter 39. Interaction of magnets
-
-Chapter 40. Electricity, magnetism, and induction — a unified mechanism
 
 Chapter 41. Ether
 
