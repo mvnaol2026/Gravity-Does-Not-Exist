@@ -72,7 +72,8 @@ The moment a cosmological structure commences its motion, the second, supporting
 
 Here, a key dependency enters into force: the higher the velocity of motion, the greater the quantity of aol wedges that manage to close behind the object per unit of time. Correspondingly, the trailing force of pressure concurrently increments. The velocity commences to grow — not merely due to the primary impulse from the center, but concurrently by virtue of the increasing efficiency of the aol-dynamic pushing. Accelerated motion is invariably the consequence of an incrementing force. Specifically — an incrementing force, not a constant one.
 
-This mechanism easily resolves the problem of the Hubble tension. The velocity of the recession of cosmological structures fundamentally cannot be an immutable constant. It is non-linear, given that it strictly depends upon the coordinates of the object inside the Small Universe and upon its current velocity.
+**This mechanism easily resolves the problem of the Hubble tension.**  
+The velocity of the recession of cosmological structures fundamentally cannot be an immutable constant. It is non-linear, given that it strictly depends upon the coordinates of the object inside the Small Universe and upon its current velocity.
 
 **The Elasticity of the Medium in Place of Dark Matter**
 
