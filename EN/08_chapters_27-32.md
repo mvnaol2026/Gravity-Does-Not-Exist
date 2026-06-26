@@ -80,7 +80,7 @@ Time dilation in this picture is not a property of space-time, but a consequence
 
 The effect of the medium can be visualized using an hourglass: if the chamber is filled with air or water, the flow rate changes. Change the properties of the medium — and the clock slows down.
 
-The contraction of moving bodies is not a geometric effect of space-time, but a real mechanical compression. The pressure of the aol medium in front literally compresses the structure of the body in the direction of motion. This is exactly how the effect was explained by Hendrik Lorentz and George FitzGerald even before Einstein — through ether pressure. Albert Einstein removed the ether and reformulated contraction geometrically. The aol model restores the mechanical mechanism of Lorentz — but now with a concrete description of the medium.
+The contraction of moving bodies is not a geometric effect of space-time, but a real mechanical compression. The pressure of the aol medium in front literally compresses the structure of the body in the direction of motion. This is exactly how the effect was explained by Hendrik Lorentz and George FitzGerald even before Einstein — through ether pressure. Albert Einstein removed the ether and reformulated contraction geometrically. The aol model restores the mechanical mechanism of Lorentz — but now with a concrete description of the medium and, of course, not to the same degree of compression as the formulas suggest. The compression is significantly smaller.
 
 **Why a Maximum Speed Exists**
 
@@ -112,7 +112,7 @@ Relativity arose as a forced answer to the question: how to explain the constanc
 The aol model asks a different question: why remove the medium at all? 
 If the medium exists — and exists as described by the aol model — all these effects follow naturally from mechanics, without paradoxes and without the geometry of four-dimensional space-time.
 
-Albert Einstein was forced to seek a mathematical solution where a physical solution was hidden by the absence of a correct model of the medium. Not because he was mistaken, but because the ether, as imagined by 19th-century physicists, truly does not exist. 
+Albert Einstein was forced to seek a mathematical solution where a physical solution was hidden by the absence of a correct model of the medium. The ether, as imagined by 19th-century physicists, truly does not exist. 
 
 What exists is something different — aol space. 
 And with it, the picture of the world becomes simpler, not more complex.
