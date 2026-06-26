@@ -14,10 +14,7 @@ But here lies the fundamental mistake — not in the experiment, but in its inte
 
 Physicists of the 19th century imagined ether as something like a gas or a fluid — a rarefied medium through which the Earth moves like a ship through water, creating waves and encountering resistance. This is the ether Michelson was looking for. And this is the ether he did not find.
 
-But aol space is fundamentally different.
-It is not a rarefied gas through which the Earth “flows.” It is the densest possible packing of aols — a medium that fills all space without any gaps. The Earth does not move through it like a ship through water. The Earth itself is made of aols and is immersed in a medium of the same aols. There is no boundary between the Earth’s surface atoms and the surrounding aols in the sense that there is between a ship and water.
-
-That is why there is no “ether wind” and cannot be. Wind appears when a body moves through a medium with which it is not structurally connected. And most importantly — there are no discontinuities in the dense packing of aols; their number in any direction of light propagation is constant, determined by the rule: “aol to aol,” tightly packed.
+But aol space is structured fundamentally differently. It is not a rarefied gas in which the Earth floats. It is a densely packed aol—a medium that fills all space without a single gap. This is precisely why there is and cannot be any "ether wind." And most importantly, there are no gaps in the dense packing of aols; their number in any direction of the light beam is constant, determined by the rule "aol to aol," densely packed.
 
 Now about the speed of light. In the aol model, light is not a flying particle and not a wave in a moving medium. It is the transmission of vibrations from aol to aol. The speed of this transmission is determined solely by the properties of the aols themselves: their stiffness and packing density. It does not depend on the motion of the source or on the direction of propagation.
 
@@ -33,7 +30,7 @@ The Michelson experiment did not refute the existence of a medium. It refuted a 
 
 The Michelson experiment is one of those cases where the aol model offers a more natural explanation than standard physics. Standard physics was forced to introduce the postulate of the constancy of the speed of light and build the entire theory of relativity upon it. In the aol model, the constancy of speed follows naturally from the nature of the medium itself — without additional postulates. The aol model does not generate paradoxes or phenomena. It does not bend space, nor does it slow down time.
 
-The Michelson experiment revealed not the absence of a medium, but the limits of how it was imagined. Physics abandoned ether not because it does not exist, but because it did not fit the familiar mechanics of fluids and gases. As a result, the idea of emptiness was accepted — and with it came postulates, paradoxes, and the need to explain phenomena without a carrier. 
+Michelson's experiment demonstrated not the absence of a medium, but the limits of the understanding of it at that time. Physics abandoned ether not because it does not exist, but because it did not fit the familiar mechanics of fluids and gases. As a result, the idea of emptiness was accepted — and with it came postulates, paradoxes, and the need to explain phenomena without a carrier. 
 
 The aol model does the opposite: it restores the medium, not as a hypothesis, but as a necessary condition for any process. Light no longer requires “duality,” abstract fields, or postulates. It becomes what it should be in a mechanical universe — the transmission of motion through contact and pressure. And then it becomes clear: the problem was not in the Michelson experiment. The problem was that the wrong reality was being searched for.
 
