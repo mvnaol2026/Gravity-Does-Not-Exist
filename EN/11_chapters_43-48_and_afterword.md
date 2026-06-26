@@ -345,9 +345,8 @@ The physical world has once more proven to be mechanistic, visualizable, and not
 
 The Big Bang theory in modern science is based on two main observed phenomena:
 
-1. Cosmic microwave background radiation.
-
-2. Cosmological redshift.
+1. Cosmic microwave background radiation.  
+2. Cosmological redshift.  
  
 It is believed that these observations confirm the idea that the Universe originated from the explosion of some primordial “point” and has been expanding ever since.
 Let us examine both factors and see what is actually observed and how it is interpreted.
@@ -419,10 +418,8 @@ However, their traditional interpretation relies on assumptions whose mechanisms
 
 Within the framework of the aol space hypothesis, these same phenomena receive a different explanation based on:
 
-• the existence of a medium,
-
-• its pressure,
-
+• the existence of a medium,  
+• its pressure,  
 • and the transmission of motion through contact interactions.
 
 At the same time, there is no need to introduce additional entities or processes that lack mechanical explanation.
@@ -443,20 +440,13 @@ This is the first thing that must be accepted and kept in mind.
 There is no immaterial entity that suddenly begins to act. There is no “pure energy” as an independent object. There is no “field” as a special incorporeal agent. There is no “force” as an independent entity capable of pushing bodies.
 There is only matter.
 
-And this matter can exist on different scales:
-
-— aols,
-
-— atoms,
-
-— molecules,
-
-— bodies,
-
-— planets,
-
-— stars,
-
+And this matter can exist on different scales:  
+— aols,  
+— atoms,  
+— molecules,  
+— bodies,  
+— planets,  
+— stars,  
 — galaxies.
 
 But despite all the diversity of sizes and forms, it is all the same nature — moving matter.
@@ -478,10 +468,8 @@ In my hypothesis, this is excluded.
 
 For anything to occur, there must be:
 
-1. carriers — real material participants of the process,
- 
-2. contact — physical interaction between these participants,
- 
+1. carriers — real material participants of the process,  
+2. contact — physical interaction between these participants,   
 3. pressure — that is, transmission of influence through pressing, impact, vibration, compression.
 
 **This is the great triad of the new physics: carriers — contact — pressure.**
@@ -490,22 +478,17 @@ If at least one element is missing — the process is not understood.
 
 When you press a key with your finger, you clearly understand what is happening:
 
-— the finger and the key are the carriers,
-
-— their contact is the interaction,
-
+— the finger and the key are the carriers,  
+— their contact is the interaction,  
 — the pressing is the pressure.
 
 That is why a comment on the internet actually appears.
 
 Now try to apply the same triad to modern favorite concepts of physics.
 
-To the field — does it apply? No.
-
-To attraction — does it apply? No.
-
-To an empty atom — does it apply? No.
-
+To the field — does it apply? No.  
+To attraction — does it apply? No.  
+To an empty atom — does it apply? No.  
 To a flying photon — does it apply? No.
 
 Which means none of this is understood.
@@ -520,41 +503,28 @@ Because the entire physical world is moving matter, and all processes within it 
 
 And if one makes a mistake in the cause of motion, the error will propagate into everything else:
 
-— mechanics,
-
-— light,
-
-— electricity,
-
-— gravitation,
-
-— the structure of the atom,
-
+— mechanics,  
+— light,  
+— electricity,  
+— gravitation,  
+— the structure of the atom,  
 — cosmology.
 
 Modern physics does not understand this law.
 
 That is why it introduces:
 
-— inertia as an independent mysterious property,
-
-— particles flying without a driver,
-
-— electrons supposedly moving without a cause,
-
-— photons flying in empty space,
-
+— inertia as an independent mysterious property,  
+— particles flying without a driver,  
+— electrons supposedly moving without a cause,  
+— photons flying in empty space,  
 — fragments of the Big Bang somehow dispersing on their own.
 
 But if one takes the main law of physics seriously, much becomes obvious.
-A photon cannot move, because motion requires a driver.
-
-An electron cannot move in an empty atom, because a driver is required.
-
-“Quantum particles” cannot move by themselves.
-
-The point of the Big Bang could not have dispersed, because there was nothing to push its fragments.
-
+A photon cannot move, because motion requires a driver.  
+An electron cannot move in an empty atom, because a driver is required.  
+“Quantum particles” cannot move by themselves.  
+The point of the Big Bang could not have dispersed, because there was nothing to push its fragments.  
 Electrons cannot flow in a conductor by themselves, because without continuous contact action there will be no motion.
 
 In all these cases, modern science is forced to speculate.
@@ -562,10 +532,8 @@ But in the new physics, the driver exists — aol space.
 
 **4. What matter can and cannot do**
 
-Matter cannot arise spontaneously.
-
-Matter cannot create new matter out of nothing.
-
+Matter cannot arise spontaneously.  
+Matter cannot create new matter out of nothing.  
 Matter cannot create new matter from itself without changing itself at all.
 
 These are very simple statements, yet modern physics violates them at almost every step.
@@ -575,12 +543,9 @@ In my hypothesis, there is no such trick.
 
 Matter can only:
 
-— move,
-
-— change the form of motion,
-
-— transmit motion,
-
+— move,  
+— change the form of motion,  
+— transmit motion,  
 — enter new configurations.
 
 And that is all.
@@ -596,10 +561,8 @@ If somewhere we observe what science calls charge, it means that behind it there
 
 If somewhere a field is observed, it means that there is ordered motion of aols.
 
-In this sense:
-
-— the electric and the magnetic are not “special immaterial forces,”
-
+In this sense:  
+— the electric and the magnetic are not “special immaterial forces,”  
 — but merely different forms of organized motion of the aol medium.
 
 This radically simplifies physics and returns it to the domain of common sense.
@@ -615,12 +578,9 @@ The entire Universe is filled with matter — aol space. There is nowhere any em
 
 This is a very important statement, because it:
 
-— removes the problem of the “empty atom,”
-
-— removes the problem of “empty space,”
-
-— makes the transmission of interactions possible,
-
+— removes the problem of the “empty atom,”  
+— removes the problem of “empty space,”  
+— makes the transmission of interactions possible,  
 — explains light, gravitation, electricity, and inertia.
 
 If there is no emptiness, then interactions do not have to be “magical.” They have a carrier.
@@ -631,16 +591,11 @@ Science itself acknowledges that in the world of solids, liquids, and gases ever
 
 But for some reason, as soon as it comes to the microworld, it declares that everything is different there. That different laws apply, a different type of nature, other principles — impossible and paradoxical.
 
-This is one of the greatest mistakes.
-
-There is no separate microworld and macroworld.
-
-There is a single world of matter.
-
-It is not divided by size.
-
-It is the human observer who divides it due to the limitations of perception.
-
+This is one of the greatest mistakes.  
+There is no separate microworld and macroworld.  
+There is a single world of matter.  
+It is not divided by size.  
+It is the human observer who divides it due to the limitations of perception.  
 Nature itself is not divided.
 The laws are unified.
 
@@ -654,26 +609,17 @@ The main and only driver of the Universe is aol space.
 
 It is precisely this that:
 
-— creates atoms and macro-objects,
-
-— holds them as objects,
-
-— ensures their existence,
-
-— provides motion,
-
-— initiates and sustains all processes,
-
+— creates atoms and macro-objects,  
+— holds them as objects,  
+— ensures their existence,  
+— provides motion,  
+— initiates and sustains all processes,  
 — provides everything that physics calls “energy.”
 
-Science unsuccessfully searches for energy:
-
-— in atoms,
-
-— in bonds,
-
-— in fields,
-
+Science unsuccessfully searches for energy:  
+— in atoms,  
+— in bonds,  
+— in fields,  
 — in quantum entities.
 
 But energy is not an entity.
@@ -711,12 +657,9 @@ Energy as an independent entity does not exist.
 This is extremely important.
 Energy is not an object of the world.
 
-It is not a substance.
-
-It is not a force.
-
-It is not a carrier.
-
+It is not a substance.  
+It is not a force.  
+It is not a carrier.  
 It is only a characteristic of the ability of a material object to exert influence.
 
 Like force, energy does nothing by itself. It is not force that strikes — it is a body that strikes. And this action can then be characterized by force. The same applies to energy.
@@ -763,14 +706,10 @@ The unification already exists.
 All interactions are unified in the action of aol space.
 Weak, strong, electromagnetic, and gravitational processes are not four different kinds of magic, but four different manifestations of the same medium.
 
-Aol space:
-
-— holds atomic structures through pressure,
-
-— creates gravitational phenomena through pressure screening,
-
-— creates electrical and magnetic phenomena through ordered motion of aols,
-
+Aol space:  
+— holds atomic structures through pressure,  
+— creates gravitational phenomena through pressure screening,  
+— creates electrical and magnetic phenomena through ordered motion of aols,  
 — creates light and thermal phenomena through vibrations and the transmission of micro-impacts.
 
 It is the Great Unifier. It governs everything, it drives everything.
@@ -791,14 +730,10 @@ Aol space is dense and consists of extremely hard aols. This is precisely what g
 
 Neither photons, nor neutrinos, nor Higgs bosons, nor other similar entities have a real mechanical basis in the form described by modern science.
 
-One cannot:
-
-— fill space with flying photons,
-
-— assume that neutrinos pass through everything without interaction,
-
-— attribute to Higgs bosons or the Higgs field the ability to give mass without explaining the mechanism of mass transfer,
-
+One cannot:  
+— fill space with flying photons,  
+— assume that neutrinos pass through everything without interaction,  
+— attribute to Higgs bosons or the Higgs field the ability to give mass without explaining the mechanism of mass transfer,  
 — assume that particles emit other particles, creating matter from nothing or from themselves without changing.
 
 All these constructions are attempts to save an incorrect picture of the world by adding more and more layers.
@@ -819,10 +754,8 @@ That is why the world is perceived as dense, solid, stable, and real — not as 
 
 **18. A Big Bang from a point is impossible**
 
-From a point, one can make a comma.
-
-But one cannot make a Universe.
-
+From a point, one can make a comma.  
+But one cannot make a Universe.  
 No matter how one explodes a point, even with the “biggest” explosion, it is impossible to obtain from it an infinitely extended Universe filled with matter, motion, temperature, and structure.
 A point as the source of the Universe is one of the crudest fantasies of science.
 
@@ -831,14 +764,10 @@ A point as the source of the Universe is one of the crudest fantasies of science
 This is one of the most important conclusions of the new physics.
 Particles cannot emit other particles.
 
-Because for that, it would be necessary to:
-
-— create new matter,
-
-— have a source of raw material,
-
-— have a mechanism of assembly,
-
+Because for that, it would be necessary to:  
+— create new matter,  
+— have a source of raw material,  
+— have a mechanism of assembly,  
 — have a driver for ejection.
 
 Official physics does not demonstrate any of this.
