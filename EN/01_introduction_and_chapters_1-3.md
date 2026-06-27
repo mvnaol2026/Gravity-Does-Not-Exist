@@ -88,8 +88,6 @@ Chapter 32. Electric Charge and Magnetism as Forms of Aol Motion
 
 Chapter 33. Transfer of Electric Charge — Mechanism
 
-Chapter 35. Photoelectric Effect — Mechanism of Aol Ejection
-
 Chapter 36. Electromagnetic waves — transmission of oscillations
 
 Chapter 37. Fields
