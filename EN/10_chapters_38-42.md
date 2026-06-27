@@ -145,26 +145,55 @@ Only the motion of aols — contact and pressure.
 
 ## Chapter 41. ETHER
 
+**The History of Ether: From Primary Matter to the Forbidden Mechanics of the Universe**
+
+The concept of the ether is a dramatic page in the history of natural science. The attempt to explain the world through a continuous material medium was for centuries the foundation of common sense, until the mathematical abstractionism of the 20th century declared it "outlawed".
+
+**Antiquity and Descartes: The Continuous Fullness of the World**
+
+The word aither signified the "upper, purest layer of air." Aristotle introduced the ether into philosophy as the "fifth element" (quinta essentia) — an eternal, immutable primary matter from which the celestial spheres are constructed.  
+**•	René Descartes (17th Century):**  
+Transformed the philosophical ether into a rigorous physical model. Descartes completely denied the void, asserting that space is extended, which implies it is material. The entire cosmos inside Descartes' framework is an ultra-dense "cosmic fluid" filled with the finest particles. The motion of planets and gravitation were explained in a purely mechanical manner: via gigantic ether vortices that swept bodies along and pressed them toward centers.
+
+**The 19th Century: The Triumph of the Wave Ether**
+
+When Thomas Young and Augustin-Jean Fresnel proved that light is a transverse wave, physics confronted an ironclad law of mechanics: a wave fundamentally cannot travel through a void; a wave process is invariably the deformation and oscillation of a medium's elements.  
+**•	The Birth of a Paradox:**  
+In order to transmit light at a colossal velocity (300,000 kilometers per second) and concurrently be a transverse wave, the ether was obligated to possess the properties of an absolutely rigid, elastic body (such as steel or diamond).  
+Physicists of the 19th century (Maxwell, Kelvin, Lorentz) attempted to construct mechanical models of the ether, imagining it as a dense medium composed of rotating gears, pressure tubes, or fluid vortices. Yet they were fundamentally incapable of explaining how planets execute motion through this "solid diamond" without deceleration.
+
+**The Beginning of the 20th Century: The Funeral of the Medium**
+
+In 1887, Michelson and Morley attempted to measure the "ether wind" (the deceleration of light due to the Earth's motion through the ether) and obtained a null result. Instead of revising the geometry of bodies' interaction with the medium, official science trod the path of least mathematical resistance.  
+**•	The Ban on the Concept:**  
+Albert Einstein, within Special Relativity, declared that introducing a material ether was "superfluous". Space was proclaimed an absolute geometric void (a vacuum) in which light travels entirely on its own, devoid of any carrier. The word "ether" became a synonym for pseudoscience, and for its mere mention in academic papers, physicists began to be stripped of their university chairs.
+
+**The Present Day: Return Under Alias Names**
+
+By cutting away the ether, official physics fell into a conceptual dead end. It was revealed that a void is fundamentally incapable of transmitting fields and interactions. Consequently, modern science commenced to secretly return the ether back, yet under different, strictly censored terms:
+
+**•	Instead of the ether, they introduced the "Physical Vacuum,"** which possesses density and elasticity, and "boils" with virtual particles.  
+**•	They introduced the "Higgs Field"** — a continuous, invisible condensate permeating the Universe and decelerating particles.  
+**•	They introduced "Dark Matter" and "Dark Energy,"** which constitute 95% of the Universe's mass, fill the entire cosmos, yet are "invisible".
+
+**The Primary Peculiarities and Logical Dead Ends of the Official Rejection of the Ether:**
+
+**•	The Paradox of "Immaterial Elasticity":**  
+Modern cosmology asserts that empty spacetime is capable of expanding, contracting, and even vibrating. Yet expanding, contracting, and vibrating can be executed exclusively by a real material medium possessing a modulus of elasticity and density. To declare that an "empty nothingness" vibrates is a linguistic absurdity. Science has ascribed all the properties of the ether to the void, yet prohibits it from being termed matter.
+
+**•	The Dead End of 26 Invisible "Sheets":**  
+Having rejected a unified ether, quantum field theory was forced to declare that 26 distinct quantum fields are simultaneously superimposed upon one another at every single point in space. Instead of one understandable material medium, physicists fantasized 26 invisible substances occupying the exact same volume.
+
+**•	The Ignoring of Local Causality:**  
+Devoid of a continuous medium, official science devolved into the mysticism of contactless action-at-a-distance: inside its framework, charges attract through a vacuum, and quantum particles instantaneously "teleport." By removing the material intermediary, physics removed the very mechanics of proximity interaction.
+
+**Conclusion:**  
+Official science has driven itself into a mental trap. It utilizes the properties of the ether every single second (inside the equations of fields and the vacuum), yet is panickily terrified to acknowledge its existence, lest the century-old house of cards of relativism and quantum magic collapse entirely.
+
+### The Aol Model of the Ether
+
 Aol space could be called ether. I deliberately do not do this.
 The word “ether” carries a long trail of incorrect ideas. In the minds of most people, including physicists, it is something ethereal, vague, almost mythical. A subtle, weightless substance barely present between bodies — no more than a poetic image, convenient for talking about the nature of light.
-
-**How physics lost ether**
-
-The history of ether in physics is the history of a correct intuition ruined by incorrect implementation.
-
-Ether was recognized by René Descartes, Christiaan Huygens, Leonhard Euler, James Clerk Maxwell, Michael Faraday — some of the greatest physicists of their time. They felt that space could not be empty: the transmission of light and electromagnetic phenomena requires a carrier medium. They were on the right path.
-
-But this ether had one unresolved contradiction. The polarization of light indicated that light waves are transverse — that is, oscillations occur perpendicular to the direction of propagation. In mechanics, transverse waves can propagate only in solids — in liquids and gases they decay. Therefore, for light to propagate, the ether must be solid.
-
-But a solid ether seemed absurd. How do planets move in a solid medium? How does anything move through a solid body at all? Physicists could not overcome this psychological barrier — and abandoned ether. They preferred to declare light waves “electromagnetic,” propagating in empty space — without explaining what these waves physically are, or how exactly they move.
-
-This was a fatal mistake. Not because a solid ether is absurd. But because physicists misunderstood what “solid” means when applied to a primary medium.
-
-Aols are indeed extremely hard. But the hardness of aol space is fundamentally different from the hardness of matter. The hardness of matter is the strength of bonds between atoms. The hardness of aol space is the hardness of individual unbound spheres in dense contact under pressure. They are not connected to each other. There is zero friction between them — aols are perfectly smooth.
-
-Therefore, a body moving through aol space does not encounter the resistance it would face in a solid monolith. Aols shift aside, flow around the body, and close again behind it. This is not motion through a monolith — it is motion through a densely packed but unbound medium.
-
-It is precisely this distinction that physicists failed to understand — and they discarded ether along with both its flaws and its strengths.
 
 **The Michelson experiment and what was being searched for**
 
