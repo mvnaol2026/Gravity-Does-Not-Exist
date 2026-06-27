@@ -221,7 +221,9 @@ That is why I use the term “aol space” — and I do not intend to abandon it
 There is a feature of human psychology that is rarely discussed in the context of science, yet it explains a great deal.
 When we face something unknown, we almost inevitably complicate it. Darkness frightens us — and in a dark room we begin to imagine portals to another world. When the light is turned on, it turns out that the source of the eerie rustling  is just a lazy cat on the couch. But the one who ran out of the room in panic will never learn about the cat. He will carry away a story about a portal.
 
-This is exactly what happens in physics. Faced with the unknown, a person becomes uncertain — and attributes to it the most fantastic, sometimes absurd properties. The less understandable a phenomenon is, the more mysterious and complex it appears. That is why we have neutrinos — particles that pass through planets billions of kilometers thick without noticing obstacles. That is why there are virtual particles that “may or may not exist.” That is why there is a point in which all the matter of the Universe supposedly once fit.
+This is exactly what happens in physics. Faced with the unknown, a person becomes uncertain — and attributes to it the most fantastic, sometimes absurd properties. The less understandable a phenomenon is, the more mysterious and complex it appears. 
+
+That is why we have neutrinos — particles that pass through hypothetical planets billions of kilometers thick without noticing obstacles. That is why there are virtual particles that “may or may not exist.” That is why there is a point in which all the matter of the Universe supposedly once fit.
 
 Let us try a different approach. Let us take Occam’s razor — the principle of not multiplying entities beyond necessity — and ask ourselves simple questions about matter. Not fantasizing, but reasoning.
 
