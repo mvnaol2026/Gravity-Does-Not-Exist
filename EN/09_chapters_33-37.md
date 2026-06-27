@@ -248,14 +248,10 @@ And nothing else.
 
 In all these cases, the same process occurs — the transmission of vibrations through aol space. The only difference is how often the micro-impacts occur, how frequently the medium compresses and expands.
 
-If the frequencies are low — these are radio waves.
-
-If higher — infrared vibrations, perceived as heat.
-
-Higher still — visible light.
-
-Higher — ultraviolet.
-
+If the frequencies are low — these are radio waves.  
+If higher — infrared vibrations, perceived as heat.  
+Higher still — visible light.  
+Higher — ultraviolet.  
 Then X-rays and the gamma range.
 
 But the nature of all these phenomena is the same.
@@ -281,7 +277,7 @@ Everything else is the same vibrations — just outside our perception.
 There is another important conclusion.
 The higher the frequency of vibrations, the stronger their effect on matter.
 Because impacts occur more frequently.
-Low frequencies gently oscillate atoms, while high-frequency vibrations begin to strongly affect their structure. They can break bonds, alter atomic configurations, cause ionization, and destroy matter.
+Low frequencies gently oscillate atoms, while high-frequency vibrations begin to strongly affect their structure. They can break bonds, alter atomic configurations and destroy matter.
 
 In the aol model, this is explained simply: not as “more energetic quanta,” but as more frequent and intense воздействия of the medium.
 Thus, the entire “electromagnetic spectrum” is not a set of different phenomena, but a unified picture.
