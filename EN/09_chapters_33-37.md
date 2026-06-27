@@ -85,60 +85,6 @@ No “charge” as a separate entity is required.
 
 
 
-## Chapter 35. PHOTOELECTRIC EFFECT — MECHANISM OF AOL EJECTION
-
-The photoelectric effect is usually described as follows: light falls on a metal and knocks electrons out of it. Photons, energy quanta, and work function are introduced. The formulas work. But the physical mechanism — what exactly happens step by step — is not given.
-
-How does light physically act on matter?
-How does directed motion arise?
-What exactly leaves the surface and why in this direction?
-
-In the aol model, the answers to these questions follow from already established principles.
-
-**What reaches the surface**
-
-Light is high-frequency impacts transmitted through aol medium from vibrating atoms of the source. These are not separate random pushes — they are an organized sequence of impacts → correction:
-They are an organized sequence of impacts with a certain frequency and rhythm. This organization is the key property of light vibration, in contrast to chaotic thermal vibrations.
-
-When this sequence reaches the surface of a metal, it is transferred to atomic structures. An atom is not a point and not a sphere. It is a volumetric structure with moving parts, constantly under pressure of aol space. Receiving high-frequency impacts, the atom begins to vibrate intensely — and these vibrations are transferred to neighboring atoms.
-
-**How a directed flow is formed**
-
-If the impacts are rare, the motion has time to dissipate between them, and no directed flow appears. But if the impacts follow frequently enough, they begin to overlap: each new impact arrives before the previous one has dissipated. Motion accumulates.
-
-In this accumulating motion, aols inside the atomic structure begin to shift in one direction — a directed channel appears. 
-The aol snake does not form instantly, but as a result of accumulation of coordinated impacts. That is why the photoelectric effect requires a certain frequency — not intensity, but frequency.
-
-At low frequency — no matter how many impacts arrive — each one dissipates before it can add to the previous one. There is no directed flow. There is no photoelectric effect.
-
-At high frequency — impacts add up, motion increases, a stable aol snake is formed. The photoelectric effect occurs.
-
-**Breakthrough through the structure**
-
-The formed aol snake meets resistance. To leave the metal, it must overcome the pressure of the surrounding aol space, the retention of atomic structures, and the resistance of bonds with neighboring atoms. This is what standard physics calls the work function, but now it is not an abstraction, but a specific mechanical resistance.
-
-If the accumulated motion is insufficient, the snake is damped inside the structure. If it is sufficient, it breaks through outward. What leaves is not a particle of matter. What leaves is an organized flow of motion of free aols — and in the direction opposite to the incoming impacts, because the snake was formed by pressure from inside, not from outside. This removes the mechanical paradox of the standard explanation, where the “emitted electron” moves toward the photon that struck it.
-
-**What remains in the metal**
-
-When the aol snake leaves the metal, the atoms that participated in forming the flow are left in a restructured state. Their parts are rotated in a certain direction. Aol space supports this rotation through a system of rotational wedges — a stable rotational state of the atomic structure appears. This is the charge that arises in the metal in the photoelectric effect.
-
-The twist of the remaining rotation is opposite to the twist of the emitted snake — which corresponds to the observed opposite signs of the emitted “electron” and the charge remaining in the metal.
-
-**Role of intensity**
-
-Light intensity is the number of impacts per unit area per unit time. If the frequency is sufficient to form a snake, then higher intensity means that more snakes have time to form and break out. The current increases.
-
-But the velocity of the emitted snakes — what standard physics calls the maximum velocity of electrons — is determined only by the frequency, that is, only by the rhythm of impacts, and not by their number per unit area. This is exactly what is observed in experiments: intensity affects the current, but not the velocity.
-
-**Conclusion**
-
-The photoelectric effect is the accumulation of directed motion of aols in the atomic structure of a metal under the action of high-frequency light vibrations, leading to the formation and breakthrough of an aol snake outward when sufficient coherence of motion is reached.
-No photons. No instantaneous transfer of energy. No mysterious absorption of one particle by another. Only sequential transfer of motion through aol space — accumulation — and breakthrough.
-
-
-
-
 
 ## Chapter 36. ELECTROMAGNETIC WAVES — THE TRANSMISSION OF VIBRATIONS
 
