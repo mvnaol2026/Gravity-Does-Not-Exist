@@ -170,7 +170,7 @@ It is precisely this distinction that physicists failed to understand — and th
 
 After ether had been conceptually abandoned, Albert A. Michelson and Edward W. Morley attempted to detect it experimentally — through the so-called “ether wind.” 
 
-The logic was as follows: if the Earth moves through ether, then in the direction of motion light should travel slightly slower, and perpendicular to it — slightly faster, like a boat moving against and with a current.
+The logic was as follows: if the Earth moves through ether, then in the direction of motion light should travel slightly slower, and perpendicular to it — slightly faster.
 No difference was detected. 
 
 And the final conclusion was made — there is no ether.
