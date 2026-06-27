@@ -195,19 +195,16 @@ It irritated me because the word “ether” carries too much that is incorrect.
 
 Aol space is not ether in the historical sense. It is something fundamentally different in its nature.
 
-It is the creator of everything.
+**It is the creator of everything.**  
+**It is the holder of everything.**  
+**It is the essence of the Universe. Its foundation.**  
+**Its prime mover.**
 
-It is the holder of everything.
-
-It is the essence of the Universe. Its foundation.
-
-Its prime mover.
-
-It is the only source of inexhaustible “energy” in the Universe (“energy” in quotes, because the essence of “energy” lies in moving and interacting matter, not in some mysterious substance). It is the pressure and vibration of aol space that provide “energy” to all processes in the Universe — there are no other sources of “energy.” The pressure and vibration of aol space are what is called “energy.”
+**It is the only source of inexhaustible “energy” in the Universe** (“energy” in quotes, because the essence of “energy” lies in moving and interacting matter, not in some mysterious substance). It is the pressure and vibration of aol space that provide “energy” to all processes in the Universe — there are no other sources of “energy.” **The pressure and vibration of aol space are what is called “energy.”**
 
 Everything consists of its extremely hard particles — there is nothing harder. Any object and aol space form a single and inseparable whole. A symbiosis. Aol space can exist on its own, but an object cannot exist without it even for a moment. Aol space is not only around objects, it is also inside them. And through it, all objects in the Universe are connected.
 
-The Universe is a single dynamic-kinematic system thanks to aol space. A unified system in which the oscillation of one aol affects the entire system. Where not a single aol, not for a single moment, can be outside dense contact under high pressure with other aols.
+**The Universe is a single dynamic-kinematic system thanks to aol space.** A unified system in which the oscillation of one aol affects the entire system. Where not a single aol, not for a single moment, can be outside dense contact under high pressure with other aols.
 
 All other matter is negligible inclusions within the power of aol space. All objects are completely subject to its influence. Without it, material objects are not just nothing — they are incapable of existing.
 
