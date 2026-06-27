@@ -430,367 +430,176 @@ This makes the explanation simpler, more consistent, and based on a single princ
 
 
 
-## Chapter 48. CONCLUSIONS. FOUNDATIONS OF A NEW PHYSICS
+## Chapter 48. CONCLUSIONS. FOUNDATIONS OF AOL PHYSICS
 
-**1. What exists in the Universe**
+**1. That Which Exists inside the Universe**
 
-There is nothing in the Universe except moving and interacting matter.
-This is the first thing that must be accepted and kept in mind.
+Within the Universe, there is absolutely nothing except moving and interacting matter.
+There is zero immaterial entity that suddenly commences to act. No "pure energy" exists as an independent object. No "field" exists as a specific disembodied "fabric." No "force" exists as an autonomous entity capable of pushing bodies. And most certainly, there are no fictitious driving forces. There is no spacetime curved by Einstein. Time does not exist — it was fabricated by man for convenience.
 
-There is no immaterial entity that suddenly begins to act. There is no “pure energy” as an independent object. There is no “field” as a special incorporeal agent. There is no “force” as an independent entity capable of pushing bodies.
-There is only matter.
+There is only matter. This matter can vary in scale: aols, atoms, molecules, bodies, planets, stars, and galaxies. Yet for all the diversity of dimensions and forms, it represents moving matter. No such thing as motionless, non-interacting, or non-contacting matter can exist. Everything is in contact, and everything is in motion.
 
-And this matter can exist on different scales:  
-— aols,  
-— atoms,  
-— molecules,  
-— bodies,  
-— planets,  
-— stars,  
-— galaxies.
+**2. How Matter Interacts**
 
-But despite all the diversity of sizes and forms, it is all the same nature — moving matter.
-At the same time, it is important to understand one more thing — there is no such thing as motionless, non-interacting matter.
+Matter can interact exclusively via contact and exclusively via pressure. It is precisely here that the primary error of modern physics transpired. It abandoned the simple, natural principle of action observed within the macro-world — mechanics, hydraulics, and pneumatics — and for the micro-world, it commenced to acknowledge as existing that which does not exist and which is impossible to even mentally assemble into a non-contradictory mechanics: action-at-a-distance without contact. Within Aol physics, this is entirely excluded.
 
-If matter exists, it is part of a system of interactions. 
-If something does not interact in any way, then for the physical world it simply does not exist.
-And from this follows another extremely important idea — the existing world can interact only materially.
+For anything to occur, there must be:  
+**1.	Carriers:** real material participants of the process.  
+**2.	Contact:** the physical touch and juxtaposition of the carriers.  
+**3.	Pressure:** that is to say, the transmission of interaction via a push, impact, vibration, or compression.
 
-There can be no action without a carrier.
-If this is understood, an entire layer of modern physical constructions will begin to collapse by itself.
+This is precisely the great triad of Aol physics: carriers — contact — pressure. Every single real process can be comprehended exclusively when all three elements are discovered within it. If even one solitary element is absent, it implies that the process is not understood. 
 
-**2. How matter interacts**
+Is this triad applicable to a field? No.  
+To gravitation? No.  
+To an empty atom? No.  
+To a flying photon? No.  
 
-Matter can interact only through contact.
-This is where modern physics experienced its main fracture. It abandoned a simple, natural principle and began to recognize as real something that does not exist and cannot even be assembled into a consistent mechanics — action at a distance without contact.
+Consequently, all of this is not understood and is incorrectly "explained." Modern physics does not search for this triad; it attempts to manage without it. And it is precisely for this reason that it arrives at absurd descriptions. I assert that science has been fundamentally incapable of explaining a single serious physical process to this day.  
+Even in the process of utilizing a lever, only the lever arms are correctly calculated, whereas they do not know what the levers are constructed of (surely not out of empty atoms) and why that which is "heavy" is heavy. What, in fact, is being turned by the levers? What exactly has science explained?
 
-In my hypothesis, this is excluded.
+**3. The Fundamental Law of Physics**
 
-For anything to occur, there must be:
+The fundamental law of the new physics: the motion of an object is possible exclusively under contact, unbalanced, continuous pressure from other objects.  
+This is not merely one of the laws. This is precisely the fundamental law of physics. Because the entire physical world represents moving matter, and all processes within it are exclusively the motion of matter.
 
-1. carriers — real material participants of the process,  
-2. contact — physical interaction between these participants,   
-3. pressure — that is, transmission of influence through pressing, impact, vibration, compression.
+And if one blunders regarding the cause of motion, the error will subsequently propagate into absolutely everything else: into mechanics, into light, into electricity, into gravitation, into the configuration of the atom, and into cosmology. Modern physics does not comprehend this law. 
 
-**This is the great triad of the new physics: carriers — contact — pressure.**
-Any real process can be understood only when all three elements are present.
-If at least one element is missing — the process is not understood.
+And the error has propagated into everything enumerated above. Consequently, there emerge within its framework: inertia as an autonomous, enigmatic capability; particles flying devoid of a mover; electrons executing motion without a cause; photons flying within a void; and "shards" of the Big Bang somehow scattering entirely on their own.
 
-When you press a key with your finger, you clearly understand what is happening:
+Yet if one accepts the fundamental law of physics, then much becomes self-evident.  
+•	A photon cannot execute motion, because for motion to occur, a mover is required.  
+•	An electron cannot execute motion inside an empty atom, because a mover is required.  
+•	"Quantum particles" cannot execute motion entirely on their own.  
+•	The "point" of the Big Bang could not scatter apart, given that there was no one to push its "shards."   
+•	Electrons cannot flow on their own inside a conductor, because without continuous contact interaction, motion will not occur.
 
-— the finger and the key are the carriers,  
-— their contact is the interaction,  
-— the pressing is the pressure.
+Within all these cases, modern science is forced to fantasize. Conversely, within Aol physics, the mover is present — the aol space.
 
-That is why a comment on the internet actually appears.
+**4. That Which Matter Can and Cannot Execute**
 
-Now try to apply the same triad to modern favorite concepts of physics.
-
-To the field — does it apply? No.  
-To attraction — does it apply? No.  
-To an empty atom — does it apply? No.  
-To a flying photon — does it apply? No.
-
-Which means none of this is understood.
-Modern physics does not seek this triad. It tries to do without it. And that is precisely why it arrives at absurd descriptions.
-
-**3. The main law of physics**
-
-If everything is reduced to ultimate simplicity, the main law of the new physics emerges: the motion of an object is possible only under unbalanced, contact, continuous pressure from other objects.
-
-This is not just one of the laws. It is the main law.
-Because the entire physical world is moving matter, and all processes within it are only motion of matter.
-
-And if one makes a mistake in the cause of motion, the error will propagate into everything else:
-
-— mechanics,  
-— light,  
-— electricity,  
-— gravitation,  
-— the structure of the atom,  
-— cosmology.
-
-Modern physics does not understand this law.
-
-That is why it introduces:
-
-— inertia as an independent mysterious property,  
-— particles flying without a driver,  
-— electrons supposedly moving without a cause,  
-— photons flying in empty space,  
-— fragments of the Big Bang somehow dispersing on their own.
-
-But if one takes the main law of physics seriously, much becomes obvious.
-A photon cannot move, because motion requires a driver.  
-An electron cannot move in an empty atom, because a driver is required.  
-“Quantum particles” cannot move by themselves.  
-The point of the Big Bang could not have dispersed, because there was nothing to push its fragments.  
-Electrons cannot flow in a conductor by themselves, because without continuous contact action there will be no motion.
-
-In all these cases, modern science is forced to speculate.
-But in the new physics, the driver exists — aol space.
-
-**4. What matter can and cannot do**
-
-Matter cannot arise spontaneously.  
+Matter cannot spontaneously originate.  
 Matter cannot create new matter out of nothing.  
-Matter cannot create new matter from itself without changing itself at all.
+Matter cannot manufacture new matter out of itself without altering itself in the slightest.
 
-These are very simple statements, yet modern physics violates them at almost every step.
-When it speaks about the creation of particles “from nothing,” about fields that arise as independent entities, about quantum fluctuations, about the production of photons, gluons, bosons, or anything else within “elementary” particles, it effectively attributes to matter the abilities of a magician, rather than a participant of the real world.
+These are highly vital assertions that modern physics violates exceedingly often. When it speaks of the birth of particles "out of nothing," of fields that emerge as an autonomous entity, of quantum fluctuations, of the production of photons, gluons, bosons, and other things inside "elementary" particles, it factually ascribes to matter the capability to act as a magician, rather than as a participant of the real world.
 
-In my hypothesis, there is no such trick.
+Within Aol physics, matter can execute motion, alter its form of motion, transmit motion, and enter into new configurations of assemblies. Throughout all of this, matter is passive, and everything enumerated transpires exclusively under the action of the aol space. If a new object manifests anywhere, it signifies only one thing: already existing matter has reconfigured.
 
-Matter can only:
+Matter possesses zero mysterious charges or "inherent abilities."  If anywhere we witness that which science terms a charge, it implies that behind it stands a specific form of the aols' motion. If a field is witnessed anywhere, it implies that an ordered motion of the aols is present there. Electrical and magnetic fields represent not "specific, immaterial, mathematical forces," but different forms of organized motion of the aol medium. This cardinally simplifies physics and returns it into the domain of common sense, devoid of any fantasies concerning the "fabrics" of fields and space.
 
-— move,  
-— change the form of motion,  
-— transmit motion,  
-— enter new configurations.
+**5. There Is No Void inside the Universe** 
 
-And that is all.
-If a new object appears somewhere, it means only one thing: existing matter has reorganized.
+Science is deeply mistaken in considering that the primary part of the Universe is a void. There is zero emptiness in nature. Furthermore, it is unattainable by any methods. It is fundamentally impossible to scatter aols apart to form a void, given that for something to execute motion, "it" must be pushed via contact, whereas a void will never push.
 
-**5. Matter can only move**
+The entire Universe is filled with matter — the aol space. A void larger than the clearances between tightly touching aols exists nowhere. A formed void the volume of an aol will be instantaneously occupied by an aol.
 
-In essence, matter has only one ability — to move. Vibrations are a particular case of motion. Rotation is a particular case of motion.
-Oscillations are a particular case of motion.
+This is an exceptionally vital proposition, because it is precisely what removes the problem of the "empty atom," removes the problem of "empty space," renders the transmission of interactions possible, and explains light, gravitation, electricity, and inertia. If a void is absent, it implies that interactions cease to be "magical." They acquire a carrier.
 
-There are no mysterious charges, fields, entities, or “innate abilities” in matter.
-If somewhere we observe what science calls charge, it means that behind it there is a specific form of motion of aols.
+**6. The Universe Is Mechanistic and Unified**
 
-If somewhere a field is observed, it means that there is ordered motion of aols.
+Science itself acknowledges that within the world of solid bodies, liquids, and gases, everything is mechanistic. There, it does not dispute that exclusively contact pressure operates. Yet for some reason, the moment the discourse shifts to the micro-world, it declares that everything there is different. It claims that other laws, another type of nature, and other principles operate there — principles that are impossible and paradoxical. This represents one of the greatest errors.
 
-In this sense:  
-— the electric and the magnetic are not “special immaterial forces,”  
-— but merely different forms of organized motion of the aol medium.
+It was an error to divide the world.  
+The micro-world and the macro-world do not exist as different worlds. There is a unified world of matter. It does not divide by dimensions. It is man who divides it due to the limitations of human vision. Nature, conversely, is not divided. The world is unified. Its laws are unified. And this represents one of the most vital consequences of the hypothesis concerning the aol space — it aggregates physics into a single whole.
 
-This radically simplifies physics and returns it to the domain of common sense.
+**7. The Primary Mover of the Universe**
 
-**6. There is no emptiness in the Universe**
+The primary and sole Mover of the Universe is the aol space.  
+It is precisely this space that constructs atoms and macro-objects, sustains them as objects, ensures their existence, imparts motion, triggers and supports all processes, and yields everything that physics terms "energy." It is the sole active participant of the Universe. It governs passive matter.
 
-Science is deeply mistaken in believing that most of the Universe is empty.
-There is no emptiness in nature.
-And it is unattainable by any means.
-Even theoretically.
+Science searches unsuccessfully for energy inside atoms, inside bonds, inside fields, and inside quantum entities. Yet energy is not an entity. There is exclusively moving matter capable of moving other matter. And it is precisely the aol space that represents that universal mover which yields all processes to the world.
 
-The entire Universe is filled with matter — aol space. There is nowhere any emptiness greater than the tiny gaps between tightly contacting aols.
+**8. Not Attraction, but Pressure**
 
-This is a very important statement, because it:
+Attraction does not exist in nature. Neither gravitational pull, nor electrical attraction as a mysterious action-at-a-distance, nor magnetic pull, nor indeed any other kind of remote attraction. Such a mechanism is nonexistent. It can neither be modeled nor explained. Many problems in physics stem from the acknowledgment of attraction as existing, given that within physics, it is precisely attraction that is designated as the baseline interaction. Science has appointed a nonexistent interaction to be the baseline interaction.
 
-— removes the problem of the “empty atom,”  
-— removes the problem of “empty space,”  
-— makes the transmission of interactions possible,  
-— explains light, gravitation, electricity, and inertia.
+The baseline and solitary action is pressure. And if something anywhere in the world occurs, it signifies that one part of matter has pressed upon another. Zero other action exists.
 
-If there is no emptiness, then interactions do not have to be “magical.” They have a carrier.
+**9. What the Sun Actually Executes**
 
-**7. The Universe is mechanical and unified**
+The Sun does not attract planets. This is a highly unusual thought, yet it is precisely how things are. The Sun repels planets with its vibrations, just as any bodies repel one another with their vibrations transmitted through the aol space.
 
-Science itself acknowledges that in the world of solids, liquids, and gases everything is mechanical. There, it does not dispute that only contact pressure acts.
+Furthermore, what presses the planets toward the Sun is not a mythical attraction, not the curved space of Einstein, and not hypothetical gravitons, but the vibrational pressure of the aol space. Due to the screening effect between the two bodies, this pressure turns out to be less than from the outer side.
 
-But for some reason, as soon as it comes to the microworld, it declares that everything is different there. That different laws apply, a different type of nature, other principles — impossible and paradoxical.
+Due to the screening between the Sun and the planets, the pressure is less, whereas from the outside the pressure is greater, and the planets are pressed toward the Sun. The same applies to the satellites of planets, to bodies upon the Earth, and to all objects in general. Everything is repelled by the vibrations of bodies, and everything is pressed down by the predominant action of the aol space due to screening.
 
-This is one of the greatest mistakes.  
-There is no separate microworld and macroworld.  
-There is a single world of matter.  
-It is not divided by size.  
-It is the human observer who divides it due to the limitations of perception.  
-Nature itself is not divided.
-The laws are unified.
 
-The world is one.
-And this is one of the greatest consequences of the hypothesis of aol space — it brings physics into a single whole.
+**10. What Energy Actually Is in Reality**
 
-**8. The main driver of the Universe**
-
-Now we can name the central entity of the new physics.
-The main and only driver of the Universe is aol space.
-
-It is precisely this that:
-
-— creates atoms and macro-objects,  
-— holds them as objects,  
-— ensures their existence,  
-— provides motion,  
-— initiates and sustains all processes,  
-— provides everything that physics calls “energy.”
-
-Science unsuccessfully searches for energy:  
-— in atoms,  
-— in bonds,  
-— in fields,  
-— in quantum entities.
-
-But energy is not an entity.
-There is only moving matter capable of moving other matter.
-And it is aol space that is the universal driver that gives the world all processes.
-
-**9. Not attraction, but pressure**
-
-Attraction does not exist in nature.
-Neither gravitational attraction, nor electrical attraction as some mysterious action at a distance, nor magnetic attraction, nor any kind of “pull me from afar.”
-Such a mechanism does not exist.
-
-It cannot be constructed, modeled, or explained.
-The fundamental action in nature is not attraction.
-The fundamental and only action is pressure.
-
-And if something happens somewhere in the world, it means that one part of matter has pressed on another.
-There is no other kind of action.
-All the problems of physics arise from recognizing attraction as something that exists.
-
-**10. What the Sun actually does**
-
-The Sun does not attract the planets.
-This is a very unusual idea, but it is so.
-The Sun repels the planets with its vibrations, just as all bodies repel each other through their vibrations transmitted via aol space.
-
-And what presses the planets toward the Sun is not mythical attraction, but the vibrational pressure of aol space, which, due to screening between two bodies, is lower than on the outside.
-
-That is why the pressure between the Sun and a planet is lower, the pressure outside is higher, and the planet is pressed toward the Sun.
-The same applies to satellites around planets, to bodies on Earth, to all objects in general.
-
-**11. What energy really is**
-
-Energy as an independent entity does not exist.
-This is extremely important.
-Energy is not an object of the world.
-
+Energy does not exist as an independent entity. Energy is not an object of the world.  
 It is not a substance.  
 It is not a force.  
 It is not a carrier.  
-It is only a characteristic of the ability of a material object to exert influence.
+It is merely a mathematical characteristic of a material object's capability to interact. Just like force, energy itself executes nothing. It is not force that strikes; it is the body that strikes. And subsequently, this action can be characterized by force. It is exactly the same with energy.
 
-Like force, energy does nothing by itself. It is not force that strikes — it is a body that strikes. And this action can then be characterized by force. The same applies to energy.
+Therefore, it is fundamentally impossible to assert that bodies, atoms, or particles possess some manner of enigmatic inherent energy by virtue of which they are eternally active. That is meaningless. Atoms possess zero inherent energy. They merely receive and transmit the interaction of the aol space. The thermal motion of atoms is explainable exclusively by the fact that the aol medium continuously oscillates them. Inside a substance, there would be nothing to "shake" the atoms were there no external mover.  
+**The alternative to energy is the aol space — the Mover of all processes.**
 
-Therefore, one cannot say that bodies, atoms, or particles possess some mysterious intrinsic energy by which they remain constantly active.
-This is meaningless.
+**11. Mass Does Not Convert into Energy**
 
-Atoms do not possess their own energy. They only receive and transmit the influence of aol space.
-The thermal motion of atoms can be explained only by the fact that they are continuously oscillated by the aol medium. Inside matter, there would be nothing to “shake” the atoms if there were no external driver.
+Energy cannot convert into mass, and mass cannot convert into energy. It is precisely because energy is not an entity, but a characteristic. When they speak of the conversion of mass into energy, they factually substitute the physical essence with mathematical language.  
+During an atomic blast, it is not the "liberated bond energy" that acts. What acts is the external medium — the aol space, violently reconfiguring itself under the new configuration of matter that altered its volumes and the surface area of contact with the squeezing medium. 
 
-**12. Mass does not turn into energy**
+The medium receives an unbelievable shaking and vibrations during such a reconfiguration.  
+That is to say, once again, it is not energy that acts. The aol space acts. Within the world, absolutely nothing can act except the aol space. Matter is passive. Man, within his actions that appear independent to him, is concurrently a manifestation of the action of the aol space. Devoid of the aol space, he not only would be incapable of executing motion, but he concurrently would be incapable of thought. Indeed, he would instantaneously disintegrate into aols altogether.
 
-Energy cannot turn into mass.
-Mass cannot turn into energy.
+**12. Inertia Is Not an Inherent Property of Bodies**
 
-Precisely because energy is not an entity, but a characteristic.
-When people speak about the transformation of mass into energy, they are in fact replacing physical essence with mathematical language.
+Modern physics considers that a body possesses an inherent, internal property to resist displacement, even if it is located within a void and rests against absolutely nothing. For me, this is one of the most absurd ideas in the entirety of physics. How can a body resist displacement if it has nothing to brace against, nothing to rest against? It is fundamentally impossible.
 
-In an atomic explosion, it is not “released binding energy” that acts. It is the external medium — aol space — violently restructuring itself in response to a new configuration of matter that has changed its volumes and the area of its contact with the surrounding compressing medium. The medium receives an enormous disturbance and vibrations during this restructuring.
+It is not the body itself that resists displacement, but its interaction with the medium. The stronger this interaction, the more difficult it is to shift the body. That is to say, inertia is not an internal, magical quality of a body. It is the result of its interaction with the aol space. The magnitude of the interaction depends upon the mass of the body — its volumetric aol windage, the quantity of bound aols and lunols.
+ 
+Furthermore, motion "by inertia" is motion driven by the pressure of the aol wedges that the medium forms during the body's motion. In halting a moving body, one is forced to overcome the pressure of the aol wedges. It is not the body that presses, but the aol space through its wedges. A bullet is absolutely harmless. It is identical both when it lies still and when it flies. What is dangerous is the pushing aol space behind the flying bullet.
 
-That is, once again, it is not energy that acts.
-Matter acts.
-It is always matter that acts.
+**13. The Great Unifier**
 
-**13. Inertia is not an intrinsic property of bodies**
+Physicists have long fantasized about a Grand Unification. They do not need to search for it. The Unification already exists. All interactions are unified in the action of the aol space. Weak, strong, electromagnetic, and gravitational processes represent not four different kinds of "magic" incomprehensible to science, but four different manifestations of the operation of one and the exact same medium.
 
-Modern physics assumes that a body has an innate internal property of resisting motion, even if it is in empty space and not in contact with anything.
+The aol space:  
+•	Sustains atomic structures by pressure.  
+•	Creates gravitational phenomena via the screening effect of pressure.  
+•	Ensures electrical and magnetic phenomena via the ordered motion of the aols.  
+•	Ensures luminous and thermal phenomena via vibrations and the transmission of tiny impacts.  
+•	Ensures absolutely everything.  
+•	I am writing right now, and you are reading, by virtue of the aol space.  
+**The aol space is precisely the Great Unifier.** It governs everything; it moves everything.
 
-To me, this is one of the most absurd ideas in all of physics.
-How can a body resist motion if it has nothing to push against?
-This is impossible.
+**14. Photons, Neutrinos, Quanta, and Higgs Bosons**
 
-It is not the body itself that resists motion, but its interaction with the medium. The stronger this interaction, the harder it is to move the body.
+Neither photons, nor neutrinos, nor Higgs bosons, nor any other such entities possess any real mechanical foundation in the guise that modern science describes them. It is fundamentally impossible to fantasize and:  
+•	Permeate space with flying photons — which are part wave, part corpuscle;  
+•	Consider that neutrinos pass through everything without interaction;  
+•	Ascribe to the Higgs sea the capability to endow mass without explaining the mechanism of mass transmission, without explaining what this fantastical sea consists of, and why it invariably maintains one and the same density during the expansion of the Universe;  
+•	Consider that particles emit other particles, generating matter out of nothing or out of themselves without altering.
 
-That is, inertia is not an internal magical property of a body.
-It is the result of its interaction with aol space.
-And motion “by inertia” is motion due to the pressure of aol wedges, which the medium forms when the body moves.
+All these fantasies represent attempts to salvage an incorrect picture of the world by means of more and more new mathematical superstructures. If you fantasize — explain. Science does not explain its fantasies; it has become infatuated with mathematics within its fantasies. "Shut up and calculate" is not physics.
 
-**14. The Great Unifier**
+**15. The Atom Is Not Empty**
 
-Physicists have long dreamed of a Great Unification. There is no need to struggle for it.
-The unification already exists.
+An empty, rigid atom cannot exist. Electrons flying within a void cannot resist pressure while possessing zero support. It is fundamentally impossible to brace oneself against a void.  
+The atom, in reality, is structured otherwise. It is rigid. It is not empty. It does not consist of an almost absolute void. Concurrently, the clearances between atoms are not empty; they are filled with the aols of space. It is precisely for this reason that the world is perceived as dense, rigid, stable, and real, rather than as a mirage composed of flying points and disembodied rigid fields.  
+Substance within the Earth is not the size of a fist or a finger, as science asserts. Substance within the Earth is vast — the entire Earth.
 
-All interactions are unified in the action of aol space.
-Weak, strong, electromagnetic, and gravitational processes are not four different kinds of magic, but four different manifestations of the same medium.
+**16. A Big Bang of a Point Is Fundamentally Impossible**
 
-Aol space:  
-— holds atomic structures through pressure,  
-— creates gravitational phenomena through pressure screening,  
-— creates electrical and magnetic phenomena through ordered motion of aols,  
-— creates light and thermal phenomena through vibrations and the transmission of micro-impacts.
+Out of a point, one can manufacture a comma. However, one cannot manufacture the Universe. No matter how one blasts a point — even with the absolute "Big" Bang — it is fundamentally impossible to obtain out of it an infinitely extended Universe filled with a gigantic quantity of matter. A point acting as the source of the Universe is one of the greatest fantasies of science, vastly more absurd than a flat Earth beneath a celestial dome. We laugh at the views of the ancients, yet we fabricated a more foolish design of the cosmos.
 
-It is the Great Unifier. It governs everything, it drives everything.
+**17. Particles Are Fundamentally Incapable of Emitting Other Particles**
 
-**15. Waves and light**
+Particles cannot emit other particles. Because for this to occur, it is required to: manufacture new matter, possess a source of raw materials, possess an assembly mechanism, and possess a mover for ejection. Official physics demonstrates none of this. To state "emitted" is not an explanation. It is a testament to a total failure to comprehend how something material is made. A particle is fundamentally incapable of manufacturing something and hurling it.
 
-There is only one type of wave in nature — mechanical.
-Light and electromagnetic processes are no exception.
-There are no transverse waves in empty space.
+Within the Aol model, everything is simpler: passive matter possesses only a solitary capability — to execute motion. Concurrently, it is the aol space that moves it. Therefore, there is zero necessity to populate the world with an infinite multitude of emitted, absorbed, and decaying entities.
 
-There are no self-oscillating electric and magnetic sinusoids traveling for unknown reasons, made of unknown substance.
+**The Great Trio of Aol Physics**
 
-Light is longitudinal mechanical waves of compression and rarefaction, transmitted by aols of space.
-This also explains its speed.
-Aol space is dense and consists of extremely hard aols. This is precisely what gives a speed on the order of 300,000 kilometers per second.
+If states exceedingly briefly, the essence of Aol physics lies within the Great Trio:  
+1.	In place of a mysterious "energy," the hypothesis yielded **the Mover for all processes — the vibrating and pressing aol space.** That is to say, moving matter that moves everything.  
+2.	The hypothesis indicated the solitary type of action within the physical world — **contact pressure.**  
+3.	The hypothesis explained motion for the first time and yielded **the fundamental law of physics: motion is possible exclusively under unbalanced, contact, continuous pressure.**
 
-**16. Photons, neutrinos, quanta, Higgs bosons**
-
-Neither photons, nor neutrinos, nor Higgs bosons, nor other similar entities have a real mechanical basis in the form described by modern science.
-
-One cannot:  
-— fill space with flying photons,  
-— assume that neutrinos pass through everything without interaction,  
-— attribute to Higgs bosons or the Higgs field the ability to give mass without explaining the mechanism of mass transfer,  
-— assume that particles emit other particles, creating matter from nothing or from themselves without changing.
-
-All these constructions are attempts to save an incorrect picture of the world by adding more and more layers.
-
-**17. The atom is not empty**
-
-A hollow solid atom cannot exist.
-Electrons flying in empty space cannot resist pressure without support.
-One cannot lean on emptiness.
-
-The atom is in fact structured differently.
-It is solid.
-It is not empty.
-It does not consist of almost absolute emptiness.
-
-The spaces between atoms are also not empty. They are filled with aols of space.
-That is why the world is perceived as dense, solid, stable, and real — not as a mirage of scattered points.
-
-**18. A Big Bang from a point is impossible**
-
-From a point, one can make a comma.  
-But one cannot make a Universe.  
-No matter how one explodes a point, even with the “biggest” explosion, it is impossible to obtain from it an infinitely extended Universe filled with matter, motion, temperature, and structure.
-A point as the source of the Universe is one of the crudest fantasies of science.
-
-**19. Particles cannot emit other particles**
-
-This is one of the most important conclusions of the new physics.
-Particles cannot emit other particles.
-
-Because for that, it would be necessary to:  
-— create new matter,  
-— have a source of raw material,  
-— have a mechanism of assembly,  
-— have a driver for ejection.
-
-Official physics does not demonstrate any of this.
-
-In my hypothesis, everything is simpler: matter has only one ability — to move.
-And it is moved by aol space.
-Therefore, there is no need to populate the world with a fantastic multitude of emitted, absorbed, and decaying entities.
-
-**The Great Trio of the new physics**
-
-If the entire book is reduced to its shortest conclusion, it becomes the Great Trio of the new physics.
-
-1. The hypothesis, for the first time, identified the Driver of all processes.
-Not a mysterious energy, but a real driver — vibrating and pressing aol space.
-
-2. The hypothesis identified the only type of action in the physical world.
-This is contact pressure.
-
-3. The hypothesis provided a criterion for verifying any understanding.
-The truth of understanding any process is checked by the main law of physics:
-**motion is possible only under unbalanced, contact, continuous pressure.**
-This law makes it possible to immediately recognize incorrect explanations: if a description of a process lacks a carrier, contact, and pressure — the explanation is incomplete.
-
+By this law, one can and must verify the truth of understanding any process. If within the description of a process there is an absence of a carrier, contact, and pressure — an explanation does not exist.  
+Absolutely everything else is a consequence of these three primary discoveries of Aol physics.
 
 
 
