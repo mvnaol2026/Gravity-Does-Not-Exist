@@ -82,8 +82,6 @@ Chapter 28. How the theory of relativity arose — and what would happen if a me
 
 Chapter 30. Electric current
 
-Chapter 31. Induction — transmission of motion
-
 Chapter 32. Electric Charge and Magnetism as Forms of Aol Motion
 
 Chapter 33. Transfer of Electric Charge — Mechanism
