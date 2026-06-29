@@ -118,13 +118,11 @@ A conceptual mechanical model of physical processes based on:
 * [Chapter 23. What is “energy”](/EN/07_chapters_21-26.md#chapter-23-what-is-energy)
 * [Chapter 24. Heat](/EN/07_chapters_21-26.md#chapter-24-heat)
 * [Chapter 26. Light](/EN/07_chapters_21-26.md#chapter-26-light)
-* [Chapter 27. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_27-32.md#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
-* [Chapter 28. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_27-32.md#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
-* [Chapter 30. Electric current](/EN/08_chapters_27-32.md#chapter-30-electric-current)
-* [Chapter 32. Electric Charge and Magnetism as Forms of Aol Motion](/EN/08_chapters_27-32.md#chapter-32-electric-charge-and-magnetism-as-forms-of-aol-motion)
-* [Chapter 33. Transfer of Electric Charge — Mechanism](/EN/09_chapters_33-37.md#chapter-33-transfer-of-electric-charge--mechanism)
-* [Chapter 36. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_33-37.md#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
-* [Chapter 37. Fields](/EN/09_chapters_33-37.md#chapter-37-fields)
+* [Chapter 27. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_27-30.md#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
+* [Chapter 28. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_27-30.md#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
+* [Chapter 30. Electric current](/EN/08_chapters_27-30.md#chapter-30-electric-current)
+* [Chapter 36. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_36-37.md#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
+* [Chapter 37. Fields](/EN/09_chapters_36-37.md#chapter-37-fields)
 * [Chapter 38. Magnetic field](/EN/10_chapters_38-42.md#chapter-38-magnetic-field)
 * [Chapter 39. Magnet. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-39-magnet-interaction-of-magnets)
 * [Chapter 41. Ether](/EN/10_chapters_38-42.md#chapter-41-ether)
@@ -149,8 +147,8 @@ A conceptual mechanical model of physical processes based on:
 * [05_chapters_12-16.md](EN/05_chapters_12-16.md) — Chapters 12–16.
 * [06_chapters_17-20.md](EN/06_chapters_17-20.md) — Chapters 17–20.
 * [07_chapters_21-26.md](EN/07_chapters_21-26.md) — Chapters 21–26.
-* [08_chapters_27-32.md](EN/08_chapters_27-32.md) — Chapters 27–32.
-* [09_chapters_33-37.md](EN/09_chapters_33-37.md) — Chapters 33–37.
+* [08_chapters_27-30.md](EN/08_chapters_27-30.md) — Chapters 27–30.
+* [09_chapters_36-37.md](EN/09_chapters_36-37.md) — Chapters 36–37.
 * [10_chapters_38-42.md](EN/10_chapters_38-42.md) — Chapters 38–42.
 * [11_chapters_43-48_and_afterword.md](EN/11_chapters_43-48_and_afterword.md) — Chapters 43–48 and Afterword.
 
