@@ -43,7 +43,7 @@ The original text was completed in Kyiv on May 10, 2026.
 - [Chapter 8. Aol Space and the Structure of Small Universes](#chapter-8-aol-space-and-the-structure-of-small-universes) 
 - [Chapter 10. Lunols — How the Basis of Matter Is Born from a Smooth Sphere](#chapter-10-lunols--how-the-basis-of-matter-is-born-from-a-smooth-sphere) 
 - [Chapter 11. Atom: an Empty Fantasy or a Real Structure?](#chapter-11-atom-an-empty-fantasy-or-a-real-structure)
-- [Chapter 12. Atoms — How Matter Is Built from Aols and Lunols](#chapter-12-atoms---how-matter-is-built-from-aols-and-lunols)  
+- [Chapter 12. Atoms — How Matter Is Built from Aols and Lunols](#chapter-12-atoms--how-matter-is-built-from-aols-and-lunols)  
 - [Chapter 13. Molecules — How Atoms Assemble into Matter](#chapter-13-molecules---how-atoms-assemble-into-matter)
 - [Chapter 14. Gas, Liquid, and Solid — How Matter Behaves](#chapter-14-gas-liquid-and-solid---how-matter-behaves)
 - [Chapter 15. On Atomic Vibrations — What Really "Shakes" Matter](#chapter-15-on-atomic-vibrations---what-really-shakes-matter) 
