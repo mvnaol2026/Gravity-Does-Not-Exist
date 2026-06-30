@@ -36,9 +36,9 @@ The original text was completed in Kyiv on May 10, 2026.
 - [Chapter 1. What This Book Is About](#chapter-1-what-this-book-is-about)
 - [Chapter 2. What Exists in the World](#chapter-2-what-exists-in-the-world) 
 - [Chapter 3. The Fundamental Law of Physics](#chapter-3-the-fundamental-law-of-physics)
-- [Chapter 4. Four Types of Mechanics](#chapter-4-four-types-of-mechanics) Four types of mechanics
-- [Chapter 5. Space Is Not a Void. The Mover](#chapter-5-space-is-not-a-void-the-mover)
-- [Chapter 6. Aols — The Primary Elements of the World](#chapter-6-aols---the-primary-elements-of-the-world)
+- [Chapter 4. The Four Types of Mechanics](#chapter-4-the-four-types-of-mechanics)
+- [Chapter 5. Space Is Not Empty. The Driving Medium](#chapter-5-space-is-not-empty-the-driving-medium)
+- [Chapter 6. Aols — The Primary Elements of the World](#chapter-6-aols--the-primary-elements-of-the-world) 
 - [Chapter 7. A Mad World Out of a Point](#chapter-7-a-mad-world-out-of-a-point)
 - [Chapter 8. Aol Space and the Design of Small Universes](#chapter-8-aol-space-and-the-design-of-small-universes)
 - [Chapter 10. Lunols — How the Foundation of Matter Is Born Out of a Smooth Sphere](#chapter-10-lunols---how-the-foundation of-matter-is-born-out-of-a-smooth-sphere)
@@ -243,7 +243,7 @@ Aol physics utilizes the criterion of mechanical causality exclusively. Here, an
 
 
 
-**Chapter 1. WHAT THIS BOOK IS ABOUT**
+## Chapter 1. WHAT THIS BOOK IS ABOUT
 
 Since childhood, humans have lived in a world that feels intuitive and understandable. A stone falls downward. Fire warms us. A lightbulb shines. A magnet attracts iron. A battery provides electric current. All of this is so familiar that it rarely prompts any questions. We make use of natural phenomena as if they were a given, seldom contemplating what is actually taking place.
 
