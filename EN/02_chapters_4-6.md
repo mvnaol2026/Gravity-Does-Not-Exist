@@ -402,4 +402,3 @@ However, knowing the properties of individual isolated "bricks" is insufficient.
 
 Answering this question requires a transition from the statics of a single particle to the dynamics of the entire aol medium as a whole. We need to investigate how pressure is distributed within this gigantic array of spheres, why zones of colossal compression arise inside it, and under the influence of what forces a portion of the aols are forced to transform.
 
-This transition — from individual bricks to the hyperactive, vibrating, and pressing medium of the Universe — is precisely what the next chapter is dedicated to.
