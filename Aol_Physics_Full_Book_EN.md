@@ -60,7 +60,7 @@ The original text was completed in Kyiv on May 10, 2026.
 - [Chapter 27. The Michelson Experiment and Why the Wrong Ether was Searched for](#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-searched-for)
 - [Chapter 28. How Relativity Theory Emerged — and What Would Happen if a Medium Existed](#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed) 
 - [Chapter 30. Electric Current](#chapter-30-electric-current)
-- [Chapter 36. Electromagnetic Waves — Transmission of Oscillations](#chapter-36-electromagnetic-waves--transmission-of-oscillations)
+- [Chapter 36. Electromagnetic Waves — The Transmission of Vibrations](#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
 - [Chapter 37. Fields](#chapter-37-fields)
 - [Chapter 38. Magnetic Field](#chapter-38-magnetic-field)
 - [Chapter 39. Magnet. Interaction of Magnets](#chapter-39-magnet-interaction-of-magnets)
