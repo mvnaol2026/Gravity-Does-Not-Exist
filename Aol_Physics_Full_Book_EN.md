@@ -45,7 +45,7 @@ The original text was completed in Kyiv on May 10, 2026.
 - [Chapter 11. Atom: an Empty Fantasy or a Real Structure?](#chapter-11-atom-an-empty-fantasy-or-a-real-structure)
 - [Chapter 12. Atoms — How Matter Is Built from Aols and Lunols](#chapter-12-atoms--how-matter-is-built-from-aols-and-lunols)  
 - [Chapter 13. Molecules — How Atoms Assemble into Matter](#chapter-13-molecules--how-atoms-assemble-into-matter)
-- [Chapter 14. Gas, Liquid, and Solid — How Matter Behaves](#chapter-14-gas-liquid-and-solid---how-matter-behaves)
+- [Chapter 14. Gas, Liquid, and Solid — How Matter Behaves](#chapter-14-gas-liquid-and-solid--how-matter-behaves)
 - [Chapter 15. On Atomic Vibrations — What Really "Shakes" Matter](#chapter-15-on-atomic-vibrations---what-really-shakes-matter) 
 - [Chapter 16. Chemical Processes](#chapter-16-chemical-processes)
 - [Chapter 17. Inertia](#chapter-17-inertia)
