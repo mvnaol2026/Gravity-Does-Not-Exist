@@ -34,9 +34,9 @@ The original text was completed in Kyiv on May 10, 2026.
 
 - [Introduction](#introduction)
 - [Chapter 1. What This Book Is About](#chapter-1-what-this-book-is-about)
-- [Chapter 2. What Exists inside the World](#chapter-2-what-exists-inside-the-world)
+- [Chapter 2. What Exists in the World](#chapter-2-what-exists-in-the-world) 
 - [Chapter 3. The Fundamental Law of Physics](#chapter-3-the-fundamental-law-of-physics)
-- [Chapter 4. Four Types of Mechanics](#chapter-4-four-types-of-mechanics)
+- [Chapter 4. Four Types of Mechanics](#chapter-4-four-types-of-mechanics) Four types of mechanics
 - [Chapter 5. Space Is Not a Void. The Mover](#chapter-5-space-is-not-a-void-the-mover)
 - [Chapter 6. Aols — The Primary Elements of the World](#chapter-6-aols---the-primary-elements-of-the-world)
 - [Chapter 7. A Mad World Out of a Point](#chapter-7-a-mad-world-out-of-a-point)
