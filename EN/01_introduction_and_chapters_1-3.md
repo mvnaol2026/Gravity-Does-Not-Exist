@@ -144,7 +144,7 @@ At the core of the prolonged crisis in modern natural science lie fatal misconce
 
 Here is a list of some of **the fatal misconceptions of science:**
 
-1. **Recognition of the existence of attraction** as a fundamental, inherent property of matterThe 
+1. **Recognition of the existence of attraction** as a fundamental, inherent property of matter 
 2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
 3. **Empty atoms** with chaotically flying massless or point particles
 4. **The presence of a "mysterious internal energy" inside atoms**
