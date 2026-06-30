@@ -140,7 +140,7 @@ A conceptual mechanical model of physical processes based on:
 ## 📚 Repository Structure
 
 ### 🌍 Monolithic Full-Text Files (Root Directory)
-- `Aol_Physics_Full_Book_EN.md` — Complete text of the book in English (approx. 300 pages)
+- [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. 300 pages)
 
 ### 🇬🇧 English Version (`/EN/`)
 * [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
@@ -276,7 +276,7 @@ A conceptual mechanical model of physical processes based on:
 ## 📚 Репозиторий 
 
 ### 🌍 Monolithic Full-Text Files (Root Directory)
-- `Aol_Physics_Full_Book_RU.md` — Полная версия книги на русском языке (около 300 страниц)
+- [Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md) — Полная версия книги на русском языке (около 300 страниц)
 
 ### Russian Version (`/RU/`)
 * [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — От автора, оглавление, введение и главы 1–3 / Preface, TOC, introduction & chapters 1-3.
