@@ -8,9 +8,9 @@ notice: Этот файл содержит полный текст книги "�
 # ПРИТЯЖЕНИЯ НЕ СУЩЕСТВУЕТ 
 ## АОЛЬНАЯ ФИЗИКА. УСТРОЙСТВО ФИЗИЧЕСКОГО МИРА
 
-**Author / Автор:** Vyacheslav, M.V.N. (MvnAol2026)
-**Affiliation / Локация:** Kyiv, Ukraine
-**Date / Дата:** May 10, 2026
+**Author / Автор:** Vyacheslav, M.V.N. (MvnAol2026)  
+**Affiliation / Локация:** Kyiv, Ukraine  
+**Date / Дата:** May 10, 2026  
 **Publication Index / Индекс публикации:** № ДИУ-917.671.014
 
 ## Abstract / Аннотация
