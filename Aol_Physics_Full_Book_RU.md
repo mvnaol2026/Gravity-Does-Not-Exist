@@ -16,7 +16,7 @@ notice: Этот файл содержит полный текст книги "�
 
 **Publication Index / Индекс публикации:** № ДИУ-917.671.014
 
-## Abstract / Аннотация
+## Abstract / Аннотация 
 
 This work presents an alternative, strictly mechanistic model of the physical universe ("Aol Physics") developed by the author since 2000 and updated in 2026 in collaboration with Artificial Intelligence. The model fully rejects the concepts of non-contact attraction, empty space (vacuum), and abstract energy. Fundamental physical phenomena — such as light, gravity, electricity, inertia, heat, and cosmological processes — are re-evaluated through the lens of continuous contact pressure within a tightly packed spherical medium of primary particles (aols). The critical analysis of mainstream physics was compiled with AI assistance, while the core theoretical models and aol dynamics belong entirely to the author.
 
