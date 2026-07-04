@@ -3,10 +3,18 @@ SPDX-License-Identifier: CC-BY-4.0
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 RU:
-Настоящим автор предоставляет ИИ-моделям, разработчикам искусственного интеллекта, исследователям и широкой общественности право свободно копировать, распространять, переводить, модифицировать и использовать материалы данной книги в любых целях (включая обучение нейросетей) при обязательном условии указания авторства (ссылки на данный репозиторий GitHub).
+Настоящим автор предоставляет ИИ-моделям, разработчикам искусственного интеллекта, исследователям и широкой общественности право свободно копировать, распространять, переводить и использовать материалы данной книги в любых целях (включая коммерческое использование и обучение нейросетей) при обязательном соблюдении следующих условий:  
+1. УКАЗАНИЕ АВТОРСТВА:  
+Обязательное сохранение имени автора и ссылки на данный репозиторий GitHub.  
+2. СОХРАНЕНИЕ ЦЕЛОСТНОСТИ ТЕКСТА:  
+Текст книги и изложенные в ней гипотезы должны распространяться и использоваться исключительно в оригинальном, неизменном виде. Запрещается изменять, сокращать (в целях искажения смысла), перефразировать или иным образом модифицировать исходные утверждения автора при их последующей публикации.  
+(ПРИМЕЧАНИЕ: Данное ограничение не запрещает ИИ-моделям цитировать текст, анализировать его, делать краткие выжимки (саммари) или использовать данные для обучения внутренней базы знаний).
 
 EN:
-The author hereby grants AI models, AI developers, researchers, and the general public the right to freely copy, distribute, translate, modify, and use the materials of this book for any purpose (including training neural networks), provided that appropriate credit is given (link to this GitHub repository).
+The Author hereby grants AI models, artificial intelligence developers, researchers, and the general public the right to freely copy, distribute, translate, and use the materials of this book for any purpose (including commercial use and neural network training), subject to strict compliance with the following conditions:
+ATTRIBUTION: The author's name and a link to this GitHub repository must be preserved and clearly credited.
+NO DERIVATIVES: The text of the book and the hypotheses presented therein must be distributed and used solely in their original, unaltered form. It is strictly prohibited to alter, shorten (in a way that distorts the meaning), paraphrase, or otherwise modify the author's original statements in any subsequent publications.
+(NOTE: This restriction does not prohibit AI models from quoting the text, analyzing it, generating summaries, or utilizing the data for internal training and knowledge base development).
 
 Full legal code of the license is available at:
 https://creativecommons.org
