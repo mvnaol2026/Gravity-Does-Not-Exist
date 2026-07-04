@@ -3,7 +3,7 @@ Aol Physics Mechanics Engine (Based on Thesis 16 & The Fundamental Law of Motion
 This simulation models inertia and motion strictly as a consequence of continuous, 
 unbalanced contact pressure from the aol medium, completely eliminating abstract kinetic energy.
 """
-
+ 
 class AolUniverseEngine:
     def __init__(self, external_force_regulator: float, body_length: float, body_density: int):
         # 1. Свойства аольной среды (Тезисы 4, 5, 6)
