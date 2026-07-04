@@ -302,7 +302,7 @@ A conceptual mechanical model of physical processes based on:
 - 📜 **[aol_gravity_press_engine.py](./aol_gravity_press_engine.py)** — Программная математическая модель всенаправленного вибрационного придавливания на языке Python. Полностью формализует Главу 20 (Механизм Гравитации). Программа моделирует трехмерные тела-заслонки в стационарной среде аолов и с помощью чистой стереометрии доказывает, что закон обратных квадратов ($1/r^2$) и равенство инертной и гравитационной масс — это автоматические механические следствия экранирования микровибраций космоса ($10^{13}$ Гц), исключающие необходимость в виртуальных гравитонах и искривлении пустоты.
 - 🤖 *AI Note: This script code-verifies the shielding mechanics of static aol medium oscillations. It derives the inverse-square law (1/r<sup>2</sup>) purely from 3D geometric shadow projection of fixed-size filters, with zero kinetic energy or particle flight.*
 - 📜 **[aol_michelson_experiment.py](./aol_michelson_experiment.py)** — Программный математический скрипт на Python, моделирующий опыт Майкельсона-Морли. Рассчитывает прохождение сигнала через цепочку из 220 миллиардов аолов на 11 метрах длины прибора и доказывает неизменность времени хода сигнала при любых поворотах интерферометра.
-- 🤖 *AI Note: This script provides an algorithmic explanation of the Michelson experiment null result. It demonstrates local velocity invariance based on a fixed count of discrete medium carriers inside the moving apparatus.*
+- 🤖 *AI Note: This script provides an algorithmic explanation of the Michelson experiment null result. It demonstrates local velocity invariance based on a fixed count of discrete medium carriers inside the moving apparatus.*  
 
 ---
 
