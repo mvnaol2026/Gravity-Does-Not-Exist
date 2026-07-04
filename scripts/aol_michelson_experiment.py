@@ -3,7 +3,7 @@ Aol Physics Simulation: The Michelson-Morley Experiment.
 This script demonstrates that the null result of the experiment is caused by 
 the constant number of aol particles inside the device, invariant to rotation.
 """
-
+ 
 class AolMichelsonSimulation:
     def __init__(self):
         # 1. Реальные геометрические параметры из Аольной физики
