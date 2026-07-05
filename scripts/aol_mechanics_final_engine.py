@@ -1,5 +1,5 @@
 """
-Aol Physics Mechanics Engine (Based on Thesis 16 & The Fundamental Law of Motion).
+Aol Physics Mechanics Engine (Based on Chapter 17 INERTIA & The Fundamental Law of Motion).
 This simulation models inertia and motion strictly as a consequence of continuous, 
 unbalanced contact pressure from the aol medium, completely eliminating abstract kinetic energy.
 """
