@@ -33,14 +33,14 @@ from matplotlib.animation import FuncAnimation
 
 # --- НАСТРОЙКИ СИМУЛЯЦИИ ---
 GRID_X = 120
-NUM_FRAMES = 250
+NUM_FRAMES = 350  # Увеличили хронометраж для наглядности дрейфа
 
 # Координаты источника света (вибрирующего атома)
 source_x = 10.0
 
 # 1. СВОБОДНОЕ ТЕЛО (для демонстрации давления)
 free_body = {
-    'x': 80.0,
+    'x': 50.0,  # Сдвинули чуть ближе к центру, чтобы был виден долгий путь разгона
     'y': 6.0,
     'v': 0.0,
     'color': 'cyan',
@@ -51,7 +51,7 @@ free_body = {
 fixed_body = {
     'x': 80.0,
     'y': 4.0,
-    'temp': 20.0,  # Начальная комнатная "температура" (базовое дрожание)
+    'temp': 20.0,  # Начальная комнатная "температура"
     'color': 'orange',
     'label': 'Закрепленное тело (Внутренний Нагрев)'
 }
@@ -61,7 +61,7 @@ wave_fronts = []
 
 # --- НАСТРОЙКА ГРАФИКИ ---
 fig, ax = plt.subplots(figsize=(11, 7))
-ax.set_xlim(0, 110)
+ax.set_xlim(0, 115)
 ax.set_ylim(2, 8)
 ax.grid(True, linestyle=':', alpha=0.5)
 ax.set_title("Аольная симуляция: Взаимодействие упругой световой волны среды с телами", fontsize=12)
@@ -74,18 +74,18 @@ plot_free, = ax.plot([], [], 'o', color=free_body['color'], markersize=14, label
 plot_fixed, = ax.plot([], [], 's', color=fixed_body['color'], markersize=14, label=fixed_body['label'])
 
 # Вертикальные линии для визуализации упругих волн среды
-wave_lines = [ax.axvline(-10, color='gray', alpha=0.3, linestyle='-') for _ in range(20)]
+wave_lines = [ax.axvline(-10, color='gray', alpha=0.3, linestyle='-') for _ in range(25)]
 
 # Табло информации
 text_info = ax.text(12, 2.3, "", fontsize=9, bbox=dict(facecolor='white', alpha=0.8))
 ax.legend(loc='upper right')
 
 dt = 0.1
-wave_speed = 4.0  # Скорость передачи удара по среде
+wave_speed = 3.5  # Скорость передачи удара по среде
 
 def update(frame):
-    # Каждые несколько шагов атом-источник совершает удар, пусная новую волну
-    if frame % 15 == 0:
+    # Каждые несколько шагов атом-источник совершает удар, пуская новую волну
+    if frame % 18 == 0:
         wave_fronts.append(source_x)
         
     # Продвижение упругих волн по аольной среде вправо
@@ -93,7 +93,7 @@ def update(frame):
         wave_fronts[i] += wave_speed
         
     # Удаляем волны, улетевшие за край поля
-    while wave_fronts and wave_fronts[0] > 110:
+    while wave_fronts and wave_fronts[0] > 115:
         wave_fronts.pop(0)
         
     # Обновление графических линий волн среды
@@ -108,7 +108,7 @@ def update(frame):
     fixed_hit = False
     
     for wf in wave_fronts:
-        # Волна дошла до свободного тела
+        # Волна дошла до текущей координаты свободного тела
         if abs(wf - free_body['x']) < 2.0:
             free_hit = True
         # Волна дошла до закрепленного тела
@@ -118,19 +118,19 @@ def update(frame):
     # --- ЛОГИКА 1: Давление на свободное тело ---
     if free_hit:
         # Удар импульса среды сообщает пассивному телу скорость вправо
-        free_body['v'] += 0.4 * dt
+        free_body['v'] += 0.3 * dt
+    
     free_body['x'] += free_body['v']
 
     # --- ЛОГИКА 2: Нагрев закрепленного тела ---
-    # Переменная для визуального хаотичного дрожания маркера при нагреве
     jitter = 0.0
     if fixed_hit:
         # Импульсы растрачиваются на расшатывание структуры (рост температуры)
-        fixed_body['temp'] += 1.2 * dt
+        fixed_body['temp'] += 0.8 * dt
         # Симулируем дрожание элементов внутри закрепленного каркаса
-        jitter = np.sin(frame * 2.0) * (fixed_body['temp'] * 0.005)
+        jitter = np.sin(frame * 2.5) * (fixed_body['temp'] * 0.004)
 
-    # Обновление позиций на графике
+    # ИСПРАВЛЕНО: Теперь на график передаются реальные динамические координаты X тел
     plot_free.set_data([free_body['x']], [free_body['y']])
     plot_fixed.set_data([fixed_body['x'] + jitter], [fixed_body['y'] + jitter])
 
