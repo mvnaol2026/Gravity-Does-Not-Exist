@@ -71,7 +71,6 @@ contact_dist = R1_vis + R2_vis
 frames_count = 250
 
 # Моделирование лавинообразного разгона (нелинейное сближение под давлением среды)
-# Используем степенную функцию, чтобы имитировать катастрофическое ускорение в конце
 t = np.linspace(0, 1, frames_count)
 distances = start_dist - (start_dist - contact_dist) * (t ** 2.5)
 
@@ -100,8 +99,8 @@ obj2_text = ax.text(start_dist, 0, 'ОБЪЕКТ 2', color='#ffffff', fontsize=9
 info_box = ax.text(-23, 15, '', color='#00ffcc', fontsize=11, fontfamily='monospace',
                    bbox=dict(boxstyle='round,pad=0.5', facecolor='#111622', edgecolor='#ff00ff', alpha=0.85))
 
-# Контейнер-заглушка для хранения динамических векторов (quiver)
-quiver_container = [None]
+# Используем список для хранения глобальной ссылки на объект quiver (избегаем ошибок области видимости)
+quiver_arrows = [None]
 
 def update(frame):
     d = distances[frame]
@@ -127,9 +126,9 @@ def update(frame):
     )
     info_box.set_text(telemetry)
     
-    # Полностью очищаем старые векторы давления перед отрисовкой новых
-    if quiver_container is not None:
-        quiver_container.remove()
+    # Безопасное удаление старых стрелок из памяти matplotlib
+    if quiver_arrows[0] is not None:
+        quiver_arrows[0].remove()
         
     # Построение геометрии стрелок внешнего вколачивающего давления космоса
     X, Y, U, V = [], [], [], []
@@ -151,14 +150,14 @@ def update(frame):
         U.append(-arrow_intensity)
         V.append(0)
         
-    # Генерируем новые стрелки избыточного давления среды (агрессивный красный/оранжевый цвет)
-    quiver_container = ax.quiver(X, Y, U, V, color='#ff3300', scale=12, 
-                                    width=0.0075, headwidth=4.5, headlength=5.5)
+    # Сохраняем новые стрелки в наш список-контейнер
+    quiver_arrows[0] = ax.quiver(X, Y, U, V, color='#ff3300', scale=12, 
+                                 width=0.0075, headwidth=4.5, headlength=5.5)
     
-    return obj2_circle, obj2_text, info_box, quiver_container
+    return obj2_circle, obj2_text, info_box, quiver_arrows[0]
 
-# Инициализация и запуск бесконечного цикла анимации катастрофы
-ani = FuncAnimation(fig, update, frames=frames_count, interval=30, blit=True, repeat=True)
+# Запуск анимации с выключенным blit для стопроцентной кроссплатформенной стабильности
+ani = FuncAnimation(fig, update, frames=frames_count, interval=30, blit=False, repeat=True)
 
 # Стилизация общего заголовка окна
 plt.title("Катастрофическое Экранирование Давления Среды", color='#ffffff', fontsize=13, pad=15, weight='bold')
