@@ -71,6 +71,26 @@ A conceptual mechanical model of physical processes based on:
 18. **Curvature of empty space and the non-material coordinate of time**
 19. **Physical time dilation** depending on the speed of motion or gravity
 
+## 🧩 Physical Philosophy of the Aol Model (Logical Manifesto)
+
+Before analyzing the technical part of the project and the source code, it is absolutely necessary to completely clear your mind of the dogmas of the official Standard Model of physics. This simulation engine and the entire theoretical framework are based on an unprecedentedly rigid, materialistic, and gapless logical foundation consisting of four immutable postulates:
+
+1. **Complete Absence of External Design (There is no God)**  
+   There is no external Creator, Higher Intellect, or Architect in objective reality. From a purely logical standpoint, the ultimate conclusion follows: **the true primal brick of matter can be of only one single kind (the aol).** If there were two or more kinds of fundamental building blocks, they would have to fit each other perfectly (like LEGO parts), which is logically impossible in the absence of an external designer. The entire quantum nomenclature (electrons, quarks, 25 types of fields) is completely redundant. They do not exist in nature. Aols are absolutely identical and completely self-sufficient for modeling 100% of the phenomena in the Universe.
+
+2. **Total Mechanistic Nature of Nature**  
+   The objective material world exists independently of our consciousness. Nature is completely devoid of any internal "wisdom," mentality, goals, or hidden desires. Primal particles (aols) are absolutely passive matter. There is no built-in magic in them (inherent charges, mystical "energy," or inertia as a form of internal resistance). They are incapable of independent action or choosing a trajectory.
+
+3. **The Law of Prevailing Pressure and Forced Motion**  
+   Since aols themselves are passive, they cannot move or stop on their own. Every physical phenomenon in the Universe, which official science mistakenly calls the "action of a force," is subject to a single, alternative-free mechanism: **the action of external prevailing pressure causing forced motion.** Due to the dense packing of the medium under the influence of the eternal blind Mover, pressure gradients constantly pulsate within it. Any material body at any given moment is simply squeezed out by the medium along the vector of least resistance. Nothing else happens in the physical world, and nothing else is physically possible.
+
+4. **Absolute Dynamics of Matter (Absence of Rest)**  
+   There is no motionless matter in Nature; the concept of "rest" is a macroscopic illusion. Prevailing pressure is a continuous, eternal process involved with every material body and every individual aol every single second. All matter is in a state of **permanent dynamic clamping** and performs either *obvious motion* (the displacement of aol conglomerates in space) or internal *micromotion* — a continuous ultra-high-frequency vibration of the medium under external pressing with a base minimum of **10¹³ Hz**.
+
+The world is one, strictly deterministic, free of paradoxes, and mechanically calculated down to the very last aol.
+
+---
+
 ### 🏛️ The Fundamental Law of Motion
 
 > **Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.**
