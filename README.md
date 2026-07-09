@@ -37,7 +37,7 @@ A conceptual mechanical model of physical processes based on:
 * **Contact**
 * **Pressure**
 * **Motion**
-### matter ⟶ contact ⟶ pressure ⟶ movement
+### matter ⟶ contact ⟶ pressure ⟶ mottion
 
 ### Core Premises:
 * There is no empty space.
