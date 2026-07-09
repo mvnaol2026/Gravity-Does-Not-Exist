@@ -44,6 +44,8 @@ Chapter 7. A mad world from a point
 
 Chapter 8. Aol space and the structure of small universes
 
+Chapter 9. Physical Philosophy of the Aol Model
+
 Chapter 10. Lunols — how the basis of matter emerges from a smooth sphere
 
 Chapter 11. Atom: an empty fantasy or a real structure?
