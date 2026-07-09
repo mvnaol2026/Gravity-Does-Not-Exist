@@ -37,7 +37,7 @@ A conceptual mechanical model of physical processes based on:
 * **Contact**
 * **Pressure**
 * **Motion**
-### matter ⟶ contact ⟶ pressure ⟶ motion
+> ### `matter ⟶ contact ⟶ pressure ⟶ motion`
 
 ### Core Premises:
 * There is no empty space.
@@ -195,7 +195,7 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 * **Контакт**
 * **Давление**
 * **Движение**
-### материя ⟶ контакт ⟶ давление ⟶ движение
+> ### `материя ⟶ контакт ⟶ давление ⟶ движение`
 
 ### Базовые аксиомы:
 * Пустого пространства (вакуума) не существует.
