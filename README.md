@@ -103,6 +103,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 > ### Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.        
 *Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
 
+---
+
 ### 📜 21 Key Axioms of Aol Physics
 
 1. **No Attraction**: There are no forces of attraction in nature. Any apparent attraction is the result of external pushing or pressing (impulsion).
@@ -268,6 +270,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 > ### Движение возможно только при НЕУРАВНОВЕШЕННОМ, КОНТАКТНОМ, НЕПРЕРЫВНОМ давлении.         
 *Следствие: Полёт изолированных частиц (фотонов, нейтрино, глюонов, свободных электронов) в абсолютной пустоте физически невозможен.*
+
+---
 
 ### 📜 21 Ключевых Тезисов аольной физики
 
