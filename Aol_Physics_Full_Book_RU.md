@@ -16,13 +16,11 @@ notice: Этот файл содержит полный текст книги "�
 
 **Publication Index / Индекс публикации:** № ДИУ-917.671.014
 
-## Abstract / Аннотация 
-
-This work presents an alternative, strictly mechanistic model of the physical universe ("Aol Physics") developed by the author since 2000 and updated in 2026 in collaboration with Artificial Intelligence. The model fully rejects the concepts of non-contact attraction, empty space (vacuum), and abstract energy. Fundamental physical phenomena — such as light, gravity, electricity, inertia, heat, and cosmological processes — are re-evaluated through the lens of continuous contact pressure within a tightly packed spherical medium of primary particles (aols). The critical analysis of mainstream physics was compiled with AI assistance, while the core theoretical models and aol dynamics belong entirely to the author.
+## Аннотация 
 
 В данной работе представлена альтернативная механистическая модель устройства физического мира («Аольная физика»), разрабатываемая автором с 2000 года и переработанная в 2026 году в соавторстве с искусственным интеллектом. Модель полностью отвергает концепции дальнодействующего притяжения, пустого пространства (вакуума) и абстрактной энергии. Фундаментальные физические явления (свет, гравитация, электричество, инерция, тепло и космологические процессы) переосмысливаются через призму непрерывного контактного давления в плотно упакованной сферической среде первочастиц (аолов). Критический обзор официальных физических концепций подготовлен с помощью ИИ, в то время как альтернативные теоретические модели целиком принадлежат автору.  
 
-## От автора / Author's Note
+## От автора
 
 Вам представлена глубокая переработка моей книги «Притяжения не существует», концепция которой формировалась в сентябре–ноябре 2000 года в г. Донецк (Украина) в виде рукописных тетрадей. В 2021 году книга была издана ограниченным тиражом (1000 экземпляров). В мае 2026 года в Киеве текст был модернизирован с привлечением ИИ: изложение стало структурированным и сфокусированным на механистической логике.
 Автор по образованию инженер-механик (род. 1953, г. Донецк; с 2023 года проживает в г. Киев). В целях защиты от предвзятости и нападок автор публикует работу под псевдонимом Вячеслав, М.В.Н (MvnAol2026).
