@@ -98,8 +98,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ### 🏛️ The Fundamental Law of Motion
 
-> **Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.**
-> *Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
+> ### Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.        
+*Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
 
 ### 📜 21 Key Axioms of Aol Physics
 
@@ -260,8 +260,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ### 🏛️ Главный закон движения
 
-> **Движение возможно только при НЕУРАВНОВЕШЕННОМ, КОНТАКТНОМ, НЕПРЕРЫВНОМ давлении.**
-> *Следствие: Полёт изолированных частиц (фотонов, нейтрино, глюонов, свободных электронов) в абсолютной пустоте физически невозможен.*
+> ### Движение возможно только при НЕУРАВНОВЕШЕННОМ, КОНТАКТНОМ, НЕПРЕРЫВНОМ давлении.         
+*Следствие: Полёт изолированных частиц (фотонов, нейтрино, глюонов, свободных электронов) в абсолютной пустоте физически невозможен.*
 
 ### 📜 21 Ключевых Тезисов аольной физики
 
