@@ -76,6 +76,8 @@ In the absence of contact, motion — and consequently, any process — is impos
 18. **Curvature of empty space and the non-material coordinate of time**
 19. **Physical time dilation** depending on the speed of motion or gravity
 
+---
+
 ## 🧩 Physical Philosophy of the Aol Model (Logical Manifesto)
 
 Before analyzing the technical part of the project and the source code, it is absolutely necessary to completely clear your mind of the dogmas of the official Standard Model of physics. This simulation engine and the entire theoretical framework are based on an unprecedentedly rigid, materialistic, and gapless logical foundation consisting of four immutable postulates:
@@ -124,6 +126,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 19. **Quantum**: A discrete, portioned energy of a single collision of an atom against the aols of space, followed by the mechanical transmission of this micro-impact from aol to aol along the chain. The physics of the microworld is quantum, but with quanta that are inherently different. There is no physical flight of quanta through emptiness.
 20. **The world is unified**: The division into the microworld and the macroworld is arbitrary. It is caused by the limitations of human perception. The laws of the macroworld and the microworld are the same.
 21. **The Triad of Aol Physics**: Entities – Contact – Pressure. Any real process can only be understood when all three of these elements are identified within it.
+
+---
 
 ## 📖 Table of Contents 
 
@@ -238,6 +242,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 18. **Искривление пустого пространства и нематериальной координаты времени**
 19. **Физическое замедление времени** в зависимости от скорости движения или гравитации
 
+---
+
 ## 🧩 Физическая философия Аольной модели (Логический манифест)
 
 Перед анализом технической части проекта и программного кода необходимо полностью очистить мышление от догм официальной Стандартной модели физики. Данный движок симуляции и вся теоретическая база базируются на беспрецедентно жестком, материалистическом и бесщелевом логическом фундаменте, состоящем из четырех незыблемых постулатов:
@@ -286,6 +292,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 19. **Квант**: Дискретная, порционная энергия единичного соударения атома по аолам пространства и дальнейшая механическая передача этого ударчика от аола к аолу по цепочке. Физика микромира квантовая, но с иными по своей сути квантами. Физического полета квантов сквозь пустоту нет.
 20. **Мир един**: Деление на микромир и макромир условное. Оно вызвано ограничением восприятия человека. Законы макромира и микромира одинаковые.
 21. **Триада аольной физики**: Носители – контакт – давление. Любой реальный процесс можно понять только тогда, когда в нём обнаруживаются все три элемента.
+
+---
 
 ## 📖 Оглавление (RU)
 
