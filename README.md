@@ -183,7 +183,7 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 ### 📖 Monolithic Full-Text Files (Root Directory)
 - [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. **300** pages)
 
-### 🇬🇧 English Version (`/EN/`) - the book "Gravity Does Not Exist" in 11 files:
+### English Version (`/EN/`) - the book "Gravity Does Not Exist" in 11 files:
 
 * [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
 * [02_chapters_4-6.md](EN/02_chapters_4-6.md) — Chapters 4–6.
