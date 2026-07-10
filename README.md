@@ -32,17 +32,21 @@ For the absolute, unaltered physical essence of the hypothesis, please refer to 
 
 ## 🌍 Project Overview (English)
 
-A conceptual mechanical model of physical processes based on:
-* **Matter**
+### A conceptual mechanical model of physical processes based on:
+* **Matter**  *(aols, atoms, molecules, objects)*
 * **Contact**
 * **Pressure**
 * **Motion**
-> ### matter ⟶ contact ⟶ pressure ⟶ motion
+
+Any process is the motion of matter.
+> ### PROCESS: matter ⟶ contact ⟶ pressure ⟶ motion ⟶ change or transformation *(of position, state, composition, structure, configuration)*
+In the absence of contact, motion — and consequently, any process — is impossible.
 
 ### Core Premises:
 * There is no empty space.
 * Aol space fills the Universe.
 * Physical interactions arise exclusively through pressure and motion transfer inside the medium.
+* The Prime Mover — the aol space (exerting pressure and vibrating) — drives all processes, as matter of any kind is inherently passive.
 
 ### Main Ideas:
 * **Gravity:** Compression caused by a pressure imbalance.
@@ -190,17 +194,21 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ## О проекте (На русском)
 
-Концептуальная механистическая модель физических процессов, основанная на четырех фундаментальных принципах:
-* **Материя**
+### Концептуальная механистическая модель физических процессов, основанная на четырех фундаментальных принципах:
+* **Материя** *(аолы, атомы, молекулы, объекты)*
 * **Контакт**
 * **Давление**
 * **Движение**
-> ### материя ⟶ контакт ⟶ давление ⟶ движение
+
+Любой процесс – это движение материи.
+> ### ПРОЦЕСС: материя ⟶ контакт ⟶ давление ⟶ движение ⟶ изменение *(положения, состава, состояния, структуры, конфигурации)*
+Без контакта движение, а значит, и процесс невозможны.
 
 ### Базовые аксиомы:
 * Пустого пространства (вакуума) не существует.
 * Вселенная полностью заполнена непрерывной средой — аольным пространством.
 * Физические взаимодействия происходят исключительно посредством контактного давления и передачи движения внутри этой среды.
+* Главный Движитель – аольное пространство (давящее и вибрирующее) – обеспечивает все процессы, поскольку материя любого вида пассивна.
 
 ### Основные идеи модели:
 * **Гравитация:** Сжатие тел, вызванное неуравновешенным давлением среды (притяжения не существует).
