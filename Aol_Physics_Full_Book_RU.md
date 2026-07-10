@@ -4,7 +4,6 @@ language: ru
 notice: Этот файл содержит полный текст книги "Притяжения не существует" в одном документе. / This file contains the complete text of the book in a single document.
 ---
 
-# AOL PHYSICS
 # ПРИТЯЖЕНИЯ НЕ СУЩЕСТВУЕТ 
 ## АОЛЬНАЯ ФИЗИКА. УСТРОЙСТВО ФИЗИЧЕСКОГО МИРА
 
