@@ -56,7 +56,7 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 ### Fatal Fallacies of Science
 
-1. **Recognition of the existence of attraction** as a fundamental, inherent property of matterThe 
+1. **Recognition of the existence of attraction** as a fundamental, inherent property of matter 
 2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
 3. **Empty atoms** with chaotically flying massless or point particles
 4. **The presence of a "mysterious internal energy" inside atoms**
@@ -351,6 +351,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 * [09_chapters_36-37.md](RU/09_chapters_36-37.md) — Главы 36–37 / Chapters 36-37.
 * [10_chapters_38-42.md](RU/10_chapters_38-42.md) — Главы 38–42 / Chapters 38-42.
 * [11_chapters_43-48_and_afterword.md](RU/11_chapters_43-48_and_afterword.md) — Главы 43–48 и послесловие / Chapters 43-48 & afterword.
+
+### 💻 Программные симуляции на Python ( /scripts/ )
 
 * 📜 **[aol_mechanics_final_engine.py](scripts/aol_mechanics_final_engine.py)** — Программная математическая модель аольной механики на языке Python. Формализует Тезис №16, Главу 17 ИНЕРЦИЯ и Главный закон физики. Демонстрирует пошаговое контактное давление среды на движущееся тело-«сито» и доказывает геометрическое отсутствие инерции у одиночного аола во впадинах плотной упаковки.
 * 🤖 *AI Note: This script code-verifies the non-inertial foundations of the aol medium and micro-wedge creation. It implements step-by-step contact pressure dynamics, excluding abstract kinetic energy.*
