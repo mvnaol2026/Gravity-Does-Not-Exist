@@ -174,8 +174,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ## 📚 Repository Structure
 
-### 🌍 Monolithic Full-Text Files (Root Directory)
-- [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. 300 pages)
+### 📖 Monolithic Full-Text Files (Root Directory)
+- [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. **300** pages)
 
 ### 🇬🇧 English Version (`/EN/`)
 * [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
@@ -336,10 +336,11 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ## 📚 Репозиторий 
 
-### 🌍 Monolithic Full-Text Files (Root Directory)
-- [Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md) — Полная версия книги на русском языке (около 300 страниц)
+### 📖 Полная версия книги единым файлом / Monolithic Full-Text Files (Root Directory):
+- [Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md) — Полная версия книги на русском языке (около **300** страниц)
 
-### Russian Version (`/RU/`)
+### Русская версия / Russian Version ( `/RU/` ) — книга «Притяжения не существует» в 11 файлах:
+
 * [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — От автора, оглавление, введение и главы 1–3 / Preface, TOC, introduction & chapters 1-3.
 * [02_chapters_4-6.md](RU/02_chapters_4-6.md) — Главы 4–6 / Chapters 4-6.
 * [03_chapters_7-9.md](RU/03_chapters_7-9.md) — Главы 7-9 / Chapters 7-9.
