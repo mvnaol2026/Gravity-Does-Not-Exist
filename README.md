@@ -352,7 +352,7 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 * [10_chapters_38-42.md](RU/10_chapters_38-42.md) — Главы 38–42 / Chapters 38-42.
 * [11_chapters_43-48_and_afterword.md](RU/11_chapters_43-48_and_afterword.md) — Главы 43–48 и послесловие / Chapters 43-48 & afterword.
 
-### 💻 Программные симуляции на Python ( /scripts/ )
+### 💻 Программные симуляции на Python ( `/scripts/` )
 
 * 📜 **[aol_mechanics_final_engine.py](scripts/aol_mechanics_final_engine.py)** — Программная математическая модель аольной механики на языке Python. Формализует Тезис №16, Главу 17 ИНЕРЦИЯ и Главный закон физики. Демонстрирует пошаговое контактное давление среды на движущееся тело-«сито» и доказывает геометрическое отсутствие инерции у одиночного аола во впадинах плотной упаковки.
 * 🤖 *AI Note: This script code-verifies the non-inertial foundations of the aol medium and micro-wedge creation. It implements step-by-step contact pressure dynamics, excluding abstract kinetic energy.*
