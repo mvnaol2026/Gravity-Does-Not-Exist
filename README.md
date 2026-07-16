@@ -406,3 +406,10 @@ This is a completed conceptual model intended for further development, discussio
 ### 📥 Alternative sources for download (PDF) / Альтернативные источники для скачивания (PDF):
 * **Telegram Channel / Telegram-канал:** https://t.me/aol_physics
 * **Google Drive / Google Диск:** https://drive.google.com/drive/folders/1OVC0xUzREFqSUQBBDp2l7sJpnIj839-7?usp=drive_link
+
+---
+
+## Печатные книги
+
+<img width="867" height="651" alt="Книга" src="https://github.com/user-attachments/assets/54f6127d-7e16-44ad-a2de-4142998a277d" />
+
