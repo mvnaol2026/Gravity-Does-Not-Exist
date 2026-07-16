@@ -1,3 +1,5 @@
+<img width="1596" height="791" alt="Обложка" src="https://github.com/user-attachments/assets/ef12f151-c3df-4dff-8229-7e72061b4298" />
+
 # Aol Physics (Gravity Does Not Exist)/ Аольная физика (Притяжения не существует)
 
 A comprehensive alternative physical model and conceptual mechanical framework challenging conventional gravity, quantum action-at-a-distance, and non-contact forces. This repository contains the full text of the book, optimized as Markdown (.md) files for Artificial Intelligence 
