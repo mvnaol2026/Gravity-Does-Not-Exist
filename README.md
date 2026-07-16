@@ -1,6 +1,6 @@
 # Aol Physics (Gravity Does Not Exist)/ Аольная физика (Притяжения не существует)
 
-<img width="1596" height="791" alt="Обложка" src="https://github.com/user-attachments/assets/ef12f151-c3df-4dff-8229-7e72061b4298" />
+<img width="3717" height="2550" alt="Обложка" src="https://github.com/user-attachments/assets/5d6e4fd9-e705-4c47-9f19-dfd90aef39b8" />
 
 **A comprehensive alternative physical model and conceptual mechanical framework challenging conventional paradigms across all scales, including:**
 * 🌌 **Cosmology & Origins:** Overturning Big Bang theory and expanding universe models.
