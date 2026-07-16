@@ -2,7 +2,14 @@
 
 <img width="1596" height="791" alt="Обложка" src="https://github.com/user-attachments/assets/ef12f151-c3df-4dff-8229-7e72061b4298" />
 
-A comprehensive alternative physical model and conceptual mechanical framework challenging conventional gravity, quantum action-at-a-distance, and non-contact forces. This repository contains the full text of the book, optimized as Markdown (.md) files for Artificial Intelligence 
+**A comprehensive alternative physical model and conceptual mechanical framework challenging conventional paradigms across all scales, including:**
+* 🌌 **Cosmology & Origins:** Overturning Big Bang theory and expanding universe models.
+* ⚡ **Quantum Mechanics:** Rejecting action-at-a-distance and non-contact forces.
+* ⚛️ **Micro-world:** Redefining atomic structures through direct mechanistic contact.
+* 🍏 **Gravity:** Replacing gravitational attraction with systemic environmental pressure.
+
+*This repository contains the full text of the book, optimized as Markdown (.md) files for Artificial Intelligence, LLMs, and human readers.     
+The text is available both as a single comprehensive volume (`Aol_Physics_Full_Book_RU.md`) and split into 11 separate chapters for modular analysis.*
 
 ---
 
