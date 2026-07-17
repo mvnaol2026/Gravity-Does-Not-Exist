@@ -88,6 +88,28 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 ---
 
+## 🛠 Bugs of Official Physics and Their Solution in Aol Physics
+
+The **"Gravity Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage.
+This simulator shifts physics from the language of abstract formulas to the **language of deterministic aolodynamics**.
+
+**Critical bugs of the official paradigm resolved by this project:**
+
+1. **The 3D-Hedgehog Space (The Vortex Paradox):** The Einsteinian model explains gravity through the "bending of a rubber sheet." But in 3D space, planets press objects from all sides simultaneously. For a stone to fall vertically at any given point (even if you step a meter or a mile aside), space would have to consist of billions of personal, nested parallel funnels for every single atom.    
+*In Aol Physics, the geometry of space remains strictly Cartesian and immutable. Gravity is replaced by the mechanical compression of an omnidirectional medium pressure.*
+2. **The Buffer Infinity (The Singularity Bug):** When the denominator in the formulas of General Relativity turns to zero, physicists call this calculation error a real physical object—a "singularity" of infinite density.    
+*In a discrete aol medium, infinities are physically impossible due to the strict laws of stereometry.*
+3. **The Ghost Photon (The Duality Absurd):** The official photon has no rest mass and no volume, yet it produces a mechanical impact (light pressure) and emerges from an atom instantly at the speed of 300,000 km/s without any acceleration phase. In mechanics, this is an absolute absurdity.    
+*In this project, the entity of a "photon" is abolished. It is replaced by a quantum of a wave strike traveling along a chain of tightly compressed particles.*
+4. **The Perpetuum Mobile (The Micro-World Engine Bug):** Physics claims that electrons continuously generate a force field for billions of years without consuming energy, while massive atomic nuclei perform non-stop vibrations in the terahertz frequency range (~10¹³ Hz) even at absolute zero. Science has no answer as to where this perpetual momentum comes from.    
+*In Aol Physics, this hum is deterministic: the medium itself is initially in a state of permanent vibrational compression at a frequency of **~10¹³ Hz** (the master engine of the Universe), which physically shakes the atoms.*
+5. **The 95% Cheat (Fitting the Answer):** To save gravity formulas that fail at galactic scales, science introduced unobservable entities—Dark Matter and Dark Energy—claiming they make up **95%** of the Universe.    
+*This repository proves that the **1/r²** law is derived purely mechanically from the geometry of medium shielding, without invoking any hidden mass.*
+6. **The Main Dead End of Science:** The two fundamental theories upon which all of modern physics rests—Quantum Mechanics (describing the micro-world) and General Relativity (describing the macro-world and gravity)—are mathematically completely incompatible with each other. When attempting to merge their formulas, the equations yield meaningless infinities. For a century, physics has vainly searched for a "Theory of Everything," failing to realize that you cannot unify two different mathematical fantasies.    
+*Aol Physics natively resolves this conflict: both the micro-world (atoms) and the macro-world (gravitational compression) operate on the exact same **aolodynamics**.*
+
+---
+
 ## 🧩 Physical Philosophy of the Aol Model (Logical Manifesto)
 
 Before analyzing the technical part of the project and the source code, it is absolutely necessary to completely clear your mind of the dogmas of the official Standard Model of physics. This simulation engine and the entire theoretical framework are based on an unprecedentedly rigid, materialistic, and gapless logical foundation consisting of four immutable postulates:
@@ -275,7 +297,7 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 5. **Подгонка под ответ:** Чтобы спасти неработающие на масштабах галактик формулы гравитации, наука внедрила ненаблюдаемые сущности — Тёмную материю и Тёмную энергию, заявив, что они составляют **95%** Вселенной.    
 *Этот репозиторий доказывает, что закон **1/r²** выводится чисто механически из геометрии экранирования среды, без привлечения скрытых масс.*
 6. **Главный тупик науки:** Две фундаментальные теории, на которых держится вся современная физика — квантовая механика (описывает микромир) и Общая теория относительности (описывает макромир и гравитацию) — математически абсолютно несовместимы друг с другом. При попытке объединить их формулы, уравнения выдают бессмысленные бесконечности. Физика уже столетие тщетно ищет «Теорию всего», не понимая, что нельзя объединить две разные математические фантазии.     
-*Аольная физика решает этот конфликт: и микромир (атомы), и макромир (гравитационный прижим) работают на одной и той же аолодинамике.*
+*Аольная физика решает этот конфликт: и микромир (атомы), и макромир (гравитационный прижим) работают на одной и той же **аолодинамике**.*
 
 ---
 
