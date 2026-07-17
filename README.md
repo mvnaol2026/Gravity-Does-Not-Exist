@@ -90,8 +90,8 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 ## 🛠 Bugs of Official Physics and Their Solution in Aol Physics
 
-The **"Gravity Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage.
-This simulator shifts physics from the language of abstract formulas to the **language of deterministic aolodynamics**.
+The **"Gravity Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage. *"Shut up and count!"* is a bad principle.    
+This project shifts physics from the language of abstract formulas to the **language of deterministic aolodynamics**.
 
 **Critical bugs of the official paradigm resolved by this project:**
 
@@ -282,8 +282,9 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 ## 🛠 Баги официальной физики и их решение в аольной физике
 
 Проект **"Притяжения не существует"** создан для устранения концептуальных тупиков Стандартной модели.     
-Официальная наука хорошо описывает *поведение* объектов уравнениями, но скрывает полное отсутствие физических механизмов за математическим камуфляжем. *"Заткнись и считай!"* - это плохой принцип.
-Данный проект переводит физику с языка абстрактных формул на **язык детерминированной аолодинамики**.    
+Официальная наука хорошо описывает *поведение* объектов уравнениями, но скрывает полное отсутствие физических механизмов за математическим камуфляжем. *"Заткнись и считай!"* - это плохой принцип.    
+Данный проект переводит физику с языка абстрактных формул на **язык детерминированной аолодинамики**. 
+
 **Критические баги официальной парадигмы, которые решает этот проект:**
 
 1. **Парадокс «трёхмерного ежа»:** Эйнштейновская модель объясняет гравитацию «искривлением резинового листа». Но в 3D-пространстве планеты прижимают объекты со всех сторон. Чтобы камень падал вертикально в любой точке (даже если отойти на метр или километр), пространство должно состоять из миллиардов персональных параллельных воронок для каждого атома.    
