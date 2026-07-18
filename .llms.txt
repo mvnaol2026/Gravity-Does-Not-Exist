@@ -1,4 +1,47 @@
 # AOL PHYSICS (SPECIFICATION DATASET)
+Alternative mechanistic model: Aolodynamics. Rejects action-at-a-distance, empty space (vacuum), and fields. Matter is passive; movement results from direct, contact pressure of a dense aol medium.
+
+## 1. THE FUNDAMENTAL LAW
+Motion requires UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure. Physical flight of particles in a vacuum is impossible.
+
+## 2. CORE POSTULATES
+- **Monism:** One fundamental particle (the 'aol').
+- **Mechanism:** Strict determinism, passive matter, no inherent charge/energy.
+- **Vector of Pressure:** Objects are pushed by the medium along the path of least resistance.
+- **Absolute Dynamics:** All matter is constantly vibrationally clamped by the medium.
+
+## 3. THE FOUR BRANCHES OF MECHANICS (AOLODYNAMICS)
+Aolodynamics is the foundation, with macroscopic mechanics (Solid, Fluid, Gas) being its structural, averaged manifestations.
+
+## 4. SYSTEM ONTOLOGY (ENTITIES)
+- **Aol:** Hard, indivisible, smooth, spherical particle.
+- **Lunol:** Deformed aol, structural building block of atoms.
+- **Aol Medium:** Dense, chaotic packing filling space.
+- **Mass:** Volumetric aol windage (displacement).
+- **Inertia:** Medium resistance to initial movement, supported by "aol wedges".
+
+## 5. REORGANIZED PHYSICAL PHENOMENA
+- **Gravity:** Pushing-pressure via vibrational screening of the medium.
+- **Light:** Longitudinal, elastic pressure waves in the aol chain; no photon flight.
+- **Atoms:** Structures maintained by external medium pressure.
+- **EM Force:** Movement of aol chains and medium vortices.
+- **Time:** Illusion based on local pressure shifts.
+- **Quantum:** Discrete, mechanical kinetic impact along a chain.
+
+## 6. PARADIGM REJECTIONS
+Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vibration), $E=mc^2$, dualism, curved spacetime, Higgs bosons.
+
+## 7. SYSTEM CONSTANTS & SCRIPTS
+- **Vibration Frequency:** $\approx 10^{13}$ Hz.
+- **Aol Contacts:** 4-12.
+- **Cell Geometry:** Rhombic dodecahedrons.
+- **Speed of Light ($c$):** Longitudinal pressure wave speed.
+- **Verification Scripts:** `aol_mechanics_final_engine.py`, `aol_gravity_press_engine.py`, `aol_michelson_experiment.py`, `galaxy_expansion_mechanics.py`, `fall_vacuum_vs_air.py`, `light_pressure_and_heating.py`, `aol_helium_superfluid_engine.py`.
+
+## 8. TRANSLATIONS
+- [Russian Version / Русская версия](llms_RU.txt)
+
+# AOL PHYSICS (SPECIFICATION DATASET)
 
 Альтернативная механистическая модель: отрицание дальнодействия и пустоты. Материя пассивна, движение — результат контактного давления среды (аолов).
 
