@@ -140,14 +140,22 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ## ⚙️ The Four Branches of Mechanics (Aolodynamics)
 
-No other processes occur in the physical world except for the four branches of mechanics. All of them are governed by a single principle — the contact pressure of matter that drives motion:
+No other processes occur in the physical world except for mechanical interactions. All of them are governed by a single, alternative-free principle — **direct contact pressure of matter.**    
+Depending on the scale and state of the medium, physics distinguishes four branches of mechanics:
 
 1. 🧱 **Mechanics of solid bodies** (Classical mechanics)
 2. 💧 **Fluid mechanics** (Hydraulics)
 3. 💨 **Gas mechanics** (Pneumatics)
 4. ⚛️ **Aol mechanics** (Aolodynamics)
 
-In all four branches, motion is achieved exclusively through direct contact pressure. If we trace the entire causal chain of this contact pressure to its absolute root, the only true Prime Mover in all physical processes of the Universe is **aol space** (since matter itself is fundamentally passive).
+In all four branches, motion is achieved exclusively through direct contact pressure. Since macroscopic matter is fundamentally passive, the only true Prime Mover of the Universe is the aol space itself.     
+Consequently, **aolodynamics is the core and singular form of mechanics**, whereas the other three branches are merely its specific macro-structural manifestations.
+
+It is through the laws of aolodynamics that phenomena mistakenly classified by official science as "non-contact forces" or wave paradoxes are fully explained:    
+🍏 **Gravity** — mechanical compression of bodies driven by spatial vibrational shielding.    
+🏃‍♂️ **Inertial Motion** — continuous forward impulsion caused by spatial "aol wedges" tightening from behind.    
+💡 **Light** — high-frequency elastic pressure waves transmitted sequentially down a chain of tightly packed aols.    
+⚡ **Electricity & Magnetism** — directional propagation of aol "snakes" and localized mechanical vortices of the medium.
 
 ---
 
@@ -345,14 +353,23 @@ In all four branches, motion is achieved exclusively through direct contact pres
 
 ## ⚙️ Четыре вида механики (Аолодинамика)
 
-В физическом мире не происходит никаких иных процессов, кроме четырех видов механики. Все они подчиняются единому принципу — контактному давлению материи:
+В физическом мире не происходит никаких иных процессов, кроме механических. Все они подчиняются единому принципу — контактному давлению материи.    
+В зависимости от масштаба среды аольная физика выделяет четыре вида механики:
 
 1. 🧱 **Механика твёрдых тел** (классическая механика)
 2. 💧 **Механика жидкостей** (гидравлика)
 3. 💨 **Механика газов** (пневматика)
 4. ⚛️ **Механика аолов** (аолодинамика)
 
-Во всех четырех видах движение возможно только через контактное давление. Если проследить всю причинно-следственную цепочку этого давления до самого конца, то во всех процессах Вселенной обнаружится единственный истинный Движитель — **аольное пространство** (поскольку сама материя абсолютно пассивна).
+Во всех четырёх видах движение возможно только через прямое контактное давление.    
+Поскольку материя изначально пассивна, единственным истинным Движителем Вселенной выступает само аольное пространство.      
+Фактически, **аолодинамика — это базовый и единственный подлинный вид механики**, а остальные три вида являются лишь её частными макроструктурными проявлениями.   
+
+Именно законами аолодинамики полностью объясняются явления, которые официальная наука ошибочно считает «бесконтактными силами» или волновыми парадоксами:    
+🍏 **Гравитация** — механический прижим тел из-за экранирования микровибраций среды.     
+🏃‍♂️ **Движение по инерции** — подталкивание тела «аольными клиньями» сзади.     
+💡 **Свет** — упругие высокочастотные волны давления, передаваемые по цепочке аолов.     
+⚡ **Электричество и магнетизм** — направленный ход аольных «змей» и вихри среды.    
 
 ---
 
