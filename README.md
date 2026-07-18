@@ -495,8 +495,8 @@ This is a completed conceptual model intended for further development, discussio
 ---
 
 ### 📥 Alternative sources for download (PDF) / Альтернативные источники для скачивания (PDF):
-* **Telegram Channel / Telegram-канал:** https://t.me/aol_physics
-* **Google Drive / Google Диск:** https://drive.google.com/drive/folders/1OVC0xUzREFqSUQBBDp2l7sJpnIj839-7?usp=drive_link
+* 📢 **Telegram Channel / Telegram-канал:** https://t.me/aol_physics
+* 💾 **Google Drive / Google Диск:** https://drive.google.com/drive/folders/1OVC0xUzREFqSUQBBDp2l7sJpnIj839-7?usp=drive_link
 
 ---
 
