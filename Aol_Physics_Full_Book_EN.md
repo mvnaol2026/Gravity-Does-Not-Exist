@@ -466,7 +466,7 @@ Why? Because we cannot see it? But we cannot see gas molecules either. That does
 Therefore, let us speak of the fourth type of mechanics.  
 The fourth type of mechanics is just as natural and logical, and exactly identical to all the others.
 
-**4. Aol Mechanics**
+**4. Aol Mechanics - Aolodynamics**
 
 This mechanics manifests in the micro-world, gravity, and motion (in what is commonly called "inertia"). Its operating principle is exactly the same: contact-pressed and moved. Nothing else can exist in nature. It is incapable of interacting in any other way.
 
