@@ -138,14 +138,14 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 ---
 
-## The Four Branches of Mechanics (Aolodynamics)
+## ⚙️ The Four Branches of Mechanics (Aolodynamics)
 
 No other processes occur in the physical world except for the four branches of mechanics. All of them are governed by a single principle — the contact pressure of matter that drives motion:
 
-1. **Mechanics of solid bodies** (Classical mechanics)
-2. **Fluid mechanics** (Hydraulics)
-3. **Gas mechanics** (Pneumatics)
-4. **Aol mechanics** (Aolodynamics)
+1. 🧱 **Mechanics of solid bodies** (Classical mechanics)
+2. 💧 **Fluid mechanics** (Hydraulics)
+3. 💨 **Gas mechanics** (Pneumatics)
+4. ⚛️ **Aol mechanics** (Aolodynamics)
 
 In all four branches, motion is achieved exclusively through direct contact pressure. If we trace the entire causal chain of this contact pressure to its absolute root, the only true Prime Mover in all physical processes of the Universe is **aol space** (since matter itself is fundamentally passive).
 
@@ -343,14 +343,14 @@ In all four branches, motion is achieved exclusively through direct contact pres
 
 ---
 
-## Четыре вида механики (Аолодинамика)
+## ⚙️ Четыре вида механики (Аолодинамика)
 
 В физическом мире не происходит никаких иных процессов, кроме четырех видов механики. Все они подчиняются единому принципу — контактному давлению материи:
 
-1. **Механика твёрдых тел** (классическая механика)
-2. **Механика жидкостей** (гидравлика)
-3. **Механика газов** (пневматика)
-4. **Механика аолов** (аолодинамика)
+1. 🧱 **Механика твёрдых тел** (классическая механика)
+2. 💧 **Механика жидкостей** (гидравлика)
+3. 💨 **Механика газов** (пневматика)
+4. ⚛️ **Механика аолов** (аолодинамика)
 
 Во всех четырех видах движение возможно только через контактное давление. Если проследить всю причинно-следственную цепочку этого давления до самого конца, то во всех процессах Вселенной обнаружится единственный истинный Движитель — **аольное пространство** (поскольку сама материя абсолютно пассивна).
 
