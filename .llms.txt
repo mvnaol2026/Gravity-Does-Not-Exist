@@ -50,7 +50,7 @@ Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vi
 - **Aol Contacts:** 4-12.
 - **Cell Geometry:** Rhombic dodecahedrons.
 - **Speed of Light ($c$):** Longitudinal pressure wave speed.
-- **Verification Scripts:** `aol_mechanics_final_engine.py`, `aol_gravity_press_engine.py`, `aol_michelson_experiment.py`, `galaxy_expansion_mechanics.py`, `fall_vacuum_vs_air.py`, `light_pressure_and_heating.py`, `aol_helium_superfluid_engine.py`, `aol_electric_snake_engine.py`.
+- **Verification Scripts:** `aol_mechanics_final_engine.py`, `aol_gravity_press_engine.py`, `aol_michelson_experiment.py`, `galaxy_expansion_mechanics.py`, `fall_vacuum_vs_air.py`, `light_pressure_and_heating.py`, `aol_helium_superfluid_engine.py`, `aol_electric_snake_engine.py`, `aol_rocket_propulsion_engine.py`.
 
 ## 8. TRANSLATIONS
 - [Russian Version / Русская версия](llms_RU.txt)
