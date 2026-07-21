@@ -45,7 +45,7 @@
 - **Контакты аола:** 4–12.
 - **Геометрия ячейки:** Ромбододекаэдры.
 - **Скорость света ($c$):** Скорость продольной волны давления.
-- **Скрипты верификации:** `aol_mechanics_final_engine.py`, `aol_gravity_press_engine.py`, `aol_michelson_experiment.py`, `galaxy_expansion_mechanics.py`, `fall_vacuum_vs_air.py`, `light_pressure_and_heating.py`, `aol_helium_superfluid_engine.py`, `aol_electric_snake_engine.py`, aol_rocket_propulsion_engine.py`.
+- **Скрипты верификации:** `aol_mechanics_final_engine.py`, `aol_gravity_press_engine.py`, `aol_michelson_experiment.py`, `galaxy_expansion_mechanics.py`, `fall_vacuum_vs_air.py`, `light_pressure_and_heating.py`, `aol_helium_superfluid_engine.py`, `aol_electric_snake_engine.py`, aol_rocket_propulsion_engine.py`, `aol_combustion_engine.py`.
 
 ## 8. АНГЛИЙСКАЯ ВЕРСИЯ ФАЙЛА
 [English Version](llms.txt).
