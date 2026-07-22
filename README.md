@@ -192,6 +192,24 @@ The body remains passive and does not emit "fields." It functions strictly as a 
 
 ---
 
+> 🎯 **THE CORE AXIOMS / WHAT THE AUTHOR IS 100% CERTAIN OF:**
+> 
+> * **Mono-matter**: There can be only one type of matter in the Universe (aols). The existence of two or more types would inevitably guarantee an external Design and a Creator God.
+> * **Passivity**: Matter is entirely passive. It possesses no hidden internal properties or "charges," except for the capacity to move when pushed.
+> * **The Sole Mover**: There is no abstract energy in the Universe. There is only one real Mover — the omnidirectionally pressing and vibrating aol space. It powers absolutely all movements of passive matter and all physical processes.
+> * **The Main Law of Motion**: Everything without exception obeys and is verified by the Main Law of Motion. Consequently, there is no inertia in terms of bodies moving "on their own," and there are no free flights of particles (massless or otherwise).
+> * **The Mechanistic Triad**: Always, everywhere, and at any scale, the strict Triad applies: carriers — contact — pressure.
+> * **The Nature of Quanta**: Quanta are not mystical dualistic entities, but discrete mechanical impacts transmitted sequentially by aols.
+> * **Inseparability of Mass**: Matter is fundamentally never massless. Vacuums or "pure fields" do not exist.
+> * **The Physics of Mass**: Mass is the volumetric aol "sail area" of a specific body within a dense medium.
+> * **The Constant of the Medium**: The speed of light is strictly determined by the mechanical rigidity of the medium (the hardness of the aols themselves).
+> * **Unity of Scales**: The Universe is indivisible. There is no split into a quantum micro-world and a relativistic macro-world. Everything obeys the same mechanical laws.
+> * **The Ultimate Conclusion**: All types of dynamics declared by official science are fundamentally nothing but AOLODYNAMICS.
+
+**P.S.** This axiomatic framework of Aol Physics is monumental and non-negotiable. However, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It requires massive theoretical development, refinement, and verification. This is a colossal field of work spanning decades, and I invite thinking logicians, physicists, and programmers to join in building this new physical picture of the world.
+
+---
+
 ## 📖 Table of Contents 
 
 * [Introduction](/EN/01_introduction_and_chapters_1-3.md#introduction)
@@ -407,6 +425,24 @@ Aольная модель гравитации кардинально отли�
 19. **Квант**: Дискретная, порционная энергия единичного соударения атома по аолам пространства и дальнейшая механическая передача этого ударчика от аола к аолу по цепочке. Физика микромира квантовая, но с иными по своей сути квантами. Физического полета квантов сквозь пустоту нет.
 20. **Мир един**: Деление на микромир и макромир условное. Оно вызвано ограничением восприятия человека. Законы макромира и микромира одинаковые.
 21. **Триада аольной физики**: **Носители – контакт – давление.** Любой реальный процесс можно понять только тогда, когда в нём обнаруживаются все три элемента.
+
+---
+
+> 🎯 **THE CORE AXIOMS / В ЧЁМ АВТОР УВЕРЕН НА 100%:**
+> 
+> * **Моно-материя**: Видов материи во Вселенной не может быть более одного (аолы). Наличие двух и более видов неизбежно гарантировало бы присутствие внешнего Замысла и Бога-Творца.
+> * **Пассивность**: Материя абсолютно пассивна. В ней нет никаких скрытых внутренних свойств или "зарядов", кроме способности двигаться, когда её толкают.
+> * **Единственный Движитель**: Во Вселенной нет абстрактной энергии. Существует единственный реальный Движитель — всенаправленно давящее и вибрирующее аольное пространство. Оно обеспечивает абсолютно все движения пассивной материи и все физические процессы.
+> * **Главный закон движения**: Всё без исключения подчиняется Главному закону движения и им же проверяется. Отсюда следствие: нет инерции в понимании движения тел "самих по себе", и нет свободных полётов частиц (ни безмассовых, ни иных).
+> * **Механистическая Триада**: Всегда, везде и на любом масштабе действует жесткая Триада: носители — контакт — давление.
+> * **Природа квантов**: Кванты — это не мистические дуальные объекты, а дискретные механические ударчики, передаваемые аолами по цепочке.
+> * **Обязательность массы**: Материя принципиально не бывает безмассовой. Пустоты или "чистых полей" не существует.
+> * **Физика массы**: Масса — это объемная аольная парусность конкретного тела в плотной среде.
+> * **Константа среды**: Скорость света обусловлена исключительно механической жёсткостью среды (твёрдостью самих аолов).
+> * **Единство масштабов**: Мир неделим. Нет деления на квантовый микромир и релятивистский макромир. Всё подчиняется одинаковым механическим законам.
+> * **Финальный итог**: Все декларируемые официальной наукой виды динамики — это фундаментально лишь АОЛОДИНАМИКА.
+
+**P.S.** Этот аксиоматический каркас Аольной физики монументален и пересмотру не подлежит. При этом вся надстройка — от геометрии конкретных микроструктур до макроскопических следствий и алгоритмов симуляции — это открытая архитектура. Она требует масштабного теоретического развития, уточнения и проверок. Это колоссальное поле работы на десятилетия, и я приглашаю мыслящих логиков, физиков и программистов к совместному построению этой новой физической картины мира.
 
 ---
 
