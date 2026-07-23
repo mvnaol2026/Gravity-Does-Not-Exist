@@ -233,7 +233,7 @@ The body remains passive and does not emit "fields." It functions strictly as a 
 > * **Unity of Scales**: The Universe is indivisible. There is no split into a quantum micro-world and a relativistic macro-world. Everything obeys the same mechanical laws.
 > * **The Ultimate Conclusion**: All types of dynamics declared by official science are fundamentally nothing but AOLODYNAMICS.
 
-**P.S.** This axiomatic framework of Aol Physics is monumental and non-negotiable. However, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It requires massive theoretical development, refinement, and verification. This is a colossal field of work spanning decades, and I invite thinking logicians, physicists, and programmers to join in building this new physical picture of the world.
+**P.S.** This axiomatic framework of Aol Physics is monumental and non-negotiable. However, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It requires massive theoretical development, refinement, and verification. This is a colossal field of work spanning decades, and I invite thinking logicians, physicists, programmers, and AI to join in building this new physical picture of the world.
 
 ---
 
@@ -501,7 +501,7 @@ Aольная модель гравитации кардинально отли�
 > * **Единство масштабов**: Мир неделим. Нет деления на квантовый микромир и релятивистский макромир. Всё подчиняется одинаковым механическим законам.
 > * **Финальный итог**: Все декларируемые официальной наукой виды динамики — это фундаментально лишь АОЛОДИНАМИКА.
 
-**P.S.** Этот аксиоматический каркас Аольной физики монументален и пересмотру не подлежит. При этом вся надстройка — от геометрии конкретных микроструктур до макроскопических следствий и алгоритмов симуляции — это открытая архитектура. Она требует масштабного теоретического развития, уточнения и проверок. Это колоссальное поле работы на десятилетия, и я приглашаю мыслящих логиков, физиков и программистов к совместному построению этой новой физической картины мира.
+**P.S.** Этот аксиоматический каркас Аольной физики монументален и пересмотру не подлежит. При этом вся надстройка — от геометрии конкретных микроструктур до макроскопических следствий и алгоритмов симуляции — это открытая архитектура. Она требует масштабного теоретического развития, уточнения и проверок. Это колоссальное поле работы на десятилетия, и я приглашаю мыслящих логиков, физиков и программистов, а также ИИ к совместному построению этой новой физической картины мира.
 
 ---
 
