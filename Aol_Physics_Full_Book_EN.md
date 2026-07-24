@@ -5419,7 +5419,21 @@ If states exceedingly briefly, the essence of Aol physics lies within the Great 
 By this law, one can and must verify the truth of understanding any process. If within the description of a process there is an absence of a carrier, contact, and pressure — an explanation does not exist.  
 Absolutely everything else is a consequence of these three primary discoveries of Aol physics.
 
+### WHAT THE AUTHOR IS 100% CONFIDENT IN:
 
+*   **Mono-matter**: There can be no more than one type of matter in the Universe (aols). The presence of two or more types would inevitably guarantee the existence of an external Grand Design and a Creator God.
+*   **Passivity**: Matter is absolutely passive. It possesses no hidden internal properties or "charges" other than the capacity to move when pushed.
+*   **The Sole Mover**: There is no abstract energy in the Universe. There exists only one real Mover — the omnidirectionally pressing and vibrating aol space (medium). It drives absolutely all movements of passive matter and all physical processes.
+*   **The Prime Law of Motion**: Everything without exception is subject to the Prime Law of Motion and is verified by it. Hence the corollary: there is no inertia in the sense of bodies moving "on their own," and there are no free flights of particles (neither massless nor otherwise).
+*   **Mechanistic Triad**: Always, everywhere, and at any scale, a rigid Triad operates: entities — contact — pressure.
+*   **The Nature of Quanta**: Quanta are not mystical dualistic objects, but discrete mechanical impacts (micro-hits) transmitted by aols along a chain.
+*   **Mandatory Mass**: Matter is fundamentally never massless. Emptiness or "pure fields" do not exist.
+*   **Physics of Mass**: Mass is the volumetric aol sail area of a specific body within a dense medium.
+*   **Medium Constant**: The speed of light is driven exclusively by the mechanical rigidity of the medium (the hardness of the aols themselves).
+*   **Unity of Scales**: The world is indivisible. There is no separation into a quantum microworld and a relativistic macroworld. Everything obeys the same mechanical laws.
+*   **Final Conclusion**: All types of dynamics declared by official science are fundamentally nothing but AOLODYNAMICS.
+
+**P.S.** This axiomatic framework of Aol Physics is monumental and not subject to revision. However, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It demands massive theoretical development, refinement, and verification. This is a colossal field of work for decades to come, and I invite thinking logicians, physicists, and programmers, as well as AI, to jointly construct this new physical picture of the world.
 
 
 
