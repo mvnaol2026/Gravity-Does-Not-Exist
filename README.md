@@ -96,8 +96,9 @@ In the absence of contact, motion — and consequently, any process — is impos
 ## Core Premises:
 
 <details>
-<summary>📂 <b>Click to expand the list</b></summary>
-
+<summary>📂 <b>Click to expand the list</b></summary>    
+&nbsp;   
+   
 * There is no empty space.
 * Aol space fills the Universe.
 * Physical interactions arise exclusively through pressure and motion transfer inside the medium.
@@ -110,7 +111,8 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
-
+&nbsp; 
+   
 * **Gravity:** Compression caused by a pressure imbalance.
 * **Light:** High-frequency vibrations of aol space (rejecting photon particle flights).
 * **Electric Charge:** Rotational states of atomic structures.
@@ -123,7 +125,8 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
-
+&nbsp; 
+   
 1. **Recognition of the existence of attraction** as a fundamental, inherent property of matter 
 2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
 3. **Empty atoms** with chaotically flying massless or point particles
@@ -151,7 +154,8 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
-
+&nbsp; 
+   
 The **"Gravity Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage. *"Shut up and count!"* is a bad principle.    
 This project shifts physics from the language of abstract formulas to the **language of deterministic aolodynamics**.
 
@@ -177,7 +181,8 @@ This project shifts physics from the language of abstract formulas to the **lang
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
-
+&nbsp; 
+   
 Before analyzing the technical part of the project and the source code, it is absolutely necessary to completely clear your mind of the dogmas of the official Standard Model of physics. This simulation engine and the entire theoretical framework are based on an unprecedentedly rigid, materialistic, and gapless logical foundation consisting of four immutable postulates:
 
 1. **Complete Absence of External Design (There is no God)**  
@@ -201,7 +206,8 @@ The world is one, strictly deterministic, free of paradoxes, and mechanically ca
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
-
+&nbsp; 
+   
 No other processes occur in the physical world except for mechanical interactions. All of them are governed by a single, alternative-free principle — **direct contact pressure of matter.**    
 Depending on the scale and state of the medium, physics distinguishes four branches of mechanics:
 
@@ -226,7 +232,8 @@ It is through the laws of aolodynamics that phenomena mistakenly classified by o
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
-
+&nbsp; 
+   
 1. **No Attraction**: There are no forces of attraction in nature. Any apparent attraction is the result of external pushing or pressing (impulsion).
 2. **No Energy**: The concept of "energy" is a purely mathematical abstraction. All physical processes are driven exclusively by mechanical motion and pressure of the medium.
 3. **Passivity of Matter**: Matter is absolutely passive. It possesses no internal "charges," inherent forces of interaction, or resistance to displacement. Matter can only move (vibrate) when acted upon by direct physical contact, and it can transmit motion only through contact. Matter cannot spontaneously generate. Matter cannot create new matter from nothing. It is incapable of producing particles or emitting them.
@@ -404,6 +411,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
+&nbsp; 
    
 * Пустого пространства (вакуума) не существует.     
 * Вселенная полностью заполнена непрерывной средой — аольным пространством.     
@@ -417,6 +425,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
+&nbsp; 
    
 * **Гравитация:** Сжатие тел, вызванное неуравновешенным давлением среды (притяжения не существует).
 * **Свет:** Высокочастотные колебания (волны давления) аольного пространства, а не полет частиц-фотонов.
@@ -430,6 +439,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
+&nbsp; 
    
 1. **Признание существования притяжения** как фундаментального врожденного свойства материи
 2. **Теория Большого взрыва**, постулирующая рождение Вселенной из сингулярной математической точки
@@ -458,7 +468,8 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
-
+&nbsp; 
+   
 Проект **"Притяжения не существует"** создан для устранения концептуальных тупиков Стандартной модели.     
 Официальная наука хорошо описывает *поведение* объектов уравнениями, но скрывает полное отсутствие физических механизмов за математическим камуфляжем. *"Заткнись и считай!"* - это плохой принцип.    
 Данный проект переводит физику с языка абстрактных формул на **язык детерминированной аолодинамики**. 
@@ -485,6 +496,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
+&nbsp; 
    
 Перед анализом технической части проекта и программного кода необходимо полностью очистить мышление от догм официальной Стандартной модели физики. Данный движок симуляции и вся теоретическая база базируются на беспрецедентно жестком, материалистическом и бесщелевом логическом фундаменте, состоящем из четырех незыблемых постулатов:
 
@@ -509,6 +521,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
+&nbsp; 
    
 В физическом мире не происходит никаких иных процессов, кроме механических. Все они подчиняются единому принципу — контактному давлению материи.    
 В зависимости от масштаба среды аольная физика выделяет четыре вида механики:
@@ -535,7 +548,8 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
-
+&nbsp; 
+   
 1. **Нет притяжения**: В природе не существует сил притяжения. Любое кажущееся притяжение — это результат внешнего подталкивания или придавливания.
 2. **Нет энергии**: Понятие "энергия" — математическая абстракция. Все процессы обусловлены исключительно механическим движением и давлением среды.
 3. **Пассивность материи**: Материя абсолютно пассивна. Она не обладает внутренними "зарядами", врожденными силами взаимодействия или сопротивлением перемещению. Материя может только двигаться (вибрировать) если на неё контактно воздействуют и может контактно передавать движение. Материя не может самопроизвольно зарождаться. Материя не может из ничего создать новую материю. Она не умеет создавать частицы и испускать их.
