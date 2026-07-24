@@ -74,7 +74,7 @@ For the absolute, unaltered physical essence of the hypothesis, please refer to 
 
 ## 🌍 Project Overview (English)
 
-### A conceptual mechanical model of physical processes based on:
+## A conceptual mechanical model of physical processes based on:
 * **Matter**  *(aols, atoms, molecules, objects)*
 * **Contact**
 * **Pressure**
@@ -84,19 +84,45 @@ Any process is the motion of matter.
 > ### PROCESS: matter ⟶ contact ⟶ pressure ⟶ motion ⟶ change or transformation *(of position, state, composition, structure, configuration)*
 In the absence of contact, motion — and consequently, any process — is impossible.
 
-### Core Premises:
+---
+
+## 🏛️ The Fundamental Law of Motion
+
+> ### Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.        
+*Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
+
+---
+
+## Core Premises:
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
+
 * There is no empty space.
 * Aol space fills the Universe.
 * Physical interactions arise exclusively through pressure and motion transfer inside the medium.
 * The Prime Mover — the aol space (exerting pressure and vibrating) — drives all processes, as matter of any kind is inherently passive.
+</details>
 
-### Main Ideas:
+---
+
+## Main Ideas:
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
+
 * **Gravity:** Compression caused by a pressure imbalance.
 * **Light:** High-frequency vibrations of aol space (rejecting photon particle flights).
 * **Electric Charge:** Rotational states of atomic structures.
 * **Magnetism:** Organized rotational motion of the medium.
+</details>
 
-### Fatal Fallacies of Science
+---
+
+## Fatal Fallacies of Science
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
 
 1. **Recognition of the existence of attraction** as a fundamental, inherent property of matter 
 2. **Big Bang theory**, postulating the birth of the Universe from a singular mathematical point
@@ -117,10 +143,14 @@ In the absence of contact, motion — and consequently, any process — is impos
 17. **The existence of absolute emptiness in the Universe**
 18. **Curvature of empty space and the non-material coordinate of time**
 19. **Physical time dilation** depending on the speed of motion or gravity
+</details>
 
 ---
 
 ## 🛠 Bugs of Official Physics and Their Solution in Aol Physics
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
 
 The **"Gravity Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage. *"Shut up and count!"* is a bad principle.    
 This project shifts physics from the language of abstract formulas to the **language of deterministic aolodynamics**.
@@ -139,10 +169,14 @@ This project shifts physics from the language of abstract formulas to the **lang
 *This repository proves that the **1/r²** law is derived purely mechanically from the geometry of medium shielding, without invoking any hidden mass.*
 6. **The Main Dead End of Science:** The two fundamental theories upon which all of modern physics rests — Quantum Mechanics (describing the micro-world) and General Relativity (describing the macro-world and gravity) — are mathematically completely incompatible with each other. When attempting to merge their formulas, the equations yield meaningless infinities. For a century, physics has vainly searched for a "Theory of Everything," failing to realize that you cannot unify two different mathematical fantasies.    
 *Aol Physics natively resolves this conflict: both the micro-world (atoms) and the macro-world (gravitational compression) operate on the exact same **aolodynamics**.*
+</details>
 
 ---
 
 ## 🧩 Physical Philosophy of the Aol Model (Logical Manifesto)
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
 
 Before analyzing the technical part of the project and the source code, it is absolutely necessary to completely clear your mind of the dogmas of the official Standard Model of physics. This simulation engine and the entire theoretical framework are based on an unprecedentedly rigid, materialistic, and gapless logical foundation consisting of four immutable postulates:
 
@@ -159,17 +193,14 @@ Before analyzing the technical part of the project and the source code, it is ab
    There is no motionless matter in Nature; the concept of "rest" is a macroscopic illusion. **Prevailing pressure** is a continuous, eternal process involved with every material body and every individual aol every single second. All matter is in a state of **permanent dynamic and vibrational clamping** and performs either obvious motion (the displacement of objects in space) or internal micromotion — a continuous ultra-high-frequency vibration under the external pressing of the medium with a base minimum of **10¹³ Hz**.
 
 The world is one, strictly deterministic, free of paradoxes, and mechanically calculated down to the very last aol.
-
----
-
-### 🏛️ The Fundamental Law of Motion
-
-> ### Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.        
-*Corollary: The flight of isolated particles (photons, neutrinos, gluons, free electrons) in an absolute vacuum is physically impossible.*
+</details>
 
 ---
 
 ## ⚙️ The Four Branches of Mechanics (Aolodynamics)
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
 
 No other processes occur in the physical world except for mechanical interactions. All of them are governed by a single, alternative-free principle — **direct contact pressure of matter.**    
 Depending on the scale and state of the medium, physics distinguishes four branches of mechanics:
@@ -187,10 +218,14 @@ It is through the laws of aolodynamics that phenomena mistakenly classified by o
 🏃‍♂️ **Inertial Motion** — continuous forward impulsion caused by spatial "aol wedges" tightening from behind.    
 💡 **Light** — high-frequency elastic pressure waves transmitted sequentially down a chain of tightly packed aols.    
 ⚡ **Electricity & Magnetism** — directional propagation of aol "snakes" and localized mechanical vortices of the medium.
+</details>
 
 ---
 
-### 📜 21 Key Axioms of Aol Physics
+## 📜 21 Key Axioms of Aol Physics
+
+<details>
+<summary>📂 <b>Click to expand the list</b></summary>
 
 1. **No Attraction**: There are no forces of attraction in nature. Any apparent attraction is the result of external pushing or pressing (impulsion).
 2. **No Energy**: The concept of "energy" is a purely mathematical abstraction. All physical processes are driven exclusively by mechanical motion and pressure of the medium.
@@ -222,6 +257,7 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 19. **Quantum in QTA (Quantum Theory of Aolodynamics)**: A quantum is the discrete, portioned "energy" of a single atomic collision against the aols of space, followed by the mechanical transmission of this micro-impact from aol to aol along a chain. The physics of the microworld is quantum, but with quanta that are fundamentally different in nature. There is no physical flight of quanta through empty space. The discreteness of a quantum is entirely driven by the factor of the IMPACT itself. A mechanical impact is always fundamentally discrete: an elastic contact cannot be transmitted "halfway" — the collision impulse is either passed along the chain of aols in its entirety, or not at all.
 20. **The world is unified**: The division into the microworld and the macroworld is arbitrary. It is caused by the limitations of human perception. The laws of the macroworld and the microworld are the same.
 21. **The Triad of Aol Physics**: **Entities – Contact – Pressure.** Any real process can only be understood when all three of these elements are identified within it.
+</details>
 
 ---
 
@@ -367,7 +403,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 ## Базовые аксиомы:
 
 <details>
-<summary>📂 <b>Нажмите, чтобы развернуть список аксиом</b></summary>
+<summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
    
 * Пустого пространства (вакуума) не существует.     
 * Вселенная полностью заполнена непрерывной средой — аольным пространством.     
