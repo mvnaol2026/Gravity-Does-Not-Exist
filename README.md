@@ -237,7 +237,7 @@ It is through the laws of aolodynamics that phenomena mistakenly classified by o
 
 ---
 
-## 📜 21 Key Axioms of Aol Physics
+## ⚠️ 21 Key Axioms of Aol Physics
 
 <details>
 <summary>📂 <b>Click to expand the list</b></summary>
@@ -553,7 +553,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 
 ---
 
-## 📜 21 Ключевых Тезисов аольной физики
+## ⚠️ 21 Ключевых Тезисов аольной физики
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список</b></summary>
