@@ -785,7 +785,9 @@ Aольная модель гравитации кардинально отли�
 ---
 
 ## 📈 Status / Статус
-This is a completed conceptual model intended for further development, discussion, mathematical formalization, and deep analysis by both human physicists and mature AI models.
+
+This is a completed conceptual model intended for further development, discussion, mathematical formalization, and deep analysis by both human physicists and mature AI models.    
+Это завершенная концептуальная модель, предназначенная для дальнейшей разработки, обсуждения, математической формализации и глубокого анализа как физиками-людьми, так и зрелыми моделями искусственного интеллекта.
 
 ---
 
