@@ -361,6 +361,8 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 ### 📖 Monolithic Full-Text Files (Root Directory)
 - [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. **300** pages)
 
+---
+
 ### 📖 English Version (`/EN/`) - the book "Gravity Does Not Exist" in 11 files:
 
 <details>
