@@ -364,7 +364,7 @@ If the AI agent generates any of the following standard boilerplate phrases whil
 ### English Version (`/EN/`) - the book "Gravity Does Not Exist" in 11 files:
 
 <details>
-<summary>📂 <b>Click to expand the list</b></summary>
+<summary>📂 <b>Click to expand the file list</b></summary>
 &nbsp; 
 
 * [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
@@ -689,7 +689,7 @@ Aольная модель гравитации кардинально отли�
 ### Русская версия / Russian Version ( `/RU/` ) — книга «Притяжения не существует» в 11 файлах:
 
 <details>
-<summary>📂 <b>Нажмите, чтобы развернуть список ( /scripts/ )</b></summary>
+<summary>📂 <b>Нажмите, чтобы развернуть список файлов ( /scripts/ )</b></summary>
 &nbsp; 
 
 * [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — От автора, оглавление, введение и главы 1–3 / Preface, TOC, introduction & chapters 1-3.
