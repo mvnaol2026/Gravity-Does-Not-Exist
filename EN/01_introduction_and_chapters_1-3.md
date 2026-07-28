@@ -2,24 +2,21 @@
 ## AOL PHYSICS. THE STRUCTURE OF THE PHYSICAL WORLD
 
 
-## Preface
+## Abstract
 
-You are presented with a processed version of my book “Attraction Does Not Exist”, which was written between September and November 2000 in Donetsk, Ukraine. I was 47 years old at the time.
-I did not have a computer, and therefore no Internet either. I wrote my thoughts in school notebooks. A couple of years later, I got a computer and typed everything into Word. Then I threw away my notebooks, as I no longer needed them. I still deeply regret this. The notebooks recorded the entire process of gradual understanding – dynamic, evolving, with different hypotheses, with mistakes and discoveries. I would give a lot to get those notebooks back. They contained the very pulse of discovery. There was so much tension, but also euphoria. After that, the manuscript remained “in a drawer” for a long time.
+This paper presents an alternative mechanistic model of the physical world ("Aol Physics"), developed by the author since 2000 and revised in 2026 in co-authorship with artificial intelligence. The model completely rejects the concepts of action-at-a-distance attraction, empty space (vacuum), and abstract energy. Einstein's General Theory of Relativity (GR) is dismissed, while Quantum Field Theory (QFT) is replaced by the Quantum Theory of Aolodynamics (QTA). Fundamental physical phenomena (light, gravity, inertia, electricity, magnetism, heat), as well as cosmology and other processes, are re-evaluated through the prism of continuous contact pressure within a close-packed medium of spherical primary particles (aols). The critical review of mainstream physical concepts was prepared with the assistance of AI, whereas the alternative theoretical models belong entirely to the author.
 
-In 2021, the book was published in two small print runs of 500 copies each and distributed among nearly a thousand people – slightly fewer than a thousand, because some ordered more than one copy.
-In 2026, I processed the book using AI. The new version became less voluminous, much more concise, and the emotional tone of the original book was almost completely removed. This book is a “compressed” version of the original “Attraction Does Not Exist.”
+## Author's Note
 
-The book offers an alternative perspective on the structure of the physical world.
-It examines fundamental questions of physics – the structure of matter, the nature of motion, the mechanism of interaction, and the organization of the Universe.
-Within this model, key physical phenomena are reimagined, including light, gravity, electricity, inertia, heat, cosmological processes, and more.
-It is intended for readers interested in fundamental questions of physics and seeking a coherent understanding of nature. 
+Presented here is the revised edition of my book **"Attraction Does Not Exist,"** which was originally written between September and November 2000 in Donetsk, Ukraine.  
+At that time, I had neither a computer nor internet access. I recorded my thoughts in school notebooks. A couple of years later, I got a computer and typed everything into Word, discarding the notebooks as they seemed no longer necessary. I deeply regret this to this day. Those notebooks captured the entire process of gradual discovery—dynamic, fluid, filled with alternative hypotheses, errors, and breakthroughs. I would give a great deal to have those notebooks back. They held the very nerve of discovery, marked by immense tension but also absolute euphoria. Afterwards, the manuscript remained shelved for a long time.  
+In 2021, the book was published in two small print runs of 500 copies each and distributed to nearly a thousand people.  
+In 2026, I revised the book using AI (Artificial Intelligence).  
 
-A few words about myself.
-Born in 1953, Donetsk. Until August 2023, I lived in Donetsk, and since 2023 I have been living in Kyiv, as it became impossible to remain a citizen of Ukraine while living in Donetsk occupied by Russia. I am a mechanical engineer by education. Full name – M.V.N. I will remain incognito, considering the easily predictable attacks. I'll provide the name – Viacheslav.
+A few words about myself. I am a Ukrainian, born in 1953 in Donetsk. I lived in Donetsk until August 2023, and since 2023 I have been living in Kyiv, as it became impossible to remain a citizen of Ukraine in Russian-occupied Donetsk. I am a mechanical engineer by education. My full initials are M.V.N., but I prefer to remain incognito given the easily predictable backlash. I will state only my first name—Vyacheslav.
 
-This work is presented in the author’s edition (publication index No. ДИУ-917.671.014).
-The original text was completed in Kyiv on May 10, 2026.
+This work is presented in the author's edition (publication index No. DIU-917.671.014).  
+The text was completed in Kyiv on May 10, 2026.
 
 
 
