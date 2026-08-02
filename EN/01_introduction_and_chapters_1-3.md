@@ -191,7 +191,7 @@ Aol physics utilizes the criterion of mechanical causality exclusively. Here, an
 
 
 
-**Chapter 1. WHAT THIS BOOK IS ABOUT**
+## Chapter 1. WHAT THIS BOOK IS ABOUT
 
 For a very long time (until I was 47), I, like the absolute majority of people, held science in high esteem. I sincerely trusted it and admired its achievements. At the same time, I never thought about how well-proven and explained the processes it describes actually are.
 
