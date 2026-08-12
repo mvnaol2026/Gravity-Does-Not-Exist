@@ -1548,6 +1548,8 @@ At a critical point, the exact same total axial pressure of the medium becomes d
 
 The socket grows only until the drop in specific pressure caused by the expansion of the contact area halts the deformation. This guarantees strict uniformity and an identical size for all stamped "interlocking connections" of the micro-world.
 
+I don't know the depth of the socket, but intuitively I assume that it is 1/8 of the diameter of the aol.
+
 **6. Spatial Symmetry of Defects: Why There Are Strictly Two Sockets**
 
 A stereometric analysis of the stamping process provides a clear rationale for why a basic, stable lunol possesses exactly two diametrically opposite recesses:
