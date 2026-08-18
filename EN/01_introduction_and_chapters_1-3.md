@@ -1266,7 +1266,161 @@ The official Big Bang did not occur in physical reality — it takes place exclu
 
 This is a forgery of the purest water. If physics truly possessed objective source data of the singularity and calculated "From There to Here," it would be a predictive science. Yet it predicted nothing. Each "stage" of the early Universe was conceived post factum exclusively to justify what practical engineers already observe today on Earth and through telescopes.
 
+**The Birth of the World Out of Nothing: Two Versions of Academic Magic**
 
+To the fundamental question of exactly how the Universe was born and where its physical space was located at that very instant, academic science possesses no single, coherent answer. The views of official science have split into two conflicting versions. Both represent pure mathematical equilibristics, completely ignoring material reality and the concept of the Driver.
+
+**Version One: Space Compressed into Zero.**
+
+Classical cosmology asserts that the entire colossal mass of our Universe — with all its billions of future galaxies — was once compressed into a single, solitary point with a zero geometric volume and infinite density. Physicists conceived a beautiful term for this picture — the "initial singularity".
+
+In this interpretation, the Big Bang is not the expansion of material bodies inside an already existing empty space. We are told that space itself did not exist at all before the explosion. All three Cartesian dimensions and time itself (the entire space-time continuum) were tightly locked inside a dimensionless point. It turns out that the world was born "into itself," inflating geometric coordinates out of absolute Nothing.
+
+This mathematical version is precisely what we broke down above.
+
+However, I want to emphasize the absolute impossibility of the process of volume expanding into itself, rather than into an external container. No ruses in explanations are capable of altering the geometry of this process. A physical volume has no right to grow where there are no ready coordinate addresses for it.
+
+This means that the so-called initial singularity was obliged to be surrounded by an infinite, eternal, and empty three-dimensional container-space. For academic science to acknowledge this obvious geometric fact means to instantly nullify the entirety of General Relativity, which prohibits the existence of space in isolation from matter. And to rescue its broken formulas, the officialdom preferred to declare geometry outlawed, forcing the Universe to perform a trick impossible in reality — to spherically inflate from "nothing" into "nowhere," simulating volume growth in the complete absence of external space.
+
+**Version Two: Infinite Singularity and the Paradox of Chain Detonation**
+
+When academic physicists realized that the attempt to cram the Universe into a point without volume leads to a logical collapse (the mathematical calculators of General Relativity yield meaningless infinities upon which physics dies), they put forward an alternative hypothesis.
+
+According to it, the Universe was initially and always infinite in its volume. But at the moment of the Big Bang, the density of matter on this boundless plane was infinitely large at every single point. That is to say, the explosion did not occur in some specific location — it happened simultaneously everywhere from a multitude of singularity-points.
+
+To somehow visualize this nonsense, scientists sketched in the concept of the "Multiverse" — an infinite cosmic jar packed to the brim with "singular eggs". We are invited to believe that in a boundless medium, nose to nose with one another, sit countless embryo-points. At random moments in time, these eggs begin to burst. But since they have nowhere to fly outward — because the embryo-points of others stand as a dense wall around them — each egg begins to wildly inflate inside itself, creating its own isolated internal geometry, its own galaxies, and its own laws.
+
+And right here, official science steps on the exact same geometric rake. Inflating "inside itself" is just as much of a spatial absurdity as the birth of coordinates out of absolute zero. Any increase in a bubble's volume is obligated to push apart its external boundaries in real space. Yet, there is nowhere for the boundaries to push — the neighboring singularity-"eggs" interfere. The officialdom has completely banished the external Container from this scheme, attempting to pass off real volume as isolated mathematical matrices.
+
+But a particular absurdity of this model lies in the basic laws of physics, which the authors of the "Multiverse" preferred to forget. According to their blueprints, each singular egg is charged with monstrous energy and is in a critically unstable state. This entire infinite jar is packed with them to the brim, nose to nose. Any sane physicist knows: in such a system, the explosion of even a single embryo instantly generates a colossal shockwave, causing an instantaneous chain detonation of all neighboring objects.
+
+The defective academic jar was bound to blow up in the very first nanosecond of its existence! The expanding wall of the first bursting Universe would have ripped its neighbors apart, launching a total singular-cosmic conflagration across the entire infinity. No isolated, neat bubble-worlds could have emerged a priori — the system would have completely destroyed itself, turning into a continuous chaotic mince of infinity exploding infinity.
+
+The officialdom sells us a model that is physically incapable of existing for even a brief moment, yet pretends to have constructed a rigorous mathematical cosmology. And since this circus cannot be coherently explained, science suggests closing our eyes and studying only our local "bubble," which is exactly what we do in this chapter.
+
+**The Conclusion**
+
+In popular science books for laymen, they always sell **Version No. 1** (the point-singularity), because it is easy to draw on a poster.     
+However, at scientific symposia, when scientists are caught on the mathematical meaninglessness of division by zero, they defect to **Version No. 2.**
+
+What unites both of these camps is that they possess no physical Driver. Instead of presenting a physical carrier and a mechanism of pressure, science foists upon us formulas that operate all by themselves — without causes.
+
+Aol physics demolishes both of these abstractions: the world was not born out of a mathematical zero, and it does not expand into nowhere. Space is material, eternal, and invariant in its volume, whereas all observed "cosmological effects" are merely the redistribution of contact pressure and wave processes inside a single, eternally vibrating aol medium.
+
+**The Summary of Part One of Chapter 2**
+
+Official academic physics has completely gone bankrupt in its attempt to explain the real, tangible world. In its interpretation, the Universe is an incorporeal digital simulator:
+
+**1.	The composition of the world:**   
+Nonexistent. Instead of matter, we have empty spatial coordinates and flickering wave clouds of numbers that simulate solidity through the non-contact repulsion of potentials — "minuses" pushing each other.    
+
+**2.	The mover of the world:**   
+Nonexistent. All fundamental processes — inflationary expansion, inertial dispersion, the flight of photons, and the fall of bodies into a gravitational well — occur without physical movers, without a medium, and without causes. They happen solely because a self-unfolding mathematical script of equations dictates so.    
+
+Before us is a grandiose **"Black Box",** the mathematical formulas of which engineers have learned to use for creating technologies, but the inner theoretical essence of which represents a refined, idealistic absurdity. Science has removed substance from the world, replacing it with a numerical ledger, and has left humanity to smash its forehead against a wall that science itself has declared a mathematical hallucination.
+
+**The "Black Box" Effect: How Engineering Camouflages the Theoretical Absurdity of Physics**
+
+The main illusion that instills blind faith in the truth of academic physics within humanity is formulated by a layman's argument: "But the formulas work! We have smartphones, lasers, nuclear power plants, and satellite navigation (GPS) — therefore, the theory is correct!"
+This is the greatest logical fraud in the history of science. The strength of modern official physics does not lie in the fact that it correctly understood and described the structure of the world — here, it has completely failed into corpuscular-wave absurdity, flickerings, expansion into itself, immaterial curvatures of emptiness, and singularities.
+
+The strength of science lies exclusively in its ability to empirically calculate the external **MANIFESTATIONS** of processes, while absolutely not understanding their inner essence.
+
+**1.	The Phenomenon of a Working "Black Box"**
+
+In cybernetics and engineering, the "Black Box" principle is well known.    
+You have a highly complex closed mechanism, the design of which is unknown to you.
+But through thousands of experiments, you have clearly recorded:    
+•	If you input signal **A**, you always get result **B** at the output.    
+•	If you input signal **A+1**, you are guaranteed to get **B + 1.005** at the output.
+
+You can invent any fantastic fairy tale to explain this process: claim that invisible gnomes sit inside the box, that massless dual spirits fly around, or that the fabric of time curves. If your mathematical formula accurately describes the ratio between input and output, your technology will work, despite the fact that your theoretical description is a one-hundred-percent absurdity.
+
+Official physics is precisely such a set of formulas for the "Black Box" of the Universe. The principle "Shut up and calculate!" has become its official motto. Science has learned to predict the behavior of phenomena based on accumulated experience, but has substituted the physical mechanism with an abstract mathematical camouflage.
+
+**2. Exposing GPS Navigation: Engineering vs. Einstein**
+
+Let us consider a textbook example that official science loves to brag about — time dilation on orbital GPS satellites. Academics claim: "Without the formulas of Einstein's General Theory of Relativity, satellite clocks would accumulate an error of 38 microseconds per day, and navigation would break down in a couple of hours! Einstein proved that time bends!"
+
+Let us look at this process through the eyes of an engineer and aolodynamics:    
+**1.	What is recorded experimentally?** A satellite flies at immense speed at an altitude of 20,000 km. Physical instruments record that the atomic clocks in orbit run slightly faster than identical clocks on Earth. This is a fact of "input and output."    
+**2.	How does the official absurdity explain this?** Einstein declares that in orbit, "space-time itself is curved differently," which is why the immaterial coordinate of time physically flows at a different speed.     
+**3.	How does sane materialism explain this?** Atomic clocks do not measure "time," but the vibration frequency of cesium atoms. The satellite is located at an altitude of 20,000 km, where the vibration and pressure of the surrounding aol medium are fundamentally different from those near the surface of the Earth-screen. The cesium atoms in the clock, having entered different vibration conditions, begin to vibrate slightly faster. No "time" was bent — the specific physical conditions of the mechanism's operation within the medium changed.    
+**4.	What did the engineer do?** The engineer does not care about theoretical disputes regarding "bent time" and "aol vibration." He took the experimental value of the difference — those very 38 microseconds — and simply hardcoded a mathematical correction into the satellite's computer, artificially slowing down the frequency generator.
+
+GPS technology works due to the numerical adjustment of instrument frequency performed by engineers, and not at all because the hypothesis of the deformation of emptiness is correct. Engineering simply utilized the "black box" experience, camouflaging the foolishness and blindness of theoretical physics.
+
+**3. Historical Precedents: When Absurdity Allowed Accurate Calculation**
+
+The history of science proves: working mathematics and technologies have never been a guarantee of a theory's correctness.
+
+**•	The Caloric Theory:**   
+In the 18th century, scientists were absolutely certain that heat was a material fluid called "caloric," flowing from hot bodies to cold ones. Based on this completely false theory, the first thermal cannons were calculated, and steam engines that powered factory machinery and locomotives were built and effectively launched. The technological breakthrough camouflaged the absurdity of the "invisible thermal fluid" until physicists finally realized that heat as a substance does not exist, and that there is only the mechanical agitation of particles.
+
+**•	Ptolemy's Epicycles:**   
+Ancient astronomers believed that the Earth was motionless, and that the Sun and planets revolved around it in complex nested circles called epicycles. Using this false geometry, they calculated lunar eclipses and compiled calendars with stunning accuracy, which people used to sail across oceans. The mathematical calculation "worked," camouflaging the fundamental absurdity of geocentrism.
+
+**Summary**
+
+Modern academic physics parasitizes the successes of applied engineers. Having built a transistor through empirical trial and error and hundreds of laboratory tests, humanity obtained a processor.
+
+Engineering is a blind practitioner who has learned to press the buttons of the "Black Box."
+Theoretical physics is a storyteller who invents myths about why these buttons work.
+The task of Aol physics is to rip off this camouflage, open the box, and reveal the real, tangible gears of the universe.
+
+Right now, science is ruled by: **input — "black box" — output.** You can calculate and construct. You cannot understand.
+
+What does Aol physics offer? **Cause — explanation — effect.** Or: **input — explanation — output.**   
+The "black box" of incomprehension has vanished.
+
+## Part 2. What Exists from the Point of View of the Aol Model
+
+This part will be extremely concise and structured as a series of theses, since the detailed mechanics of the world will be explained in the subsequent chapters.
+
+1.	None of what was described in the first part of this chapter exists.    
+2.	There is no Grand Design and no Creator. There is a single nature, which is not divided into the laws of the macrocosm and the microcosm.
+3.	**Only matter exists.** The only type of matter is aols.
+4.	Energy does not exist. There is a single Main Driver of all processes — the aol space — which is pressing and vibrating.
+5.	**Any process is the movement of matter.** To understand a process, one must understand what matter is and what movement is — meaning, what constitutes the Driver of the process.
+6.	There is no stationary matter. The only, most "immobile" matter is an aol of the aol space, which freezes once every ten-trillionth of a second. Any other object has no such "breathing rooms" or pauses in its cessation of movement.
+7.	The axiom of Aol physics: **every physical action, manifestation, event, or movement must have a real material carrier.** Emptiness and abstract "nothingness" are incapable of anything by definition.
+
+A material carrier always occupies a specific place in space. This is precisely why the so-called "empty field" of official science is completely non-functional — there is physically no agent of the process within it. The official establishment managed to superimpose hundreds of independent fields onto every single micro-point of the Universe only because they forced us to believe in incorporeal mathematical abstractions. Placing hundreds or even an infinite number of "nothings" into one geometric point on paper can be done effortlessly. However, there can be only one real, volume-occupying material carrier in that point.
+
+Aol physics replaces hundreds of ghostly fields with a single, universal carrier — the aol. It is the aol that serves as the carrier of any action, movement, vibration, and manifestation of reality. The exact same aol of the aol space is capable of transmitting contact pressure, broadcasting light, and conducting electricity, electromagnetic waves, and heat. It accomplishes this through different modes and frequencies of its vibrations almost simultaneously and instantaneously, which human perception interprets as absolute simultaneity.
+
+The empty academic field is incapable of such universality. It is incapable of anything at all without material carriers. Science has created a kaleidoscope of hundreds of isolated fields because it refused to admit the obvious: space is material, it is filled with a tangible medium, and all natural phenomena are not independent mystical entities, but different forms of movement of one and the same single primal matter. The fields of science are impotent.
+
+Every time we speak of any phenomenon, we will ask ourselves two questions:  
+**1.	What is moving?** What specific material body is displacing in space?  
+**2.	What exactly is exerting pressure?** What carrier is delivering the impact? That is — what constitutes the Driver of the process?
+
+If there is a clear answer to these questions, it means we understand the process.
+If there is no answer, it means we are facing a mere description, not an explanation.
+
+**Let us summarize the intermediate results**
+
+Within the framework of the worldview that we will unfold further, three basic assertions are accepted:    
+**1.	Only matter exists in the world.** Reality is completely purged of "immaterial fields" or "pure energy" capable of physically impacting objects without direct material contact.  
+**2.	Matter is always in motion.** There is no absolute rest. Any static state is a local state of an object that disregards the internal movements of the object and its displacements in space.  
+**3.	Any process is the movement of matter and the transmission of this movement.**
+
+From these three assertions, the entire picture will gradually come together.    
+First, we will figure out what exactly the medium in which everything takes place represents.
+
+After that:  
+•	How the structure of matter arises from this medium;  
+•	How the movement that we call inertia appears;  
+•	How gravity works;  
+•	What light, heat, electricity, and magnetism really are.
+
+And step by step, it will become clear that behind all these diverse phenomena lies one and the same mechanism — movement resulting from the predominant contact pressure of material bodies.    
+For now, however, it is crucial to lock down the main point.    
+The world does not consist of "matter and energy."    
+The world consists of matter.    
+And everything else is just forms of its movement.
+
+**P.S.** If a physical process is explained without specifying the material carriers, their contact, and the driver, it is merely a camouflage for a lack of understanding of the process. One can listen to such an "explanation," but only if there is free time to spare, and strictly as a form of entertainment or an act of politeness toward the speaker. Such an "explanation" possesses absolutely no scientific value.
 
 
 
