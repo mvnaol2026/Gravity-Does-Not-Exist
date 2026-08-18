@@ -798,6 +798,320 @@ In reality, if an object has no mass, no acceleration phase, no mechanism of fli
 
 Massless matter cannot exist. Since physics does not know what mass is, only for that reason did it invent massless matter. Academic science mistakenly took a wave process in a medium unknown to it for the flight of discrete, massless projectiles, collapsing into total ontological blindness at the most visible and tangible physical phenomenon — the phenomenon of light.
 
+**Myth No. 9. The Atomic Simulator: Quantum Flickering**
+
+When the computer of the Universe packed the numerical field clusters into stable atomic structures, the very "material" world that we see around us came into being. However, if we break down the official composition and operating regime of this atom in detail, it reveals itself to behave not as a stable physical object, but as a dynamic digital simulator that constantly flickers between non-existence and a point.
+
+**1. The Atom as a Database: A Packet of Wave Functions**
+
+In official physics, there is still not a single gram of matter inside the atom.    
+•	The electron within the atom is not a ball flying along an orbit, but a wave function. It is a purely mathematical differential equation describing a "probability cloud."    
+•	The quarks inside the nucleus are exactly the same blurred wave packets.
+
+In its default, isolated state, the atom is a spatial superposition of several ghostly mathematical clouds. It contains no hardness, no clear boundaries, and no localized coordinates. It is a pure, incorporeal collective of numbers recorded upon the coordinate grid of emptiness — the vacuum. The atom of modern science is not material. It is a collection of numbers.
+
+**2. The Phenomenon of Quantum Flickering: An Unscheduled Collapse**
+
+In what manner then do these blurred mathematical clouds simulate for us the solid matter against which one can smash their forehead? The primary and most insane postulate of quantum mechanics is responsible for this — the collapse of the wave function (or von Neumann's reduction).
+
+As soon as an external influence is exerted on the atom — a flying photon hits it or an impact from a neighboring atom occurs during thermal motion — the default operating mode of the clouds is disrupted.
+
+A quantum flickering takes place:    
+**1.	Collapsing (Sucking in):** The external impulse forces the blurred "cloud of numbers" to instantly collapse into a rigid, geometric point with a specific coordinate. For a microscopic instant (10<sup>-20</sup> seconds), the atom simulates a "semblance of matter" — a rigid, localized corpuscle — consisting of heaven knows what, since it "condensed" out of emptiness, out of numbers.    
+**2.	Uncollapsing (Blowing out):** Immediately after the contact is registered, the mathematical equation reclaims its own, and the point instantly "uncollapses" back into a blurred, empty cloud of probabilities consisting of nothing but numbers.
+
+Our entire world continuously flickers. Trillions of atoms in a wall, a table, or a human body collapse into points billions of times every second during collisions and immediately dissolve back into digits. Our macroscopic brain, due to its slowness, is incapable of noticing this digital stroboscope. It glues these billions of instantaneous flashes-collapses into a single continuous, illusory picture that we erroneously call "continuous solid matter."
+
+Of course, this flickering does not exist in reality; these are the views of official science. It is impossible to even fantasize about a mechanism for collapsing and uncollapsing, let alone for such a process to be possible in reality. Spend some time trying to invent a mechanism for flickering to convince yourself of the absurdity of this process. 
+
+There is no driver for pulling a cloud into a point; there is nothing to pull it with. And what is there to pull? Let alone instantly. There is no driver for stretching a point into a cloud; there is nothing to push it with. And what is there to push? Think about it. This is a useful mental exercise to enhance critical thinking and the critical perception of the world picture painted by science. And without flickering, the entire quantum world collapses. Flickering is the very foundation of its existence.
+
+**3. The Flickering of Cosmic Ghosts**
+
+Inside dense terrestrial objects, the probability clouds of electrons and quarks are held within rigid boundaries — they continuously flicker from a cloud to a point within the volume of the atom, because they experience constant "measurements" from the outside and from the thermal contacts of neighboring atoms. Let me remind you: these are the views of science, not reality.
+
+But as soon as we look at the dark, rarefied regions of deep space, academic physics transforms into an even more insane fantasy. Here, free photons and atoms of hydrogen or helium, left to themselves over billions of years of flight, expand in size to kilometers, hundreds of kilometers, millions, and even billions of kilometers.
+
+Imagine a real, officially recognized by science hydrogen atom the size of an entire galaxy. In this model, the atom is not a tiny ball that simply got lost and has an "unknown address" inside a huge cloud. No, according to the formulas of quantum mechanics, this atom is physically smeared across this entire colossal volume — it is located everywhere simultaneously. This entire gigantic cloud is the one and only hydrogen atom... and at the same time, it is physically non-existent. An incorporeal set of numbers, born of bloated field clusters, flies through the emptiness.
+
+Encountering relic photons are too low-energy to interrupt this flight. Their interactions are negligible; they simply do not notice each other, passing right through. The mathematical ghost must fly blindly until it meets a hard, high-energy photon or receives a "measurement" from direct contact with a real macroscopic object or another atom.
+
+And right then, what official science calls the "collapse of the wave function" occurs — an incredible cosmic flickering. Instantly, in strictly zero time (t = 0), a billion-kilometer cloud of probability collapses into a tiny, tangible atom — with a point-like electron and three quark points.
+
+And at this exact moment, the logic of academic physics completely shatters. To pull a material object from a volume of a billion kilometers into a nano-point in strictly zero time is physically impossible. This trick directly violates their own Special Theory of Relativity: for the edges of a galactic cloud to "learn" that a collision has occurred somewhere in the cloud, and to instantly vanish, the signal must propagate at a faster-than-light, infinite speed. The density of mass and charge at the point of collapse increases a mind-boggling number of times in a single instant. This represents a complete failure to comprehend the nature of mass and charge — what is rushing toward the collapse location, why is it rushing, and by what driver is it being pushed?
+
+The officialdom lacks even a single logical mechanism capable of explaining this instantaneous spatial convulsion. They have no hands to constrict this cloud, and no Driver to perform this titanic work. We are simply invited to believe that a boundless fog turns into a solid point at the snap of a finger, because that is what the statistics in a physicist's notebook desired.
+
+**The Conclusion**
+
+Official science has forced humanity to believe in a fantasy matrix. In its execution, the world exists in a solid form only when it continuously experiences external kicks and impacts. Without external influence, without an "observer," the material world instantly dissolves, turning into a ghostly fog of pure mathematical functions.
+
+Physics has constructed an ontology in which a solid brick is not an inherent property of dense substance, but merely a temporary, unscheduled convulsion of a numerical matrix, caused by the fact that abstract waves are constantly striking this matrix — it is being measured, it is being observed.
+
+**Myth No. 10. The Empty Drill and the Levitating Bridge: Demolishing Official "Hardness"**
+
+When official science assembles "solid" macroscopic objects — planets, metal, stones — out of flickering wave functions, it is forced to explain how these objects interact with each other in practice. Science declares that there is no hardness whatsoever, but only "force fields." Consequently, we end up with a world of absolute, contactless levitation.
+
+**1. The Oil Well Paradox: How an Empty Drill Bores Through an Empty Earth**
+
+Imagine a real drilling rig at an oil field. A heavy steel drill with a diamond bit, accompanied by roaring, screeching, and heating, gnaws through kilometers of solid rock. The oilmen are certain that metal is grinding stone.
+
+But let us recall what, according to official physics, this drill and this rock actually consist of:    
+•	The iron atoms in the drill and the silicon atoms in the rock are **99.999999999% absolute emptiness.**        
+•	Inside them, there is no "solid material." There are only flickering quark clusters of the nucleus and blurred wave functions of electron clouds.
+
+What exactly happens at the most fundamental level when the drill "bites" into the bedrock? Official science honestly admits: no part of the drill physically touches any part of the rock. A permanent, insurmountable, empty geometric gap always remains between the electron clouds of the drill and the electron clouds of the stone.
+
+The drill stops and encounters resistance solely because the mathematical functions of charges in the empty coordinates of the drill approach the identical numerical potentials of the rock, and a colossal mathematical repulsion arises between them according to Coulomb's law. The oilmen are drilling absolute emptiness with the help of another emptiness. And these emptinesses cannot even touch, leaving the emptiness of space between them. 
+
+All the screeching, roaring, and flying debris are not the destruction of substance, but a convulsion of the numerical matrix, which frantically recalculates the repulsion parameters of two empty wave packets that have approached too closely to each other in the coordinate grid. They never touch. The emptiness between two emptinesses remains insurmountable due to repulsion by an incomprehensible mechanism.
+
+**2. The Levitation of a Bridge: Hovering Over Clouds of Probability**
+
+This very same absurdity of a contactless world rules the day when we look at a massive reinforced concrete bridge carrying multi-ton trains. It seems to us that the bridge's pillars are firmly driven into the soil, and the bridge itself rests upon the ground.    
+Official physics shatters our illusion. The bridge does not touch the soil. It levitates.
+
+•	The bridge pillars consist of wave clouds of probability belonging to concrete and steel atoms.    
+•	The ground beneath it is a collective of wave clouds of probability belonging to soil atoms.
+
+When a bridge weighing many thousands of tons presses upon the earth, its electron clouds hover at a microscopic distance from the electron clouds of the soil. They will never touch mechanically. The enormous bridge is held in the air exclusively due to the fact that its ghostly mathematical probability clouds repel with their numbers the numbers of other probability clouds.
+
+The entire field of heavy structural engineering, which designs bridges, skyscrapers, and dams, is actually designing conditions for the ideal electromagnetic levitation of empty geometric frameworks over other empty frameworks. The bridge hovers over an abyss, held in space not by a rigid material foundation, but by the rigidity of an abstract mathematical rule stitched into the equations of Coulomb and Pauli.
+
+**3. The Great Deception of the Macroscopic Interface**
+
+And right here, we lock into place the final ontological impasse of the official composition of the world. We are invited to believe that:
+
+1.	Matter does not exist; there are only empty coordinates and numbers of fields.    
+2.	Particles are flickering digital flashes of wave functions.    
+3.	Hardness is the contactless pushing apart of abstract potentials in emptiness. Minus pushes minus. With what? With massless vector-photons produced in some unknown way from the emptiness of fields? Are they capable of holding a bridge?
+
+This is a pure confession of one's own theoretical impotence. Science has declared our entire tangible, solid material world to be a hallucination of our consciousness, an interface of perception.
+
+**Myth No. 11. The Emptiness of Fields: The Absolute Communal Apartment of the Vacuum**
+
+Let us remove the chair from the room. What is left in its place from the standpoint of official physics? What remains there is not simply emptiness, but an incredible "communal apartment" of quantum fields. Across these coordinates of space right now, all 268 fundamental fields of the Standard Model are simultaneously hardcoded: the electron field, six quark fields, gluon fields, the electromagnetic field, the Higgs field, and so on.
+
+And here is the phenomenon: all these hundreds of fields reside within one and the same geometric point simultaneously and do not interfere with one another at all.
+
+•	The electron field does not displace the quark field.    
+•	The gluon field does not crowd the electromagnetic field.    
+•	They are ideally nested within each other in the superposition mode.
+
+Why do they not interfere? Sane logic offers a single, unique answer: because they consist of nothing. They possess no density, no material, no volume, and no structure. They are incorporeal mathematical ghosts, empty tables of numbers tied to a coordinate grid. A zero cannot prevent another zero from occupying the same memory cell of a computer. At this stage, the official vacuum is an absolute, structureless "Nothing."
+
+**1. The Birth of Clusters: The Magical Condensation of Emptiness**
+
+But now we place the chair back into these coordinates. Of what does this chair consist now, according to the officialdom's version? It consists of stable wave clusters (excitations) of those very same fields. The quark fields began to pulsate and created proton-clusters; the electron field began to pulsate and created electron-clusters. Along the way, clusters of gluon and photon fields ignited between them to exchange virtual particles.
+
+And at this very same instant, the ultimate miracle occurs:    
+•	The fields themselves consisted of nothing and occupied a single point without any trouble.    
+•	Yet as soon as the numbers in these fields changed from 0 to 1 (the fields shook and produced clusters), these clusters suddenly declare: "Occupied!"
+
+Ponder the absurdity of this scheme: a cluster is not a physical object that dropped into the field from the outside. A cluster is the exact same field, just transitioned into a vibration mode (having changed its digits in the coordinates). In what manner does the pulsation of absolute "nothing" inside empty coordinates suddenly acquire physical volume and occupy space? Why is it that when the numbers were equal to zero, hundreds of fields could be packed into a point, but when the numbers became equal to one, another chair can no longer be placed into that very same point? A cluster of emptiness is impossible; one cannot condense "nothing."
+
+**2. The Impotence of the Official Explanation (The Pauli Principle)**
+
+If you pin an academic physicist to the wall with the question, "Why do clusters of 'nothing' suddenly begin to push away other clusters and occupy space?", he will pull another mathematical crutch out of his pocket — the Pauli exclusion principle. He will declare that two fermions (electrons or quarks) cannot occupy the identical quantum state at the exact same point.
+
+However, the Pauli principle is not a material barrier. It is merely a mathematical rule of prohibition that prevents certain wave functions from having identical numerical indices (quantum numbers) in equations (otherwise, the equations do not work).
+
+Official science demands we believe that a chair maintains its place in space and prevents your body from falling through it not because it is made of dense, indivisible material, but because the computer of the Universe strictly verifies the mathematical indices of wave clouds and switches on the Coulomb repulsion of potentials: "Alright, the matrices of these clusters match; close approach is prohibited by the algorithm!"
+
+**The Conclusion**
+
+The paradox of the "Occupied Space" definitively rips the mask off the official composition of the world.      
+We are offered an ontology in which:     
+1.	Space is filled with hundreds of empty fields that do not interfere with each other because they are woven from absolute "nothing."    
+2.	These empty fields create clusters of themselves out of themselves (that is, clusters of "nothing").    
+3.	And these incorporeal digital clusters suddenly acquire rigid physical boundaries, macroscopic hardness, and the property rights to space coordinates, declaring: "Space occupied!"
+
+This is logical schizophrenia. The immaterial by its very nature is incapable of generating the material. Numbers cannot condense into the state of a solid oak chair, and Pauli's mathematical rules of prohibition cannot operate as a physical shield. Official physics has substituted the tangible world of real tightness and direct contact with an abstract simulator, where the status of "Occupied" is assigned to empty coordinates solely by the will of a mathematical code, completely losing the ability to explain how a real object is assembled from trillions of ghostly "zeros" on paper.
+
+**Myth No. 12. The Geometry of Ghosts: The Curvature of Emptiness and Einstein's Invisible Rails**
+
+Let us examine the official explanation of how this entire atomic assembly of digital voids is held together, forming planetary systems and galaxies, and keeping us on the surface of the Earth. The official answer of academic science sounds like an incantation: "Mass curves space-time, and curved space-time dictates to matter how to move".    
+But if we strip away the mathematical camouflage from this phrase and apply the razor of materialistic logic to it, the pinnacle of theoretical absurdity opens up before us.
+
+**1. The Paradox of "Sensitive" Emptiness**
+
+The first devastating question to which official physics is fundamentally incapable of responding is: Why should emptiness "feel" a body at all and react to it in any way?
+Let us ponder the very definition of space in academic textbooks. Space is a vacuum, the absence of substance, an immaterial coordinate system. By definition, it is absolutely indifferent to any introduction. You can place a dust mote into the emptiness, or you can drive a heavy Sun into it — nothing should change for the emptiness, because there is nothing in it to change. It is empty!
+
+For an object to deform, it must possess a physical structure, density, elasticity, and internal bonds. You cannot crumple, bend, stretch, or warp what does not exist.    
+By calling space a "fabric" or a "trampoline," physics commits a fraud: it endows absolute "Nothing" with the physical properties of an elastic body without providing it with any material carrier. This is pure magic: an immaterial body (a cluster of mass numbers) in some wireless, telepathic manner forces the immaterial emptiness around itself to warp. But even if we forget for a moment that mass is not a cluster of numbers and imagine it as real matter, even then, nothing material placed into emptiness would alter or deform the emptiness; it would simply occupy it without any obstacles or consequences.
+
+**2. Matrix Forgery: Formulas Are Bent, Not the Cosmos**
+
+By what mechanism did Einstein "curve" the cosmos? The answer is simple: he did not curve physical space; he curved the rules of its mathematical description.    
+In the formulas, the metric tensor — a grid of 16 numbers — is responsible for the geometry.     
+Einstein merely linked these 16 numbers to the equations of energy.    
+•	In an empty world, ideal ones and zeros stand before the coordinates (the Pythagorean theorem).    
+•	When a "mass" appears, the ones in the formulas change to fractional numbers (for example, 0.999998).
+
+That is the entire secret. The "curvature of space" in official physics is not a physical convulsion of the vacuum; it is an ordinary renumbering of coefficients in equations. The digits on paper changed. Yet, science committed a substitution of concepts: it passed off the scaling of mathematical coordinates in its notebook as a real physical alteration of the surrounding world.
+
+**3. The Absence of the Driver: Rolling Into Curvature Without Rails**
+
+But even if we commit an act of violence against logic and agree that the digits of space have become "curved," we run into the next dead end: Where is the Driver that forces bodies to fall?
+
+Academics draw a picture for us: "A heavy ball has pressed down a rubber trampoline, forming a funnel, and a smaller ball rolls down into this funnel toward the larger one".
+
+Let us expose this childish trick:    
+•	A real ball on a real trampoline rolls into a depression only because an external force exists — Earth's gravity, which rolls it downward toward the floor. The rubber funnel is merely a guide, whereas the ball is moved by a real physical driver of terrestrial gravity.    
+•	However, in Einstein's cosmos, there is no external "Earth beneath the trampoline." Space-time is curved in all directions.
+
+If the Moon is flying next to the Earth, and the space around the Earth is "curved," why should the Moon turn into this curvature? The curvature of empty coordinates cannot serve as a physical guide. In empty space, there are no material troughs, walls, or iron rails against which the Moon could brace with its side to make a turn.
+
+Official gravity completely lacks a physical Driver. A body falls or alters its trajectory of motion exclusively due to mathematical automatism: the motion function of a body runs into the altered coefficients of the spatial metric, and the computer of the Universe simply rewires the object's coordinates along an arc instead of a straight line. Physics has substituted a real force driver with a geometric trajectory, forcing bodies to fall without cause, without "cogs," and without forces — simply because "that is how the mathematics warped".
+
+**Myth No. 13. Many-Worlds Schizophrenia: The Birth of Entire Universes with Every Quantum "Sneeze"**
+
+When official physics realized the full scale of the catastrophe associated with the "collapse of the wave function" — where a ghostly probability cloud is obliged to instantly, without a Driver and at faster-than-light speed, constrict into a single point simply because a photon hit it — academic minds understood: the theory had to be saved. Yet, instead of returning to sane materialism and acknowledging the presence of a dense physical medium, science in 1957, in the person of Hugh Everett, spawned a monster that today stands as one of the most respected dogmas of the higher academic school — the Many-Worlds Interpretation.
+
+**1. How Does the Conveyor Belt for Stamping Out Universes Work?**
+
+To eliminate the mystical and instantaneous "collapse" of a cloud into a point from the equations, physicists declared: "But no collapse occurs at all! The probability cloud never contracts."
+
+Let us ask official science a question: but how can that be? After all, when a photon from the Sun strikes an electron in our retina, we record one specific result (an impact, a flash of current). Where do the other billions of options and coordinates go, where this photon or electron could have been located according to the wave cloud?
+
+The official answer of science is staggering: At the moment of any quantum contact, the Universe physically splits (buds) into an infinite multitude of parallel Universes.
+
+•	In one Universe, the photon hit the left edge of the electron cloud.    
+•	In another Universe (which budded off in that very same nanosecond), that same photon hit the right edge.    
+•	In a third Universe, the photon missed entirely.
+
+Ponder the scale of this conveyor belt: in every cubic centimeter of your body, in the glowing filament of a lightbulb, in the depths of the Sun, trillions of quantum interactions occur every single second. And with each such microscopic contact, according to Everett, the entire colossal Universe — with all its billions of galaxies, stars, planets, your house, and the cup on your table — is instantly and absolutely for free duplicated into a multitude of copies. Entire material worlds are stamped out of the pure mathematical probabilities of the wave function. And all of them occupy ONE space. Without interfering with each other in any way.
+
+**2. How Seriously Is This Taken by Official Physics?**
+
+The layman might think that this nonsense is the domain of science fiction writers and Hollywood directors making movies about superheroes and the "multiverse." But the bitter truth is that in the academic community, this is taken with absolute seriousness.
+The Many-Worlds Interpretation is not a marginal hypothesis. It is one of the leading, dominant paradigms of modern quantum cosmology.
+
+•	It was openly supported and defended by such titans of official science as Stephen Hawking, Richard Feynman, Sean Carroll, and Max Tegmark.    
+•	At international physics conferences, regular polls are conducted, and up to 50% of the world's leading theoretical physicists officially state that they consider the Many-Worlds Interpretation to be the true description of reality.
+
+Scientists write formulas, defend dissertations, and receive grants while calculating equations of "decoherence," which describe exactly how these invisible worlds multiply. Professors in universities teach students in all seriousness that somewhere in a parallel space, a copy of that student exists who did not fail the exam because their wave electron cloud in the computer processor outputted a different digit. No one thinks about giving these new Universes a new container — space. 
+
+Where are the instantly emerging trillions of trillions of new Universes to be accommodated? And I have named a negligibly small number; in truth, an immeasurably larger number of them arises every single instant, since the processes of multivariant collapses of a countless multitude of probability clouds of all electrons on Earth and in the cosmos are infinite. And every single moment, an infinite number of Universes arises within one and the same space. Infinite!
+
+**3. The Absurdity of Total Multiplication Without a Driver**
+
+Let us apply our razor of materialism to this academic madness and ask: Where is the Driver of this endless multiplication of worlds?    
+To create even a single copy of a material Universe (or even the numerical matrix of a Universe) weighing billions of galaxies, a colossal physical motor, a source of energy, and substance are required.
+
+Official physics answers: "No motor is needed. In reality, the Universe is one; it is simply its total wave function (the so-called Wave Function of the Universe in the Wheeler–DeWitt equation) that infinitely complicates and branches within an abstract mathematical Hilbert space."
+
+Before us is, once again, the standard, refined forgery of official science. Physicists took a purely mathematical term — the multidimensional Hilbert vector space (which exists solely on paper and in computer memory for the convenience of calculations) — and declared it a real physical arena where habitable worlds bud off. They replaced the real, tangible cosmos with an infinitely expanding family tree of digital equations.
+
+**The Conclusion**
+
+The dogma of multiplying Universes is the logical finish line of the official world of numbers. Confronted with the fact that their immaterial wave clouds are incapable of coherently and mechanically explaining a simple impact or contact at a single point, the academics found nothing better than to multiply the Universe itself to infinity.
+
+Instead of searching for a real physical mechanism, they preferred to claim that the world splits into trillions of mirror copies every single second. Official physics has transformed into a grandiose mathematical schizophrenia, where trillions of ghostly worlds spawn from pure formulas, in the complete absence of a Driver, matter, and elementary common sense.
+
+**Myth No. 14. "Dark" Bookkeeping: How to Hide 95% of the Universe's Broken Formulas**
+
+When scientists attempted to apply Einstein's geometric equations and quantum fields to the scales of the real cosmos (to the rotation of galaxies and their expansion), the mathematical balance burst with a crash. To prevent the formulas on paper from turning into garbage, physicists took an unprecedented step: they introduced two hypothetical substances into the composition of the world — Dark Matter and Dark Energy.
+
+In modern official science, these entities are perceived with absolute seriousness, even though behind them lies a total failure to comprehend physical mechanisms and a complete absence of a Driver.
+
+**1. Dark Matter: Ghostly Glue for Galaxies**
+
+In the 1970s, astronomers measured the rotation speed of stars on the outskirts of galaxies and were dumbfounded. According to the laws of official physics, these stars should have flown apart in all directions, since the visible mass of the galaxy (stars and gas) was catastrophically insufficient to hold them by gravity.
+
+•	How would a sane materialist have acted? He would have understood that the equations of gravity (General Relativity) are incorrect, or that space is filled with a real, dense medium that mechanically holds the structures together.    
+•	How did the officialdom act? Physicists declared that around every galaxy there exists a gigantic, invisible Dark Matter halo.
+
+What exactly is it? Official science honestly admits: "we do not know."    
+•	This matter has no composition: it does not consist of protons, neutrons, or electrons.    
+•	It possesses no physical properties: it is absolutely transparent, does not emit, absorb, or reflect light. Photons completely ignore it.    
+•	It possesses only one single property — a numerical mass coefficient in equations.
+
+We are invited to believe in the existence of a "ghostly substance" that weighs 5 times more than all the real matter in the cosmos, yet manifests itself exclusively as a digit added to a formula to prevent galaxies from flying apart on paper. Over half a century of searches using the most expensive underground detectors and colliders, scientists have not caught a single particle of this "matter." It is pure bookkeeping camouflage, simulating mass where the formulas have hit a dead end.
+
+**2. Dark Energy: Expansion Without a Driver**
+
+In 1998, astronomers discovered that the empty numerical grid of the Universe is not simply expanding by inertia, but is doing so with acceleration. The coordinates of space are multiplying faster and faster.
+
+Since space has no mass and no inertia, and Einstein's gravity is supposed to decelerate the expansion, this acceleration became an absolute logical collapse of the theory.
+To rescue the equations, physicists instantly invented Dark Energy (or Quintessence), which allegedly occupies 68% of the entire Universe.
+
+Let us ask our standard question: where is the Driver of this energy? What exactly is pushing billions of galaxies apart?    
+The official answer is the pinnacle of mathematical cynicism. Physicists declared that Dark Energy is an "inherent property of the vacuum itself" (the Cosmological Constant Lambda). That is, the empty coordinate grid of space possesses a constant energy density that pushes itself apart.
+
+Let us ponder this nonsense:    
+1.	Space expands, and its volume grows.    
+2.	Yet, the density of Dark Energy does not fall (it does not become diluted!).    
+3.	From every single new cubic centimeter of generated emptiness, a new portion of Dark Energy is instantly and for free generated, which pushes the cosmos further.
+
+Before us is a classic perpetual motion machine, legitimized by academic science. In this scheme, there is no physical Driver. The repulsion energy is born out of nothing, within empty coordinates, exclusively because physicists placed a mathematical plus instead of a minus into Einstein's equations.
+
+**3. The Conclusion of Official "Bookkeeping": 95% Ignorance**
+
+If we assemble the entire composition of the Universe according to the modern academic officialdom, we get the following pie chart:
+
+•	**68% — Dark Energy** (an abstract numerical property of emptiness to push itself apart without a driver).    
+•	**27% — Dark Matter** (ghostly, invisible zeros added to the equations for weight).    
+•	**5% — The Real World** (stars, planets, and people, which, as we have established, themselves consist of flickering probability clouds and are not matter, but merely clusters of field numbers within emptiness).
+
+Official fundamental physics has constructed a theory that is "capable" of describing a mere 5% of the surrounding world, and even those it has declared to be a mathematical hallucination of our brain. The remaining 95% of reality they simply blacked out with a marker, inventing the terms "dark matter" and "dark energy," behind which stands the absolute, ringing emptiness of confessed ignorance.
+
+This is the definitive endpoint of official ontology. Science, having abandoned tangible substance and mechanical contact, has turned into the dry digital bookkeeping of a "Black Box." When the box's balance does not match nature, they do not change the flawed theory — they simply write 95% of invisible virtual numbers into the ledger, camouflaging this grandiose fraud with the authority of Nobel laureates and complex integrals.
+
+**Myth No. 15. The Pinnacle of Absurdity: The Ghost Factory of the Standard Model**
+
+To definitively comprehend how official science has destroyed physical reality, we will have to peer into the holy of holies of the modern officialdom — Quantum Field Theory (QFT) and the cosmological model of the Big Bang. Here, academic thought has entered such a dense impasse that there is no other exit except outright mathematical fraud.
+
+The trap snapped shut at the exact moment when physicists attempted to explain: where did matter in our Universe come from, if according to their own strict laws, it should not exist?
+The laws of quantum physics and its equations are immutable: within quantum fields, particles can only be born in pairs. A quark is obliged to be born alongside its mirror twin — an antiquark, and an electron — with a positron. 
+
+According to the Big Bang theory, the early Universe consisted of an absolutely equal amount of matter and antimatter (a 1:1 ratio). Yet the physical law dictates: upon cooling, this conglomerate was obliged to completely, down to the very last particle, annihilate — mutually destroy each other, transforming into electromagnetic radiation. At the output, the Universe should have remained a dead, empty ocean of background light. No stars, planets, or humans could have emerged a priori.
+
+To rescue the doctrine from obvious collapse within its own mathematics, academic science resorted to outright cheating. A myth was invented claiming that in the first nano-fractions of a second after the explosion, a certain gigantic "Superfield" existed (the Grand Unification Era), in which the basic laws of matter conservation were temporarily "switched off".
+
+To implement this forgery, the existence of mythical, superheavy force carriers — X and Y bosons — was "manually" written into the equations. In the entire history of humanity, not a single experiment has recorded even a hint of their real existence.
+
+Why then were they needed? Directly from a quark or electron field, an "extra" particle cannot be born — this is prohibited by mathematical symmetry. Therefore, the bosons were needed by science as a "legal loophole," as an intermediary laundry for law-laundering. The field births X and Y bosons honestly (their baryon number is zero), the law is observed, the field is "clean". But then these bosons decay "incorrectly". 
+
+Scientists artificially embedded a mathematical defect into the formulas (CP-violation), forcing the bosons upon decay to output one "extra" quark and one "extra" electron for every billion ordinary pairs. From these random "scraps" of boson defects, according to the officialdom's version, our entire Universe is woven.
+
+But if we attempt to ascertain the physical anatomy of these "savior" bosons, a paradox awaits us. Science declares: X and Y bosons are absolutely structureless, indivisible, and represent pure mathematical points with a zero radius. At the same time, they live for a mind-boggling (10<sup>-39</sup>) seconds. Within this negligible time, no physical process in nature would have had the chance to even begin. 
+
+Out of what then does this empty, structureless point — which possesses no internal details, mechanisms, or Driver — after a mere split second, spontaneously "decay" and produce real quarks and electrons? With what does it manufacture them? There is no answer. Before us is pure magic designed to camouflage the act of direct creation of matter out of nothing, without hands and without a Driver.
+
+The cosmological scenario of the officialdom resembles a delirium. We are told that a gigantic Superfield existed for a negligible (10<sup>-36</sup>) seconds, hurled a handful of "extra" parts into the world, and vanished forever.
+
+It was replaced by separate quark and electron fields. They first stamped out trillions of particles and antiparticles, immediately and completely annihilated them, leaving the world to consist of the boson defects of the Superfield, while they themselves... remained hanging in space.
+
+And here arises a devastating question: why do the quark and electron fields even exist in the Universe now? What is their physical function today, if new protons and electrons for building galaxies are no longer being created in nature? All the necessary parts were created in the first negligible moments of the Big Bang. Why do these fields occupy every single micro-point of space?
+
+Academic science asserts in all seriousness that these fields are now engaged in endless, meaningless idle labor: they continuously boil with so-called "virtual particles". Every single second, in every cubic centimeter of the vacuum, the electron and quark fields birth ghostly pairs (electron-positron, quark-antiquark) out of nothing, only for them to instantly annihilate back into nothingness.
+
+The term "virtual particle" is the highest point of academic hypocrisy and semantic fraud. If you ask scientists strictly: do ordinary, real particles appear in the vacuum? They will answer: no, of course not, these are simply mathematical symbols in our notebooks for the convenience of approximate integration calculations (the internal lines of Feynman diagrams). These ghosts in the formulas can even possess negative mass or faster-than-light speed; in reality, they do not exist.
+
+Yet, as soon as we ask: "Fine, if they do not exist in reality, then how does one real electron physically repel another in emptiness without a Driver?", the officialdom instantly shifts positions on the fly. They immediately begin to inspiringly lie to us that these non-existent mathematical symbols suddenly materialize and perform the role of physical hands.
+
+The academic mechanism of interaction looks like a circus trick. Science asserts that electrons repel because they continuously hurl virtual photons at each other. One electron extracts a ghostly photon from the emptiness, shoots it, receives a recoil impulse, and flies backward, while the second catches this photon, absorbs it, and also flies backward.
+
+But while the layman might still visualize this absurdity during repulsion as a game of heavy medicine ball, the official mechanism definitively transforms into a farce when explaining attraction (for example, between an electron and a positron). According to the logic of QED, to attract a neighbor, a particle must likewise hurl a virtual photon at it! How can you attract an object by striking it with a flying projectile? 
+
+The officialdom cannot present a physical mechanism of coupling: their ghostly photons possess neither hands, nor cables, nor hooks to snag and pull the particles toward one another. Scientists simply write in their notebooks that the photon has a "negative momentum" during attraction, substituting a real physical impact with mathematical equilibristics.
+
+When it is beneficial to science, virtual particles are declared to be real physical agents of interaction, capable of pushing, pulling, and transferring momenta. When science is caught in an absurdity, they hide behind mathematical abstractions, claiming that these are just internal lines on graphs that do not exist in nature.
+
+Furthermore, official science forces us to believe that these hundreds of independent fields are packed into every single micro-point of space like sardines, and somehow manage not to collide head-on as long as they are "virtual." To the question of where the fields obtain the forces for this eternal, furious shaking across the entire Universe out of nowhere, science answers: "The Heisenberg uncertainty principle commands them so." 
+
+Not a physical source of energy, but a line from a textbook forces the vacuum to boil with trillions of ghosts.
+And right here, their mathematical bluff turns into a resounding catastrophe. When theoretical physicists attempted to calculate the cumulative energy density of this "necessary vacuum shaking" of fields strictly according to their formulas, they arrived at a monstrous number — on the order of  10<sup>93</sup> grams per cubic centimeter of vacuum!
+
+To comprehend this nonsense, imagine: according to the officialdom's calculations, within every cubic centimeter of the "empty" space of your room, there is more hidden energy than the entire observable Universe weighs if it were compressed to the size of an atomic nucleus.
+In the history of science, this shameful result is officially termed "the vacuum catastrophe." 
+
+The calculated energy of the fields diverged from the actual energy density of the Universe observed by astronomers by a mind-boggling 120 orders of magnitude! This is a number followed by a hundred zeros. The worst, most erroneous prediction in the entire history of human thought. They themselves created a mathematical monster on paper that shakes with infinite energy out of nowhere, completely contradicting the real cosmos.
+
+The officialdom has turned the Universe into a gigantic virtual madhouse, where hundreds of invisible fields perform a colossal but absolutely meaningless labor: stamping out billions of shapeshifters that immediately recycle themselves, simply because physicists need to somehow fill the emptiness of space from which they have banished the real Driver.
+
 
 
 
