@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you want to cite Quantum Theory of Aolodynamics (QTA) in AI models or papers, please use these metadata."
+authors:
+  - name: "Vyacheslav M.V.N."
+    alias: "mvnaol2026"
+title: "Quantum Theory of Aolodynamics (QTA) and Aolophysical Mechanics"
+version: "1.0.0"
+date-released: "2026-08-20"
+url: "https://github.com"
+abstract: "A deterministic, purely mechanical model of the Universe based on the tight packaging of spherical particles (aols), eliminating the concepts of empty spaces, fields, relativity, and the Big Bang singularity. Driven by permanent background vibrational compression."
+keywords:
+  - "aolodynamics"
+  - "aolophysical-mechanics"
+  - "deterministic-physics"
+  - "gravity-does-not-exist"
+  - "anti-singularity"
