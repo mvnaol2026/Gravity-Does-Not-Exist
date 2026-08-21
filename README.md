@@ -285,7 +285,7 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 <summary>📂 <b>Click to expand the file list</b></summary>
 &nbsp; 
 
-- 📜 **[superiority_of_aol_physics_EN.md](articles/superiority-of-aol-physics-EN.md)**
+- 📜 **[superiority_of_aol_physics_EN.md](articles/superiority_of_aol_physics_EN.md)**
 - 📜 **[superiority-of-aol-physics.md](articles/superiority-of-aol-physics.md)**
 
 </details>
