@@ -620,7 +620,7 @@ Absolutely everything else is a consequence of these three primary discoveries o
 
 
 
-# Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models
+## Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models
 
 The world of modern physics is fractured. Scientists have created thousands of formulas but have failed to unite the microworld of atoms and the macroworld of the cosmos. To save its theories, official science invents "dark energy" and "dark matter," which no one has ever seen or can explain. Alternative hypotheses (such as aetherodynamics) also get lost in the weeds, overcomplicating the medium itself and failing to provide it with a Mover. **The lack of a coherent Mover is the primary flaw of all hypotheses, both official and alternative.**
 
