@@ -72,7 +72,7 @@ The text was completed in Kyiv on May 10, 2026.
 - [Chapter 46. Superfluidity](#chapter-46-superfluidity)
 - [Chapter 47. Two Factors behind the Emergence of the Big Bang Theory](#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory) 
 - [Chapter 48. Conclusions. Foundations of Aol Physics](#chapter-48-conclusions-foundations-of-aol-physics)
-- [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](#Chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
+- [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
 - [Afterword](#afterword)
 
 
