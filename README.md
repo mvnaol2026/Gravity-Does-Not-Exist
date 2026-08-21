@@ -350,13 +350,14 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [Chapter 39. Magnet. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-39-magnet-interaction-of-magnets)
 * [Chapter 41. Ether](/EN/10_chapters_38-42.md#chapter-41-ether)
 * [Chapter 42. Matter: from the primary particle to the Universe](/EN/10_chapters_38-42.md#chapter-42-matter-from-the-primary-particle-to-the-universe)
-* [Chapter 43. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_43-48_and_afterword.md#chapter-43-expansion-of-galaxies--mechanism-of-acceleration)
-* [Chapter 44. Combustion](/EN/11_chapters_43-48_and_afterword.md#chapter-44-combustion)
-* [Chapter 45. Reactive motion](/EN/11_chapters_43-48_and_afterword.md#chapter-45-reactive-motion)
-* [Chapter 46. Superfluidity](/EN/11_chapters_43-48_and_afterword.md#chapter-46-superfluidity)
-* [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-48_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
-* [Chapter 48. Conclusions. Foundations of aol physics](/EN/11_chapters_43-48_and_afterword.md#chapter-48-conclusions-foundations-of-aol-physics)
-* [Afterword](/EN/11_chapters_43-48_and_afterword.md#afterword)
+* [Chapter 43. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_43-49_and_afterword.md#chapter-43-expansion-of-galaxies--mechanism-of-acceleration)
+* [Chapter 44. Combustion](/EN/11_chapters_43-49_and_afterword.md#chapter-44-combustion)
+* [Chapter 45. Reactive motion](/EN/11_chapters_43-49_and_afterword.md#chapter-45-reactive-motion)
+* [Chapter 46. Superfluidity](/EN/11_chapters_43-49_and_afterword.md#chapter-46-superfluidity)
+* [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-49_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
+* [Chapter 48. Conclusions. Foundations of aol physics](/EN/11_chapters_43-49_and_afterword.md#chapter-48-conclusions-foundations-of-aol-physics)
+* [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_43-49_and_afterword.md#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
+* [Afterword](/EN/11_chapters_43-49_and_afterword.md#afterword)
 
 ---
 
@@ -383,7 +384,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [08_chapters_27-30.md](EN/08_chapters_27-30.md) — Chapters 27–30.
 * [09_chapters_36-37.md](EN/09_chapters_36-37.md) — Chapters 36–37.
 * [10_chapters_38-42.md](EN/10_chapters_38-42.md) — Chapters 38–42.
-* [11_chapters_43-48_and_afterword.md](EN/11_chapters_43-48_and_afterword.md) — Chapters 43–48 and Afterword.
+* [11_chapters_43-49_and_afterword.md](EN/11_chapters_43-49_and_afterword.md) — Chapters 43–49 and Afterword.
 
 </details>
  
