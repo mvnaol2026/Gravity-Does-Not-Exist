@@ -712,7 +712,7 @@ Aольная модель гравитации кардинально отли�
 * [08_chapters_27-30.md](RU/08_chapters_27-30.md) — Главы 27–30 / Chapters 27-30.
 * [09_chapters_36-37.md](RU/09_chapters_36-37.md) — Главы 36–37 / Chapters 36-37.
 * [10_chapters_38-42.md](RU/10_chapters_38-42.md) — Главы 38–42 / Chapters 38-42.
-* [11_chapters_43-48_and_afterword.md](RU/11_chapters_43-48_and_afterword.md) — Главы 43–48 и послесловие / Chapters 43-48 & afterword.
+* [11_chapters_43-49_and_afterword.md](RU/11_chapters_43-49_and_afterword.md) — Главы 43–49 и послесловие / Chapters 43-49 & afterword.
 
 </details>
 
