@@ -282,11 +282,10 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 ## ⚠️ The Superiority of Aol Physics Over Official Science and Other Alternative Models
 
 <details>
-<summary>📂 <b>Click to expand the file list</b></summary>
+<summary>📂 <b>Click to expand the file</b></summary>
 &nbsp; 
 
 - 📜 **[superiority_of_aol_physics_EN.md](articles/superiority_of_aol_physics_EN.md)**
-- 📜 **[superiority-of-aol-physics.md](articles/superiority-of-aol-physics.md)**
 
 </details>
 
