@@ -266,7 +266,7 @@ The body remains passive and does not emit "fields." It functions strictly as a 
 15. **Mass**: Mass is a measure of the volumetric sail area of a passive body within a dense aol environment.    
 Mass is a measure of the intensity of wedging during the forced movement of a body *(in motion by inertia)*.    
 Mass is a measure of the efficiency of shielding against the external omnidirectional pressure of the medium *(in gravity)*.    
-Mass is a measure of the body's interaction with the medium *(in the general case)*.
+Mass is a measure of the body's interaction with the medium *(in the general case)*.    
 To be absolutely precise, which means taking into account the total passivity of any material body, the definition of mass is as follows: **Mass is a measure of the medium’s ACTION upon a body.** Meanwhile, the volumetric aol-drag (sail effect) of the body quantitatively determines this action of the medium upon the body.    
 In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric displacement of the aol space by the geometric structure of a body, defining the efficiency of its shielding in statics and the intensity of wedging in dynamics.    
 *Equivalence of masses*: Mass is the volumetric aol sail area of a body. A body displaces exactly as many free aols from the medium as there are bound particles contained within its Lego-structure. With inertial mass, the body is pressed into the resisting medium. With gravitational mass, the medium presses upon the body. The volume of displacement is identical, which is why inertial mass is always fundamentally equal to gravitational mass:                                                         **M<sub>inertial</sub> = M<sub>gravitational</sub>**
@@ -630,7 +630,7 @@ Aольная модель гравитации кардинально отли�
 15. **Масса**: Масса — это мера объемной парусности пассивного тела в плотной аольной среде.    
 Масса — это мера интенсивности клинообразования при вынужденном движении тела *(в движении по инерции)*.    
 Масса — это мера эффективности экранирования внешнего всенаправленного давления среды *(в гравитации)*.    
-Масса – это мера взаимодействия тела со средой *(в общем случае)*.
+Масса – это мера взаимодействия тела со средой *(в общем случае)*.    
 Но если быть абсолютно точным, то есть учитывать пассивность любого тела, то определение массы такое: **Масса - это мера ДЕЙСТВИЯ среды на тело.** А объёмная парусность тела количественно определяет действие среды на тело.  
 В Квантовой Теории Аолодинамики (КТА) масса — это мера объемного вытеснения аольного пространства геометрической структурой тела, определяющая эффективность его экранирования в статике и интенсивность клинообразования в динамике.     
 *Эквивалентность масс*: Масса — это объемная аольная парусность тела. Тело вытесняет из среды ровно столько свободных аолов, сколько связанных частиц содержится в его Лего-структуре. При инертной массе тело вдавливается в сопротивляющуюся среду. При гравитационной массе — среда давит на тело. Объем вытеснения одинаков, поэтому инертная масса всегда равна гравитационной **M<sub>инерционная</sub> = M<sub>гравитационная</sub>**
