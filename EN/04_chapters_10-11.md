@@ -46,7 +46,29 @@ The emergence of flat surfaces radically alters the regime of subsequent loads. 
 
 In many instances, this condition is not met, and the aol with the contact flats is rapidly straightened back out into a spherical aol by the medium. However, the number of attempts is countless, and successful ones do occur — where the compression happens strictly through the centers of the flats and along the axis of the being-deformed aol. Upon repeated cumulative impacts along that same axis, the round sphere of the neighbors begins to mechanically press the flat surface into the interior of the ball, gradually transforming the flatness into a concentric recess (a socket).
 
-**5. The Law of Self-Limitation and Geometric Uniformity**
+**5. The Law of Conservation of the Primary Particle’s Volume**
+
+At the very foundation of Aol Physics lies a key postulate: the substance of the primary particle (the aol) is absolutely passive and possesses no internal structure, fields, or constituent parts. The aol is not an object filled with matter. The aol is, in and of itself, an isolated, indivisible, fixed quantum of matter.
+
+From this, the Axiom of Volume Invariance logically follows: the volume of an aol is a universal constant. It cannot decrease or increase by even a single iota, as there are simply no voids or pores inside the particle that could be compressed.
+
+When an aol enters the epicenter of a colossal gravitational press — within the centers of Minor Universes — the external pressure of the medium begins to constrain its geometry. To restore equilibrium under conditions of extreme confinement, the spherical aol is forced to transform into a lunol under the action of diametral compression.
+
+This process obeys a strict geometric law: what is compressed in one place is equally displaced in another.
+
+Under the directed counter-pressure and point-blank impact of neighboring spherical aols, a step-by-step diametral compression of the particle occurs. Passing through the phase of flattening into a plane surface, its sides are pressed inward over several cycles, forming two precision polar cavities of depth **(h)**, which constitutes **1/8** of its initial diameter.
+
+Since the mono-matter of the aol is absolutely dense and cannot be physically compressed, the entire excess of the invariant volume displaced from the cavities is symmetrically redistributed outward, forming a barely perceptible equatorial thickening.
+
+The primary particle never, for a single moment, loses its three-dimensional spherical foundation. Visually, its shape changes negligibly: it remains the same rigid sphere, but acquires a barely noticeable equatorial thickening and two precision polar recesses (cavities). The lunol is not a deformed fragment, but an ideally balanced primary particle, slightly modified by external pressure, whose total physical volume remains strictly constant throughout the entire transformation.
+
+This mechanism permanently resolves the primary epistemological deadlock of classical mechanics, which for centuries hid its impotence behind the term "elastic force."
+
+In Aol Physics, the concept of mystical internal forces is completely abolished. They are replaced by an absolute geometric prohibition on changing the volume of primary matter. The aol resists compression not because a "repulsive force" is activated within it, but because its volume is mathematically invariant. It physically has nowhere to compress.
+
+Therefore, instead of a dynamic response (the activation of a force), the aol performs a pure spatial maneuver — it redistributes its form while conserving its volume. The external confinement of the medium does not deform the internal density of the aol, but merely redirects its excess volume along the vector of least resistance. The rigidity of the particle turns out to be not its internal "mystical property," but a direct consequence of the indestructibility of a geometric portion of primary matter.
+
+**6. The Law of Self-Limitation and Geometric Uniformity**
 
 If the plastic deformation of aols occurs under the influence of collisions within a chaotic medium, a question arises: why do the sockets of different particles not possess arbitrary sizes, but are instead stamped according to a single unified standard? The reason for the geometric uniformity of lunols is hidden within the mechanism of automatic process self-limitation.
 
@@ -59,7 +81,7 @@ The socket grows only until the drop in specific pressure caused by the expansio
 
 I don't know the depth of the socket, but intuitively I assume that it is 1/8 of the diameter of the aol.
 
-**6. Spatial Symmetry of Defects: Why There Are Strictly Two Sockets**
+**7. Spatial Symmetry of Defects: Why There Are Strictly Two Sockets**
 
 A stereometric analysis of the stamping process provides a clear rationale for why a basic, stable lunol possesses exactly two diametrically opposite recesses:
 
@@ -78,7 +100,7 @@ Each individual recess requires its own rigidly centered and sustained axis of o
 A hypothetical scenario of compression along two mutually perpendicular axes simultaneously could theoretically lead to the formation of four sockets. However, this exotic configuration is blocked by the loss of axial symmetry after the very first impact.  
 As with the highly improbable three contact flats, an aol with four flats is far more likely to be straightened back out by the medium than to successfully enter the indentation regime of four sockets. Within the framework of Aol physics, a rigid rule is accepted: the basic structural building block of the Universe remains the two-socket lunol (with a certain probability of the existence of single-socket lunols).
 
-**7. The Nature of Plasticity and the Dynamic Strength of Engagements**
+**8. The Nature of Plasticity and the Dynamic Strength of Engagements**
 
 The deformation of an aol is strictly plastic, rather than elastic, in nature. Once the material’s ultimate strength is overcome within the central zones of Minor universes, an irreversible geometric rearrangement of the aol takes place.  
 The lunol cannot independently return to its original form once the peak axial pressure ceases—it acquires a stable geometric shape. Were the deformation elastic and easily reversible, any inter-atomic engagements would instantaneously fall apart at the slightest fluctuations of the medium, rendering the assembly of stable matter impossible.
@@ -92,14 +114,14 @@ The true strength of material objects depends exclusively on the overall spatial
 
 This mechanical play — the capacity for the reconfiguration of engagements — is of fundamental importance: it is precisely the difference in the accessibility and strength of engagements that subsequently allows us to explain the mechanisms of chemical reactions, radioactive decay, valence, and any phase transitions of substance, completely without invoking abstract forces.
 
-**8. The Lifespan of a Lunol**
+**9. The Lifespan of a Lunol**
 
 Once a lunol has formed, aols fall into its sockets, and within this configuration, the lunol is protected from being straightened back out. This assembly already constitutes an atom. These structures can take a vast multitude of forms, and in all of them, the straightening out of lunols is impossible. 
 
 The lifespan of a lunol is long — spanning billions of years — but it is not infinite. When objects, having traversed a long and arduous journey of billions of kilometers and billions of years, reach the periphery of a Minor universe, they disintegrate into atoms, and those atoms break down into aols and lunols. Within the vibrating medium, the lunols gradually — or, more likely, rapidly — straighten back out, returning to their original spherical shape.  
 The lunol once again becomes an aol, indistinguishable from all the others.
 
-**9. The Topology of Stamping and the Architectural Upshot**
+**10. The Topology of Stamping and the Architectural Upshot**
 
 The process of the irreversible geometric alteration of primal matter is rigidly bound to the cosmological structure of the Universe. Lunols are fundamentally incapable of emerging at arbitrary points in space, since their stamping requires a unique convergence of extreme physical factors: colossal omnidirectional compression, strictly diametrical force geometry, multiple cumulative collisions, and the retention of a stable load axis.
 
