@@ -375,17 +375,9 @@ Why does official physics insist that time did not exist? The answer is cynical:
 
 They announced: since our equation cannot calculate time further than 13.8 billion years into the past, it means time itself was not there. The negligibly short lifespan of the Universe is an absurdity. The Universe will exist eternally, matter will exist eternally, and speaking of some "Beginning" of existence 13.8 billion years ago is an insult to common sense.
 
-**2. The Absurdity of the "Birth of Time" from Nothing**
-
-According to the official version, 13.8 billion years ago there was neither "Nowhere" nor "Never." And suddenly, without any temporal first cause (since there is no time, which means causality does not work), a quantum fluctuation occurs, the inflaton rolls down the hill, and time starts to tick.
-
-Let us expose this nonsense:      
-•	To cause any event to occur (even a quantum shift of a number from 0 to 1), a moment "before" this event and a moment "after" are necessary.      
-•	The transition from the state of "no time" to the state of "time has begun" is also a process that requires duration.
-
 By claiming that time was born at a fixed point 13.8 billion years ago, official science falls into religious mysticism. It has simply replaced the biblical act of creation in 7 days with a mathematical act of creation in 10<sup>-43</sup> seconds, leaving the world without a fundamental Driver of causality.
 
-**3. Sane Materialism: The Steady-State Universe of Absolute Eternity**
+**6. Sane Materialism: The Steady-State Universe of Absolute Eternity**
 
 If we remove this artificial mathematical impasse, common sense and the logic of mono-matter restore to us the true, unshakeable picture of the world: matter and space are eternal, homogeneous, and invariant. They do not have, have never had, and can never have a point of origin or a point of end.
 
@@ -575,8 +567,6 @@ And here, a total collapse of logic ensues:
 We firmly remember our axiom: material carriers are incompatible within a single volume; the space would be occupied. If the Higgs field were a real viscous medium, the other 268 independent empty fields of the Standard Model would not be able to pass through it without hindrance. But they do pass through, because they are emptiness.
 
 Official physics lacks a physical Driver or mechanism for this deceleration. In the Lagrangian, this trick is described by the so-called Yukawa interaction — physicists simply multiplied the value of the quark field variable by the number 246 of the Higgs field and artificially labeled the result of this multiplication with the word "mass." The mechanical process of a medium's viscous resistance has been substituted by a common mathematical operation on paper. The particle "slows down" and acquires inertia not because it physically rubs against something, but because multiplication by 246 alters the coefficient in its wave equation. Science has passed off a numerical coefficient as a tangible cosmic thickness.
-
-Furthermore, the mechanics of this "phase transition" itself completely ignores the laws of spatial geometry. In a real three-dimensional Universe, any cooling of fields is bound to occur exclusively in the form of a spherical wave front filling the volume. The spheres of the Higgs field alteration should have expanded from billions of random detonation points. Any sane physicist knows: when billions of expanding spheres of cooling collide with one another, the fabric of the cosmos would inevitably be scarred by colossal seams and fractures — topological defects. The Universe would have turned into cracked, fractured ice. Yet, astronomers have not detected a single such seam in the cosmos.
 
 **3. Mass as an Illusion: 99% of Weight Completely Without the Higgs**
 
