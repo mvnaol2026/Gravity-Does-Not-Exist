@@ -365,8 +365,6 @@ This system has no motor. The energy attributed to it is not a force pushing the
 Academic science convinces humanity that our Universe has a strict "age" — 13.8 billion years. But as soon as the human mind, armed with elementary cause-and-effect logic, tries to peer past this artificial fence and asks what happened trillions or septillions of years ago, official physics declares the very formulation of the question "unscientific."  
 Ponder the scale of this conceptual fraud.
 
-**1. The Convenient Amnesia of Equations**
-
 Why does official physics insist that time did not exist? The answer is cynical: because their mathematical rewind hit a wall of broken formulas.
 
 •	When they wound today's expansion numbers backward, the denominator in their fractions turned into zero. Winding back further became mathematically impossible. So, the physicists stopped time. And then, they birthed it. At the 13.8-billion-year mark.
