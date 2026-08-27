@@ -395,8 +395,6 @@ This system has no motor. The energy attributed to it is not a force pushing the
 Academic science convinces humanity that our Universe has a strict "age" — 13.8 billion years. But as soon as the human mind, armed with elementary cause-and-effect logic, tries to peer past this artificial fence and asks what happened trillions or septillions of years ago, official physics declares the very formulation of the question "unscientific."  
 Ponder the scale of this conceptual fraud.
 
-**1. The Convenient Amnesia of Equations**
-
 Why does official physics insist that time did not exist? The answer is cynical: because their mathematical rewind hit a wall of broken formulas.
 
 •	When they wound today's expansion numbers backward, the denominator in their fractions turned into zero. Winding back further became mathematically impossible. So, the physicists stopped time. And then, they birthed it. At the 13.8-billion-year mark.
@@ -405,17 +403,9 @@ Why does official physics insist that time did not exist? The answer is cynical:
 
 They announced: since our equation cannot calculate time further than 13.8 billion years into the past, it means time itself was not there. The negligibly short lifespan of the Universe is an absurdity. The Universe will exist eternally, matter will exist eternally, and speaking of some "Beginning" of existence 13.8 billion years ago is an insult to common sense.
 
-**2. The Absurdity of the "Birth of Time" from Nothing**
-
-According to the official version, 13.8 billion years ago there was neither "Nowhere" nor "Never." And suddenly, without any temporal first cause (since there is no time, which means causality does not work), a quantum fluctuation occurs, the inflaton rolls down the hill, and time starts to tick.
-
-Let us expose this nonsense:      
-•	To cause any event to occur (even a quantum shift of a number from 0 to 1), a moment "before" this event and a moment "after" are necessary.      
-•	The transition from the state of "no time" to the state of "time has begun" is also a process that requires duration.
-
 By claiming that time was born at a fixed point 13.8 billion years ago, official science falls into religious mysticism. It has simply replaced the biblical act of creation in 7 days with a mathematical act of creation in 10<sup>-43</sup> seconds, leaving the world without a fundamental Driver of causality.
 
-**3. Sane Materialism: The Steady-State Universe of Absolute Eternity**
+**6. Sane Materialism: The Steady-State Universe of Absolute Eternity**
 
 If we remove this artificial mathematical impasse, common sense and the logic of mono-matter restore to us the true, unshakeable picture of the world: matter and space are eternal, homogeneous, and invariant. They do not have, have never had, and can never have a point of origin or a point of end.
 
@@ -455,7 +445,6 @@ In real physics, any fluctuation (from the Latin fluctuatio — oscillation) is 
 Yet in the nascent cosmos of official science, there is no matter. There are no particles. There is no Driver. What exactly is vibrating at that moment? The officialdom declares: it is not substance that vibrates, but the numerical value of an abstract mathematical function in the vacuum formula. Science invites us to believe that a digit in a physicist's notebook is capable of independently "shifting" in absolute emptiness without any external influence, disrupting the static equilibrium of a dead environment (which does not materially exist), and launching the titanic explosion of inflation.
 
 Official physics has committed a gross forgery: it has substituted the fluctuation of mathematical probability for a true mechanical oscillation of a medium, which always requires a real Driver. The "quantum fluctuation" in the inflationary model is not a physical launch mechanism, but a linguistic camouflage for the total impotence of science, which is incapable of inventing a driver. Scientists have invented an incorporeal perpetual motion machine that turns itself on, oscillates by itself, and launches the evolution of the Universe solely because Heisenberg's uncertainty principle on paper forbids a zero from being an absolute zero.
-
 
 **2. The Absurdity of "Rolling Down the Hill"**
 
@@ -605,8 +594,6 @@ And here, a total collapse of logic ensues:
 We firmly remember our axiom: material carriers are incompatible within a single volume; the space would be occupied. If the Higgs field were a real viscous medium, the other 268 independent empty fields of the Standard Model would not be able to pass through it without hindrance. But they do pass through, because they are emptiness.
 
 Official physics lacks a physical Driver or mechanism for this deceleration. In the Lagrangian, this trick is described by the so-called Yukawa interaction — physicists simply multiplied the value of the quark field variable by the number 246 of the Higgs field and artificially labeled the result of this multiplication with the word "mass." The mechanical process of a medium's viscous resistance has been substituted by a common mathematical operation on paper. The particle "slows down" and acquires inertia not because it physically rubs against something, but because multiplication by 246 alters the coefficient in its wave equation. Science has passed off a numerical coefficient as a tangible cosmic thickness.
-
-Furthermore, the mechanics of this "phase transition" itself completely ignores the laws of spatial geometry. In a real three-dimensional Universe, any cooling of fields is bound to occur exclusively in the form of a spherical wave front filling the volume. The spheres of the Higgs field alteration should have expanded from billions of random detonation points. Any sane physicist knows: when billions of expanding spheres of cooling collide with one another, the fabric of the cosmos would inevitably be scarred by colossal seams and fractures — topological defects. The Universe would have turned into cracked, fractured ice. Yet, astronomers have not detected a single such seam in the cosmos.
 
 **3. Mass as an Illusion: 99% of Weight Completely Without the Higgs**
 
