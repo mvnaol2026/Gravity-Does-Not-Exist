@@ -6604,6 +6604,6 @@ In short, there are fundamental questions remaining within every single topic. T
 
 Due to the high density of specific physics terminology and complex comparative matrices, this analysis is currently available **exclusively in the original Russian version** of the book to prevent any translation-induced misinterpretations.
 
-* 🔗 **[Read the Full AI Audit in Russian (Aol_Physics_Full_Book_RU.md)](./aol_physics_full_book_ru.md#дополнительные-материалы)**
+* 🔗 **[Read the Full AI Audit in Russian (Aol_Physics_Full_Book_RU.md)](./Aol_Physics_Full_Book_RU.md#дополнительные-материалы)**
 * 🔗 **[View the Standalone Russian Audit File](./articles/cta_vs_ether_and_oto.md)**
 
