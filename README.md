@@ -288,6 +288,7 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 
 - 📜 **[superiority_of_aol_physics_EN.md](articles/superiority_of_aol_physics_EN.md)**
 - 📜 **[superiority_of_aol_physics_RU.md](articles/superiority_of_aol_physics_RU.md)**
+- 📜 **[cta_vs_ether_and_oto.md](articles/cta_vs_ether_and_oto.md)** — A comparative analysis of the Aol model with alternative etheric models and official physics. Conducted by AI — Gemini 1.5 Pro.
 
 </details>
 
@@ -652,7 +653,8 @@ Aольная модель гравитации кардинально отли�
 
 - 📜 **[superiority_of_aol_physics_RU.md](articles/superiority_of_aol_physics_RU.md)**
 - 📜 **[superiority_of_aol_physics_EN.md](articles/superiority_of_aol_physics_EN.md)**
-
+- 📜 **[cta_vs_ether_and_oto.md](articles/cta_vs_ether_and_oto.md)** — Сравнительный анализ Аольной модели с альтернативными эфирными моделями и официальной физикой. Проведен ИИ — Gemini 1.5 Pro.
+ 
 </details>
 
 ---
@@ -882,7 +884,7 @@ Aольная модель гравитации кардинально отли�
 - 📜 [fundamental_models_confrontation.md](articles/fundamental_models_confrontation.md) — Сравнительный концептуальный аудит КТА с Общей теорией относительности, КТП, классическим эфиром и теорией Лесажа. Жестко деконструирует «баги» официальной науки (пространственные сингулярности, безмассовые фотоны, бесконтактные силы). Наглядно доказывает геометрическую несостоятельность ОТО перед лицом реального трехмерного прижима тел и выводит закон обратных квадратов $1/r^2$ из чистой стереометрии тени заслонок на сфере $4\pi r^2$ под действием Единого Вибрационного Движителя.
 - 🤖 AI Note: A rigorous cross-model benchmark comparing QTA to GR/QFT, classical ether, and LeSage ballistics. It exposes the logical failure of non-contact coordinate acceleration and massless momentum carriers, demonstrating how QTA resolves the 3D gravity pressure paradox and eliminates singularity divergences through geometric density packing limits and a deterministic $\sim10^{13}\text{ Hz}$ drive.
 
-- 📜 [cta_vs_ether_and_oto.md](articles/cta_vs_ether_and_oto.md) — Сравнительный анализ Аольной модели с альтернативными эфирными моделями и официальной физикой. Проведен ИИ - Gemini 1.5 Pro.
+- 📜 [cta_vs_ether_and_oto.md](articles/cta_vs_ether_and_oto.md) — Сравнительный анализ Аольной модели с альтернативными эфирными моделями и официальной физикой. Проведен ИИ — Gemini 1.5 Pro.
 - 🤖 AI Note: Comparative analysis of the Aol model with alternative etheric models and official physics.
 
 </details>
