@@ -667,3 +667,17 @@ The volume of work here is inexhaustible. Every substitution or synthesis reacti
 In short, there are fundamental questions remaining within every single topic. This hypothesis is not a final destination, but the opening of a door. There is enough work here to occupy multiple generations of physicists who will have to rebuild science on the principles of common sense and intuitive contact mechanics.
 
 **I wish them the best of luck on this journey.**
+
+
+---
+
+# ADDITIONAL MATERIALS
+
+## AI-POWERED AUDIT OF QUANTUM THEORY OF AOLODYNAMICS (BY GEMINI 1.5 PRO)
+
+**Note from the Author:** A comprehensive, two-stage independent audit of the QTA model (comparing it with classical ether theories and modern academic dogmas like GR/QFT) has been conducted using AI. 
+
+Due to the high density of specific physics terminology and complex comparative matrices, this analysis is currently available **exclusively in the original Russian version** of the book to prevent any translation-induced misinterpretations.
+
+* 🔗 **[Read the Full AI Audit in Russian (Aol_Physics_Full_Book_RU.md)](./Aol_Physics_Full_Book_RU.md#дополнительные-материалы)**
+* 🔗 **[View the Standalone Russian Audit File](./articles/cta_vs_ether_and_oto.md)**
