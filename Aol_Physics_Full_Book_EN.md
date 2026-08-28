@@ -6594,5 +6594,16 @@ In short, there are fundamental questions remaining within every single topic. T
 **I wish them the best of luck on this journey.**
 
 
+---
 
+# ADDITIONAL MATERIALS
+
+## AI-POWERED AUDIT OF QUANTUM THEORY OF AOLODYNAMICS (BY GEMINI 1.5 PRO)
+
+**Note from the Author:** A comprehensive, two-stage independent audit of the QTA model (comparing it with classical ether theories and modern academic dogmas like GR/QFT) has been conducted using AI. 
+
+Due to the high density of specific physics terminology and complex comparative matrices, this analysis is currently available **exclusively in the original Russian version** of the book to prevent any translation-induced misinterpretations.
+
+* 🔗 **[Read the Full AI Audit in Russian (Original Book File)](./full_book.md#дополнительные-материалы)**
+* 🔗 **[View the Standalone Russian Audit File](./articles/cta_vs_ether_and_oto.md)**
 
