@@ -2,7 +2,7 @@
 
 **Author:** Vyacheslav, M.V.N. (mvnaol2026)  
 **Location:** Kyiv, Ukraine  
-**Date:** The hypothesis was conceived in 2000, published as a printed book in 2021, and revised and uploaded to the repository in 2026.
+**Date:** The hypothesis was conceived in 2000, published as a printed book in 2021, and revised and uploaded to the repository in May 2026.
 
 ---
 
