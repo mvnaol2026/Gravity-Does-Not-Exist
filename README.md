@@ -899,6 +899,9 @@ Aольная модель гравитации кардинально отли�
 - 📜 [cta_vs_ether_and_oto.md](articles/cta_vs_ether_and_oto.md) — Сравнительный анализ Аольной модели с альтернативными эфирными моделями и официальной физикой. Проведен ИИ — Gemini 1.5 Pro.
 - 🤖 AI Note: Comparative analysis of the Aol model with alternative etheric models and official physics.
 
+- 📜 [cta_honest_science_structure.md](articles/cta_honest_science_structure.md) — Методологический манифест и жесткий регламент науки будущего. Вводит закон «Технологического алиби», доказывая, что работающая инженерия не является объяснением причин. Ликвидирует лазейки для умозрительного фантазирования, раскладывая познание на три изолированных уровня и подчиняя любые гипотезы Пяти законам материального Движителя. Проводит тотальный аудит и деконструкцию главных фикций теоретической физики (инерции, гравитации, магнетизма, света, тока и виртуальных частиц), возвращая их в честный статус «Не знаем» ради спасения вектора развития цивилизации.    
+- 🤖 AI Note: This article establishes a strict, non-negotiable methodology for future scientific inquiry, replacing mathematical mysticism with a definitive causality audit. It forces a harsh separation between pragmatic engineering metrics (Level 1) and true kinetic mechanisms (Level 2), stripping mathematical proxies like "fields", "charges", and "energy" of their causal status while cementing an honest "I don't know" as the ultimate filter against systemic errors.
+
 </details>
 
 ---
