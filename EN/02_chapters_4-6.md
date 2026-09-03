@@ -380,7 +380,9 @@ This means that the interstices vary in size and are constantly changing at an i
 
 **8. Estimated Size of Aols**
 
-This value is yet to be further refined. However, as a preliminary estimate, the diameter of an aol is taken to be **10<sup>-9</sup>** cm.
+These values are yet to be further refined.   
+However, as a preliminary estimate, the diameter of an aol is taken to be **20–50 pm (0.02–0.05 nm, or from 2×10<sup>-9</sup> cm to 5×10<sup>-9</sup> cm)**.       
+The mass of an aol is approximately **8.35×10<sup>-28</sup> kg**.
 
 **The Picture of the Universe**
 
