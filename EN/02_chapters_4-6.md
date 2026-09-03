@@ -378,7 +378,7 @@ The geometric interstice between aols is not an independent, extended region of 
 There is no absolute void as a physical object in the Universe; there exist only microscopic inter-spherical voids, which are a natural consequence of sphere packing. The packing of aols is chaotic — ranging from 4 to 12 contacts between spheres.  
 This means that the interstices vary in size and are constantly changing at an incredible speed, as the aols continuously alter their number of contacts due to vibrations, diminishing some gaps while enlarging others.
 
-**8. Estimated Size of Aols**
+**8. Estimated Size and Mass of Aols**
 
 These values are yet to be further refined.   
 However, as a preliminary estimate, the diameter of an aol is taken to be **20–50 pm (0.02–0.05 nm, or from 2×10<sup>-9</sup> cm to 5×10<sup>-9</sup> cm)**.       
