@@ -158,7 +158,7 @@ And I cannot fail to pay tribute to the great mind of Aristotle. In the most fun
 
 
 
-## CHAPTER 18. MASS
+## Chapter 18. MASS
 
 **Introduction: The Epistemological Impasse of Science**
 
