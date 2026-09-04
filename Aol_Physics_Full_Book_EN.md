@@ -1394,7 +1394,8 @@ Every process, every phenomenon is the motion of matter.
 
 Therefore, the fundamental law of the Universe and the fundamental law of physics is the law of motion. By tracing the motion of matter within a process, the process itself becomes understood.
 
-### The fundamental law of physics states: the motion of an object is possible only under contact, unbalanced, and continuous pressure from another object.
+**The fundamental law of physics is the fundamental law of motion:**    
+### Movement is only possible under CONTACT, UNBALANCED, CONTINUOUS pressure.
 
 Let us break it down part by part.  
 There are three key words here: **contact, unbalanced, and continuous.**
