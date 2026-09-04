@@ -285,7 +285,7 @@ The primary epistemological deception of General Relativity lay in Einstein decl
 
 For a strict causal analysis, this concept represents the pinnacle of absurdity. Einstein stripped space of all substantiality, leaving it physically empty, yet endowed this void with the physical capacity to bend, resist, and direct the motion of passive bodies. Physics definitively abandoned the search for a material carrier of interactions, replacing a real, tangible medium with trigonometric tensors.
 
-**2. The Trap of the Formula (E=mc2) and the Myth of Velocity-Dependent Mass Increase**
+**2. The Trap of the Formula (E=mc<sup>2</sup>) and the Myth of Velocity-Dependent Mass Increase**
 
 Another fundamental misconception of relativism that directly distorted the nature of mass was the interpretation of the famous mass-energy equivalence equation. Official science drew a false conclusion from this formula, as if mass were some sort of abstract "conserved energy" capable of being generated out of velocity.
 
@@ -384,7 +384,7 @@ Nevertheless, to maintain the absolute rigor of causal analysis, we must always 
 
 **The Identity of Inertial and Gravitational Masses: A Unified Volumetric-Quantitative Mechanism**
 
-In official academic physics, it is customary to strictly separate mass into two types: inertial (a measure of resistance to acceleration) and gravitational (a measure of response to attraction) [ru-wikipedia-org]. Modern science considers the fact that they are equal with colossal precision to be an "astonishing coincidence," or accepts it without explanation as a fundamental postulate.
+In official academic physics, it is customary to strictly separate mass into two types: inertial (a measure of resistance to acceleration) and gravitational (a measure of response to attraction). Modern science considers the fact that they are equal with colossal precision to be an "astonishing coincidence," or accepts it without explanation as a fundamental postulate.
 
 Within the framework of the Aol model, however, this separation completely loses its meaning. Inertial and gravitational masses are physically the exact same phenomenon. Before us is one and the same mechanism of interaction between the body and the medium, simply manifested in two different situations.
 
@@ -436,9 +436,9 @@ The entire set of given factors allows us to formulate the definitive, causally 
 **1.	Total Passivity of Matter:** Matter by its very nature is deeply passive. A physical body does not possess an inherent capacity to resist, attract, or perform independent dynamic acts. Any "resistance" of an object during acceleration is not its internal property, but a reaction of the Aol space resisting the intrusion of a volumetric structure into its matrix.
 
 **2.	Universal Definition: Mass is a measure of the action of the medium on a passive body.** This characteristic is absolutely invariant and simultaneously manifests in three guises:    
-o	As a measure of inertia (during the forced acceleration of an object by a force),    
-o	As a measure of "gravitation" (during the static compression of an object within the shielding zone),    
-o	As a measure of displacement of the medium (the geometric volume of the expelled space).
+-	As a measure of inertia (during the forced acceleration of an object by a force),    
+-	As a measure of "gravitation" (during the static compression of an object within the shielding zone),    
+-	As a measure of displacement of the medium (the geometric volume of the expelled space).
 
 **3.	Unity of the Nature of Masses:** In nature, two distinct masses (inertial and gravitational) do not exist. There is one single physical quantity that is captured differently by an observer in various dynamic processes. At the foundation of both regimes lies the exact same interaction with the medium — the displacement of a strictly identical quantity of aols of space by the same LEGO-structure.
 
