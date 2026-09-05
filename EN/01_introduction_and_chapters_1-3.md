@@ -1382,11 +1382,11 @@ And everything else is just forms of its movement.
 
 Physics is the science that studies matter and the processes occurring within it. Absolutely every process is the mechanical motion of matter.
 
-There is nothing in the Universe except moving physical matter. Stationary matter does not exist. Nor does anything else exist besides moving matter—there is no such thing as "pure energy," "informational codes," or geometric abstractions of curved spacetime.
+There is nothing in the Universe except moving physical matter. Stationary matter does not exist. Nor does anything else exist besides moving matter — there is no such thing as "pure energy," "informational codes," or geometric abstractions of curved spacetime.
 
 From this follows a simple conclusion: to understand the physical world, we only need to understand two things — how matter itself is structured, and how its motion is structured (what acts as the Mover). By tracing the mechanical path of substance in any process from start to finish, we will fully comprehend the process itself.
 
-To unlock the mechanics of the motion of matter means to unlock the world itself, for it is within motion that the essence of understanding nature resides. If physics misses this essence, it inevitably turns into the dead mathematics of immaterial ghosts, ceasing to be physics altogether.    
+To unlock the mechanics of the motion of matter means to unlock the world itself, for it is within motion that the essence of understanding nature resides. If physics misses this essence, it inevitably turns into the dead mathematics of immaterial ghosts, ceasing to be physics altogether.        
 That is why the prime law of the Universe and the prime law of physics is the law of motion.
 
 **The Prime Law of Motion:**
@@ -1404,7 +1404,7 @@ If absolutely equal pressure is exerted on a physical body from all sides, it wi
 **3. Continuous**    
 This is a fundamental point that modern science has completely lost sight of due to a superficial, purely visual perception of phenomena. Mechanical pressure cannot be a momentary "click" after which a body flies on its own. Pressure must be applied to the object continuously (not necessarily from the primary source of pressure) — every single microsecond while its displacement lasts. As soon as the Mover stops pressing, the motion ceases. Not "gradually," not "sometime later," but instantly.
 
-The entire essence of the Prime Law of Motion can be reduced to an extremely simple everyday formula: **press it — it moves**. But this formula has a rigid constraint: **stop pressing — it stops**. Thus, in dry residue, the law is formulated in two words: **press—moves**.
+The entire essence of the Prime Law of Motion can be reduced to an extremely simple everyday formula: **press it — it moves**. But this formula has a rigid constraint: **stop pressing — it stops**. Thus, in dry residue, the law is formulated in two words: **press — moves**.
 
 This law completely eliminates from physics any speculation about motion "by itself" or "by inertia." From now on, when analyzing any process, a scientist is obliged to provide three specific answers:
 1.	What exactly is pressing?
@@ -1413,9 +1413,9 @@ This law completely eliminates from physics any speculation about motion "by its
 
 Try applying this law to any phenomenon: the falling of a stone, the propagation of light, electric current, or magnetic effects. Everywhere, the exact same question arises — one that remains unanswered by official science: where is the physical source of continuous contact pressure?
 
-All conceptual deadlocks in modern physics arise precisely due to skipping this key link — continuous contact pressure. Entities are introduced into equations that influence something but lack a contact-pressing material carrier:
-**•	A field** supposedly exerts a force, but what physical particles it consists of and how exactly it mechanically presses remains unknown.
-**•	Energy** is somehow transferred, but what specific substance is moving through space in the process is not indicated.
+All conceptual deadlocks in modern physics arise precisely due to skipping this key link — continuous contact pressure. Entities are introduced into equations that influence something but lack a contact-pressing material carrier:    
+**•	A field** supposedly exerts a force, but what physical particles it consists of and how exactly it mechanically presses remains unknown.    
+**•	Energy** is somehow transferred, but what specific substance is moving through space in the process is not indicated.    
 **•	Attraction** is allegedly observed (although it is more accurate to speak only of the nearing of objects), but the mechanical mediator of the process is completely absent.
 
 From the standpoint of strict mechanics, this looks absurd — as if in a complex mechanism, one of the gears is spinning all by itself, without touching any other parts. But in reality, it does not happen this way: if a part is spinning, it means something is continuously pushing it. And we will systematically uncover this material "something" in the following chapters.
