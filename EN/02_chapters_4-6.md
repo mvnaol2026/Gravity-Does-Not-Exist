@@ -63,7 +63,7 @@ The entire world obeys the strict rule of the Prime Law of Physics: **press — 
 
 Aolodynamics permanently eliminates the chaos entrenched in science. The heap of disconnected abstract formulas is replaced by a continuous, monolithic logic.
 
-In fact, **aolodynamics is the basic and only genuine type of mechanics**, while the other three types are merely its macrostructural manifestations. This will become obvious in the subsequent chapters when you familiarize yourself with the aol space—the sole Prime Mover of all processes.
+In fact, **aolodynamics is the basic and only genuine type of mechanics**, while the other three types are merely its macrostructural manifestations. This will become obvious in the subsequent chapters when you familiarize yourself with the aol space — the sole Prime Mover of all processes.
 
 **Nature is one.** It did not invent special, sophisticated laws for what man cannot see with his eyes. Human vision is too weak a tool, and nature is not obliged to adapt to its limitations. The invisibility of a medium does not prove its absence. Poor vision is a human problem, not nature's.
 
