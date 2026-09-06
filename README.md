@@ -177,7 +177,7 @@ This project shifts physics from the language of abstract formulas to the **lang
 1. **The 3D-Hedgehog Space (The Vortex Paradox):** The Einsteinian model explains gravity through the "bending of a rubber sheet." But in 3D space, planets press objects from all sides simultaneously. For a stone to fall vertically at any given point (even if you step a meter or a mile aside), space would have to consist of billions of personal, nested parallel funnels for every single atom.    
 *In Aol Physics, the geometry of space remains strictly Cartesian and immutable. Gravity is replaced by the mechanical compression of an omnidirectional medium pressure.*
 2. **The Buffer Infinity (The Singularity Bug):** When the denominator in the formulas of General Relativity turns to zero, physicists call this calculation error a real physical object — a "singularity" of infinite density.    
-*In a discrete aol medium, infinities are physically impossible due to the strict laws of stereometry.*
+*The aol model is entirely free of singularities.*
 3. **The Ghost Photon (The Duality Absurd):** The official photon has no rest mass and no volume, yet it produces a mechanical impact (light pressure) and emerges from an atom instantly at the speed of **300,000 km/s** without any acceleration phase. In mechanics, this is an absolute absurdity.    
 *In this project, the entity of a "photon" is abolished. It is replaced by a quantum of a wave strike traveling along a chain of tightly compressed particles.*
 4. **The Perpetuum Mobile (The Micro-World Engine Bug):** Physics claims that electrons continuously generate a force field for billions of years without consuming energy, while massive atomic nuclei perform non-stop vibrations in the terahertz frequency range **(~10¹³ Hz)** even at absolute zero. Science has no answer as to where this perpetual momentum comes from.    
@@ -595,7 +595,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 1. **Парадокс «трёхмерного ежа»:** Эйнштейновская модель объясняет гравитацию «искривлением резинового листа». Но в 3D-пространстве планеты прижимают объекты со всех сторон. Чтобы камень падал вертикально в любой точке (даже если отойти на метр или километр), пространство должно состоять из миллиардов персональных параллельных воронок для каждого атома.    
 *В проекте геометрия пространства строго декартова и неизменна. Гравитация заменена механическим прижимом всенаправленного давления среды.*
 2. **Ошибка сингулярности:** Когда в формулах общей теории относительности знаменатель обращается в ноль, физики называют ошибку расчетов реальным объектом — «сингулярностью» бесконечной плотности.        
-*В дискретной аольной среде бесконечности невозможны по законам стереометрии.*
+*В аольной модели нет сингулярностей.*
 3. **Фотон-призрак:** Официальный фотон не имеет массы покоя и объема, но производит механический удар (давление света) и вылетает из атома сразу на скорости 300 000 км/с без фазы разгона. В механике это абсурд.    
 *В проекте сущность «фотон» упразднена. Это квант волнового удара по цепочке жестко зажатых частиц.*
 4. **Вечный двигатель микромира:** Физика заявляет, что электроны миллиардами лет непрерывно генерируют силовое поле без расхода энергии, а массивные атомы тел совершают непрерывные колебания в терагерцевом диапазоне частот **(~10¹³ Гц)** даже при абсолютном нуле. Откуда берется этот вечный импульс — у науки ответа нет.    
