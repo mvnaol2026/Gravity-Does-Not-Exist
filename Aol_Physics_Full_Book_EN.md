@@ -74,6 +74,7 @@ The text was completed in Kyiv on May 10, 2026.
 - [Chapter 48. Conclusions. Foundations of Aol Physics](#chapter-48-conclusions-foundations-of-aol-physics)
 - [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
 - [Afterword](#afterword)
+- [ADDITIONAL MATERIALS](#additional-materials)
 
 
 
