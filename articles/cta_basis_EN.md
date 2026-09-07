@@ -88,7 +88,7 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 **The Geometric Limit of the Wedge.** The thickness of the wedges never exceeds the diameter of a single aol. The force of their impact depends not on their thickness (which is a geometric constant), but on the number of aols within the wedge and the frequency of their driving-in by the medium.
 
 **The Mechanism of Gravitation (Vibrational Shielding).**    
-**Physical Essence.** Gravitation is the mechanical clamping of bodies toward each other by the medium, caused by vibrational shielding. Any bodies (consisting of bound aols and lunols) partially attenuate the medium's micro-vibrations (\(\sim 10^{13}\) Hz) passing through them, creating a mutual gravitational shadow. Due to the resulting pressure gradient, the external aol space physically clamps the objects together.    
+**Physical Essence.** Gravitation is the mechanical clamping of bodies toward each other by the medium, caused by vibrational shielding. Any bodies (consisting of bound aols and lunols) partially attenuate the medium's micro-vibrations (10<sup>13</sup> Hz) passing through them, creating a mutual gravitational shadow. Due to the resulting pressure gradient, the external aol space physically clamps the objects together.    
 
 **The Limit of Shielding.** It is impossible to completely shield the vibrational pressure, because the bodies themselves are woven from the very same aols — they are structurally homogeneous with the medium. Due to the varying degrees of this shielding, macro-objects have different weights on Earth and, for instance, on the Moon.
 
