@@ -429,6 +429,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [09_chapters_36-37.md](EN/09_chapters_36-37.md) — Chapters 36–37.
 * [10_chapters_38-42.md](EN/10_chapters_38-42.md) — Chapters 38–42.
 * [11_chapters_43-49_and_afterword.md](EN/11_chapters_43-49_and_afterword.md) — Chapters 43–49 and Afterword.
+* [12_additional_materials_EN.md](EN/12_additional_materials_EN.md) — The Basis of Aol Physics.
 
 </details>
  
