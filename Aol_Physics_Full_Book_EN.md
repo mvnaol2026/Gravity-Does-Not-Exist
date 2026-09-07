@@ -6763,7 +6763,7 @@ Due to the high density of specific physics terminology and complex comparative 
 
 
 
-## The Basis of Aol Physics
+# The Basis of Aol Physics
 
 **What does not exist in nature:** attraction, energy, time, time dilation, a unified spacetime continuum, curved space, dozens of fundamental fields and hundreds of other fields, the Big Bang "point", singularity, inflaton, dark matter, dark energy, inertia as motion "by itself" and as an inherent resistance to displacement, fictitious forces, zero-point oscillations of atoms due to field fluctuations, the conversion of mass into energy and vice versa, the conversion of particles into energy, the conversion of particles into photons, the conversion of photons into particles, annihilation, antimatter, multiverses, charges, the birth of particles from a vacuum, virtual particles, the production of particles by particles, the emission of particles by particles, flying quanta, flying particles, superposition of particles, attaining the speed of light without acceleration, massless particles, wave-particle duality of particles, wave function collapse — the shrinking of probability clouds into a corpuscle, the expanding of a corpuscle into a probability cloud, atoms billions of kilometers in size, cosmic microwave background radiation in the form of ancient photons, empty atoms, empty bodies, empty planets, the hardness of vacuum, more than three spatial dimensions, different laws for the microworld, and 13.8 billion years of the Universe's existence (this is a fictional date for the birth of the Universe).
 
