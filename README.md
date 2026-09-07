@@ -278,6 +278,10 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 20. **Quantum in QTA (Quantum Theory of Aolodynamics)**: A quantum is the discrete, portioned "energy" of a single atomic collision against the aols of space, followed by the mechanical transmission of this micro-impact from aol to aol along a chain. The physics of the microworld is quantum, but with quanta that are fundamentally different in nature. There is no physical flight of quanta through empty space. The discreteness of a quantum is entirely driven by the factor of the IMPACT itself. A mechanical impact is always fundamentally discrete: an elastic contact cannot be transmitted "halfway" — the collision impulse is either passed along the chain of aols in its entirety, or not at all.
 21. **The world is unified**: The division into the microworld and the macroworld is arbitrary. It is caused by the limitations of human perception. The laws of the macroworld and the microworld are the same.
 22. **The Triad of Aol Physics**: **Entities – Contact – Pressure.** Any real process can only be understood when all three of these elements are identified within it.
+
+**P.S.** A more detailed, but still brief, overview of the main points of the hypothesis can be found in the article   
+**“The Basis of Aol Physics”:** [cta_basis_EN.md](articles/cta_basis_EN.md)
+
 </details>
 
 ---
