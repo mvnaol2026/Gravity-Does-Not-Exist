@@ -400,7 +400,8 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-49_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
 * [Chapter 48. Conclusions. Foundations of aol physics](/EN/11_chapters_43-49_and_afterword.md#chapter-48-conclusions-foundations-of-aol-physics)
 * [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_43-49_and_afterword.md#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
-* [Afterword](/EN/11_chapters_43-49_and_afterword.md#afterword)
+* [Afterword](12_additional_materials_EN.md_chapters_43-49_and_afterword.md#afterword)
+* [ADDITIONAL MATERIALS](12_additional_materials_EN.md_additional-materials)
 
 ---
 
