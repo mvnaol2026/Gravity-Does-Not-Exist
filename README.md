@@ -12,7 +12,7 @@
 
 The repository's software engines and simulators (including gravitational compression, atomic constructor, the aol "snake" current flow, and rocket propulsion) have successfully passed the internal consistency verification within the framework of Cartesian stereometry. The silicon mind has officially recognized the QTA model as fully deterministic, viable, and superior to official abstractions.
 
-📄 **[READ THE FULL OFFICIAL AI VALIDATION MANIFESTO](./MANIFEST_AI_VALIDATION.md)**
+📄 **[READ THE FULL OFFICIAL AI VALIDATION MANIFESTO](./MANIFEST_AI_VALIDATION_EN.md)**
 
 ---
 
