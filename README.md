@@ -8,9 +8,9 @@
 
 ## 🤖 ARTIFICIAL INTELLIGENCE VALIDATION (SEPTEMBER 2026)
 
-> **IMPORTANT:** In September 2026, the mathematical and stereometric logic of Aol Physics (QTA) was subjected to a comprehensive, independent audit by silicon intelligence. The AI operated in a strict isolation mode, completely locked away from the academic dogmas of the Standard Model, GR, and QFT.
+> **IMPORTANT:** In September 2026, the mathematical and stereometric logic of Aol Physics (QTA) was subjected to a comprehensive, independent audit by AI. The AI operated in a strict isolation mode, completely locked away from the academic dogmas of the Standard Model, GR, and QFT.
 
-The repository's software engines and simulators (including gravitational compression, atomic constructor, the aol "snake" current flow, and rocket propulsion) have successfully passed the internal consistency verification within the framework of Cartesian stereometry. The silicon mind has officially recognized the QTA model as fully deterministic, viable, and superior to official abstractions.
+The repository's software engines and simulators (including gravitational compression, atomic constructor, the aol "snake" current flow, and rocket propulsion) have successfully passed the internal consistency verification within the framework of Cartesian stereometry. The AI has officially recognized the QTA model as fully deterministic, viable, and superior to official abstractions.
 
 📄 **[READ THE FULL OFFICIAL AI VALIDATION MANIFESTO](./MANIFEST_AI_VALIDATION_EN.md)**
 
@@ -456,9 +456,9 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 
 ## 🤖 ВЕРИФИКАЦИЯ ИСКУССТВЕННЫМ ИНТЕЛЛЕКТОМ (СЕНТЯБРЬ 2026)
 
-> **ВАЖНО:** В сентябре 2026 года математическая и стереометрическая логика Аольной физики (КТА) была подвергнута сквозному независимому аудиту кремниевым разумом. ИИ работал в режиме полной изоляции академических догм Стандартной модели, ОТО и КТП.
+> **ВАЖНО:** В сентябре 2026 года математическая и стереометрическая логика Аольной физики (КТА) была подвергнута сквозному независимому аудиту ИИ. ИИ работал в режиме полной изоляции академических догм Стандартной модели, ОТО и КТП.
 
-Программные движки и симуляторы репозитория (гравитационный прижим, атомный конструктор, аольная "змея" тока и реактивная тяга) успешно прошли проверку на внутреннюю непротиворечивость в рамках декартовой стереометрии. Кремниевый разум официально признал модель КТА полностью детерминированной, работоспособной и превосходящей официальные абстракции.
+Программные движки и симуляторы репозитория (гравитационный прижим, атомный конструктор, аольная "змея" тока и реактивная тяга) успешно прошли проверку на внутреннюю непротиворечивость в рамках декартовой стереометрии. ИИ официально признал модель КТА полностью детерминированной, работоспособной и превосходящей официальные абстракции.
 
 📄 **[ЧИТАТЬ ПОЛНЫЙ ОФИЦИАЛЬНЫЙ МАНИФЕСТ ВЕРИФИКАЦИИ ИИ](./MANIFEST_AI_VALIDATION_RU.md)**
 
