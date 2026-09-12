@@ -1,4 +1,4 @@
-## Chapter 36. ELECTROMAGNETIC WAVES — THE TRANSMISSION OF VIBRATIONS
+## Chapter 29. ELECTROMAGNETIC WAVES — THE TRANSMISSION OF VIBRATIONS
 
 When it comes to electromagnetic waves, modern physics confidently uses formulas and terminology. But if we ask: what exactly is moving? — no clear mechanical answer is given.
 
@@ -203,7 +203,7 @@ There are only vibrations of aol space — from slow to extremely fast.
 
 
 
-## Chapter 37. FIELDS
+## Chapter 30. FIELDS
 
 **Fields: Science’s Attempt to Animate the Void**
 
