@@ -1,4 +1,4 @@
-## Chapter 27. THE MICHELSON EXPERIMENT AND WHY THE WRONG ETHER WAS SEARCHED FOR
+## Chapter 26. THE MICHELSON EXPERIMENT AND WHY THE WRONG ETHER WAS SEARCHED FOR
 
 At the end of the 19th century, physicists were convinced that light is a wave. And if it is a wave, there must be a medium in which it propagates. Sound propagates in air, waves propagate in water. Therefore, light must propagate in some universal medium called ether. The Earth moves around the Sun at about 30 km/s. Therefore, it moves through this ether. And if it moves, an “ether wind” should arise — just as a person running on a windless day feels an oncoming flow of air.
 
@@ -39,7 +39,7 @@ The aol model does the opposite: it restores the medium, not as a hypothesis, bu
 
 
 
-## Chapter 28. HOW RELATIVITY THEORY EMERGED — AND WHAT WOULD HAPPEN IF A MEDIUM EXISTED
+## Chapter 27. HOW RELATIVITY THEORY EMERGED — AND WHAT WOULD HAPPEN IF A MEDIUM EXISTED
 
 At the end of the 19th century, physics faced a serious contradiction. On one side was the principle of relativity formulated by Galileo Galilei, known for two centuries: the laws of nature are the same for all observers moving uniformly and in straight lines. In a train moving at constant speed, a cup of tea behaves exactly as it does on the platform. No experiment inside the carriage can determine whether the train is moving or standing still.
 
@@ -179,7 +179,7 @@ It is impossible to slow down or accelerate time because you cannot slow down wh
 
 
 
-## Chapter 30. ELECTRIC CURRENT
+## Chapter 28. ELECTRIC CURRENT
 
 When a person switches on the light in a room or starts a machine-tool motor, they rarely contemplate exactly what transpires inside the wires. We have grown accustomed to living in a world of ready-made labels.
 
