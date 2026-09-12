@@ -368,6 +368,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 
 ## 📖 Table of Contents 
 
+* **[The Basis of Aol Physics](/EN/12_additional_materials_EN.md#the-basis-of-aol-physics)**
 * [Introduction](/EN/01_introduction_and_chapters_1-3.md#introduction)
 * [Chapter 1. What this book is about](/EN/01_introduction_and_chapters_1-3.md#chapter-1-what-this-book-is-about)
 * [Chapter 2. What exists in the world](/EN/01_introduction_and_chapters_1-3.md#chapter-2-what-exists-in-the-world)
@@ -411,7 +412,6 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [Chapter 40. Conclusions. Foundations of aol physics](/EN/11_chapters_35-41_and_afterword.md#chapter-40-conclusions-foundations-of-aol-physics)
 * [Chapter 41. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_35-41_and_afterword.md#chapter-41-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
 * [Afterword](/EN/11_chapters_35-41_and_afterword.md#afterword)
-* [The Basis of Aol Physics](/EN/12_additional_materials_EN.md#the-basis-of-aol-physics)
 
 ---
 
