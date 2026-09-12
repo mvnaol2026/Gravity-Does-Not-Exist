@@ -1,4 +1,4 @@
-## Chapter 38. MAGNETIC FIELD
+## Chapter 31. MAGNETIC FIELD
 
 We already know that current is the motion of aols, that this motion is created by a pressure difference, and that the flow can be directed. Now a new phenomenon appears.
 
@@ -37,7 +37,7 @@ The main conclusion: the magnetic field is a vortex motion of aol space arising 
 
 
 
-## Chapter 39. MAGNET. INTERACTION OF MAGNETS
+## Chapter 32. MAGNET. INTERACTION OF MAGNETS
 
 A magnet is one of the most familiar and at the same time one of the least explained objects in standard physics. Everyone has held it in their hands. Everyone has felt how it attracts iron and how two magnets repel each other.
 
@@ -143,7 +143,7 @@ Only the motion of aols — contact and pressure.
 
 
 
-## Chapter 41. ETHER
+## Chapter 33. ETHER
 
 **The History of Ether: From Primary Matter to the Forbidden Mechanics of the Universe**
 
@@ -245,7 +245,7 @@ That is why I use the term “aol space” — and I do not intend to abandon it
 
 
 
-## Chapter 42. MATTER: FROM THE PRIMARY PARTICLE TO THE UNIVERSE
+## Chapter 34. MATTER: FROM THE PRIMARY PARTICLE TO THE UNIVERSE
 
 There is a feature of human psychology that is rarely discussed in the context of science, yet it explains a great deal.
 When we face something unknown, we almost inevitably complicate it. Darkness frightens us — and in a dark room we begin to imagine portals to another world. When the light is turned on, it turns out that the source of the eerie rustling  is just a lazy cat on the couch. But the one who ran out of the room in panic will never learn about the cat. He will carry away a story about a portal.
