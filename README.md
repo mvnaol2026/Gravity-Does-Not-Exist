@@ -870,7 +870,7 @@ Aольная модель гравитации кардинально отли�
 ### 📖 Русская версия / Russian Version ( `/RU/` ) — книга «Притяжения не существует» в 12 файлах:
 
 <details>
-<summary>📂 <b>Нажмите, чтобы развернуть список файлов</b></summary>
+<summary>📂 <b>Нажмите, чтобы развернуть список файлов ( /RU/ )</b></summary>
 &nbsp; 
 
 * [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — От автора, оглавление, введение и главы 1–3 / Preface, TOC, introduction & chapters 1-3.
