@@ -425,7 +425,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 ### 📖 English Version (`/EN/`) - the book "Gravity Does Not Exist" in 12 files:
 
 <details>
-<summary>📂 <b>Click to expand the file list</b></summary>
+<summary>📂 <b>Click to expand the file list ( /EN/ )</b></summary>
 &nbsp; 
 
 * [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, TOC, Introduction, and Chapters 1–3.
