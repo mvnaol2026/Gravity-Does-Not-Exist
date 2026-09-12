@@ -56,23 +56,23 @@ The text was completed in Kyiv on May 10, 2026.
 - [Chapter 22. What Matter Is Capable Of](#chapter-22-what-matter-is-capable-of)
 - [Chapter 23. What is "Energy"](#chapter-23-what-is-energy) 
 - [Chapter 24. Heat](#chapter-24-heat)
-- [Chapter 26. Light](#chapter-26-light)
-- [Chapter 27. The Michelson Experiment and Why the Wrong Ether was Searched for](#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-searched-for)
-- [Chapter 28. How Relativity Theory Emerged — and What Would Happen if a Medium Existed](#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed) 
-- [Chapter 30. Electric Current](#chapter-30-electric-current)
-- [Chapter 36. Electromagnetic Waves — The Transmission of Vibrations](#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
-- [Chapter 37. Fields](#chapter-37-fields)
-- [Chapter 38. Magnetic Field](#chapter-38-magnetic-field)
-- [Chapter 39. Magnet. Interaction of Magnets](#chapter-39-magnet-interaction-of-magnets)
-- [Chapter 41. Ether](#chapter-41-ether)
-- [Chapter 42. Matter: From the Primary Particle to the Universe](#chapter-42-matter-from-the-primary-particle-to-the-universe)
-- [Chapter 43. The Recession of Galaxies — The Mechanism of Acceleration](#chapter-43-the-recession-of-galaxies--the-mechanism-of-acceleration)
-- [Chapter 44. Combustion](#chapter-44-combustion)
-- [Chapter 45. Reactive Motion](#chapter-45-reactive-motion)
-- [Chapter 46. Superfluidity](#chapter-46-superfluidity)
-- [Chapter 47. Two Factors behind the Emergence of the Big Bang Theory](#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory) 
-- [Chapter 48. Conclusions. Foundations of Aol Physics](#chapter-48-conclusions-foundations-of-aol-physics)
-- [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
+- [Chapter 25. Light](#chapter-25-light)
+- [Chapter 26. The Michelson Experiment and Why the Wrong Ether was Searched for](#chapter-26-the-michelson-experiment-and-why-the-wrong-ether-was-searched-for)
+- [Chapter 27. How Relativity Theory Emerged — and What Would Happen if a Medium Existed](#chapter-27-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed) 
+- [Chapter 28. Electric Current](#chapter-28-electric-current)
+- [Chapter 29. Electromagnetic Waves — The Transmission of Vibrations](#chapter-29-electromagnetic-waves--the-transmission-of-vibrations)
+- [Chapter 30. Fields](#chapter-30-fields)
+- [Chapter 31. Magnetic Field](#chapter-31-magnetic-field)
+- [Chapter 32. Magnet. Interaction of Magnets](#chapter-32-magnet-interaction-of-magnets)
+- [Chapter 33. Ether](#chapter-33-ether)
+- [Chapter 34. Matter: From the Primary Particle to the Universe](#chapter-34-matter-from-the-primary-particle-to-the-universe)
+- [Chapter 35. The Recession of Galaxies — The Mechanism of Acceleration](#chapter-35-the-recession-of-galaxies--the-mechanism-of-acceleration)
+- [Chapter 36. Combustion](#chapter-36-combustion)
+- [Chapter 37. Reactive Motion](#chapter-37-reactive-motion)
+- [Chapter 38. Superfluidity](#chapter-38-superfluidity)
+- [Chapter 39. Two Factors behind the Emergence of the Big Bang Theory](#chapter-39-two-factors-behind-the-emergence-of-the-big-bang-theory) 
+- [Chapter 40. Conclusions. Foundations of Aol Physics](#chapter-40-conclusions-foundations-of-aol-physics)
+- [Chapter 41. The Superiority of Aol Physics Over Official Science and Other Alternative Models](#chapter-41-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
 - [Afterword](#afterword)
 - [ADDITIONAL MATERIALS](#additional-materials)
 
@@ -4713,7 +4713,7 @@ Between adjacent points on that graph's line, there is a single difference — t
 
 
 
-## Chapter 26. LIGHT
+## Chapter 25. LIGHT
 
 **The History of Light: From Flying Projectiles to the Quantum Centaur**
 
@@ -4920,7 +4920,7 @@ The concept of a luminous bundle demands meticulous further development.
 
 
 
-## Chapter 27. THE MICHELSON EXPERIMENT AND WHY THE WRONG ETHER WAS SEARCHED FOR
+## Chapter 26. THE MICHELSON EXPERIMENT AND WHY THE WRONG ETHER WAS SEARCHED FOR
 
 At the end of the 19th century, physicists were convinced that light is a wave. And if it is a wave, there must be a medium in which it propagates. Sound propagates in air, waves propagate in water. Therefore, light must propagate in some universal medium called ether. The Earth moves around the Sun at about 30 km/s. Therefore, it moves through this ether. And if it moves, an “ether wind” should arise — just as a person running on a windless day feels an oncoming flow of air.
 
@@ -4961,7 +4961,7 @@ The aol model does the opposite: it restores the medium, not as a hypothesis, bu
 
 
 
-## Chapter 28. HOW RELATIVITY THEORY EMERGED — AND WHAT WOULD HAPPEN IF A MEDIUM EXISTED
+## Chapter 27. HOW RELATIVITY THEORY EMERGED — AND WHAT WOULD HAPPEN IF A MEDIUM EXISTED
 
 At the end of the 19th century, physics faced a serious contradiction. On one side was the principle of relativity formulated by Galileo Galilei, known for two centuries: the laws of nature are the same for all observers moving uniformly and in straight lines. In a train moving at constant speed, a cup of tea behaves exactly as it does on the platform. No experiment inside the carriage can determine whether the train is moving or standing still.
 
@@ -5100,7 +5100,7 @@ It is impossible to slow down or accelerate time because you cannot slow down wh
 
 
 
-## Chapter 30. ELECTRIC CURRENT
+## Chapter 28. ELECTRIC CURRENT
 
 When a person switches on the light in a room or starts a machine-tool motor, they rarely contemplate exactly what transpires inside the wires. We have grown accustomed to living in a world of ready-made labels.
 
@@ -5270,7 +5270,7 @@ The might of electrical processes is explained not by the enigmatic properties o
 
 
 
-## Chapter 36. ELECTROMAGNETIC WAVES — THE TRANSMISSION OF VIBRATIONS
+## Chapter 29. ELECTROMAGNETIC WAVES — THE TRANSMISSION OF VIBRATIONS
 
 When it comes to electromagnetic waves, modern physics confidently uses formulas and terminology. But if we ask: what exactly is moving? — no clear mechanical answer is given.
 
@@ -5475,7 +5475,7 @@ There are only vibrations of aol space — from slow to extremely fast.
 
 
 
-## Chapter 37. FIELDS
+## Chapter 30. FIELDS
 
 **Fields: Science’s Attempt to Animate the Void**
 
@@ -5705,7 +5705,7 @@ Within the Aol model, all the problems of field physics are resolved naturally, 
 
 
 
-## Chapter 38. MAGNETIC FIELD
+## Chapter 31. MAGNETIC FIELD
 
 We already know that current is the motion of aols, that this motion is created by a pressure difference, and that the flow can be directed. Now a new phenomenon appears.
 
@@ -5744,7 +5744,7 @@ The main conclusion: the magnetic field is a vortex motion of aol space arising 
 
 
 
-## Chapter 39. MAGNET. INTERACTION OF MAGNETS
+## Chapter 32. MAGNET. INTERACTION OF MAGNETS
 
 A magnet is one of the most familiar and at the same time one of the least explained objects in standard physics. Everyone has held it in their hands. Everyone has felt how it attracts iron and how two magnets repel each other.
 
@@ -5850,7 +5850,7 @@ Only the motion of aols — contact and pressure.
 
 
 
-## Chapter 41. ETHER
+## Chapter 33. ETHER
 
 **The History of Ether: From Primary Matter to the Forbidden Mechanics of the Universe**
 
@@ -5952,7 +5952,7 @@ That is why I use the term “aol space” — and I do not intend to abandon it
 
 
 
-## Chapter 42. MATTER: FROM THE PRIMARY PARTICLE TO THE UNIVERSE
+## Chapter 34. MATTER: FROM THE PRIMARY PARTICLE TO THE UNIVERSE
 
 There is a feature of human psychology that is rarely discussed in the context of science, yet it explains a great deal.
 When we face something unknown, we almost inevitably complicate it. Darkness frightens us — and in a dark room we begin to imagine portals to another world. When the light is turned on, it turns out that the source of the eerie rustling  is just a lazy cat on the couch. But the one who ran out of the room in panic will never learn about the cat. He will carry away a story about a portal.
@@ -6075,7 +6075,7 @@ The light in the room of science has not yet been turned on. But the cat is ther
 
 
 
-## Chapter 43. THE RECESSION OF GALAXIES — THE MECHANISM OF ACCELERATION
+## Chapter 35. THE RECESSION OF GALAXIES — THE MECHANISM OF ACCELERATION
 
 At the end of the 20th century, cosmologists were absolutely certain about the future of our Universe. Disputes were waged merely over details. Scientists knew that the Big Bang had imparted an initial impulse of expansion to the cosmos, but the colossal cumulative gravitation of billions of galaxies was supposed to operate as an invisible brake. Physicists divided into two camps: some believed that the Universe would ultimately halt and compress into a singularity, while others believed that it would expand eternally, yet slower and slower, gradually cooling down.
 
@@ -6173,7 +6173,7 @@ Within the Aol model, the mechanism is present. And it requires nothing beyond w
 
 
 
-## Chapter 44. COMBUSTION
+## Chapter 36. COMBUSTION
 
 **1. Historical Background: From Elemental Spirits to Phlogiston with Negative Weight**
 
@@ -6242,7 +6242,7 @@ Fire is the bubbling aol space inside the reaction zone, continuously reconfigur
 
 
 
-## Chapter 45. REACTIVE MOTION
+## Chapter 37. REACTIVE MOTION
 
 Reactive motion appears understandable: something is ejected backward, and the body moves forward. Yet against what, precisely, does the rebounding transpire? The response turns out to be not so obvious.
 
@@ -6365,7 +6365,7 @@ The momentum from the molecules that pushes the rocket is received by the front 
 
 
 
-## Chapter 46. SUPERFLUIDITY
+## Chapter 38. SUPERFLUIDITY
 
 **1. The Official Mainstream: Quantum Ghosts inside a Glass**
 
@@ -6418,7 +6418,7 @@ The physical world has once more proven to be mechanistic, visualizable, and not
 
 
 
-## Chapter 47. TWO FACTORS BEHIND THE EMERGENCE OF THE BIG BANG THEORY
+## Chapter 39. TWO FACTORS BEHIND THE EMERGENCE OF THE BIG BANG THEORY
 
 The Big Bang theory in modern science is based on two main observed phenomena:
 
@@ -6507,7 +6507,7 @@ This makes the explanation simpler, more consistent, and based on a single princ
 
 
 
-## Chapter 48. CONCLUSIONS. FOUNDATIONS OF AOL PHYSICS
+## Chapter 40. CONCLUSIONS. FOUNDATIONS OF AOL PHYSICS
 
 **1. That Which Exists inside the Universe**
 
@@ -6696,7 +6696,7 @@ Absolutely everything else is a consequence of these three primary discoveries o
 
 
 
-## Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models
+## Chapter 41. The Superiority of Aol Physics Over Official Science and Other Alternative Models
 
 The world of modern physics is fractured. Scientists have created thousands of formulas but have failed to unite the microworld of atoms and the macroworld of the cosmos. To save its theories, official science invents "dark energy" and "dark matter," which no one has ever seen or can explain. Alternative hypotheses (such as aetherodynamics) also get lost in the weeds, overcomplicating the medium itself and failing to provide it with a Mover. **The lack of a coherent Mover is the primary flaw of all hypotheses, both official and alternative.**
 
