@@ -389,28 +389,28 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [Chapter 18. Mass](/EN/06_chapters_17-20.md#chapter-18-mass)
 * [Chapter 19. Newton’s laws](/EN/06_chapters_17-20.md#chapter-19-newtons-laws)
 * [Chapter 20. Gravitation](/EN/06_chapters_17-20.md#chapter-20-gravitation)
-* [Chapter 21. Tides](/EN/07_chapters_21-26.md#chapter-21-tides)
-* [Chapter 22. What matter is capable of](/EN/07_chapters_21-26.md#chapter-22-what-matter-is-capable-of)
-* [Chapter 23. What is “energy”](/EN/07_chapters_21-26.md#chapter-23-what-is-energy)
-* [Chapter 24. Heat](/EN/07_chapters_21-26.md#chapter-24-heat)
-* [Chapter 26. Light](/EN/07_chapters_21-26.md#chapter-26-light)
-* [Chapter 27. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_27-30.md#chapter-27-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
-* [Chapter 28. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_27-30.md#chapter-28-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
-* [Chapter 30. Electric current](/EN/08_chapters_27-30.md#chapter-30-electric-current)
-* [Chapter 36. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_36-37.md#chapter-36-electromagnetic-waves--the-transmission-of-vibrations)
-* [Chapter 37. Fields](/EN/09_chapters_36-37.md#chapter-37-fields)
-* [Chapter 38. Magnetic field](/EN/10_chapters_38-42.md#chapter-38-magnetic-field)
-* [Chapter 39. Magnet. Interaction of magnets](/EN/10_chapters_38-42.md#chapter-39-magnet-interaction-of-magnets)
-* [Chapter 41. Ether](/EN/10_chapters_38-42.md#chapter-41-ether)
-* [Chapter 42. Matter: from the primary particle to the Universe](/EN/10_chapters_38-42.md#chapter-42-matter-from-the-primary-particle-to-the-universe)
-* [Chapter 43. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_43-49_and_afterword.md#chapter-43-expansion-of-galaxies--mechanism-of-acceleration)
-* [Chapter 44. Combustion](/EN/11_chapters_43-49_and_afterword.md#chapter-44-combustion)
-* [Chapter 45. Reactive motion](/EN/11_chapters_43-49_and_afterword.md#chapter-45-reactive-motion)
-* [Chapter 46. Superfluidity](/EN/11_chapters_43-49_and_afterword.md#chapter-46-superfluidity)
-* [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-49_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
-* [Chapter 48. Conclusions. Foundations of aol physics](/EN/11_chapters_43-49_and_afterword.md#chapter-48-conclusions-foundations-of-aol-physics)
-* [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_43-49_and_afterword.md#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
-* [Afterword](/EN/11_chapters_43-49_and_afterword.md#afterword)
+* [Chapter 21. Tides](/EN/07_chapters_21-25.md#chapter-21-tides)
+* [Chapter 22. What matter is capable of](/EN/07_chapters_21-25.md#chapter-22-what-matter-is-capable-of)
+* [Chapter 23. What is “energy”](/EN/07_chapters_21-25.md#chapter-23-what-is-energy)
+* [Chapter 24. Heat](/EN/07_chapters_21-25.md#chapter-24-heat)
+* [Chapter 25. Light](/EN/07_chapters_21-25.md#chapter-25-light)
+* [Chapter 26. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_26-28.md#chapter-26-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
+* [Chapter 27. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_26-28.md#chapter-27-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
+* [Chapter 28. Electric current](/EN/08_chapters_26-28.md#chapter-28-electric-current)
+* [Chapter 29. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_29-30.md#chapter-29-electromagnetic-waves--the-transmission-of-vibrations)
+* [Chapter 30. Fields](/EN/09_chapters_29-30.md#chapter-30-fields)
+* [Chapter 31. Magnetic field](/EN/10_chapters_31-34.md#chapter-31-magnetic-field)
+* [Chapter 32. Magnet. Interaction of magnets](/EN/10_chapters_31-34.md#chapter-32-magnet-interaction-of-magnets)
+* [Chapter 33. Ether](/EN/10_chapters_31-34.md#chapter-33-ether)
+* [Chapter 34. Matter: from the primary particle to the Universe](/EN/10_chapters_31-34.md#chapter-34-matter-from-the-primary-particle-to-the-universe)
+* [Chapter 35. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_35-41_and_afterword.md#chapter-35-expansion-of-galaxies--mechanism-of-acceleration)
+* [Chapter 36. Combustion](/EN/11_chapters_35-41_and_afterword.md#chapter-36-combustion)
+* [Chapter 37. Reactive motion](/EN/11_chapters_35-41_and_afterword.md#chapter-37-reactive-motion)
+* [Chapter 38. Superfluidity](/EN/11_chapters_35-41_and_afterword.md#chapter-38-superfluidity)
+* [Chapter 39. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_35-41_and_afterword.md#chapter-39-two-factors-behind-the-emergence-of-the-big-bang-theory)
+* [Chapter 40. Conclusions. Foundations of aol physics](/EN/11_chapters_35-41_and_afterword.md#chapter-40-conclusions-foundations-of-aol-physics)
+* [Chapter 41. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_35-41_and_afterword.md#chapter-41-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
+* [Afterword](/EN/11_chapters_35-41_and_afterword.md#afterword)
 * [The Basis of Aol Physics](/EN/12_additional_materials_EN.md#the-basis-of-aol-physics)
 
 ---
@@ -434,11 +434,11 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [04_chapters_10-11.md](EN/04_chapters_10-11.md) — Chapters 10 –11.
 * [05_chapters_12-16.md](EN/05_chapters_12-16.md) — Chapters 12–16.
 * [06_chapters_17-20.md](EN/06_chapters_17-20.md) — Chapters 17–20.
-* [07_chapters_21-26.md](EN/07_chapters_21-26.md) — Chapters 21–26.
-* [08_chapters_27-30.md](EN/08_chapters_27-30.md) — Chapters 27–30.
-* [09_chapters_36-37.md](EN/09_chapters_36-37.md) — Chapters 36–37.
-* [10_chapters_38-42.md](EN/10_chapters_38-42.md) — Chapters 38–42.
-* [11_chapters_43-49_and_afterword.md](EN/11_chapters_43-49_and_afterword.md) — Chapters 43–49 and Afterword.
+* [07_chapters_21-25.md](EN/07_chapters_21-25.md) — Chapters 21–25.
+* [08_chapters_26-28.md](EN/08_chapters_26-28.md) — Chapters 26–28.
+* [09_chapters_29-30.md](EN/09_chapters_29-30.md) — Chapters 29–30.
+* [10_chapters_31-34.md](EN/10_chapters_31-34.md) — Chapters 31–34.
+* [11_chapters_35-41_and_afterword.md](EN/11_chapters_35-41_and_afterword.md) — Chapters 35–41 and Afterword.
 * [12_additional_materials_EN.md](EN/12_additional_materials_EN.md) — The Basis of Aol Physics.
 
 </details>
