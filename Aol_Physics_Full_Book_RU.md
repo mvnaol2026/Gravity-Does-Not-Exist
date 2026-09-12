@@ -7897,6 +7897,173 @@ $$P_{\text{aol}} = \frac{E_{\text{impact}}}{c} = \frac{6.62607 \cdot 10^{-21}}{2
 
 
 
+### ПРИЛОЖЕНИЕ А. Программная верификация КТА: Полнофункциональный 3D-симулятор гравитационного прижима
+
+Ниже представлена полная, детерминированная архитектурная спецификация физического движка близкодействия на языке Python. Алгоритм моделирует прямое объемное экранирование изотропной вибрирующей среды макроскопическими объектами (заслонками). 
+
+В отличие от упрощенных тригонометрических формул, данный движок производит честный пошаговый расчет векторов сил всенаправленного прессинга среды на узлы дискретной пространственной решетки, доказывая эмерджентное появление закона обратных квадратов (\(1/r^2\)) исключительно через геометрию тесноты.
+
+```python
+import math
+
+class DiscreteAolSpace3D:
+    """
+    Модуль пространственной конфигурации стационарной аольной матрицы.
+    Моделирует изотропное, всенаправленное фоновое давление среды.
+    """
+    def __init__(self, matrix_density_hz=1e13):
+        # Базовая частота хаотических микро-ударов среды (джиттер КТА)
+        self.p_density = matrix_density_hz
+
+    def generate_isotropic_rays(self, num_rays=720):
+        """
+        Генерация векторов всенаправленного давления среды на единичной сфере.
+        Использует алгоритм равномерного распределения точек Фибоначчи.
+        """
+        rays = []
+        phi = math.pi * (math.sqrt(5.0) - 1.0)  # Золотое сечение
+        
+        for i in range(num_rays):
+            y = 1.0 - (i / float(num_rays - 1)) * 2.0  # y меняется от 1 до -1
+            radius = math.sqrt(1.0 - y * y)
+            theta = phi * i
+            
+            x = math.cos(theta) * radius
+            z = math.sin(theta) * radius
+            
+            # Направленный вектор удара фонового аола
+            rays.append((x, y, z))
+        return rays
+
+class MacroBodyAsAperture:
+    """
+    Модель макротела как пространственной геометрической заслонки (фильтра),
+    связывающей пассивные аолы в LEGO-структуру и перекрывающей фоновый джиттер.
+    """
+    def __init__(self, coord_x, coord_y, coord_z, effective_radius):
+        self.x = float(coord_x)
+        self.y = float(coord_y)
+        self.z = float(coord_z)
+        self.radius = float(effective_radius)
+
+    def test_ray_intersection(self, ray_origin_x, ray_origin_y, ray_origin_z, ray_direction):
+        """
+        Трассировка декартова контакта вектора давления среды с границей заслонки.
+        Возвращает True, если фоновый импульс заблокирован структурой тела.
+        """
+        # Вектор от источника давления (фонового аола) к центру тела-заслонки
+        oc_x = self.x - ray_origin_x
+        oc_y = self.y - ray_origin_y
+        oc_z = self.z - ray_origin_z
+        
+        # Разложение вектора направления луча
+        rd_x, rd_y, rd_z = ray_direction
+        
+        # Скалярное произведение векторов для поиска ближайшей точки приближения
+        dot_product = oc_x * rd_x + oc_y * rd_y + oc_z * rd_z
+        
+        # Если тело находится позади вектора давления среды
+        if dot_product < 0:
+            return False
+            
+        # Расчет минимального декартова расстояния от луча до центра заслонки
+        distance_sq = (oc_x * oc_x + oc_y * oc_y + oc_z * oc_z) - (dot_product * dot_product)
+        radius_sq = self.radius * self.radius
+        
+        # Контакт зафиксирован
+        return distance_sq <= radius_sq
+
+class KtaPhysicsEngine:
+    """Главный вычислительный модуль Квантовой Теории Аолодинамики"""
+    def __init__(self, space_resolution=1200):
+        self.space = DiscreteAolSpace3D()
+        self.vectors = self.space.generate_isotropic_rays(num_rays=space_resolution)
+
+    def calculate_net_pressing_force(self, target_body, shielding_body):
+        """
+        Вычисление результирующего преобладающего вектора давления на target_body,
+        возникающего из-за экранирования фонового джиттера телом shielding_body.
+        """
+        net_force_x = 0.0
+        net_force_y = 0.0
+        net_force_z = 0.0
+        
+        # Расстояние между центрами тел
+        dx = target_body.x - shielding_body.x
+        dy = target_body.y - shielding_body.y
+        dz = target_body.z - shielding_body.z
+        distance = math.sqrt(dx*dx + dy*dy + dz*dz)
+        
+        # Радиус виртуальной сферы, откуда прилетают импульсы среды вокруг target_body
+        environment_radius = distance * 2.0
+        
+        for v in self.vectors:
+            vx, vy, vz = v
+            # Точка старта импульса среды на сфере давления
+            origin_x = target_body.x - vx * environment_radius
+            origin_y = target_body.y - vy * environment_radius
+            origin_z = target_body.z - vz * environment_radius
+            
+            # Направление давления луча (к исследуемому объекту)
+            direction = (vx, vy, vz)
+            
+            # Проверяем, экранирует ли соседнее тело (shielding_body) этот вектор среды
+            is_shielded = shielding_body.test_ray_intersection(origin_x, origin_y, origin_z, direction)
+            
+            if not is_shielded:
+                # Если заслонки нет, среда свободно давит со всех сторон
+                net_force_x += vx * self.space.p_density
+                net_force_y += vy * self.space.p_density
+                net_force_z += vz * self.space.p_density
+                
+        # Находим модуль итоговой силы вынужденного прижима (иллюзия притяжения)
+        total_force = math.sqrt(net_force_x**2 + net_force_y**2 + net_force_z**2)
+        return total_force
+
+    def run_validation_matrix(self, body_r=5.0, distance_steps=[20, 30, 40, 50]):
+        """Запуск сквозного аудита стереометрии прижима на разных дистанциях"""
+        print("=" * 75)
+        print(" КТА ВАЛИДАТОР: ДЕТЕРМИНИРОВАННЫЙ СТЕРЕОМЕТРИЧЕСКИЙ РАСЧЕТ ПРИЖИМА")
+        print("=" * 75)
+        print(f" Параметры симуляции: Радиус заслонок = {body_r} единиц.")
+        print(f" Фоновая частота среды = {self.space.p_density:.1e} Гц. Базовые векторы: {len(self.vectors)}")
+        print("-" * 75)
+        
+        # Шаг 1. Ставим первое тело в начало декартовых координат (0,0,0)
+        body_a = MacroBodyAsAperture(0, 0, 0, effective_radius=body_r)
+        
+        initial_force = None
+        first_dist = distance_steps[0]
+        
+        # Шаг 2. Перемещаем второе тело по оси X и фиксируем преобладающее давление
+        for dist in distance_steps:
+            body_b = MacroBodyAsAperture(dist, 0, 0, effective_radius=body_r)
+            
+            # Вычисляем силу, которую официальная наука ошибочно зовет «тяготением»
+            force = self.calculate_net_pressing_force(body_b, body_a)
+            
+            if initial_force is None:
+                initial_force = force
+                actual_drop = 1.0
+            else:
+                actual_drop = force / initial_force
+                
+            # Математический контроль геометрического закона обратных квадратов
+            expected_drop = (first_dist / dist) ** 2
+            
+            print(f" Дистанция (R): {dist:2d} | Импульс прижима: {force:.4e} | Спад силы: {actual_drop:.4f} (Ожидаемый по 1/r²: {expected_drop:.4f})")
+            
+        print("=" * 75)
+
+if __name__ == "__main__":
+    # Инициализация физического движка КТА (1200 векторов для идеальной изотропии)
+    engine = KtaPhysicsEngine(space_resolution=1200)
+    
+    # Просчет сил прижима для дискретных дистанций
+    engine.run_validation_matrix(body_r=5.0, distance_steps=[20, 30, 40, 50])
+```
+
+
 
 
 ## ИТОГОВЫЙ МАНИФЕСТ ПРОГРАММНОЙ ВЕРИФИКАЦИИ КТА
