@@ -621,7 +621,7 @@ Between adjacent points on that graph's line, there is a single difference — t
 
 
 
-## Chapter 26. LIGHT
+## Chapter 25. LIGHT
 
 **The History of Light: From Flying Projectiles to the Quantum Centaur**
 
