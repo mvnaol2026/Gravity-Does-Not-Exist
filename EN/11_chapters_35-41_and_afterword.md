@@ -1,4 +1,4 @@
-## Chapter 43. THE RECESSION OF GALAXIES — THE MECHANISM OF ACCELERATION
+## Chapter 35. THE RECESSION OF GALAXIES — THE MECHANISM OF ACCELERATION
 
 At the end of the 20th century, cosmologists were absolutely certain about the future of our Universe. Disputes were waged merely over details. Scientists knew that the Big Bang had imparted an initial impulse of expansion to the cosmos, but the colossal cumulative gravitation of billions of galaxies was supposed to operate as an invisible brake. Physicists divided into two camps: some believed that the Universe would ultimately halt and compress into a singularity, while others believed that it would expand eternally, yet slower and slower, gradually cooling down.
 
@@ -96,7 +96,7 @@ Within the Aol model, the mechanism is present. And it requires nothing beyond w
 
 
 
-## Chapter 44. COMBUSTION
+## Chapter 36. COMBUSTION
 
 **1. Historical Background: From Elemental Spirits to Phlogiston with Negative Weight**
 
@@ -165,7 +165,7 @@ Fire is the bubbling aol space inside the reaction zone, continuously reconfigur
 
 
 
-## Chapter 45. REACTIVE MOTION
+## Chapter 37. REACTIVE MOTION
 
 Reactive motion appears understandable: something is ejected backward, and the body moves forward. Yet against what, precisely, does the rebounding transpire? The response turns out to be not so obvious.
 
@@ -288,7 +288,7 @@ The momentum from the molecules that pushes the rocket is received by the front 
 
 
 
-## Chapter 46. SUPERFLUIDITY
+## Chapter 38. SUPERFLUIDITY
 
 **1. The Official Mainstream: Quantum Ghosts inside a Glass**
 
@@ -341,7 +341,7 @@ The physical world has once more proven to be mechanistic, visualizable, and not
 
 
 
-## Chapter 47. TWO FACTORS BEHIND THE EMERGENCE OF THE BIG BANG THEORY
+## Chapter 39. TWO FACTORS BEHIND THE EMERGENCE OF THE BIG BANG THEORY
 
 The Big Bang theory in modern science is based on two main observed phenomena:
 
@@ -430,7 +430,7 @@ This makes the explanation simpler, more consistent, and based on a single princ
 
 
 
-## Chapter 48. CONCLUSIONS. FOUNDATIONS OF AOL PHYSICS
+## Chapter 40. CONCLUSIONS. FOUNDATIONS OF AOL PHYSICS
 
 **1. That Which Exists inside the Universe**
 
@@ -620,7 +620,7 @@ Absolutely everything else is a consequence of these three primary discoveries o
 
 
 
-## Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models
+## Chapter 41. The Superiority of Aol Physics Over Official Science and Other Alternative Models
 
 The world of modern physics is fractured. Scientists have created thousands of formulas but have failed to unite the microworld of atoms and the macroworld of the cosmos. To save its theories, official science invents "dark energy" and "dark matter," which no one has ever seen or can explain. Alternative hypotheses (such as aetherodynamics) also get lost in the weeds, overcomplicating the medium itself and failing to provide it with a Mover. **The lack of a coherent Mover is the primary flaw of all hypotheses, both official and alternative.**
 
