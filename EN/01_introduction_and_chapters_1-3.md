@@ -64,6 +64,7 @@ The text was completed in Kyiv on May 10, 2026.
 * [Chapter 46. Superfluidity](/EN/11_chapters_43-49_and_afterword.md#chapter-46-superfluidity)
 * [Chapter 47. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_43-49_and_afterword.md#chapter-47-two-factors-behind-the-emergence-of-the-big-bang-theory)
 * [Chapter 48. Conclusions. Foundations of aol physics](/EN/11_chapters_43-49_and_afterword.md#chapter-48-conclusions-foundations-of-aol-physics)
+* [Chapter 41. Anatomy of Impossible Mechanisms](#chapter-41-anatomy-of-impossible-mechanisms)
 * [Chapter 49. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_43-49_and_afterword.md#chapter-49-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
 * [Afterword](/EN/11_chapters_43-49_and_afterword.md#afterword)
 
