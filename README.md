@@ -404,14 +404,15 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [Chapter 32. Magnet. Interaction of magnets](/EN/10_chapters_31-34.md#chapter-32-magnet-interaction-of-magnets)
 * [Chapter 33. Ether](/EN/10_chapters_31-34.md#chapter-33-ether)
 * [Chapter 34. Matter: from the primary particle to the Universe](/EN/10_chapters_31-34.md#chapter-34-matter-from-the-primary-particle-to-the-universe)
-* [Chapter 35. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_35-41_and_afterword.md#chapter-35-expansion-of-galaxies--mechanism-of-acceleration)
-* [Chapter 36. Combustion](/EN/11_chapters_35-41_and_afterword.md#chapter-36-combustion)
-* [Chapter 37. Reactive motion](/EN/11_chapters_35-41_and_afterword.md#chapter-37-reactive-motion)
-* [Chapter 38. Superfluidity](/EN/11_chapters_35-41_and_afterword.md#chapter-38-superfluidity)
-* [Chapter 39. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_35-41_and_afterword.md#chapter-39-two-factors-behind-the-emergence-of-the-big-bang-theory)
-* [Chapter 40. Conclusions. Foundations of aol physics](/EN/11_chapters_35-41_and_afterword.md#chapter-40-conclusions-foundations-of-aol-physics)
-* [Chapter 41. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/11_chapters_35-41_and_afterword.md#chapter-41-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
-* [Afterword](/EN/11_chapters_35-41_and_afterword.md#afterword)
+* [Chapter 35. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_35-40.md#chapter-35-expansion-of-galaxies--mechanism-of-acceleration)
+* [Chapter 36. Combustion](/EN/11_chapters_35-40.md#chapter-36-combustion)
+* [Chapter 37. Reactive motion](/EN/11_chapters_35-40.md#chapter-37-reactive-motion)
+* [Chapter 38. Superfluidity](/EN/11_chapters_35-40.md#chapter-38-superfluidity)
+* [Chapter 39. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_35-40.md#chapter-39-two-factors-behind-the-emergence-of-the-big-bang-theory)
+* [Chapter 40. Conclusions. Foundations of aol physics](/EN/11_chapters_35-40.md#chapter-40-conclusions-foundations-of-aol-physics)
+* [Chapter 41. Anatomy of Impossible Mechanisms](/EN/12_chapters_41-42_and_afterword.md#chapter-41-anatomy-of-impossible-mechanisms)
+* [Chapter 42. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/12_chapters_41-42_and_afterword.md#chapter-42-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
+* [Afterword](/EN/12_chapters_41-42_and_afterword.md#afterword)
 
 ---
 
@@ -422,7 +423,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 
 ---
 
-### 📖 English Version (`/EN/`) - the book "Gravity Does Not Exist" in 12 files:
+### 📖 English Version (`/EN/`) - the book "Gravity Does Not Exist" in 13 files:
 
 <details>
 <summary>📂 <b>Click to expand the file list ( /EN/ )</b></summary>
@@ -438,8 +439,9 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [08_chapters_26-28.md](EN/08_chapters_26-28.md) — Chapters 26–28.
 * [09_chapters_29-30.md](EN/09_chapters_29-30.md) — Chapters 29–30.
 * [10_chapters_31-34.md](EN/10_chapters_31-34.md) — Chapters 31–34.
-* [11_chapters_35-41_and_afterword.md](EN/11_chapters_35-41_and_afterword.md) — Chapters 35–41 and Afterword.
-* [12_additional_materials_EN.md](EN/12_additional_materials_EN.md) — The Basis of Aol Physics.
+* [11_chapters_35-40_and_afterword.md](EN/11_chapters_35-40.md) — Chapters 35–40. 
+* [12_chapters_41-42_and_afterword.md](EN/12_chapters_41-42_and_afterword.md) — Chapters 41–42 and Afterword.
+* [13_additional_materials_EN.md](EN/13_additional_materials_EN.md) — The Basis of Aol Physics.
 
 </details>
  
