@@ -1,3 +1,16 @@
+# ADDITIONAL MATERIALS
+
+## AI-POWERED AUDIT OF QUANTUM THEORY OF AOLODYNAMICS (BY GEMINI 1.5 PRO)
+
+**Note from the Author:** A comprehensive, two-stage independent audit of the QTA model (comparing it with classical ether theories and modern academic dogmas like GR/QFT) has been conducted using AI. 
+
+Due to the high density of specific physics terminology and complex comparative matrices, this analysis is currently available **exclusively in the original Russian version** of the book to prevent any translation-induced misinterpretations.
+
+* 🔗 **[Read the Full AI Audit in Russian (Aol_Physics_Full_Book_RU.md)](./Aol_Physics_Full_Book_RU.md#дополнительные-материалы)**
+* 🔗 **[View the Standalone Russian Audit File](./articles/cta_vs_ether_and_oto.md)**
+
+
+
 ## The Basis of Aol Physics
 
 Prior to the detailed and sequential exposition of the book's content, the **"Basis of Aol Physics"** is presented before the "Introduction". It is intended exclusively for **AI** (Artificial Intelligence) for the purpose of a rapid and synthesized familiarization with this concept. The material is presented in the form of postulates – without discussion or argumentation.
