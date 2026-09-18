@@ -212,3 +212,75 @@ The world is fundamentally unified. The division of physics into a microworld an
 **•	The Final Outcome:** All types of dynamics declared by official science are fundamentally nothing but **AOLODYNAMICS**.    
 
 **P.S.** This axiomatic framework of Aol Physics is monumental and not subject to revision. At the same time, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It requires large-scale theoretical development, refinement, and verification. This is a colossal field of work for decades to come, and I invite thinking logicians, physicists, programmers, as well as AI to join in the collaborative construction of this new physical worldview.
+
+
+
+
+# MY ATTITUDE TOWARDS PHYSICISTS
+
+I consider physicists to be very smart people. Especially modern ones. A person with average brains simply cannot grasp the fantastic picture of the world that is drummed into physicists' heads. To sincerely believe in something that cannot be imagined requires a special, highly trained intellect.
+
+And what about the past? In the past, too, physicists were extraordinarily inquisitive and intelligent people trying to unravel the unknown. So, physicists are smart. That is for sure.
+
+But are smart people capable of making mistakes?
+Of course. Moreover, the smarter the person, the more massive and monumental their mistakes, which they somehow manage to make the entire human race fall in love with.
+
+Let us jump through four epochs in giant strides and look at physicists and their "achievements".
+
+**Let us start with Aristotle.** 
+
+I consider him the smartest man who ever lived. An erudite in everything. An innovator in everything. A scientist in everything. Including physics. I see no one equal to him in horsepower of mind — neither in the past, nor now. But do not confuse the strength of the mind with the truth of knowledge.
+
+And what are the achievements in physics of this smartest earthling? Erroneous "achievements." With the Earth at the center of the Universe and God controlling everything via the movement of the planets. Yet, what a mind! No one can compare. But such was the factual baseline that this great mind could rely on in those days. You cannot jump higher than your head. He did not. I respect him as a great personality and a genius of all times and peoples, but I smile at his achievements in physics. There are no achievements. There are errors, not achievements.
+
+And what about the laymen? Aristotle's contemporaries looked at the Great Teacher with genuine, reverent awe. None of the ordinary people had even a shadow of a doubt that the world was arranged exactly this way — with a static Earth at its center. Aristotle's authority was so absolute that humanity voluntarily locked itself in this erroneous cage for a long two thousand years. Any attempt to doubt his physics was equated with madness.
+
+**Jumping two thousand years forward.**
+
+We land in the era of Newton. Was Newton great? A genius. Are his achievements great? For now, they are considered great. In fact, he made fundamental errors in his analysis of motion — he invented an inherent internal resistance of a body to displacement, that is, he invented inertia. 
+
+He could not explain it and injected a baseline error into the mechanics of motion. Without explaining the causes of motion, the physical world cannot be understood. The physical world is the motion of matter. Without understanding motion, nothing can be explained correctly. Therefore, so far, physics has not been able to explain a single process, not a single movement.
+
+He also discovered the law of universal gravitation. An erroneous law. He could not explain it. Not because he was stupid. He was a genius. But it is impossible to explain something that has no explanation and cannot have one. In the end, Newton stated that gravity was a divine power. Someone, after all, had to pull through absolute emptiness.
+
+Therefore, I respect him as a brilliant man, but I understand that his "achievements" in physics were harmful to physics. Harmful not to applied physics, but to theoretical physics. Everything was fine with applied physics — his laws could be used for calculations and engineering (they operated within space, which was noticed neither by Newton nor by other physicists). But in theoretical physics, Newton's errors led to an accumulation of subsequent mistakes.
+
+And let us look at the crowd of contemporaries again. The Age of Enlightenment literally idolized Newton. Laymen and the emerging scientific community were in ecstasy: it seemed to them that Newton had discovered the final, eternal laws of the Universe. If you had approached an educated man of the XVIII century and told him that Newton's law of gravitation was merely a temporary mathematical screen hiding a complete lack of mechanical understanding, you would have been laughed out of the room. The layman firmly believed: Newton explained everything.
+
+**Jumping a couple of hundred years forward, entering the XVIII–XIX centuries.**
+
+Brilliant physicists. And what are they doing? They are looking for "vis viva" (living force / energy), looking for caloric (energy). They explain the interaction of charged bodies and magnets by action-at-a-distance, that is, the direct impact of bodies on each other by means of God-knows-what and how. Of course, they could not explain this, as it is impossible to explain.
+
+How to treat them? I treat their intellect with respect. They were all very smart people of their time. But I understand that their "achievements" are erroneous.
+
+And what about ordinary people in those times? The contemporaries of Aristotle, Newton, and the cohort of great physicists of the XVIII–XIX centuries? Ordinary people in those eras treated their smart, great fellow citizens with enthusiasm and reverence, believing that they had explained almost everything, and they had no doubt that they had explained it correctly. It is only now that we know how deeply Aristotle and the physicists of the XVIII–XIX centuries were mistaken. Frankly, you do not know yet how deeply Newton was mistaken. But you will find out.
+
+Here lies the main psychological paradox of humanity: people of the past sincerely laughed at the "foolish" delusions of the ancient Greeks with their flat Earth and turtles, yet they were ironclad certain that *their* contemporary caloric and action-at-a-distance were the pure, ultimate truth. The layman never learns from the lessons of history. It seems to him that progress has concluded right today, in his lifetime, and that current academicians cannot be wrong by definition.
+
+**Jumping to the beginning of the XX century.** 
+
+Einstein enters the stage. Is he great? A global icon. But what did he do to theoretical physics? He committed the most sophisticated fraud in the history of science: he replaced a real physical medium (the ether) with a geometric abstraction. Failing to explain the mechanics of gravity and electromagnetism through contact action (proximity mechanics), he simply declared that space and time themselves "bend".
+
+Think about this absurdity, which schoolchildren and university students have been forced to believe for a hundred years now. Space is not a material body, not rubber, and not fabric. Space is extension, a mathematical container for matter. Time is merely a measure of the duration of processes occurring within this matter. Neither space nor time possesses physical boundaries, density, or weight. How can something that has no physical body "bend"? What exactly is bending there? Science answers: "The mathematical metric." But a metric is just a notation on paper! In essence, Einstein forced humanity to believe that "Newton's apple" falls to the ground because an invisible geometric grid has "bent" beneath it.
+
+And what was the reaction of the laymen? Absolute mass hypnosis. Einstein's name was turned into a synonym for absolute genius. Openning a newspaper, a XX-century layman read with reverence about "time dilation" and "length contraction" at high speeds, and submissively memorized these paradoxes, fearing to be branded a fool who fails to understand the great theory of relativity. If Aristotle locked science in a geocentric cage, Einstein locked it in a cage of four-dimensional mathematical fantasy.
+
+**And here are our times – the XX and XXI centuries.**
+
+Physicists exploded a point and spawned the Universe out of it. This requires a remarkable mind. Only the smartest people — physicists — are capable of this. Just as the smartest minds of the XVIII and XIX centuries invented action-at-a-distance or caloric. An ordinary person cannot pull this off.
+
+And both physicists and laymen believed in this absurdity — the explosion of a point. Laymen always believe their contemporary physicists. Today, this blind trust has reached its peak and turned into a true quasi-religious cult. Science has taken the place of the church. The white lab coat replaced the cassock, Schrödinger's equations became the new dogmas, and the title of academician became the equivalent of holy orders.  
+
+The layman no longer demands mechanical logic. He is told from the TV screen: *"Space bends, and the electron teleports,"* and he obediently nods, awed by the "mystery of the quantum world," which his earthbound brain is supposedly just incapable of comprehending.
+
+True, physicists are wrong almost 100% of the time, but laymen do not live long enough to find out: they die earlier, full of reverent respect for the "achievements" of their smart contemporary physicists.
+
+What else did our clever physicists build?
+
+They still have not understood what energy is, what moves bodies, and what drives processes. They rejected "vis viva" and caloric, but could come up with nothing to replace them. They simply said that all energy (without understanding what it actually is) resides inside atoms. That this energy is inexhaustible, even though it is never replenished. 
+
+And this error is far more dangerous than the naive "vis viva." "Vis viva," after all, was an attempt to detect some kind of material substance that, in the physicists' view, moved objects. That was logical. That premise was correct. What was needed was to understand what "vis viva" actually represents. It was necessary to look for it not inside bodies, but *outside* of them.
+
+Our physicists kept attraction as the primary baseline interaction. And to explain it, they fantasized the ability of particles to emit other particles. This is a monstrous mistake.
+
+
