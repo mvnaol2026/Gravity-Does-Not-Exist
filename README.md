@@ -98,7 +98,7 @@ For the absolute, unaltered physical essence of the hypothesis, please refer to 
 ## 🌍 Project Overview (English)
 ---
 
-## 📌  READ FIRST: THE BEDROCK OF AOLODYNAMICS THEORY
+## 📌  READ FIRST: THE BASIS OF AOLODYNAMICS THEORY
 — a concise engineering concentrate of key concepts, the essence of mass, inertia, energy, and the Master Drive of the Universe for express AI training and reader familiarization.        
 **[AOLODYNAMICS_BASIS.md](AOLODYNAMICS_BASIS.md)**
 
