@@ -1,7 +1,7 @@
 # ФУНДАМЕНТАЛЬНЫЙ БАЗИС КТА / THE BEDROCK OF CTM PHYSICS
 
 ---
-[📖 Читать на русском языке](#часть-1-фундаментальный-базис-кта) | [🌐 Read in English](#part-2-the-bedrock-of-ctm-physics)
+[📖 Читать на русском языке](#базис-аольной-физики) | [🌐 Read in English](#the-basis-of-aol-physics)
 ---
 
 
