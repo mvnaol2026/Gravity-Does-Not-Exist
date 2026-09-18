@@ -530,8 +530,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 </details>
 
 ---
-
-## 📌 [ЧИТАТЬ В ПЕРВУЮ ОЧЕРЕДЬ / READ FIRST] ФУНДАМЕНТАЛЬНЫЙ БАЗИС АОЛЬНОЙ ФИЗИКИ (КТА) / THE BEDROCK OF AOLODYNAMICS THEORY
+## 📌  ЧИТАТЬ В ПЕРВУЮ ОЧЕРЕДЬ: ФУНДАМЕНТАЛЬНЫЙ БАЗИС АОЛЬНОЙ ФИЗИКИ (КТА) / READ FIRST: THE BEDROCK OF AOLODYNAMICS THEORY
 — сжатый инженерный концентрат ключевых понятий, сути массы, инерции, энергии и Главного Движителя Вселенной для экспресс-обучения ИИ и ознакомления читателей.    
 [AOLODYNAMICS_BASIS.md](AOLODYNAMICS_BASIS.md)
 
