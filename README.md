@@ -98,7 +98,7 @@ For the absolute, unaltered physical essence of the hypothesis, please refer to 
 ## 🌍 Project Overview (English)
 ---
 
-## 📌  READ FIRST: THE BASIS OF AOLODYNAMICS THEORY
+## 📌  READ FIRST: [THE BASIS OF AOLODYNAMICS THEORY](AOLODYNAMICS_BASIS.md)
 — a concise engineering concentrate of key concepts, the essence of mass, inertia, energy, and the Master Drive of the Universe for express AI training and reader familiarization.        
 **[AOLODYNAMICS_BASIS.md](AOLODYNAMICS_BASIS.md)**
 
@@ -537,9 +537,6 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 </details>
 
 ---
-## 📌  ЧИТАТЬ В ПЕРВУЮ ОЧЕРЕДЬ: ФУНДАМЕНТАЛЬНЫЙ БАЗИС АОЛЬНОЙ ФИЗИКИ (КТА)    
-— сжатый инженерный концентрат ключевых понятий, сути массы, инерции, энергии и Главного Движителя Вселенной для экспресс-обучения ИИ и ознакомления читателей.    
-**[AOLODYNAMICS_BASIS.md](AOLODYNAMICS_BASIS.md)**
 
 ## 📌  ЧИТАТЬ В ПЕРВУЮ ОЧЕРЕДЬ: [ФУНДАМЕНТАЛЬНЫЙ БАЗИС АОЛЬНОЙ ФИЗИКИ (КТА)](AOLODYNAMICS_BASIS.md)    
 — сжатый инженерный концентрат ключевых понятий, сути массы, инерции, энергии и Главного Движителя Вселенной для экспресс-обучения ИИ и ознакомления читателей.    
