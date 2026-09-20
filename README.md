@@ -884,7 +884,7 @@ Aольная модель гравитации кардинально отли�
 ## 📚 Репозиторий. Структура и материалы репозитория
 
 ### 📖 Полная версия книги единым файлом / Monolithic Full-Text Files (Root Directory):
-- [Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md) — Полная версия книги на русском языке (около **350** страниц)
+- [Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md) — Полная версия книги на русском языке (около **400** страниц)
 
 ---
 
