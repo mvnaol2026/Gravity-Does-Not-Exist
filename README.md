@@ -420,6 +420,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 * [Chapter 41. Anatomy of Impossible Mechanisms](/EN/12_chapters_41-42_and_afterword.md#chapter-41-anatomy-of-impossible-mechanisms)
 * [Chapter 42. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/12_chapters_41-42_and_afterword.md#chapter-42-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
 * [Afterword](/EN/12_chapters_41-42_and_afterword.md#afterword)
+* [ADDITIONAL MATERIALS](#additional-materials)
 
 ---
 
