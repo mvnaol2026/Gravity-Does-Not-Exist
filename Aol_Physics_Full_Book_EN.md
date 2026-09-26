@@ -3449,7 +3449,7 @@ Since the material aol space continuously exists at absolutely any point in the 
 
 From this follows a most vital general physical conclusion: the value of what science terms absolute zero (–273.15 °C) is not a mystical barrier of nature or the temperature floor of matter, but a strictly fixed background level of the dynamic activity of the aol space itself.
 Absolute zero is a state in which local macroscopic heat (the chaotic motion of the molecules themselves) has been completely squeezed out of the substance, yet the pure, uneliminable through-and-through hum of the medium remains.     
-**If the fundamental oscillations of the universe's aol space were weaker, the mathematical benchmark for the lowest possible temperature would appear completely different on our instruments.** For instance, 'absolute zero' could be –500 °C or an entirely different value.
+**If the fundamental oscillations of the universe's aol space were weaker, the mathematical benchmark for the lowest possible temperature would appear completely different on our instruments.** For instance, 'absolute zero' could be (–500 °C) or an entirely different value.
 
 This law allows us to definitively demystify the physical nature of the heating of bodies. When we heat a substance, we do not "pour" a hypothetical weightless substance of heat or quanta of thermal energy into intermolecular gaps. We alter the external dynamic conditions within a local region of space. The medium in the heating zone begins to transmit significantly more frequent, high-amplitude, and rigid oscillatory impacts to the atomic structures.
 
