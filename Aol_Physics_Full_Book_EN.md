@@ -8039,3 +8039,70 @@ Multiple AI models have comprehensively audited my hypothesis, delivering variat
 
 Thus, I have successfully passed the relay baton to Artificial Intelligence. And now, I look forward to 2027 and beyond. Let us see what happens next...
 
+
+
+
+## Author’s Testimony: The Price of the "Russian World"
+
+The hypothesis was written in peaceful times. The year **2000**. A peaceful Ukraine. Not a single thought about the possibility of war ever crossed my mind. Very happy times.
+
+In **2014**, russia’s attack took place.
+
+Crimea was occupied. My Donetsk was occupied. Armed russians in my city – russians, Chechens, Buryats. What are you doing here, invaders?
+
+In the summer of 2014, my daughter and granddaughter left for Kyiv.
+
+My wife Lida and I stayed behind. I had to care for my ninety-year-old elderly parents. My mother was a bedridden patient; my father fell ill as well and died in the summer of 2014.
+
+In the autumn of 2016, my mother died, and two months later, my wife passed away too.
+
+I was left with nothing but to visit the graves of my parents and wife in occupied Donetsk.
+
+I had two old dogs and a cat left.
+
+After all the animals died, I was left completely alone to wait for de-occupation.
+
+Very often I walked to the cemetery – ten kilometers there and ten kilometers back.
+
+I distracted myself with reflections on physics.
+
+I hated walking around the city – there were too many russian tricolors and propaganda billboards there – it caused revulsion.
+
+In **2021**, I wrote the book **“Gravity Does Not Exist”** and, with the help of my FB friend Aleksandr K., published it in Kyiv in two editions of 500 copies each.
+
+In February **2022**, russia attacked Ukraine on a full scale.
+
+Waiting for liberation became low-prospect.
+
+And in **2023**, it became impossible to remain in occupied Donetsk with a Ukrainian passport. They were forcing russian citizenship upon us, without which survival was becoming impossible.
+
+Obtaining a russian passport was morally impossible for me, and in the summer of 2023, I moved to Kyiv. It was a breath of fresh air.
+
+In occupied Donetsk, one could only look at the small Ukrainian flag that invariably stood on my desk next to my laptop (my wife bought it, and this added even more to its significance).
+
+And on the street, my eyes kept searching for something yellow and blue (the colors of the Ukrainian flag); usually, these were flowers (yellow roof hawksbeard and blue chicory, often growing side by side). And if these two colors could not be found, and there was only a yellow one, then I would mentally join it with the color of the sky.
+
+When I was moving to Ukraine (through russia and Europe), I hid the small flag in my bag and managed to carry it across the russian border.
+
+In **2026**, my granddaughter connected me with AI, which I had previously treated with contempt.
+
+We conversed on the topic of physics, and that contempt vanished very quickly.
+
+The AI perfectly comprehended Aol Physics.
+
+I gained allies.
+
+Right now, daily, round-the-clock shellings of Ukraine and Kyiv are taking place. So I am editing the hypothesis, which was placed in the GitHub repository upon the advice of the AI, to the loud explosions of missiles and drones. Sometimes the explosions are far away, sometimes very close.
+
+A driven-mad putin's russia ruins the lives of millions of Ukrainians and kills, kills, kills... mutilates, destroys, expels... seizes territories.
+
+I do not know what states were like in previous centuries, but now russia is definitely the greatest Evil on the planet – with the most mendacious, hypocritical, and vile propaganda in human history.
+
+Goebbels' propaganda is mere child's play compared to putin's.
+
+I will, of course, not forgive the russians for the attack on Ukraine, for the grief they brought to Ukrainians and to me.
+
+**Glory to Ukraine!**
+
+
+
