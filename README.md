@@ -29,7 +29,7 @@ The repository's software engines and simulators (including gravitational compre
 * 🍏 **Gravity:** Replacing gravitational attraction with systemic environmental pressure.
 
 *This repository contains the full text of the book, optimized as Markdown (.md) files for Artificial Intelligence, LLMs, and human readers.     
-The text is available both as a single comprehensive volume (`Aol_Physics_Full_Book_RU.md`) and split into 11 separate chapters for modular analysis.*
+The text is available both as a single comprehensive volume (`Aol_Physics_Full_Book_RU.md`) and split into 13 separate chapters for modular analysis.*
 
 ---
 
@@ -456,7 +456,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 ---
 
 ## 🌍 О проекте (На русском)
-ПРИМЕЧАНИЕ: **Версия проекта на русском языке - основная**, дающая гарантию правильного изложения гипотезы.
+ПРИМЕЧАНИЕ: **Версия проекта на русском языке - основная**, дающая гарантию правильного изложения гипотезы. Версия на английском языке годится только для предварительного ознакомления с гипотезой. Она требует гораздо более качественного перевода.
 
 **Автор:** Вячеслав, М.В.Н. (mvnaol2026)  
 **Локация:** Киев, Украина  
