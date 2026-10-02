@@ -1632,6 +1632,18 @@ No. It means only one thing: the source of pressure is invisible to our eyes. Bu
 
 For now, let us fix the Prime Law in our memory in three forms: in its full format, as a concise pair of words **("press — moves")**, and as an inseparable triad of the physics of motion: **Carriers — Contact — Pressure.**
 
+Having established the Main Law of Motion, one can formulate the law of motion for the entire Universe.
+
+**THE LAW OF UNIVERSAL MOTION OF MATTER**
+
+**The physical world is a continuous motion of matter in the Universe, driven by the prevailing contact pressure of objects acting as local movers, and the material medium acting as the sole foundational mover.**
+
+Expand the Physical Meaning of the Law:
+
+1. **The Nature of the Process:** The law establishes that any change in the physical world occurs exclusively through direct mechanical contact. Motion does not emerge from nothing; it is transmitted only through direct contact pressure of one matter upon another.
+2. **The Role of Objects (Local Movers):** Discrete physical bodies (from atoms to cosmic bodies) exert local actions upon one another at their points of contact. They act as transmitters and redistributors of momentum, shaping the observable local physical phenomena and chains of cause and effect, without being the sole movers in any process.
+3. **The Role of the Aol Space (The Foundational Mover):** The Aol space (the medium) is a continuous material substance filling the Universe. Objects cannot exist or move in a void. It is the prevailing pressure from this all-encompassing material medium that holds, guides, and drives all objects in the Universe, serving as the primal source of any physical process and being invisibly present even within the interaction processes of macro-objects.
+
 Lastly, something must be said about the current state of human knowledge. Today, it is considered shameful in society to believe in a flat Earth — this is recognized as evidence of dense ignorance. However, in the near future, the exact same ignorance will be recognized in the lack of knowledge of the Prime Law of Motion and blind faith in "attraction."    
 **There is no motion without contact** — and this is the foundation of the physics of future.
 
