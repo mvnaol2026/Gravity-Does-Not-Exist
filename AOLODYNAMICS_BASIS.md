@@ -287,6 +287,16 @@ The retention of atoms, their reconfiguration (chemical reactions), and decay (r
 •	In simplified terms, the law is expressed in three words: push — it moves.    
 •	*Corollary:* The free flight of isolated particles (photons, neutrinos, gluons, free electrons) by inertia in a void is physically impossible.
 
+### THE LAW OF UNIVERSAL MOTION OF MATTER
+
+**The physical world is a continuous motion of matter in the Universe, driven by the prevailing contact pressure of objects acting as local movers, and the material medium acting as the sole foundational mover.**
+
+**Expand the Physical Meaning of the Law:**
+
+1. **The Nature of the Process:** The law establishes that any change in the physical world occurs exclusively through direct mechanical contact. Motion does not emerge from nothing; it is transmitted only through direct contact pressure of one matter upon another.
+2. **The Role of Objects (Local Movers):** Discrete physical bodies (from atoms to cosmic bodies) exert local actions upon one another at their points of contact. They act as transmitters and redistributors of momentum, shaping the observable local physical phenomena and chains of cause and effect, without being the sole movers in any process.
+3. **The Role of the Aol Space (The Foundational Mover):** The Aol space (the medium) is a continuous material substance filling the Universe. Objects cannot exist or move in a void. It is the prevailing pressure from this all-encompassing material medium that holds, guides, and drives all objects in the Universe, serving as the primal source of any physical process and being invisibly present even within the interaction processes of macro-objects.
+
 **The Triad of Aol Physics and the Structure of Processes.**    
 The basic principle of any action in the Universe is described by the Triad: carriers — contact — pressure. Any real physical process can be understood only when all three of these elements are detected within it.
 Based on the triad, a conceptual mechanistic model of the processes themselves is built, consisting of four elements:    
