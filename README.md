@@ -116,6 +116,21 @@ In the absence of contact, motion — and consequently, any process — is impos
 
 ---
 
+### 🏛 THE LAW OF UNIVERSAL MOTION OF MATTER
+
+**The physical world is a continuous motion of matter in the Universe, driven by the prevailing contact pressure of objects acting as local movers, and the material medium acting as the sole foundational mover.**
+
+<details>
+<summary><b>🔍 Expand the Physical Meaning of the Law (3 Fundamental Thesis)</b></summary>
+
+1. **The Nature of the Process:** The law establishes that any change in the physical world occurs exclusively through direct mechanical contact. Motion does not emerge from nothing; it is transmitted only through direct contact pressure of one matter upon another.
+2. **The Role of Objects (Local Movers):** Discrete physical bodies (from atoms to cosmic bodies) exert local actions upon one another at their points of contact. They act as transmitters and redistributors of momentum, shaping the observable local physical phenomena and chains of cause and effect, without being the sole movers in any process.
+3. **The Role of the Aol Space (The Foundational Mover):** The Aol space (the medium) is a continuous material substance filling the Universe. Objects cannot exist or move in a void. It is the prevailing pressure from this all-encompassing material medium that holds, guides, and drives all objects in the Universe, serving as the primal source of any physical process and being invisibly present even within the interaction processes of macro-objects.
+
+</details>
+
+---
+
 ## 🏛️ The Fundamental Law of Motion
 
 > ### Motion is possible ONLY under UNBALANCED, CONTACT-BASED, and CONTINUOUS pressure.        
