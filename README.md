@@ -1,4 +1,4 @@
-# Aol Physics (Gravity Does Not Exist)/ Аольная физика (Притяжения не существует)
+# Aol Physics (Attraction Does Not Exist)/ Аольная физика (Притяжения не существует)
 
 **Author:** Vyacheslav, M.V.N. (mvnaol2026)  
 **Location:** Kyiv, Ukraine  
@@ -201,7 +201,7 @@ In the absence of contact, motion — and consequently, any process — is impos
 <summary>📂 <b>Click to expand the list</b></summary>
 &nbsp; 
    
-The **"Gravity Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage. *"Shut up and count!"* is a bad principle.    
+The **"Attraction Does Not Exist"** project was created to resolve the conceptual deadlocks of the Standard Model. Official science perfectly describes the *behavior* of objects using equations, but conceals a total lack of physical mechanisms behind a mathematical camouflage. *"Shut up and count!"* is a bad principle.    
 This project shifts physics from the language of abstract formulas to the **language of deterministic aolodynamics**.
 
 **Critical bugs of the official paradigm resolved by this project:**
@@ -446,7 +446,7 @@ Additionally, read **the article about the clichéd nature of AI responses**: [c
 
 ---
 
-### 📖 English Version (`/EN/`) - the book "Gravity Does Not Exist" in 13 files:
+### 📖 English Version (`/EN/`) - the book "Attraction Does Not Exist" in 13 files:
 
 <details>
 <summary>📂 <b>Click to expand the file list ( /EN/ )</b></summary>
