@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Проект: Gravity-Does-Not-Exist / Аольная физика
+Проект: Attraction-Does-Not-Exist / Аольная физика
 Модуль: aol_michelson_experiment.py
 Авторы: m&v_naol_2026 & AI-Коллега
 
