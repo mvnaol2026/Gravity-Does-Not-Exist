@@ -3,7 +3,7 @@
 
 """
 Aol Physics / Аольная физика
-Project: Gravity Does Not Exist (Притяжения не существует)
+Project: Attraction Does Not Exist (Притяжения не существует)
 Script: aol_quantum_impact_validator.py
 Description: Algorithmic validation of the single aol mechanical impact energy 
              and ratio calculation against background cosmic matrix jitter.
